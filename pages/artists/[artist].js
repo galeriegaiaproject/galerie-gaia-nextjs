@@ -20,10 +20,6 @@ import theme from '@/theme'
 import { fromFilesystem2S3, fromFilesystem2Url } from '@/utils/resolve'
 import { useSnipcartContext } from '@/contexts/Snipcart'
 
-export const getInitialProps = ({ query }) => {
-  return { query }
-}
-
 export const getStaticProps = async ({ params }) => {
   try {
     return {

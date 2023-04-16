@@ -6,6 +6,7 @@ import Logo from '@/components/Logo'
 import Icon from '@/components/Icon'
 import RichText from '@/components/RichText'
 import Footer from '@/components/Footer'
+import { fromFilesystem2Url } from '@/utils/resolve'
 
 const Navigation = ({ metadata, ...props }) => {
   const [open, _setOpen] = useState(false)
@@ -51,20 +52,16 @@ const Navigation = ({ metadata, ...props }) => {
               <li><Link to='/artists' activeStyle={{ textDecoration: 'underline' }}>Artistes</Link></li>
               <li><Link to='/actualites' activeStyle={{ textDecoration: 'underline' }}>Actualités</Link></li>
               <li><Link to='/le-lieu' activeStyle={{ textDecoration: 'underline' }}>Le Lieu</Link></li>
-              {/* <li>
+              <li>
                 <details css={Navigation.styles.details} open={submenu}>
                   <summary onClick={() => setSubmenu(!submenu)}>Studio</summary>
                   <ol css={Navigation.styles.list}>
-                    {pageContext.pages
-                      .filter(page => page.relativeDir === 'about')
-                      .sort((a, b) => a.frontmatter.index - b.frontmatter.index)
-                      .map((page, index) => (
-                        <li key={index}><Link href={page.url}>{page.frontmatter.seo.heading}</Link></li>
-                      ))
-                    }
+                    {(metadata.menu || []).map(({ page }, index) => (
+                      <li key={index}><Link to={fromFilesystem2Url(page.id).replace('/pages/', '/studio/')}>{page.seo.heading}</Link></li>
+                    ))}
                   </ol>
                 </details>
-              </li> */}
+              </li>
             </ol>
           </nav>
           <div css={Navigation.styles.announcement}>

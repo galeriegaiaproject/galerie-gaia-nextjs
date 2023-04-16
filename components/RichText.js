@@ -1,7 +1,7 @@
 import { TinaMarkdown } from 'tinacms/dist/rich-text'
 import Youtube from 'react-youtube'
 import Link from '@/components/Link'
-// import Image from '@/components/Image'
+import Image from '@/components/Image'
 import Gallery from '@/components/Gallery'
 import { getYoutubeId } from '@/utils/youtube'
 
@@ -60,6 +60,9 @@ RichText.styles = {
     video: {
       width: '100%',
       maxWidth: '20rem',
+    },
+    img: {
+      maxWidth: '100%',
     }
   },
 }

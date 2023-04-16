@@ -260,6 +260,46 @@ const worksCollection = {
   ],
 }
 
+const pagesCollection = {
+  name: 'pages',
+  label: 'Collection/Pages',
+  path: 'content/pages',
+  fields: [
+    seoField,
+    {
+      type: 'object',
+      name: 'content',
+      label: 'Contenu',
+      list: true,
+      fields: [
+        {
+          type: 'rich-text',
+          name: 'column',
+          label: 'Contenu',
+          isBody: true,
+        },
+        {
+          type: 'object',
+          name: 'contact',
+          label: 'Contact',
+          fields: [
+            {
+              type: 'string',
+              name: 'placeholder',
+              label: 'Text',
+            },
+            {
+              type: 'boolean',
+              name: 'display',
+              label: 'Afficher'
+            }
+          ],
+        },
+      ],
+    },
+  ],
+}
+
 const pageHome = {
   name: 'page_home',
   label: 'Page/Accueil',
@@ -410,6 +450,32 @@ const pageActualites = {
   },
 }
 
+const pageWhere = {
+  name: 'page_where',
+  label: 'Page/Le Lieu',
+  path: 'content/page_where',
+  fields: [
+    seoField,
+    {
+      type: 'rich-text',
+      name: 'about',
+      label: 'À propos',
+    },
+    {
+      type: 'rich-text',
+      name: 'content',
+      label: 'Contenu',
+      isBody: true,
+    },
+  ],
+  ui: {
+    allowedActions: {
+      create: false,
+      delete: false,
+    },
+  },
+}
+
 const metadata = {
   name: 'metadata',
   label: 'Informations/Site',
@@ -435,6 +501,24 @@ const metadata = {
       ui: {
         component: 'textarea',
       },
+    },
+    {
+      type: 'object',
+      name: 'menu',
+      label: 'Menu (Studio)',
+      list: true,
+      itemProps: (item) => ({
+        key: item.page,
+        label: item.page,
+      }),
+      fields: [
+        {
+          type: 'reference',
+          name: 'page',
+          label: 'Page',
+          collections: ['pages'],
+        },
+      ],
     },
     {
       type: 'string',
@@ -490,17 +574,15 @@ const metadata = {
 }
 
 export default {
-  cmsCallback: (cms) => {
-    console.log(cms)
-    return cms
-  },
   collections: [
     artistsCollection,
     worksCollection,
+    pagesCollection,
     pageHome,
     pageCatalogue,
     pageActualites,
     pageArtists,
+    pageWhere,
     metadata,
   ],
 }
