@@ -64,8 +64,6 @@ const Catalogue = ({ tina, scrollPosition, ...props }) => {
   const values = cache.catalogue || {}
   const setValues = useCallback(cb => setCache(cache => ({ ...cache, catalogue: { ...cb(cache.catalogue || {}), page: 0 } })), [setCache])
 
-  console.log(values)
-
   const fields = useMemo(() => Array.from(new Set(artists
     .reduce((acc, curr) => [...acc, ...(curr.fields || [])], [])
     .filter(field => !['Séléction'].includes(field))

@@ -35,7 +35,6 @@ export const getStaticPaths = async () => {
 const Studio = ({ tina, ...props }) => {
   const { data: { pages: page } } = useTina(tina.page)
   const { data: { metadata } } = useTina(tina.metadata)
-  console.log(page, metadata)
 
   return (
     <Layout metadata={metadata} {...props}>
