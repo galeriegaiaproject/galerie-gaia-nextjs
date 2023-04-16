@@ -1,5 +1,15 @@
-import '@/styles/globals.css'
+import { SnipcartProvider } from '@/contexts/Snipcart'
+import { CacheProvider } from '@/contexts/Cache'
+import 'normalize.css/normalize.css'
+import '@/styles/global.css'
+import '@/styles/fonts.css'
 
 export default function App({ Component, pageProps }) {
-  return <Component {...pageProps} />
+  return (
+    <SnipcartProvider>
+      <CacheProvider>
+        <Component {...pageProps} />
+      </CacheProvider>
+    </SnipcartProvider>
+  )
 }

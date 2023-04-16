@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'BW Gradual';
+    font-display: swap;
+    src: url('../public/fonts/BwGradual-Medium.woff2');
+    font-weight: medium;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Walkway Regular';
+    font-display: swap;
+    src: url('../public/fonts/WalkwaySemiBold.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Walkway Regular';
+    font-display: swap;
+    src: url('../public/fonts/WalkwayUltraBold.woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Merriweather';
+    font-display: swap;
+    font-style: normal;
+    font-weight: normal;
+    src: url(https://fonts.gstatic.com/s/merriweather/v8/RFda8w1V0eDZheqfcyQ4EBampu5_7CjHW5spxoeN3Vs.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-display: swap;
+    font-style: normal;
+    font-weight: normal;
+    src: url(https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXp-p7K4KLg.woff2) format('woff2');
+}
+  
+@font-face {
+    font-family: 'Montserrat';
+    font-display: swap;
+    font-style: normal;
+    font-weight: 700;
+    src: url(https://fonts.gstatic.com/s/montserrat/v25/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2) format('woff2');
+}

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Visio",
+      "icon": "camera",
+      "content": "Rendez-vous vidéo "
+    },
+    {
+      "title": "Conseil",
+      "icon": "advise",
+      "content": "Recevez ma sélection adaptée à votre projet"
+    },
+    {
+      "title": "Simplicité",
+      "icon": "lock",
+      "content": "Paiement en ligne "
+    },
+    {
+      "title": "Livraison",
+      "icon": "delivery",
+      "content": "Colissimo à domicile ou relais"
+    },
+    {
+      "title": "Certifié",
+      "icon": "certificate",
+      "content": "Oeuvre originale avec certificat d'authenticité"
+    },
+    {
+      "title": "Sérénité",
+      "icon": "happy",
+      "content": "7 jours pour changer d'avis"
+    }
+  ]
+}
