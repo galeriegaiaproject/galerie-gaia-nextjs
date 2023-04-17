@@ -19,12 +19,14 @@ description: >-
   exposition d’art contemporain abstrait figuratif, peinture sculpture estampe
   photo, courtier en art, défiscalisation et leasing
 menu:
+  - page: content/pages/galerie-gaia-studio.md
+  - page: content/pages/immobilier-architecture.md
+  - page: content/pages/rse-entreprise.md
+  - page: content/pages/evenementiel.md
   - page: content/pages/appel-a-candidature.md
   - page: content/pages/art-et-fiscalite.md
-  - page: content/pages/evenementiel.md
-  - page: content/pages/galerie-gaia-studio.md
-  - page: content/pages/rse-entreprise.md
 ---
+
 
 
 
