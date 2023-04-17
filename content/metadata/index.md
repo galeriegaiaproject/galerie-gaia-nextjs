@@ -25,6 +25,7 @@ menu:
   - page: content/pages/evenementiel.md
   - page: content/pages/appel-a-candidature.md
   - page: content/pages/art-et-fiscalite.md
+  - page: content/pages/references.md
 ---
 
 
