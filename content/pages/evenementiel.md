@@ -32,8 +32,10 @@ content:
       d'un trophée qui sera esthétiquement à la hauteur de votre évènement.
 
 
-      !\[]\(https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/open squash
-      nantes gilis 2022.jpg)*Trophée de l'[Open International de Squash
+      **![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/open-squash-nantes-gilis-2022.jpg)
+
+
+      *Trophée de l'[Open International de Squash
       Nantes](http://www.opensquashnantes.fr/ "open squash nantes ")* *par Go
       Segawa*\
 
