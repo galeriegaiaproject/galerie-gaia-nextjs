@@ -1,3 +1,4 @@
+import { Analytics } from '@vercel/analytics/react'
 import { SnipcartProvider } from '@/contexts/Snipcart'
 import { CacheProvider } from '@/contexts/Cache'
 import 'normalize.css/normalize.css'
@@ -9,6 +10,7 @@ export default function App({ Component, pageProps }) {
     <SnipcartProvider>
       <CacheProvider>
         <Component {...pageProps} />
+        <Analytics />
       </CacheProvider>
     </SnipcartProvider>
   )
