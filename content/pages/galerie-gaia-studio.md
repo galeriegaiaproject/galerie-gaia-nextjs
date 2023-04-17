@@ -131,8 +131,7 @@ content:
       projet artistique, suivi de chantier inclus.
 
 
-      !\[]\(https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ines ben
-      brahim galerie gaia studio NB.png)
+      ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/ines-ben-brahim-galerie-gaia-studio-nb.jpg)
 
 
       crédit photos [Dimitri
