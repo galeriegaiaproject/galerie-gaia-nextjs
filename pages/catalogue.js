@@ -226,6 +226,10 @@ const Catalogue = ({ tina, scrollPosition, ...props }) => {
     }, 1000)
   }, [setPage])
 
+  useEffect(() => {
+    return () => setCache(({ catalogue, ...cache }) => cache)
+  }, [])
+
   return (
     <Layout metadata={metadata} {...props}>
       <SEO
