@@ -7,6 +7,7 @@ fields:
 birth: 0
 death: '0'
 expose: true
+exhibitions: []
 redirect_from:
   - /artistes/93-georges-rousse/
 styles: []

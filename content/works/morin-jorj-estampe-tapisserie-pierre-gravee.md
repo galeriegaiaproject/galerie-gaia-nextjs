@@ -2,7 +2,7 @@
 artist: content/artists/jorj-morin.md
 reference: 'Morin Jorj Estampe Tapisserie, Pierre gravée'
 title: 'Pierre gravée '
-image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/morin-jorj-estampe-tapisserie/galerie-gaia-morin-pierre gravée.jpg'
+image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/morin-jorj-estampe-tapisserie/GALERIE GAIA.J.MORIN.PIERRE GRAVEE.37x27.jpg'
 technique: Eau forte
 fields: []
 styles: []

@@ -15,6 +15,7 @@ location: ''
 birth: 0
 death: 0
 expose: false
+exhibitions: []
 work: content/works/chretien-manolo-cockpit-concorde.md
 ---
 # Manolo Chrétien

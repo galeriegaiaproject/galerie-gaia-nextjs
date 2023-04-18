@@ -2,7 +2,7 @@
 artist: content/artists/jorj-morin.md
 reference: 'Morin Jorj Estampe Tapisserie, Un oeil polyvalent'
 title: 'Un oeil polyvalent '
-image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/morin-jorj-estampe-tapisserie/galerie-gaia-jorj-morin-un oeil polyvalent.JPG'
+image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/morin-jorj-estampe-tapisserie/GALERIE GAIA.J.MORIN.UN OEIL POLYVALENT.29x19.jpg'
 technique: Eau forte 11/50
 fields: []
 styles: []

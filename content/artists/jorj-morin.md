@@ -7,7 +7,7 @@ fields:
   - Textile
 birth: '1909'
 death: '1995'
-expose: false
+expose: true
 exhibitions: []
 redirect_from:
   - /artistes/103-jorj-morin/

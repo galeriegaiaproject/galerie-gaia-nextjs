@@ -2,8 +2,8 @@
 artist: content/artists/jorj-morin.md
 reference: 'Morin Jorj Estampe Tapisserie, Les yeux rouges'
 title: Les yeux rouges
-image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/morin-jorj-estampe-tapisserie/galerie-gaia-georges morin-IMG_6426.jpg'
-technique: ' Eau forte 14/50 réhausse aquarelle'
+image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/morin-jorj-estampe-tapisserie/GALERIE GAIA.J.MORIN.LES YEUX ROUGE.29x19.jpg'
+technique: ' Eau forte 14/50 '
 fields: []
 styles: []
 weight: 0

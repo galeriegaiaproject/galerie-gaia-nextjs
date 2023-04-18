@@ -15,7 +15,6 @@ styles:
   - Figuratif
 work: content/works/molliere-jean-francois-paysage-sensible-3.md
 ---
-
 # Jean-François Mollière
 
 **Photos  éditées en 9 exemplaires  tirage sur papier jet d'encre pigmentaire contrecollé sur dibond et encadré dans une caisse américaine en bois.**
@@ -24,7 +23,7 @@ Auteur photographe, reporter indépendant et journaliste, le manceau Jean-Franç
 
 En 30 ans de recherches photographiques, Jean-François Mollière n’a cessé de se défaire des accoutumances, d’aller là où l’imaginaire devient plus fort. Pour battre en brèche l’inéluctabilité de la finitude, pour résister, inexorablement. On reconnaît dans sa photographie, des images, des icônes très inspirées par le cinéma et la peinture."
 
-*Valérie Fade-Py*
+Valérie Fade-Py
 
 **Récompenses :**
 
