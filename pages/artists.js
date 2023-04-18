@@ -8,11 +8,14 @@ import { fromFilesystem2Url } from '@/utils/resolve'
 import theme from '@/theme'
 
 export const getStaticProps = async ({ params }) => {
+  const page = await client.queries.page_artists({ relativePath: 'index.md' })
+  page.data.page_artists.artists = page.data.page_artists.artists.map(({ artist: { id, title, image, work, expose }, ...rest }) => ({ ...rest, artist: { id, title, image: image || null, work: { image: work?.image || null }, expose } }))
+
   try {
     return {
       props: {
         tina: {
-          page: await client.queries.page_artists({ relativePath: 'index.md' }),
+          page,
           metadata: await client.queries.metadata({ relativePath: 'index.md' }),
         }
       },
