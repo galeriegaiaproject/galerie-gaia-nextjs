@@ -8,8 +8,8 @@ opening: |-
 phone: 02 40 48 14 91
 email: contact@galeriegaia.fr
 announcement: |
-  Avril 2023
-
+  Avril 2023\
+  Installations &\
   Exposition collective
 instagram: 'https://www.instagram.com/galeriegaianantes'
 facebook: >-
