@@ -30,7 +30,7 @@ La **Galerie Gaïa** poursuit l’aventure d’un lieu d’art crée en **1978**
 Aussi les ruptures et les grands écarts d’une exposition à l’autre sont une évidence fondamentale -7 expositions en solo-show par an-. Chaque artiste reste singulier-e, inspiré-e mais surtout pas rangé-e !
 
 **La particularité de la galerie Gaïa ?**
-**Ses réserves** **+800 œuvres de 50 artistes.**
+**Ses réserves** **+900 œuvres de 50 artistes.**
 
 Ces réserves sont disponibles dans l'onglet [CATALOGUE](https://galeriegaia.fr/catalogue/ "galerie gaillard")  et actualisées quotidiennement.
 
