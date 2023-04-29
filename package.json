@@ -1,6 +1,6 @@
 {
-  "name": "galerie-gaia-nextjs",
-  "version": "0.1.0",
+  "name": "galerie-gaia",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "tinacms dev -c \"next dev\"",
