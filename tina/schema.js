@@ -106,7 +106,6 @@ const artistsCollection = {
       label: 'Expositions',
       list: true,
       itemProps: (item) => ({
-        key: slugify(item.title || ''),
         label: item.title,
       }),
       fields: [
@@ -166,6 +165,9 @@ const worksCollection = {
       slugify: (values) => `${slugify((values.artist || '').split('/').pop())}-${slugify((values.title || ''))}`,
     },
   },
+  defaultItem: () => ({
+    contextual: true,
+  }),
   fields: [
     {
       type: 'string',
@@ -404,7 +406,6 @@ const pageActualites = {
       label: 'Articles',
       list: true,
       itemProps: (item) => ({
-        key: slugify(item.title || ''),
         label: item.title,
       }),
       fields: [
