@@ -5,8 +5,6 @@ location: ''
 fields:
   - Peinture
   - Street art
-birth: '0'
-death: '0'
 expose: true
 exhibitions:
   - title: 'http://asieriderz.com/?p=940'

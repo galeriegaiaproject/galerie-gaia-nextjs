@@ -12,8 +12,6 @@ seo:
 template: artist
 title: Byl William
 location: France
-birth: 0
-death: 0
 expose: true
 exhibitions: []
 work: content/works/byl-william-cheval-sable.md

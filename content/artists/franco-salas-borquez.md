@@ -4,8 +4,6 @@ title: 'Salas Borquez Franco '
 location: ''
 fields:
   - Peinture
-birth: '0'
-death: '0'
 expose: true
 exhibitions:
   - title: La marche des flots

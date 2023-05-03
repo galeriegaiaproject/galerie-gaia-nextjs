@@ -4,8 +4,6 @@ title: 'Guiho Mathilde '
 location: ''
 fields:
   - Photographie
-birth: 0
-death: 0
 expose: false
 exhibitions:
   - title: 'Les genoux rouges  Galerie Gaia '

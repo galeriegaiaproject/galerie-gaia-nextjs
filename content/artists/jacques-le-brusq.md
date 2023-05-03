@@ -8,7 +8,6 @@ template: artist
 title: 'Le Brusq Jacques '
 location: ''
 birth: '1938'
-death: 0
 expose: true
 exhibitions:
   - title: Le présent du monde

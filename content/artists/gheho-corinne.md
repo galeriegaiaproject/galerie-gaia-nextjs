@@ -7,8 +7,6 @@ styles:
 template: artist
 title: Guého Corinne
 location: ''
-birth: 0
-death: 0
 expose: false
 exhibitions:
   - title: galerie Capazza

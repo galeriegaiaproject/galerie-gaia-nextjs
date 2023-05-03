@@ -12,8 +12,6 @@ seo:
 template: artist
 title: D'Harcourt Victoire
 location: ''
-birth: 0
-death: 0
 expose: true
 exhibitions: []
 work: content/works/dharcourt-victoire-alliance-xii.md

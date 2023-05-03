@@ -4,8 +4,6 @@ title: 'Jakobek Boris '
 location: ''
 fields:
   - Oeuvre sur papier
-birth: '0'
-death: '0'
 expose: false
 exhibitions: []
 redirect_from:

@@ -12,8 +12,6 @@ seo:
 template: artist
 title: Jouet Michel
 location: ''
-birth: 0
-death: 0
 expose: true
 exhibitions: []
 work: content/works/jouet-michel-odm.md

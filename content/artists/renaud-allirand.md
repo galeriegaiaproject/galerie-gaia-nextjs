@@ -4,8 +4,6 @@ title: 'Allirand Renaud '
 location: Paris
 fields:
   - Oeuvre sur papier
-birth: '0'
-death: '0'
 expose: true
 exhibitions: []
 redirect_from:

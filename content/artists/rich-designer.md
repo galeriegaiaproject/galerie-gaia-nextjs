@@ -11,8 +11,6 @@ seo:
 template: artist
 title: Rich Designer
 location: ''
-birth: 0
-death: 0
 expose: true
 exhibitions:
   - title: 'MAD (Multiple Art Days) '

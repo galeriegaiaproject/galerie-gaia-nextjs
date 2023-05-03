@@ -3,8 +3,6 @@ template: artist
 title: 'Mollière Jean-François '
 location: ''
 field: Photographe
-birth: '0'
-death: '0'
 expose: true
 exhibitions: []
 redirect_from:

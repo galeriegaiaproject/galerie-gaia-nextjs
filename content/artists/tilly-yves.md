@@ -12,8 +12,6 @@ seo:
 template: artist
 title: Tilly Yves
 location: ''
-birth: 0
-death: 0
 expose: true
 exhibitions:
   - title: 'Galerie Cécile Loiret '

@@ -1,1104 +1,2001 @@
 ---
 seo:
-  title: Actualités - Galerie Gaïa, galerie d'art contemporain à Nantes
+  title: 'Actualités - Galerie Gaïa, galerie d''art contemporain à Nantes'
   heading: Actualités de la Galerie Gaia à Nantes
   type: website
-  description: Peinture, sculpture, estampe, dessin, photographie… Découvrez les expositions
-    du moment recommandées par la Galerie Gaïa, galerie d'art contemporain à Nantes,
-    galerie art contemporain nantes
+  description: >-
+    Peinture, sculpture, estampe, dessin, photographie… Découvrez les
+    expositions du moment recommandées par la Galerie Gaïa, galerie d'art
+    contemporain à Nantes, galerie art contemporain nantes
   image: ''
 articles:
-- date: '2020-12-06T11:38:00.000+00:00'
-  categories:
-  - Exposition
-  content: "# Tangui Robert\n\nIl y a tout juste 1 an, j'exprimais mon envie auprès
-    de [Tangui Robert](https://galeriegaia.fr/artists/tangui-robert/) de lui laisser
-    le champ libre pour installer son travail avec une seule contrainte : **NANTES.**
-    \ \n  \nLe terrain de jeu est immense, il restera comme **une réserve pour d'autres
-    chapitres.**  \n  \nC'est donc donc dans ce périmètre de 1km ...ou presque (chut!),
-    que Tangui a arpenté ses bords de Loire, au point de s'imaginer dans une exploration
-    du bout du monde.  \n  \nCes méandres s'emmêlent avec des émotions de drapés croqués
-    lors d'escapades au Musée d'Arts de Nantes, le jeu de miroir semble si évident
-    !  \nCroquis, dessins, gravures, formes et échantillons de nature...  \n  \nNous
-    sommes heureux de vous proposer  \nces **Fragments Paysages** avec ce **Chapitre
-    I de Chroniques** Nantaises."
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/visuelexpo_fragments-paysages_2.jpg
-  title: FRAGMENTS   PAYSAGES    Tangui Robert
-- categories:
-  - Exposition
-  title: '"Il peint sur Nantes" Toma L 21 Mai 20 Juin 2020'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/il-peint-sur-nantes-toma-l.jpg
-  content: |-
-    [Télécharger le Catalogue de l'exposition](https://galeriegaia.frhttps://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/toma-l/tomal_cataloguedesoeuvres_gaiagalerie_14avril2020.pdf "catalogue Toma L")
-
-    L' Exposition est reportée , on se la garde bien au chaud pour en profiter quand nous pourrons nous revoir tous ensemble.
-
-    Tomber par hasard sur le travail de Toma L est la plus belle des chutes!
-
-    Chuter c'est être arrêté de force, reprendre sa respiration par nécessité avant de se remettre sur pied et comprendre là où l'on s'est fait mal.
-    Après coup, nous découvrons que la peinture de Toma L est un croche pied facétieux du bonhomme qui malicieusement s'amuse de notre gamelle dans un tintamarre incroyable de couleurs.
-    Nous pourrions aussi perdre pied dans les fonds blancs de ses lithos maculées par ses contours de velours noirs ou ses flaques d'encre.
-    Mais dans chaque face à face avec une oeuvre de Toma L, il y a de toute façon une histoire à tiroir à dé-nicher.
-
-    Ça tombe bien...
-    "Il peint sur Nantes", première exposition à la Galerie Gaïa  pour Toma L, comme une pause à la maison, dans son pied à terre.
-
-    2015 - 2020  - 5ème saison  pour la Galerie Gaïa.
-
-    Votre fidélité sera infiniment précieuse
-  date: ''
-- date: '2021-01-16T10:21:06.000+00:00'
-  categories:
-  - Exposition
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/friol-gravure-couleur-ea-1-8-1988-23x41cm.jpeg
-  title: Naïf et Trash Exposition Jean Paul FRIOL
-  content: "**Un monde de passion:** peinture, vin, musique, tous les sens de manière
-    exacerbée …\n\nJean-Paul Friol est né en 1948 à Paris dans une famille dont les
-    parents sont férus de culture et d’art, et le familiarise à la peinture, la sculpture
-    la littérature. **L’art étant toutefois considéré comme un loisir et non comme
-    un métier,** sa mère l’oriente et le conditionne à faire des études de médecine.
-    Il se spécialisera en **chirurgie de la main, et partagera sa vie entre ces deux
-    amours, la science et l’art.**\n\nJean Paul Friol s’adonnera à la gravure au milieu
-    des années 80. Il s’efforce de travailler conjointement l**a luminosité du noir
-    et blanc, le contraste des formes et les jeux d’équilibre, générant mouvement
-    et rythme intemporel.**\n\n**\"Tous les objets que j’intègre dans mes tableaux
-    ont une histoire. Et même si je suis le seul à la connaitre, ce n’est pas l’important
-    puisqu’ainsi je leur donne une nouvelle existence »**.  \nJean- Paul Friol incarne
-    ainsi l’enfant qui se joue d’un modelage esthétique en mélangeant toutes ces matières,
-    textures et anecdotes afin de générer superposition, couches, rythme, poésie et
-    de permettre une unité dans la multiplicité.  \n**«Quand je fais du collage c’est
-    un peu comme si j’écrivais de la poésie ».**"
-- categories:
-  - Exposition
-  title: Exposition inaugurale
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/exposition-inaugurale.jpg
-  content: |-
-    Muriel CHENE sculptures
-    VALOTA peintures
-
-    _Du 04/09/2015 au 05/17/2015_
-  date: ''
-- categories:
-  - Exposition
-  title: Florence BANDRIER & Renaud ALLIRAND
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/florence-bandrier-and-renaud-allirand.jpg
-  content: "Peintures Gravure et Encres \n\"Des écritures qui s'empreintent du visible
-    à l'illisible ...\"\n\n_Du 05/21/2015 au 06/13/2015_"
-  date: ''
-- categories:
-  - Exposition
-  title: Marianne ABOUGIT et Stéphanie BILLARANT
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/marianne-abougit-et-stephanie-billarant.jpg
-  content: |-
-    Souvenirs de ces paysages ou paysages inventés, mondes oubliés ou rêvés...
-    Que voit on? Que veut on voir?
-
-    _Du 06/18/2015 au 07/04/2015_
-  date: ''
-- categories:
-  - Exposition
-  title: Michel BOUVET Affichiste et Jorj MORIN Peintre
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/michel-bouvet-affichiste-et-jorj-morin-peintre.jpg
-  content: |-
-    Rencontre avec Michel BOUVET vendredi 4 septembre à partir de 18H
-    vente des sérigraphies numérotées et signées et coffrets rétrospective en édition limitée
-
-    _Du 09/03/2015 au 09/05/2015_
-  date: ''
-- categories:
-  - Exposition
-  title: Corinne HERAUD & Sandrine PAUMELLE
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/corinne-heraud-and-sandrine-paumelle.jpg
-  content: |-
-    vernissage jeudi 10 septembre 18H
-
-    _Du 09/10/2015 au 09/26/2015_
-  date: ''
-- categories:
-  - Exposition
-  title: Exposition Claude Francheteau
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/exposition-claude-francheteau.jpg
-  content: |-
-    Présent le 9 octobre à la galerie Claude sera à nouveau présent le 16 octobre après midi à la galerie avec ses papiers et ses crayons. Vous étiez nombreux vendredi dernier, alors il récidive!
-
-    _Du 10/08/2015 au 10/24/2015_
-  date: ''
-- categories:
-  - Exposition
-  title: Tony SOULIE
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/tony-soulie.jpg
-  content: |-
-    vernissage jeudi 19 Novembre à 18H
-    des lithos, des aquatintes, et des peintures originales
-
-    https://www.youtube.com/watch?v=t6Et5ZKeUXY
-
-    _Du 11/19/2015 au 12/05/2015_
-  date: ''
-- categories:
-  - Exposition
-  title: Hasards pour Morgane
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/hasards-pour-morgane.jpg
-  content: |-
-    En effectuant un don pour l'association Morgane, le hasard du tirage a attribué aux 25 premiers acquéreurs une des 25 oeuvres originales sur papier, réalisées spécialement par un des 25 artistes de la galerie.
-
-    Pour comprendre l'histoire de cet événement, les oeuvres ont été exposées du 25 au 27 février avant dispersion, avec la vente caritative par tirage au sort des 25 oeuvres.
-
-    Pour se souvenir de cette aventure un Livre coffret  "Hasards pour Morgane" souvenirs des 25 oeuvres des 25 artistes a été éditée en édition limitée à 250 exemplaires. Exemplaires encore disponibles à la galerie 40€.
-
-    http://assomorgane.fr/Partenariat-avec-GAIA.html
-
-    _Du 02/25/2016 au 02/27/2016_
-  date: ''
-- categories:
-  - Exposition
-  title: La Chambre 21 pour La Nuit des Galeries
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/la-chambre-21-pour-la-nuit-des-galeries.jpg
-  content: "On dit que la curiosité est un vilain défaut, de notre point de vue, ce
-    serait tout le contraire ! Venez regarder par le trou de la serrure de la Chambre
-    21 ! De l’extérieur et sous vos yeux, apparaitra une œuvre. Installations, performances
-    participatives avec un collectif de 5 artistes jusqu'à 1h du matin. \nVenez pour
-    voir en live, pour participer, pour jouer, pour apprendre...\n\n\npour en savoir
-    plus sur l'événement  http://www.chambre21.fr\n\n_Du 04/21/2016 au 04/21/2016_"
-  date: ''
-- categories:
-  - Exposition
-  title: La Chambre 21
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/la-chambre-21.jpg
-  content: "Après le succès de la 1ere nuit des galeries, prolongation de l'exposition
-    La Chambre 21 jusqu'au 14 mai.\nDécouvrez le travail collectif et personnel :\npeintures
-    et photos de Stéphanie BILLARANT, \ndessins et sténopés de Bruno DUMAS, \ndessin
-    et gravure de Sylvain DUBOIS ainsi que l'installation de VACCUM CIRCUS\nfresque
-    au plafond de KAZY USCLEF\nécritures en lumière de FLORENCE BANDRIER \n\nNOCTURNE
-    LE 12 MAI 19H 22H avec reprise d'une oeuvre éphémère\n\nwww.chambre21.fr\n\n_Du
-    04/22/2016 au 05/14/2016_"
-  date: ''
-- categories:
-  - Exposition
-  title: Nadja HOLLAND peintre Marianne ABERGEL sculptrice & céramiste
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/nadja-holland-peintre-marianne-abergel-sculptrice-and-ceramiste.jpg
-  content: |-
-    rencontre avec les artistes samedi 28 Mai 15H
-
-    _Du 05/26/2016 au 06/11/2016_
-  date: ''
-- categories:
-  - Exposition
-  title: ST'ART UP 1ere Edition
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/start-up-1ere-edition.jpg
-  content: "ST'ART UP c'est un rendez vous que je lance pour exposer une sélection
-    d'étudiants en arts plastiques et des autodidactes.\nDonc venir voir leur exposition
-    signifie : \nETRE CURIEUX\nREGARDER AU DELA DE LEURS OEUVRES  DES JEUNES TALENTS
-    \nPENSER QUE L ART EST NECESSAIRE A NOTRE LIBERTE \n\nMathilde GUIHO photographie
-    - Mikola MUDRYK peinture - Julie MAQUET plasticienne - Mathieu WÜHRMANN peinture
-    - Valentin LAMBERT peinture - Eric BERIOT peinture\n\n_Du 06/17/2016 au 06/24/2016_"
-  date: ''
-- categories:
-  - Exposition
-  title: APHO  "là-bas"
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/apho-la-bas.jpg
-  content: |-
-    Photographe et vidéaste nantaise, Adeline Moreau a suivi Kazy Usclef à travers 4 pays d’Afrique, pendant l’étape de repérage des artistes qui composent aujourd’hui l’exposition Grafikama (Service Peinture). En parallèle d’APHA «Ici», le documentaire vidéo qui traite de l’intégralité du projet, elle expose une série de photos prises pendant cette première phase de travail dans les grandes métropoles africaines.
-    http://www.grafikama.fr/fr/category/artistes-fr/
-
-    _Du 07/01/2016 au 08/27/2016_
-  date: ''
-- categories:
-  - Exposition
-  title: Franco Salas Borquez installé dans le hall de la société Keran
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/franco-salas-borquez-installe-dans-le-hall-de-la-societe-keran.jpg
-  content: |-
-    Le travail de Franco Salas-Borquez est le fruit de sa réflexion consciente et inconsciente envers le monde et le caractère amorale de la nature, au delà de la dichotomie du bien et du mal. C'est donc presque naturellement et instinctivement que le peintre développe son travail à travers la thématique de la mer déchainée.
-    Lorsqu’il peint, Franco fait appel à son intuition pour exercer des gestes chargés de force et de tension. Sa liberté d’artiste s’exprime alors dans toute cette révolte et peu à peu la mer prend vie, les vagues hurlent telles des âmes. Ensuite, l’agitation créatrice laisse place à la patience, telle une méditation qui permet de ressentir l’intensité de l’instant. L’étape finale du tableau est une sorte de recommencement, l’artiste se détache de ses peurs et de sa rigueur technique. Avec ces derniers gestes, il dessine la force du vent qui libère la mer de sa propre colère.
-    À travers le langage universel et poétique de l’artiste, on découvre la peinture comme force créatrice et destructive où seule la beauté peut être sauvée.
-
-    texte de  Nathalie Tatai-Pogioni
-
-    _Du 09/30/2016 au 12/02/2016_
-  date: ''
-- categories:
-  - Exposition
-  title: Clothilde Lasserre & Edith Basseville
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/clothilde-lasserre-and-edith-basseville.jpg
-  content: |-
-    Parfois le geste du pinceau de Clothilde Lasserre semble se tordre de plaisir.
-    Alors en installant les sculptures de fil d'acier d'Edith Basseville à côté des toiles de Clothilde , on assiste à une échappée belle de ce mouvement qui prend forme et vie dans les sculptures et mobiles d'Edith.
-    Magie des oeuvres qui lors d'une installation créent des dialogues et des interactions poétiques.
-    Exposition à vivre sur place !
-
-    _Du 10/08/2016 au 10/29/2016_
-  date: ''
-- categories:
-  - Exposition
-  title: Mur d'essayage
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/mur-dessayage.jpg
-  content: "9 expositions en 2016, \npeut-être avez vous vu et pas pris le temps \npeut-être
-    n'avez vous pas vu une exposition \nalors j'ai sélectionné pour vous dans la réserve
-    de la galerie un choix d'oeuvres des artistes présentés cette année\nEt pour vous
-    permettre d'apprécier je vous ai installé un \"mur d'essayage\"...pour essayer
-    \nTout simplement!\nDimanche 18 15H 19H\nLundi 19 Mardi 20 Mercredi 21 15H 19H\nJeudi
-    22 vendredi 23 11H 21H\nSamedi 24 fermé\n\n_Du 12/02/2016 au 12/31/2016_"
-  date: ''
-- categories:
-  - Exposition
-  title: PHILIPPE LECOMTE
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/philippe-lecomte.jpg
-  content: "Techniques mixtes sur papier et toile \nRencontre avec l'artiste samedi
-    28 de 16H à 19H\n\n_Du 01/28/2017 au 02/25/2017_"
-  date: ''
-- categories:
-  - Exposition
-  title: Rencontre Annick ARGANT & Jean Claude BREAT
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/rencontre-annick-argant-and-jean-claude-breat.jpg
-  content: "Annick ARGANT sculptures et volumes \nJean Claude BREAT peintures\n\n_Du
-    03/16/2017 au 04/15/2017_"
-  date: ''
-- categories:
-  - Exposition
-  title: Exposition Argant et Bréat dans la galerie de l'entreprise Keran
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/exposition-argant-et-breat-dans-la-galerie-de-lentreprise-keran.jpg
-  content: _Du 03/31/2017 au 06/02/2017_
-  date: ''
-- categories:
-  - Exposition
-  title: Nuit des Galeries#2 TETE A TETE
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/nuit-des-galeries2-tete-a-tete.jpg
-  content: "TETE A TETE \nOu L’Art du Portrait, à condition que ce soit le vôtre!\nLe
-    portrait suppose, raconte, transmet une histoire personnelle qui peut se voir,
-    se deviner et se ressentir avec autant de variations qu’il y a d’artistes pour
-    vous regarder. Peintres et photographes,\nN. Holland, C.Francheteau et B.Dumas
-    vous invitent à passer à l’acte en acceptant d’oublier le selfie et de vous laisser
-    portraiturer!\nDès 20h la galerie se transformera en atelier vivant où Françoise
-    Boudier réalisera sous vos yeux le buste d’un modèle installé confortablement
-    dans son fauteuil.\nPlus qu’acteur, devenez sujet !\nSAMEDI 8 Discussion conférence
-    par Juliette EOCHE DUVAL avec les 4 artistes sur le Portrait aujourd'hui, pour
-    quoi, quel sens, quelle histoire ? Samedi 8 Avril 11H- 12H30\n\n_Du 04/06/2017
-    au 04/08/2017_"
-  date: ''
-- categories:
-  - Exposition
-  title: LE PORTRAIT
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/le-portrait.jpg
-  content: _Du 04/14/2017 au 04/15/2017_
-  date: ''
-- categories:
-  - Exposition
-  title: Francky CRIQUET "Comme à l'atelier"
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/francky-criquet-comme-a-latelier.jpg
-  content: _Du 05/04/2017 au 05/27/2017_
-  date: ''
-- categories:
-  - Exposition
-  title: START ' UP 2017
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/start-up-2017.jpg
-  content: "ST'ART UP 2017 2eme Edition \nce rendez vous lancé en 2016  à des étudiants
-    en arts plastiques et des autodidactes que je sélectionne d'exposer pour une 1ere
-    fois en galerie.\nVenez voir \net pourquoi pas \nacquérir une  oeuvre d'un  pour
-    les soutenir \n\nETRE CURIEUX\nREGARDER AU DELA DE LEURS OEUVRES  DES JEUNES TALENTS
-    \nPENSER QUE L ART EST NECESSAIRE A NOTRE LIBERTE\n\n_Du 06/29/2017 au 07/01/2017_"
-  date: ''
-- categories:
-  - Exposition
-  title: TANGUI ROBERT
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/tangui-robert.jpg
-  content: _Du 07/12/2017 au 08/31/2017_
-  date: ''
-- categories:
-  - Exposition
-  title: Go Segawa
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/go-segawa.jpg
-  content: _Du 09/07/2017 au 09/23/2017_
-  date: ''
-- categories:
-  - Exposition
-  title: Damien Hamon & Tangui Robert chez KERAN
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/damien-hamon-and-tangui-robert-chez-keran.jpg
-  content: |-
-    artistes permanents et visibles à la galerie
-
-    _Du 09/26/2017 au 11/24/2017_
-  date: ''
-- categories:
-  - Exposition
-  title: Xavier Jallais "Automorphie"
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/xavier-jallais-automorphie.jpg
-  content: |-
-    Vernissage jeudi 5 à partir de 18H
-
-    _Du 10/05/2017 au 10/21/2017_
-  date: ''
-- categories:
-  - Exposition
-  title: Claude FRANCHETEAU
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/claude-francheteau.jpg
-  content: "VERNISSAGE CAFE PHILO\nAVEC CLAUDE BAZELIS \nVENDREDI 24 NOVEMBRE 19H\n\n_Du
-    11/24/2017 au 12/16/2017_"
-  date: ''
-- categories:
-  - Exposition
-  title: MAXIME LUTUN VENTE PRIVEE
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/maxime-lutun-vente-privee.jpg
-  content: "SCULPTEUR DE LUMIERE \nvente privée 18H 21H\n\n_Du 12/01/2017 au 12/03/2017_"
-  date: ''
-- categories:
-  - Exposition
-  title: Images de Ryszard Swierad 25/01 - 17/02 "Ce que je crois voir"
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/images-de-ryszard-swierad-2501-1702-ce-que-je-crois-voir.jpg
-  content: |-
-    "Ce que je crois voir" c'est un trouble devant la matière qui efface le réel de l'image que notre oeil comprend d'instinct, mais très vite on s'échappe du réel pour se raconter une histoire, un film, les oeuvres de Rych'o donne envie d'écrire la suite
-
-    _Du 01/25/2018 au 02/17/2018_
-  date: ''
-- categories:
-  - Exposition
-  title: Laure Carré
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/laure-carre.jpg
-  content: "Il n’y a rien d’éponyme dans les formes que LAURE nous offre dans son
-    travail sur toile, pas même dans ses collages-dessins. En apparence ! Ainsi l’énergie
-    circule  vite et amplifie les mouvements tout en courbe mais s’arrête net. Si
-    carré il y a ce n’est pas pour la forme mais pour son exigence vis-à-vis de sa
-    toile. \n\nLà n’est pas le premier paradoxe chez cette artiste lumineuse qui impose
-    des sujets troubles où la solitude s’accompagne d’un double de soi qui parfois
-    ne l’est pas. Rêves et fantômes sont invités à participer au présent sans aucun
-    effacement.\nLaure est solaire car elle se laisse faire par son geste et donc
-    elle ne résiste pas, il n’y a pas de lutte entre elle et sa toile mais les états
-    dans lesquels elle laisse ses personnages nous amènent à nous en occuper. Elle
-    nous les confie, à condition d’en prendre soin. \nImpossible de laisser ces personnages
-    seuls dans ces situations et vu le choix des couleurs, même si Laure se défend
-    de toute histoire à nous raconter, il va bien falloir que nous en parlions, car
-    tout est sans dessus dessous. \nAlors si on pense à Bazelitz, si une époque les
-    mains de Egon Schiele s’imposaient, nous sommes actuellement dans une période
-    de grande liberté créative ou Laure emprunte avec respect à ses icônes de la peinture.
-    \n\nEt ainsi va cette vie « c’est vrai et pourquoi pas ! », rien ne la contrarie
-    Laure quand on regarde son travail, son atelier - car elle travaille tout le temps
-    - c’est pour nous, pour ceux qui aiment la regarder, pour ceux qui la découvrent
-    et s’étonnent. Devant autant de toiles il ne faut agir, mais se laisser faire
-    et cheminer vers l’une d’elle.\nC’est comme cela que je me retrouve avec une sélection
-    que je ne peux montrer en une seule fois. Donc Jeudi 5 Avril je fais un 2ème accrochage!\nL’expo
-    dans l’expo, on met la galerie à l’envers pour finir au Carré Madame Laure en
-    vous souhaitant un très bel anniversaire ! \n\nElisabeth GIVRE\n\n_Du 03/23/2018
-    au 04/14/2018_"
-  date: ''
-- categories:
-  - Exposition
-  title: Pierre Muckensturm & Go Segawa
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/pierre-muckensturm-and-go-segawa.jpg
-  content: |-
-    installation située chez KERAN 4 rue Viviani à Nantes
-
-    _Du 03/29/2018 au 05/18/2018_
-  date: ''
-- categories:
-  - Exposition
-  title: Nuit des Galeries#3 No limit
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/nuit-des-galeries3-no-limit.jpg
-  content: "\" 140 caractères minimum \"\n4 artistes vous proposent 1 oeuvre photo.
-    No limit, selon votre inspiration vous écrivez la suite & vous partagez sur Facebok
-    et Instagram \nArtistes : Neil RATNAVIRA  Eric MARAIS RYCHO Dimitri ROUBICHOU\nLors
-    des premières Nuit des Galeries j'ai observé combien le public de tout âge aimait
-    participer, en dessinant, jouant, posant pour leur portrait.\nCette année je souhaite
-    explorer des contraires dans les codes de notre société tout en les utilisant.\n1er
-    contraire : 1 seule oeuvre à regarder par artiste plutôt qu'une PROFUSION +/-
-    =UNIQUE\n2eme contraire : rien ne presse, rien d'URGENT   +/- = PRENDRE LE TEMPS\n3eme
-    contraire : dire ce qu'une oeuvre nous inspire avec ses mots plutôt que de réduire
-    ses émotions à des EMOTICONS +/- = RACONTER DES HISTOIRES\n\nA disposition : papiers-crayons
-    version XIXeme siècle , machines à écrire vs XXeme, tablettes vs XXIeme siècle.\n\n\nChaque
-    artiste de manière totalement  subjective choisira le texte sur son oeuvre afin
-    d'offrir 4 PASS du MUSEE DES ARTS DE NANTES\n\n_Du 04/19/2018 au 04/19/2018_"
-  date: ''
-- categories:
-  - Exposition
-  title: L'hallucination simple Patrick Gueguen
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/lhallucination-simple.jpg
-  content: "Texte de son ami Roland HALBERT qui sera en signature de son livre \nsamedi
-    23 juin à 14H\n__________________________________________\nLa peinture de Patrick
-    Guéguen : « art brut » ? « art ethnique » ? « art singulier » ? Quand on a prononcé
-    ces formules magiques de la critique, on n’a pas dit grand-chose. Il y a fort
-    à craindre que ce soient là des dénominations commodes et des classifications
-    trompeuses qui empêchent de voir en profondeur. Rimbaud vous éclaire davantage
-    sur ces tableaux lorsqu’il évoque l’hallucination simple : « Je m’habituai à l’hallucination
-    simple. » (Alchimie du verbe). Et nul besoin de stupéfiants pour susciter ce regard
-    vrillant, cette vision d’affût qui transperce les apparences et traverse les modes.
-    Vous habituer à l’hallucination simple revient à échanger vos écrans opaques contre
-    le microscope-télescope Hubble. Alors, commence l’atelier des dieux et se réinvente
-    la création du monde avec l’écarquillement lyrique de l’œil plongé dans l’aquarium
-    astral ou happé par le fourmillement de la vie terrestre. \n...suite du texte
-    disponible à la galerie et sur demande contact@galeriegaia.fr\n\n_Du 06/09/2018
-    au 06/30/2018_"
-  date: ''
-- categories:
-  - Exposition
-  title: 40 ans d'Histoire d'Art Anniversaire Galerie Gaïa
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/40-ans-dhistoire-dart.jpg
-  content: "Il y 3 ans Norbert Marsal me confiait les précieuses clés de ce lieu .
-    Mais savez vous que l'histoire a commencé en 1978 ?\nAllez... venez rafraîchir
-    la mémoire de vos émotions le 21 juin à 18h... visiteurs d un jour, clients de
-    toujours, passants qui passent en se disant \"pas le temps maintenant mais c est
-    vraiment bien cette galerie\" et bien entrez et partageons vos Histoires de ce
-    lieu qui vous appartient. \n4 artistes préparent 2 serigraphies inédites qui seront
-    disponibles en exclusivité :\nLe collectif Au Seuil avec Jeronimo Gaëtan Chevrier
-    Tangui Robert, et Boris Jakobek \nL'exposition de leurs oeuvres durera jusqu'au
-    28 juillet.\n\n_Du 06/21/2018 au 07/28/2018_"
-  date: ''
-- categories:
-  - Exposition
-  title: KAZY installée chez Keran
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/kazy-installee-chez-keran.jpg
-  content: "Keran 1 Rue Viviani Nantes \nouvert au public de 9H à 12H & 14H à 18H
-    du lundi au vendredi\nDu mur à la toile...\n\nLe chat au pied de Trempolino à
-    Nantes, la Villa Occupada pour le Voyage à Nantes, des murs à Casablanca, Istambul,
-    Johannesburg, Shanghai, Tokyo, Hong Kong...\nComment un graffeur habitué aux grands
-    espaces bruts peut-il nous embarquer dans ses histoires ?\n\nL'émotion n'a pas
-    d'échelle et ne se commande pas, c'est avec un esprit libre que Kazy Usclef nous
-    dévoilera ses toiles pour l'exposition Keran.\nLaissez-vous embarquer !\n\n_Du
-    07/04/2018 au 09/07/2018_"
-  date: ''
-- categories:
-  - Exposition
-  title: La galerie est ouverte tout l'été
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/la-galerie-est-ouverte-tout-lete.jpg
-  content: _Du 07/07/2018 au 08/31/2018_
-  date: ''
-- categories:
-  - Exposition
-  title: 4eme Open International de Squash de Nantes
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/4eme-open-international-de-squash-de-nantes.jpg
-  content: "A la rentrée c'est promis je fais du sport !\nOui mais où ?\nEt bien au
-    théâtre Graslin ...\nIls sont vraiment  fous ces nantais ! \nLà ce n'est plus
-    un pas de côté c'est du grand éc-art !\nDu 5 au 9 septembre \nSuivez nous avec
-    la galerie Gaïa partenaire de cet événement totalement décalé où sport et culture
-    se mélangent si bien :\nPour le 4ème opus  Tangui Robert va effectuer un marathon
-    de 5 jours avec 1 croquis réalisé chaque jour, édité dans la nuit pour une exposition
-    à J+1 ! \nAttention cette édition se limite à 20 exemplaires \nachat sur place
-    au Théâtre Graslin - ou réservation Galerie Gaïa - 20€\nLes derniers billets (succès
-    oblige il n'en reste pas beaucoup...) sont en vente auprès de PSA Open International
-    Squash Nantes.\n\nhttps://www.youtube.com/channel/UCKwY-uJEvEXsHBynYNy2kfg\n\n_Du
-    09/05/2018 au 09/09/2018_"
-  date: ''
-- categories:
-  - Exposition
-  title: '"Découverte de Talents" Neil Ratnavira'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/decouverte-de-talents.jpg
-  content: |-
-    Partenaire chez Cinna Nantes, la Galerie Gaïa propose de faire découvrir le talent de Neil Ratnavira, artiste peintre et aussi photographe de rue.
-    Son énergie très contrôlée se retrouve libérée dans ce travail sur toile & papier où les couleurs s'étalent avec force spontanéité, mais le geste est très maitrisée.
-    Fin observateur de la gestuelle picturale de Franz Kline  cet artiste américano-srilankais et installée en France il y a deux ans, nous propose une prolongation contemporaine de cet univers très expressif.
-    Neil Ratnavira réalisera plusieurs toiles sur place avec encres & pinceaux
-
-    _Du 10/04/2018 au 10/04/2018_
-  date: ''
-- categories:
-  - Exposition
-  title: Keran accueille Gianni BASSO
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/keran-accueille-gianni-basso.jpg
-  content: |-
-    REALITE OU ABSTRACTION?
-
-    Croire ce que l on voit ou douter.
-    Faire confiance à son intuition ou hésiter.
-    Toutes ces émotions sont provoquées par la proposition photographique de Gianni BASSO.
-    Glisser, plonger dans ses eaux énigmatiques, c est comme initier un voyage presque familier.
-
-    _Du 10/16/2018 au 12/14/2018_
-  date: ''
-- categories:
-  - Exposition
-  title: Georges ROUSSE Photographe plasticien
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/georges-rousse-photographe-plasticien.jpg
-  content: "Pour faire écho à l'exposition Polygones qui a lieu au musée DOBREE à
-    Nantes \nla galerie Gaïa vous propose une sélection de 7 photographies en édition
-    limitée à 10 exemplaires\n\nhttps://grand-patrimoine.loire-atlantique.fr/jcms/l-agenda/les-expositions/2019-georges-rousse/polygones-exposition-de-georges-rousse-fr-p2_314968\n\n_Du
-    02/07/2019 au 03/09/2019_"
-  date: ''
-- categories:
-  - Exposition
-  title: ISTHME
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/isthme.jpg
-  content: "peinture et collage - estampe \n\"Quand la peinture  vient des moments
-    passés en mer, la nuit, quand le monde est ombre géante, voie lactée et frémissement
-    de lumière, quand se révèlent toutes les nuances de bleus, alors le voyage de
-    la matière sur la toile sublime la rencontre de l’eau et du ciel.\"\n\n_Du 06/06/2019
-    au 06/29/2019_"
-  date: ''
-- categories:
-  - Exposition
-  title: Vagabondage avec Elisabeth WADECKI
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/vagabondage-avec-elisabeth-wadecki.jpg
-  content: "A propos de la peinture d’Elisabeth Wadecki\n\nProust disait « écrire
-    pour éclaircir la vie ».\nOn pourrait dire de même de la peinture d’E.W. Sa peinture
-    est lumineuse. L’artiste dit avancer sur son chemin, sereinement, partant de rien
-    et vers nulle part, avec comme seule quête, nécessité, cette route, l’acte de
-    créer et d’être présente à la vie.\nLes traces laissées sont ce que cette artiste
-    recueille de la transformation constante de la nature et de la fugacité des éléments.\nL’acte
-    pictural ne relève pas chez elle d’une projection mais elle garde la trace d’une
-    circulation entre sujet et monde.  Au carrefour du temps et de l’espace, elle
-    fixe sur la toile quelque chose des petites bulles décrites par Proust. Sa peinture
-    n’illustre pas elle est la sensation de sa propre réalisation.\nCézanne a apporté
-    à HantaÏ l'assurance que la voie de la peinture moderne consistait dans l'expression
-    par la couleur. La force de la couleur peut à elle seule donner à la forme sa
-    plénitude et rendre compte de la construction du monde. Cézanne lui a également
-    apporté l'évidence que la voie du moderne en peinture passait par l'aménagement
-    de blanc aussi important que les zones peintes et que l'ensemble peint et non
-    peint pouvait et devait s'agencer en un plan respirant dont pas un point ne s'enfonce.
-    \nE.W. peut faire sienne cette position picturale. L’espace blanc, « vide » dans
-    la peinture de cette artiste, n’est pas quelque chose de vague ou d’inexistant
-    mais un élément dynamique et agissant. Il est le lieu de non-dits et donc de tous
-    les possibles. Ce « rien » relie l’espace peint à un monde invisible, il vise
-    la plénitude.                                                      C’est peut-être
-    un état vers lequel tend cette peinture. Comme l’explique François Cheng dans
-    « Vide et plein, le langage pictural chinois » ce « vide » constitue sans doute
-    le lien par excellence où la forme, la couleur ou le « plein » serait à même d’atteindre
-    cette vraie plénitude.\nLa peinture d’E.W. provoque une ouverture de perceptions,
-    une sollicitation des sens, outre la vue, où se joue une incorporation du réel,
-    une union entre le corps, le sujet, et le monde qui l’entoure. Partout, le geste
-    de l’artiste semble dans son élan, sa variété, capter les souffles qui animent
-    l’univers. Il s’arrondit, s’allège et se fragmente en touches denses ou fluides,
-    s’effiloche pour mieux épouser l’essence cachée des choses.\nSa peinture garde
-    la trace d’un frémissement à travers le temps, comme si l’œil du peintre n’avait
-    capté que l’essence même du réel, tel un calligraphe qui, dans la vitalité et
-    l’immédiateté de son geste, jette ça et là un jaune moisson, un vert lentilles
-    d’eau, un rose ou un terre-de-sienne d’argile, et prend son envol dans l’espace
-    subtil d’un blanc mat, ou celui d’un bleu crépusculaire...\nOù il n’est question
-    que de notre « être au monde… »\n\n_Du 07/05/2019 au 07/27/2019_"
-  date: ''
-- categories:
-  - Exposition
-  title: C'est ouvert tout l'été
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/cest-ouvert-tout-lete.jpg
-  content: |-
-    La galerie est ouverte du jeudi au samedi 11H 19H SAUF LES 1ER - 2 - 3 - 15 AOUT 2019
-
-    _Du 07/28/2019 au 08/31/2019_
-  date: ''
-- categories:
-  - Exposition
-  title: Dessin et Peinture de Philippe LECOMTE
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/dessin-et-peinture-de-philippe-lecomte.jpg
-  content: "VERNISSAGE VENDREDI 8/11 18H - 20H\nSélection de dessins et toiles, une
-    abstraction qui n'en est pas une, la seule condition pour le savoir est de prendre
-    son temps devant chacune et de se laisser faire et faire confiance à son instinct.
-    La couleur fera le reste. \nL'exposition se clôture le DIMANCHE 24 NOVEMBRE de
-    13H à 18H dans le cadre de l'évènement \"Les galeries, le dimanche\" organisé
-    par l'association Art Galeries Nantes.\n\n_Du 11/07/2019 au 11/24/2019_"
-  date: ''
-- categories:
-  - Exposition
-  title: De l'art ou du bacon? Discussion débat
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/de-lart-ou-du-bacon.jpg
-  content: |-
-    DIMANCHE 24 NOVEMBRE dernier jour de l'exposition de Philippe LECOMTE. Ce sera l'occasion de causer avec vous de l'état de la critique d'art. Comment parler d'art aujourd'hui, avec la présence de Louis Raimond journaliste
-
-    _Du 11/24/2019 au 11/24/2019_
-  date: ''
-- categories:
-  - Exposition
-  title: Les galeries, le dimanche 24 Novembre
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/les-galeries-le-dimanche-24-novembre.jpg
-  content: |-
-    Dans cette invitation, la virgule est importante !
-    En effet, elle initie le temps d’une pause, le temps d’une déambulation, le temps du regard
-    qui sourit à ce qui se propose, le temps qui permet d’envisager un après en l’occurrence la
-    Nuit des Galeries #4 en 2020 !
-    En cet après-midi du dimanche 24 novembre, l’occasion sera pour les fidèles de nos lieux,
-    aux amoureux-curieux d’artistes de franchir le pas de nos portes, de re-découvrir nos
-    galeries et nos lieux et surtout les artistes que nous y accueillons avec toujours autant de
-    bienveillance et la volonté insensée – mais si grisante - de leur promotion et diffusion !
-
-    _Du 11/24/2019 au 11/24/2019_
-  date: ''
-- categories:
-  - Exposition
-  title: Fêtes - Art 2019
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/fetes-art-2019.jpg
-  content: "Des idées cadeaux à partir de 20€ suivez Instagram et Facebook \nUne idée
-    par jour dans le calendr-idées suivez Instagram et Facebook \nRetrouvez ces idées
-    dans l'onglet Artiste Fêtes-Art\nDes bons cadeaux \nLivraisons offertes \nOUVERTURES
-    SPECIALES EN DECEMBRE 2019\nOuvertures du lundi 2 au lundi 23 de 11H - 19H \nOuverture
-    les dimanches 8 - 17 - 22 /12 de 15H à 19H\n\n_Du 12/02/2019 au 12/23/2019_"
-  date: ''
-- categories:
-  - Exposition
-  title: Polymorphie Jorj Morin
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/polymorphie-jorj-morin.jpg
-  content: |-
-    L'exposition POLYMORPHIE  c'est le désir de faire découvrir à ceux qui ne connaissent pas l'artiste nantais Jorj MORIN, comme il est passionnant de regarder un artiste se confronter à des supports différents  qui offrent des contraintes jubilatoires.
-    Découvrir ses peintures, ses gravures mais aussi des gouaches, des stèles et des tapisseries, où la ligne claire et la palette de couleurs nous font intimement vibrer.
-
-    _Du 01/16/2020 au 02/01/2020_
-  date: ''
-- categories:
-  - Exposition
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/20200827_001459.jpg
-  title: Exposition à Pornichet
-  content: Lieu d'exposition sur rendez-vous, contactez moi au 02 40 48 14 91
-  date: ''
-- categories:
-  - Exposition
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/flyerverso-galerie-gaia-fotofever.jpg
-  title: 'Paris - Salon fotofever - Carrousel du Louvre 12 au 15 Novembre '
-  content: |-
-    # Galerie Gaia Fotofever
-
-    **Embarquez pour un tour du monde la photographie contemporaine!** fotofever accueille au Carrousel du Louvre, au cœur de Paris, **50 galeries et éditeurs dont la Galerie Gaïa** présentant le meilleur de la scène photographique contemporaine avec 150 artistes exposés
-  date: ''
-- categories:
-  - Exposition
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/flyerrecto-galerie-gaia-molliere.jpg
-  title: '"Ensemble" exposition photos de Jean-François Mollière'
-  content: "# Jean François Mollière \n\nOuverture de la [QPN ](https://www.festival-qpn.com
-    \"QPN NANTES \")Quinzaine Photographique Nantaise sur la thématique de \"ENSEMBLE\".\n\n[Jean-François
-    Mollière](https://galeriegaia.fr/artists/jean-francois-molliere/ \"jean francois
-    molliere \") réunit l’infiniment sensible blottit dans de grands ensemble urbains
-    qui pourraient paraître hostiles.\n\nSa traque de l’instant se fait patiemment,
-    à l’abri, et son travail ambitionne de réunir l’unité de temps à l’unité de lieu
-    pour créer un ensemble qui nous parait familier par sa photogénie cinématographique.
-    Tout est minutieusement attendu pour créer avec les hasards des mouvements et
-    de la lumière, une histoire digne d’un scénario de grands studios.\n\nQue dire
-    aussi de ces individus en composition avec leur milieu, dans un métro, une salle
-    de classe ou un restaurant. Cela nous ramène à cette notion du « je » avec les
-    autres qui forme intuitivement un ensemble et invente un corpus qui nous dépasse.\n\nCette
-    notion de la dualité dans un ensemble est réellement sensible dans les différentes
-    séries de [Jean-François Mollière.](https://galeriegaia.fr/artists/jean-francois-molliere/
-    \"jean farncois moliere\")"
-  date: ''
-- date: '2021-01-29T10:28:33.000+00:00'
-  categories:
-  - Exposition
-  title: Peinture fraîche...Chantier en cours !
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/galerie-gaia-galerie-art-nantes-chantier.jpg
-  content: "Depuis 2015 les expositions et vos visites ont fait vibrer ce lieu !  \nCela
-    mérite bien quelques travaux pour être encore plus beau pour sa réouverture en
-    Mars 2021.\n\nDurant le mois de Février vous pouvez sélectionner des œuvres dans
-    le Catalogue que je peux vous livrer à domicile pour faire votre choix.\n\nA très
-    vite et suivez nos actualités sur Instagram galeriegaianantes"
-- date: '2020-11-02T16:10:55.000+00:00'
-  categories:
-  - Interview
-  title: Interview de Isthme
-  content: '[Interview par Elisabeth Givre dans l''atelier de Isthme](https://www.youtube.com/watch?v=lwznot2FJRs
-    "Interview de Isabelle Thoams ")'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/atelier_isthme_19_12_hd_05.jpg
-- date: '2020-11-02T16:05:35.000+00:00'
-  categories:
-  - Interview
-  title: Interview de Laure Carré
-  content: '[Interview par Elisabeth Givre dans l''atelier de Laure Carré](https://www.youtube.com/watch?v=_yZm3PLM4Z4&t=4s
-    "Interview Laure Carré")'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/galeriegaia-laurecarre-portrait-artiste.jpg
-- date: '2021-03-05T23:00:00.000+00:00'
-  categories:
-  - Exposition
-  title: En Février visitez des ateliers d'artistes
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/galerie-gaia-fevrier2020.jpg
-  content: "# Visite d'ateliers d'artistes de le Galerie Gaia Nantes\n\nNous vous
-    proposons durant ce mois de **Février et les vacances scolaires**  \nune **,**
-    \ \npour vous permettre de découvrir leur travail dans leurs lieux chargés d'histoires...\n\n**Feuilletez
-    le Catalogue** des artistes de la Galerie et contactez moi  \npour que **je vous
-    organise une visite privée** pour vous et/ou des proches dans la limite de 6 personnes.
-    Les **enfants et adolescents** sont fortement bienvenus, il y a des rendez-vous
-    à ne pas manquer avec la jeunesse.\n\nCette escapade artistique sera **un moment
-    personnel et privilégié** pour échanger tranquillement avec l'artiste dont l’œuvre
-    vous intrigue et ainsi vivre des émotions singulières qui resteront indélébiles.\n\nAteliers
-    et artistes prêts à vous accueillir :\n\n[Isthme ](https://galeriegaia.fr/artists/isthme/
-    \"isthme isabelle thomas\")- [Toma L](https://galeriegaia.fr/artists/toma-l/ \"thomas
-    l toma l thomas labarthe\") - [Olivier Frémont]() - Laure Carré - Elisabeth Wadecki
-    - Kazy Usclef - Franco Salas Borques - Nadia Barbotin-Sébastien Bouchard - Françoise
-    Paressant - Pierre Tual..."
-- date: '2021-03-11T20:22:49.000+00:00'
-  categories:
-  - Exposition
-  title: 'Artefacts Edwin Wide Exposition Peinture '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/CartonArtefactRecto.jpg
-  content: "# Edwin Wide \"Artefacts\"\n\n[Artefact en Sciences naturelles](https://www.larousse.fr/dictionnaires/francais/artefact/5512
-    \"edwin wide artefact\") : phénomène d'origine artificielle ou accidentelle qui
-    altère une expérience portant sur un phénomène naturel.\n\nArtefact en anthropologie
-    : produit ayant subi une transformation, même minime, par l'homme et qui se distingue
-    ainsi d'un autre provoqué par un phénomène naturel.\n\nArtefact en **photographie**,
-    électronique et informatique : élément indésirable ou défectueux.\n\n**Et Artefacts
-    pour Edwin Wide ?**   \nC'est le résultat de ce merveilleux entêtement pour les
-    fragments d'histoire d'hommes, de femmes, d'enfants qui s'incarnent dans une photo
-    d'identité, trouvée par hasard au sol dans nos villes-ruines modernes. Et le processus
-    recommence, chacune de ces images naturelles, redevient création par un phénomène
-    d'altération picturale imaginée par Edwin Wide. Une autre Histoire commence, une
-    autre image se construit subtilement sous nos yeux, un visage apparaît. Altération,
-    transformation, le défaut comme une provocation ingénieuse plantée sous nos yeux
-    par l'artiste pour nous émouvoir subtilement."
-- date: '2021-05-28T15:48:59.000+00:00'
-  categories:
-  - Exposition
-  title: Wave week-end arts visuels 28 29 30 Mai 2021
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/wave_150dpi-01 (1).png
-  content: "Non - Habitants   \nLa Galerie Gaïa accueille en résidence 3 étudiants
-    de l'Ecole des Beaux Arts de Nantes afin qu'après cette longue période de retrait
-    forcé ils puissent travailler, montrer, échanger sur leurs pratiques respectives.\n\nAinsi
-    chacun s'installe pour 3 jours avec son bureau de travail, son matériel et ses
-    envies d'évoquer leur rapport à la ville, à l'espace de vie et à la galerie.\n\nSimon
-    Bousquet - sculpture béton\n\nBasile Collet - installation végétale\n\nEdwin Blandin
-    - dessin "
-- date: '2021-06-24T16:05:09.000+00:00'
-  categories:
-  - Exposition
-  title: Jean-Michel Nicolau "S'il reste des silences"
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/s'il reste des silences Couv .jpeg
-  content: "# Jean Michel Nicolau\n\nExposition de photographie du jeudi 24 au samedi
-    26 Juin 2021  \nLivre tiré à 300 exemplaires disponibles à la galerie et Librairie
-    Coiffard et Durance et chez l'éditeur Art3 Plessis.\n\n\"S'il reste des silences\"
-    est un livre de photographies qu'au-delà de sa méticuleuse préparation, Jean-Michel
-    Nicolau s’apprêtait à nous dévoiler avec générosité mais surtout avec une exigence
-    toute particulière.\n\nLe samedi matin, je recevais leur visite avec Jacqueline
-    Pécantet, ils allaient ou revenaient du marché, et pendant que je discutais des
-    nouvelles céramiques ou gravures de Jacqueline, Jean-Michel se penchait sur les
-    œuvres d'autres artistes de la galerie. Quand je dis qu'il se penchait, je devrais
-    dire il plongeait car il aimait  aller chercher loin au-delà des apparences et
-    de la surface. Sa voix ensuite traduisait cette émotion pour croiser l'intention
-    et le résultat. Si la bienveillance était une marque de respect , précis était
-    son analyse. \n\nJe vous laisse découvrir l'exposition que nous accrochons en
-    sa mémoire avec Jacqueline Pécantet qui sera présente pour vous raconter ces images.\n\nJe
-    vous préviens je n'ai pas souvent vu une qualité de photographie en noir et blanc
-    aussi subtile, une envie irrésistible de toucher le papier car on sent une matière
-    irisée qui frôle la surface et transforme l'image. Un résultat obtenu grâce à
-    une très étroite collaboration avec un imprimeur génial qui a même décidé de nommer
-    ce noir le Noir Nicolau.\n\nTout n'est pas dit, et vous n'avez encore rien vu
-    !"
-- date: '2021-07-01T16:36:34.000+00:00'
-  categories:
-  - Exposition
-  title: 'Tangui Robert Chroniques Nantaises '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/invitationTR1.jpg
-  content: "# Tangui Robert\n\n### Fragments paysages - Chroniques Nantaises\n\nTangui
-    Robert arpente les berges de Loire, serpente dans les couloirs du musée des Arts,
-    fragmente ses carnets pour mélanger croquis et photographies.  \nSi certains  paysages
-    et architectures qu'il nous montre font partie de nos déambulations, Tangui a
-    ce talent pour les scruter, les détailler et les denteler comme un orfèvre. Les
-    drapés observés sur des toiles du musée incarnent exactement ce rapprochement
-    iconoclaste des sujets. Avec Tangui ces fusions créent des fragments de paysage
-    élégants et évidents.\n\nExposition [Tangui Robert ](https://galeriegaia.fr/artists/tangui-robert/
-    \"tangui robert \")à scruter de près tout l'été à la Galerie Gaïa"
-- date: '2021-07-05T17:34:36.000+00:00'
-  categories:
-  - Exposition
-  title: La marche des flots
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/galerie-gaia-franco saas borquez -pornichet.jpg
-  content: "## Exposition La marche des flots Médiathèque de Pornichet\n\nHuile sur
-    toile et dessins \n\nLe peintre [Franco Salas Borquez](https://galeriegaia.fr/artists/franco-salas-borquez/
-    \"franco salas borquez\") représenté par la Galerie Gaïa depuis 2017 expose des
-    œuvres récentes à la Médiathèque Camille Flammarion de Pornichet (Place du Marché).
-    \ \nL’artiste connu par ses peintures des mers qui expriment toute la force de
-    cette nature, propose pour cette nouvelle exposition de nous faire ressentir la
-    poésie en se plongeant dans ses compositions maritimes.\n\nUne exposition pour
-    tous les passionnés d’art , de la mer et de voyage.\n\nDu Mardi au Dimanche 10H
-    12H30 15H30 18H  \nProlongation le Vendredi 19H  \nFermé le lundi\n\nInformation
-    et rendez-vous pour visite privée au 02 40 48 14 91"
-- date: '2021-07-17T13:41:57.000+00:00'
-  categories:
-  - Exposition
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/galerie-gaia-pornichet-franco-salas-borquez.jpg
-  title: La marche des flots Franco Salas Borquez
-  content: "[https://www.youtube.com/watch?v=4l1EKXeYYf8](https://www.youtube.com/watch?v=4l1EKXeYYf8
-    \"https://www.youtube.com/watch?v=4l1EKXeYYf8\")\n\n# Franco Salas Borquez "
-- date: '2021-07-20T06:55:05.000+00:00'
-  categories:
-  - Exposition
-  title: La marche des flots Franco Salas Borquez
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/galerie-gaia-franco salas borquez-l'indomptable.jpg
-  content: "A Nantes cet été la galerie reste ouverte du mardi au samedi 13H 21H  \n2
-    salles 2 expositions \n\n**Franco Salas Borquez** connu par ses peintures des
-    mers qui expriment toute la force de cette nature, propose pour cette nouvelle
-    exposition de nous faire ressentir la poésie en se plongeant dans ses compositions
-    maritimes.Une exposition pour tous les passionnés d’art , de la mer et de voyage.\n\n**Tangui
-    Robert** arpente les berges de Loire, serpente dans les couloirs du musée des
-    Arts, fragmente ses carnets pour mélanger croquis et photographies.  \nSi certains
-    paysages et architectures qu’il nous montre font partie de nos déambulations,
-    Tangui a ce talent pour les scruter, les détailler et les denteler comme un orfèvre.
-    Les drapés observés sur des toiles du musée incarnent exactement ce rapprochement
-    iconoclaste des sujets. Avec Tangui ces fusions créent des fragments de paysage
-    élégants et évidents."
-- date: '2021-09-07T09:55:55.000+00:00'
-  categories:
-  - Interview
-  title: Interview Versants
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/STRATES_M__Pornichet_HD_2.JPG
-  content: |-
-    [Interview Décadrée de Versants par Elisabeth Givre](https://www.youtube.com/watch?v=DxkvbjnGL4E "tangui robert jeronimo gaetan chevrier")
-
-    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/article-galerie-gaïa- 01.jpg)
-- date: '2021-09-04T09:19:43.000+00:00'
-  categories:
-  - Exposition
-  title: Hors les murs Pornichet 18 &19 Septembre 2021
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/article-galerie-gaïa- 02.jpg
-  content: "[Côté Ouest Magazine Août Septembre 2021](https://www.cotemaison.fr/cote-ouest/
-    \"Côté Ouest Magazine\")  \n**Escapade Hors les Murs**\n\nComme vous pouvez le
-    découvrir dans cette incroyable publication du magazine Côté Ouest de Août Septembre,
-    \ \nJe vous accueille sur rendez-vous à Pornichet pour regarder autrement une
-    sélection d’œuvres de mes artistes exposé-es à la galerie à Nantes.\n\nC'est aussi
-    l'occasion de découvrir in situ la fresque réalisée par VERSANTS (Jérôme Maillet
-    Gaëtan Chevrier et Tangui Robert).\n\n  \nLe week-end du **4 &** **5** septembre
-    et du **18 & 19** septembre.  \nVisite exclusive sur rendez-vous 02 40 48 14 91
-    - max groupe de 6  \nVisite sans obligation d'achat."
-- date: '2021-10-07T12:12:55.000+00:00'
-  categories:
-  - Exposition
-  title: Aline Isoard  vernissage 7/10 18H
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/A.ISOARDafficheQPN.jpg
-  content: "# Aline ISOARD QPN 2021\n\nAuto-Fiction exposition photographie présentée
-    dans le cadre de la 25eme édition de la QPN 2021 avec la thématique : \"Histoire(s)\"\n\nC’est
-    dans l'habitacle cloisonné de vitres d’une voiture qu’Aline Isoard réalise ses
-    photographies. Ce lieu clos et protecteur fonctionne comme une lumineuse, et donc
-    paradoxale, chambre noire où le renversement spéculaire de l'espace s'opère grâce
-    aux reflets des rétroviseurs.\n\nSur les voies de circulation avec ses automobiles
-    aperçues furtivement, la photographe nous livre un témoignage social sur un monde
-    nomade. La saisie des attitudes des conducteurs anonymes et des passagers, objets,
-    et fragments de carrosseries sont révélateurs d'une appartenance à une sphère
-    culturelle et professionnelle, déductibles des seules apparences représentées.
-    \ \n Après une sélection de ses prises de vue, Aline Isoard retravaille les tirages
-    numériques et fait subir à leur couche pigmentaire des opérations manuelles pour
-    supprimer, aussi bien que pour les révéler, des détails, des éléments graphiques,
-    mais également afin d'atténuer des couleurs ou des contrastes.\n\n_Elle se dit
-    peintre, elle se dit photographe,_ 2019 (extrait)\n\n[Jacques Py, critique d’art](https://www.archivesdelacritiquedart.org/auteur/py-jacques
-    \"Jacques Py\")\n\nExposition du 6 au 30 Octobre 2021  \nVernissage 6/10/21 18H
-    \ \nOuverture Dimanche 10 Octobre 14H "
-- date: '2021-10-16T09:52:01.000+00:00'
-  categories:
-  - Interview
-  title: Interview Aline Isoard Auto-Fiction
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/A.ISOARDafficheQPN.jpg
-  content: '[Interview Aline Isoard](https://www.youtube.com/watch?v=IJa9MaLJCpQ "Aline
-    Isoard Quinzaine photographique nantaise")'
-- date: '2021-11-04T21:55:48.000+00:00'
-  categories:
-  - Exposition
-  title: Le présent du monde
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/gaia_le-brusq_2021.jpg
-  content: "# Jacques Le Brusq \n\nExposition Le présent du monde, peinture\n\nAu
-    commencement j'ai rencontré Jacques Le Brusq. Je ne connaissais rien de son travail.
-    \  \nNous parlions de la peinture, de la couleur.  \nNous parlions du métier de
-    galeriste,  \nNous parlions de l’art, de l’éducation, de la formation dans les
-    écoles.\n\nEt en parlant de tout, nous parlions de nous.\n\nAlors un jour il y
-    a eu une invitation, à voir pour regarder. Je me suis retrouvée assise dans un
-    salon où les toiles étaient prêtes à se montrer. Ce fût un moment délicieux, où
-    Jacques orchestra cette exposition comme une pièce de théâtre – ne dit-on pas
-    tableau pour parler de la scénographie d’une pièce ? - .\n\nTout le film de nos
-    échanges se redéployait, le chemin d’une vie libre et engagée traduit dans ses
-    peintures.\n\nJ’ai vécu ce moment intimement et intensément au présent, mais je
-    me projetais incessamment dans ce futur pour partager cette rencontre de Jacques
-    avec sa peinture.\n\nAvant ma deuxième rencontre avec ses œuvres, j’ai convoqué
-    mes souvenirs avec la nostalgie de la première fois.\n\nMaintenant je sais qu’il
-    n’ y a aucun regret de cette première fois, car c’est une peinture qui se réinvente
-    dès lors que nous sommes convoquées à les revoir.\n\nOui regarder une peinture
-    de Jacques, c’est comme prendre rendez-vous avec l’essentiel.\n\nSa peinture mérite
-    la lumière. Se faire happer par le tout, puis glisser vers les transitions chromatiques
-    vaporeuses et mystérieuses, se laisser envelopper. La peinture de jacques est
-    présente et éthérée.\n\nPas de figuration, mais la réalité de l’abstraction ,
-    la présence au monde.\n\nElisabeth Givre - Galerie Gaïa"
-- date: '2022-01-20T16:02:16Z'
-  categories:
-  - Exposition
-  title: Rétro Crade
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/AfficheGAIA-TOMA_220103-BAT.jpg
-  content: "[**Prolongation exposition jusqu'au 19 Février 2022**](https://galeriegaia.fr/artists/toma-l/
-    \"EXPO TOMA L\")\n\n**Rétro Crade Toma-L**\n\nCette exposition est née comme un
-    besoin de commencer l'année coûte que coûte. Avec cette conviction que les contraintes
-    d'organisation ne peuvent entraver cette nécessité de voir, de regarder, de participer,
-    de provoquer un télescopage entre nos vies quotidiennes et nos envies de vagabondage.
-    Une exposition c'est un **_manifeste_** pour stimuler nos émotions et créer ces
-    vibrations artistiques, ces **_étincelles_** essentielles à notre imagination.\n\nCette
-    mission je la confie pour la seconde fois à **Thomas Labarthe**.\n\nLe travail
-    de Thomas se nourrit du face à face avec les autres. Ami-e-s, relations, rencontres,
-    frictions sympathiques, confrontations de pensées, fêtes et musique en bande,
-    et tous ces manques de l'autre laissent des traces.  \nIl est donc question dans
-    les formes et les couleurs, de cette humanité qui nous caractérise et qui engage
-    le corps et l'esprit dans un sursaut vital.  \nCela provoque une nouvelle création,
-    des couleurs proches des éléments de terre de feu, d'eau et d'air et propose ainsi
-    une nouvelle écriture picturale.  \n**_Bonheur !_** Ses personnages, leurs pieds,
-    leurs poings et leurs mouvements sont toujours là en rétro-plan !"
-- date: '2022-03-23T12:10:30Z'
-  categories:
-  - Exposition
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/AAF_2022_BRU_04_CAM_story_v4withlogo.jpg
-  title: Bruxelles Affordable Art Fair
-  content: "# AFFORDABLE ART FAIR BRUXELLES \n\n**INVITATION OFFERTE PAR LA GALERIE**
-    \n\nObtenir un billet pour le [vernissage VIP](https://aafbrussels.seetickets.com/tour/affordable-art-fair-brussels
-    \"TICKET VIP\") du mercredi 23  \nmot de passe **G-GAIAVE limitée à 60 places**
-    \n\nObtenir un billet pour [le salon](https://aafbrussels.seetickets.com/tour/affordable-art-fair-brussels
-    \"SALON BRUXELLES\") du jeudi 24 au dimanche 27  \nmot de passe **G-GAIAGP limitée
-    à 150 places**"
-- date: '2022-03-31T12:08:10Z'
-  categories:
-  - Exposition
-  title: 'Marie Veyron Bathellier Natures à l''oeuvre '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/AFFICHE MARIE BATHELLIER GALERIEGAIA.jpg
-  content: |-
-    # **Marie Veyron Bathellier**
-
-    **Vernissage Jeudi 31 Mars 18H en présence de l'artiste.**
-
-    Marie Veyron Bathellier s'inspire de la nature jusqu'à faire corps avec elle. Au-delà du sujet dont elle se nourrit, elle utilise le végétal comme pinceau, la terre comme liant, les branches comme support, les ronces comme sculpture, l'eau de pluie pour diluer la matière qui subtilement se révèle sur le papier , la toile et le bois. Le chemin est aussi important que l’œuvre achevée. Exposition naturellement sensible.
-
-    Toile, papier, sculpture, installation
-- date: '2022-04-30T21:00:37Z'
-  categories:
-  - Exposition
-  title: Françoise Paressant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/Galerie Gaïa - Françoise Paressant A2 haute def.jpg
-  content: "**Rencontre avec l'artiste Jeudi 19 Mai à partir de 17H**\n\nJoyeuse et
-    talentueuse coloriste, [Françoise Paressant]() s'amuse des formes et des couleurs
-    pour rendre tous les supports vivants et vibrants. Reconnue internationalement
-    pour son talent de lissière elle nous propose des tapisseries contemporaines ainsi
-    que des collages papier sur toile.\n\nDeux tapisseries exposées proviennent de
-    [La Galerie Chevalier Parsua]() prêtées pour cette exposition. [Sonatine et Strada](https://galeriegaia.fr/artists/francoise-paressant-1/
-    \"galerie chevalier parsua\") \n\nDes œuvres de Françoise Paressant sont entrées
-    dans les collections du Musée des Arts Décoratifs Paris, et au Musée des Arts
-    de Nantes suite à une exposition en 1984."
-- date: ''
-  categories: []
-  title: Isthme - Absolu
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/Galerie Gaïa - Isthme A2 V2.JPEG
-  content: |-
-    **Vernissage Jeudi 2 Juin à 18h**
-
-    La peinture d[’Isthme](https://galeriegaia.fr/artists/isthme/) est une rencontre avec la lumière.
-
-    Une clarté qu’elle poursuit et collecte parfois dans les miroitements fluorescents d'une vague la nuit. Une quête du sublime qu’elle équilibre par la transparence et le geste.
-
-    Ce geste qui envahit tout, qui dépasse le souvenir du sensible et qui implique le corps sur la toile. Il se fait ample et généreux, se perd dans des abymes d’outremarins et de cramoisis, pourtant chaque ligne doit faire sens. Pour Isthme ses peintures sont des constructions plastiques et architecturales où la verticalité et la spontanéité sont essentielles.
-
-    La série montrée à la [Galerie Gaia](https://galeriegaia.fr) s’articule autour de deux pratiques, celle de la peinture dans laquelle on se perd, on plonge et l’on se laisse surprendre par une lumière qui transcende la matière. Celle du collage qui juxtapose différentes textures et différents bleus dans des compositions frontales.
-
-    [Isthme](https://galeriegaia.fr/artists/isthme/) (1963)
-
-    Diplômée de l’École des Beaux-Arts Appliquées Saydie Bronfman de Montréal. Elle vit et travaille à Nantes.
-
-    Sélectionnée plusieurs années dans les salons parisiens de Garches et Réalités Nouvelles, elle rejoint la [Galerie Gaia](https://galeriegaia.fr) en 2018.
-- date: '2022-07-04T22:00:00Z'
-  categories: []
-  title: 'Exposition Job '
-  content: "## Job peinture\n\nExposition - lundi 4 juillet 2022\n\nExposition Salle
-    à côté de la médiathèque Place du Marché à Pornichet  \nDu 4 au 16 Juillet 2022
-    \ \nJob est un artiste peintre qui nous aide à prendre le temps pour que nos souvenirs
-    apparaissent inondés par une lumière solaire et une palette de couleurs chaudes
-    comme le sable.\n\nLe cadrage est aussi important que les sujets saisis dans des
-    moments de vie discrets, simples et heureux. Tout en traits, perspectives et lignes
-    de fuite, la ville devient décors de cinéma propice à laisser notre imagination
-    raconter la suite de l’histoire.\n\nParfois il est juste bon de se laisser aller
-    à la douceur d’une atmosphère légère."
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/Affiche COM JOB PORNICHET.jpg
-- date: '2022-09-15T09:00:59Z'
-  categories:
-  - Exposition
-  title: Judith Wolfe Couleurs vitales
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/galerie-gaia-judith-wolfe-Lespots d'Angélique 10-150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002 .jpg
-  content: "**Judith Wolfe - Couleurs Vitales**  \n**Exposition 15 au 30 Septembre
-    2022  \nVernissage 15/09 18H**   \nJudith Wolfe a étudié avec le peintre John
-    Ferren au Queens College de New York puis avec Oskar Kokoschka à Salzbourg, avant
-    de s'installer à Paris en 1966.  \n D'abord influencée par les expressionnistes
-    européens, elle poursuit ses recherches graphiques dans son utilisation de couleurs
-    fortes et de coups de pinceau expressifs sur la toile ou sur papier.   \nEn 1976,
-    très impressionnée par les collages monumentaux de Matisse, Judith Wolfe entame
-    une série d'œuvres sur papier à grande échelle .Papiers arrachés, déchirés puis
-    à nouveau collés et assemblés, il y a là comme un symbole de fragilité mais aussi
-    de la légèreté et une indéniable vitalité.   \nAprès avoir maîtrisé la peinture
-    sur papier, elle complète et juxtapose maintenant ces bleus, rouges et jaunes
-    primaires avec les blancs du papier et les dessins à l'encre noire. À la fin des
-    années 90, des phrases et des morceaux de poèmes se sont glissés dans ses compositions.
-    \ \nLes œuvres récentes de Judith Wolfe questionnent notre course à la modernité
-    dans un monde des plus instable. Pourtant, ses œuvres, à travers son utilisation
-    vibrante de la couleur, renforcent un sentiment d'espoir."
-- date: '2022-10-06T09:00:33Z'
-  categories:
-  - Exposition
-  title: 'Pierre Tual '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/instagram_carousel-square.jpg
-  content: |-
-    # [Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/ "pierre tual")
-
-    Pierre Tual dialogue avec le vide, l’équilibre et la forme.
-
-    Sculpteur abstrait par excellence ses œuvres se composent d’axes, de plans et de courbes qu’il fait cohabiter. Il cherche, expérimente, questionne la matière et l’espace. Il recherche le point de tension, cet instant où le matériau cède et se laisse guider par sa main. Qu’il travaille l’acier Corten, la céramique ou le bronze, les plis organiques, les courbes délicates et les équilibres ténues sont inhérents au travail de Pierre Tual.
-
-    Les œuvres montrées à la Galerie Gaia s’articule autour de deux pratiques. Celle de la sculpture & celle peu connu du dessin et autres monotypes.
-
-    Pierre Tual
-
-    Diplômé de l’école des Beaux-Arts de Nantes et de l’École supérieur des Beaux-Arts de Paris. Il expose dès 1966 au Salon de la Jeune Sculpture à Paris, au Musée des Beaux Art de Nantes en 1977, au Centre Pompidou en 1982 pour l’exposition « In situ », puis à la Galerie de France en 1984. Ses sculptures s’exposent de New-York à Copenhague en passant par la Friche de l’Escalette à Marseille. Il rejoint la Galerie Gaia en 2019.
-
-    Texte : Ines Ben Brahim
-- date: '2022-10-27T11:54:14Z'
-  categories:
-  - Exposition
-  title: Georges Rousse & la QPN
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/G_ROUSSE_Instagram_1.jpg
-  content: |-
-    # Georges Rousse est un plasticien de l’espace fantasmé.
-
-    La rencontre d’un lieu à l’abandon est le point de départ de son acte créatif. La ruine, ce terrain propice à la poésie est questionné par la lumière puis par une forme simple. Pour arriver à créer les dimensions et les échelles qui révèlent l’espace, l’artiste esquisse des dessins préparatoires où ses formes courent le long des murs, des sols et des plafonds.
-
-    « Je visite un bâtiment. À un certain endroit, je m’arrête parce que je perçois dans l’espace des choses qui m’intéressent. Je vois la lumière. Je cherche souvent l’incidence de la lumière sur l’architecture. J’observe la complexité des volumes dans le lieu »
-
-    Son travail de croquis lui permet d’appréhender le lieu, support spatial de l’œuvre, qu’il ne s’interdit pas de modifier ou d’altérer. Mais, il lui permet aussi de percevoir son cliché photographique en devenir. Enfin, arrive la photographie, qui fige le lieu dans l’œuvre, cet espace qui lui continue son évolution, sa dégradation, ses poésies.
-
-    « Quand je réalise une œuvre j’en fait une photo, ça me plairait de m’arrêter avant et de rester dans la transformation du lieu. Ce serait un acte artistique gratuit. »
-
-    **QPN Ici et ailleurs …**
-
-    Le concept de territoire est d’abord habité par la notion d’appartenance, à un espace délimité par des frontières, à une culture ou encore à un patrimoine. Puis, très vite, il fait échos aux changements, aux transitions, aux envies de voyages. L’on quitte un territoire, par nécessité, par fantasme d’un ailleurs ou par gout d‘aventures. Le territoire est donc multiple, fluctuant, vaporeux et souvent politique.
-
-    A la Galerie Gaia les œuvres de George Rousse créée des paysages fantasmés, des territoires inconnus que seule sa photographie nous permet d’entrevoir.
-
-    Texte : Ines Ben Brahim
-- date: '2022-11-28T18:01:36Z'
-  categories:
-  - Exposition
-  title: 'Exposition Collective '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/Capture d’écran 2022-12-01 à 10.54.53.png
-  content: "Retrouvez en exposition collective et dans le [catalogue](https://galeriegaia.fr/catalogue/
-    \"catalogue galerie\")  \nles 9 artistes exposé-es en 2022\n\nToma-l  \nEdwin
-    Wide  \nMarie Bathelier  \nFrançoise Paressant  \nIsthme  \nJob  \nJudith Wolfe
-    \ \nPierre Tual  \nGeorges Rousse"
-- date: '2023-01-10T11:29:02Z'
-  categories:
-  - Exposition
-  title: Exposition Jean-François MOLLIERE
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/GAÏA_MOLLIERE_INSTA_1.jpg
-  content: "Une lumière, une atmosphère, un grain singulier.  \nJean-François Mollière
-    nous fait découvrir son intime perception des mégapoles et ses réalités fantasmées
-    des paysages désertiques.  \nUn ailleurs poétique, souvent mystérieux, sans aucun
-    doute le début de narrations cinématographiques.\n\nLa série montrée à la galerie
-    Gaïa s’articule autour de deux thématiques qui semblent s’opposer.  \nLa première,
-    architecturée et incarnée des grandes villes de l’Est américain, nous plonge dans
-    des vapeurs et des flottements intemporels.  \nLa seconde, désertique, chaude
-    et minérale de la Namibie, s’écarte radicalement des représentations classiques
-    de ces vastes paysages.\n\nQuelques contrastes qui doucement s’immiscent en nous
-    et stimulent l’onirisme.\n\nAuteur & photojournaliste indépendant, Jean-François
-    Molliere a collaboré à de nombreux ouvrages et magazines dans le domaine de l’art,
-    du sport, et de l’architecture.\n\nPremier Prix Ilford de la photographie Noir
-    et Blanc de l’année 1998  \nPrix Ilford 1996 et 2000  \nPrix de la photographie
-    urbaine de la MEP 2021 (Maison Européenne de la photographie) et du magazine Fisheye"
-- date: '2023-03-07T08:53:59Z'
-  categories:
-  - Exposition
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/GAIA-CARRÉ-INSTA.jpg
-  title: Exposition Laure Carré
-  content: |-
-    **VERNISSAGE JEUDI 9 MARS 18H**
-
-    Exposition du 7 au 25 Mars 2023
-
-    [**Laure Carré**](https://galeriegaia.fr/artists/laure-carre/ "Laure Carré") entre tous les matins dans son atelier là où les rêves sont encore chauds !
-
-    Méthodiquement elle installe ses toiles, prépare ses couleurs dans une ambiance de café-clope-musique. Ce qui se passe ensuite, dépasse l’intention consciente. Comme le dit Jacques le Brusq qui aime la peinture de Laure pour sa totale liberté : « ça peint ». Laure accepte ce qui arrive sur la toile et se plaît ensuite à vivre les vides, à installer les couleurs, à dessiner des contours pour faire apparaître des histoires où les repentirs deviennent des fantômes cachés. Onirisme par absence formelle de structure, pouvoir narratif déroutant avec des thèmes récurrents comme le cheval, les corps alanguis, des visages qui surgissent partiellement, acceptons de suivre l’artiste dans ce chambardement. Laure peint de la main droite ou de la main gauche non par facilité mais pour aller chercher soit des intentions soit des intuitions. Au passage il se pourrait bien que les formes qui surgissent se retrouvent tête en bas, non par seul hommage à Baselitz, mais aussi parce qu’ils flottent réellement.
-
-    Les œuvres présentées à la galerie se composent d’huiles sur toile, collages et dessins, souvenirs de paysages et de scènes intimes où l'artiste s’affranchit de la technique pour imposer la singularité de son geste.
-
-    Diplômée de Duperré, de la Parson School of New York et d'Olivier de Serre, Laure Carré expose dès ses débuts à New York, Paris et Tokyo. Son travail reconnaissable au premier regard, en fait une artiste dont vous garderez quelques réminiscences.
-- date: '2023-04-02T20:34:46Z'
-  categories:
-  - Exposition
-  title: 4eme Dimanche des Galeries de Art Galeries Nantes le 2 Avril 14H-18H
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/Flyer-A6-AGN-avril-2023_web (003)-1.jpg
-  content: "L'association Art Galeries Nantes organise son 4ème Dimanche des Galeries
-    \ \nDimanche 2 Avril de 14H à 18H  \nDes expositions, des concerts, des rencontres
-    et des galeristes qui vous accueillent pour partager leurs émotions artistiques
-    !"
+  - title: 2015 2023
+    date: 2023-05-03T22:00:00.000Z
+    categories:
+      - Exposition
+    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/4 AMI GAIÌ\x88A NVITATION RECTO.jpg"
+  - title: FRAGMENTS   PAYSAGES    Tangui Robert
+    date: 2020-12-06T11:38:00.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/visuelexpo_fragments-paysages_2.jpg
+    content: >
+      # Tangui Robert
 
+
+      Il y a tout juste 1 an, j'exprimais mon envie auprès de [Tangui
+      Robert](https://galeriegaia.fr/artists/tangui-robert/) de lui laisser le
+      champ libre pour installer son travail avec une seule contrainte :
+      **NANTES.**
+
+
+      Le terrain de jeu est immense, il restera comme **une réserve pour
+      d'autres chapitres.**
+
+
+      C'est donc donc dans ce périmètre de 1km ...ou presque (chut!), que Tangui
+      a arpenté ses bords de Loire, au point de s'imaginer dans une exploration
+      du bout du monde.
+
+
+      Ces méandres s'emmêlent avec des émotions de drapés croqués lors
+      d'escapades au Musée d'Arts de Nantes, le jeu de miroir semble si évident
+      !\
+
+      Croquis, dessins, gravures, formes et échantillons de nature...
+
+
+      Nous sommes heureux de vous proposer\
+
+      ces **Fragments Paysages** avec ce **Chapitre I de Chroniques** Nantaises.
+  - title: '"Il peint sur Nantes" Toma L 21 Mai 20 Juin 2020'
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/il-peint-sur-nantes-toma-l.jpg
+    content: >
+      [Télécharger le Catalogue de
+      l'exposition](https://galeriegaia.frhttps://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/toma-l/tomal_cataloguedesoeuvres_gaiagalerie_14avril2020.pdf
+      "catalogue Toma L")
+
+
+      L' Exposition est reportée , on se la garde bien au chaud pour en profiter
+      quand nous pourrons nous revoir tous ensemble.
+
+
+      Tomber par hasard sur le travail de Toma L est la plus belle des chutes!
+
+
+      Chuter c'est être arrêté de force, reprendre sa respiration par nécessité
+      avant de se remettre sur pied et comprendre là où l'on s'est fait mal.
+
+      Après coup, nous découvrons que la peinture de Toma L est un croche pied
+      facétieux du bonhomme qui malicieusement s'amuse de notre gamelle dans un
+      tintamarre incroyable de couleurs.
+
+      Nous pourrions aussi perdre pied dans les fonds blancs de ses lithos
+      maculées par ses contours de velours noirs ou ses flaques d'encre.
+
+      Mais dans chaque face à face avec une oeuvre de Toma L, il y a de toute
+      façon une histoire à tiroir à dé-nicher.
+
+
+      Ça tombe bien...
+
+      "Il peint sur Nantes", première exposition à la Galerie Gaïa  pour Toma L,
+      comme une pause à la maison, dans son pied à terre.
+
+
+      2015 - 2020  - 5ème saison  pour la Galerie Gaïa.
+
+
+      Votre fidélité sera infiniment précieuse
+  - title: Naïf et Trash Exposition Jean Paul FRIOL
+    date: 2021-01-16T10:21:06.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/friol-gravure-couleur-ea-1-8-1988-23x41cm.jpeg
+    content: >
+      **Un monde de passion:** peinture, vin, musique, tous les sens de manière
+      exacerbée …
+
+
+      Jean-Paul Friol est né en 1948 à Paris dans une famille dont les parents
+      sont férus de culture et d’art, et le familiarise à la peinture, la
+      sculpture la littérature. **L’art étant toutefois considéré comme un
+      loisir et non comme un métier,** sa mère l’oriente et le conditionne à
+      faire des études de médecine. Il se spécialisera en **chirurgie de la
+      main, et partagera sa vie entre ces deux amours, la science et l’art.**
+
+
+      Jean Paul Friol s’adonnera à la gravure au milieu des années 80. Il
+      s’efforce de travailler conjointement l**a luminosité du noir et blanc, le
+      contraste des formes et les jeux d’équilibre, générant mouvement et rythme
+      intemporel.**
+
+
+      **"Tous les objets que j’intègre dans mes tableaux ont une histoire. Et
+      même si je suis le seul à la connaitre, ce n’est pas l’important
+      puisqu’ainsi je leur donne une nouvelle existence »**.\
+
+      Jean- Paul Friol incarne ainsi l’enfant qui se joue d’un modelage
+      esthétique en mélangeant toutes ces matières, textures et anecdotes afin
+      de générer superposition, couches, rythme, poésie et de permettre une
+      unité dans la multiplicité.\
+
+      **«Quand je fais du collage c’est un peu comme si j’écrivais de la poésie
+      ».**
+  - title: Exposition inaugurale
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/exposition-inaugurale.jpg
+    content: |
+      Muriel CHENE sculptures
+      VALOTA peintures
+
+      *Du 04/09/2015 au 05/17/2015*
+  - title: Florence BANDRIER & Renaud ALLIRAND
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/florence-bandrier-and-renaud-allirand.jpg
+    content: |
+      Peintures Gravure et Encres
+      "Des écritures qui s'empreintent du visible à l'illisible ..."
+
+      *Du 05/21/2015 au 06/13/2015*
+  - title: Marianne ABOUGIT et Stéphanie BILLARANT
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/marianne-abougit-et-stephanie-billarant.jpg
+    content: |
+      Souvenirs de ces paysages ou paysages inventés, mondes oubliés ou rêvés...
+      Que voit on? Que veut on voir?
+
+      *Du 06/18/2015 au 07/04/2015*
+  - title: Michel BOUVET Affichiste et Jorj MORIN Peintre
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/michel-bouvet-affichiste-et-jorj-morin-peintre.jpg
+    content: >
+      Rencontre avec Michel BOUVET vendredi 4 septembre à partir de 18H
+
+      vente des sérigraphies numérotées et signées et coffrets rétrospective en
+      édition limitée
+
+
+      *Du 09/03/2015 au 09/05/2015*
+  - title: Corinne HERAUD & Sandrine PAUMELLE
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/corinne-heraud-and-sandrine-paumelle.jpg
+    content: |
+      vernissage jeudi 10 septembre 18H
+
+      *Du 09/10/2015 au 09/26/2015*
+  - title: Exposition Claude Francheteau
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/exposition-claude-francheteau.jpg
+    content: >
+      Présent le 9 octobre à la galerie Claude sera à nouveau présent le 16
+      octobre après midi à la galerie avec ses papiers et ses crayons. Vous
+      étiez nombreux vendredi dernier, alors il récidive!
+
+
+      *Du 10/08/2015 au 10/24/2015*
+  - title: Tony SOULIE
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/tony-soulie.jpg
+    content: |
+      vernissage jeudi 19 Novembre à 18H
+      des lithos, des aquatintes, et des peintures originales
+
+      https://www.youtube.com/watch?v=t6Et5ZKeUXY
+
+      *Du 11/19/2015 au 12/05/2015*
+  - title: Hasards pour Morgane
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/hasards-pour-morgane.jpg
+    content: >
+      En effectuant un don pour l'association Morgane, le hasard du tirage a
+      attribué aux 25 premiers acquéreurs une des 25 oeuvres originales sur
+      papier, réalisées spécialement par un des 25 artistes de la galerie.
+
+
+      Pour comprendre l'histoire de cet événement, les oeuvres ont été exposées
+      du 25 au 27 février avant dispersion, avec la vente caritative par tirage
+      au sort des 25 oeuvres.
+
+
+      Pour se souvenir de cette aventure un Livre coffret  "Hasards pour
+      Morgane" souvenirs des 25 oeuvres des 25 artistes a été éditée en édition
+      limitée à 250 exemplaires. Exemplaires encore disponibles à la galerie
+      40€.
+
+
+      http://assomorgane.fr/Partenariat-avec-GAIA.html
+
+
+      *Du 02/25/2016 au 02/27/2016*
+  - title: La Chambre 21 pour La Nuit des Galeries
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/la-chambre-21-pour-la-nuit-des-galeries.jpg
+    content: >
+      On dit que la curiosité est un vilain défaut, de notre point de vue, ce
+      serait tout le contraire ! Venez regarder par le trou de la serrure de la
+      Chambre 21 ! De l’extérieur et sous vos yeux, apparaitra une œuvre.
+      Installations, performances participatives avec un collectif de 5 artistes
+      jusqu'à 1h du matin.
+
+      Venez pour voir en live, pour participer, pour jouer, pour apprendre...
+
+
+      pour en savoir plus sur l'événement  http://www.chambre21.fr
+
+
+      *Du 04/21/2016 au 04/21/2016*
+  - title: La Chambre 21
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/la-chambre-21.jpg
+    content: >
+      Après le succès de la 1ere nuit des galeries, prolongation de l'exposition
+      La Chambre 21 jusqu'au 14 mai.
+
+      Découvrez le travail collectif et personnel :
+
+      peintures et photos de Stéphanie BILLARANT,
+
+      dessins et sténopés de Bruno DUMAS,
+
+      dessin et gravure de Sylvain DUBOIS ainsi que l'installation de VACCUM
+      CIRCUS
+
+      fresque au plafond de KAZY USCLEF
+
+      écritures en lumière de FLORENCE BANDRIER
+
+
+      NOCTURNE LE 12 MAI 19H 22H avec reprise d'une oeuvre éphémère
+
+
+      www.chambre21.fr
+
+
+      *Du 04/22/2016 au 05/14/2016*
+  - title: Nadja HOLLAND peintre Marianne ABERGEL sculptrice & céramiste
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/nadja-holland-peintre-marianne-abergel-sculptrice-and-ceramiste.jpg
+    content: |
+      rencontre avec les artistes samedi 28 Mai 15H
+
+      *Du 05/26/2016 au 06/11/2016*
+  - title: ST'ART UP 1ere Edition
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/start-up-1ere-edition.jpg
+    content: >
+      ST'ART UP c'est un rendez vous que je lance pour exposer une sélection
+      d'étudiants en arts plastiques et des autodidactes.
+
+      Donc venir voir leur exposition signifie :
+
+      ETRE CURIEUX
+
+      REGARDER AU DELA DE LEURS OEUVRES  DES JEUNES TALENTS
+
+      PENSER QUE L ART EST NECESSAIRE A NOTRE LIBERTE
+
+
+      Mathilde GUIHO photographie - Mikola MUDRYK peinture - Julie MAQUET
+      plasticienne - Mathieu WÜHRMANN peinture - Valentin LAMBERT peinture -
+      Eric BERIOT peinture
+
+
+      *Du 06/17/2016 au 06/24/2016*
+  - title: APHO  "là-bas"
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/apho-la-bas.jpg
+    content: >
+      Photographe et vidéaste nantaise, Adeline Moreau a suivi Kazy Usclef à
+      travers 4 pays d’Afrique, pendant l’étape de repérage des artistes qui
+      composent aujourd’hui l’exposition Grafikama (Service Peinture). En
+      parallèle d’APHA «Ici», le documentaire vidéo qui traite de l’intégralité
+      du projet, elle expose une série de photos prises pendant cette première
+      phase de travail dans les grandes métropoles africaines.
+
+      http://www.grafikama.fr/fr/category/artistes-fr/
+
+
+      *Du 07/01/2016 au 08/27/2016*
+  - title: Franco Salas Borquez installé dans le hall de la société Keran
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/franco-salas-borquez-installe-dans-le-hall-de-la-societe-keran.jpg
+    content: >
+      Le travail de Franco Salas-Borquez est le fruit de sa réflexion consciente
+      et inconsciente envers le monde et le caractère amorale de la nature, au
+      delà de la dichotomie du bien et du mal. C'est donc presque naturellement
+      et instinctivement que le peintre développe son travail à travers la
+      thématique de la mer déchainée.
+
+      Lorsqu’il peint, Franco fait appel à son intuition pour exercer des gestes
+      chargés de force et de tension. Sa liberté d’artiste s’exprime alors dans
+      toute cette révolte et peu à peu la mer prend vie, les vagues hurlent
+      telles des âmes. Ensuite, l’agitation créatrice laisse place à la
+      patience, telle une méditation qui permet de ressentir l’intensité de
+      l’instant. L’étape finale du tableau est une sorte de recommencement,
+      l’artiste se détache de ses peurs et de sa rigueur technique. Avec ces
+      derniers gestes, il dessine la force du vent qui libère la mer de sa
+      propre colère.
+
+      À travers le langage universel et poétique de l’artiste, on découvre la
+      peinture comme force créatrice et destructive où seule la beauté peut être
+      sauvée.
+
+
+      texte de  Nathalie Tatai-Pogioni
+
+
+      *Du 09/30/2016 au 12/02/2016*
+  - title: Clothilde Lasserre & Edith Basseville
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/clothilde-lasserre-and-edith-basseville.jpg
+    content: >
+      Parfois le geste du pinceau de Clothilde Lasserre semble se tordre de
+      plaisir.
+
+      Alors en installant les sculptures de fil d'acier d'Edith Basseville à
+      côté des toiles de Clothilde , on assiste à une échappée belle de ce
+      mouvement qui prend forme et vie dans les sculptures et mobiles d'Edith.
+
+      Magie des oeuvres qui lors d'une installation créent des dialogues et des
+      interactions poétiques.
+
+      Exposition à vivre sur place !
+
+
+      *Du 10/08/2016 au 10/29/2016*
+  - title: Mur d'essayage
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/mur-dessayage.jpg
+    content: >
+      9 expositions en 2016,
+
+      peut-être avez vous vu et pas pris le temps
+
+      peut-être n'avez vous pas vu une exposition
+
+      alors j'ai sélectionné pour vous dans la réserve de la galerie un choix
+      d'oeuvres des artistes présentés cette année
+
+      Et pour vous permettre d'apprécier je vous ai installé un "mur
+      d'essayage"...pour essayer
+
+      Tout simplement!
+
+      Dimanche 18 15H 19H
+
+      Lundi 19 Mardi 20 Mercredi 21 15H 19H
+
+      Jeudi 22 vendredi 23 11H 21H
+
+      Samedi 24 fermé
+
+
+      *Du 12/02/2016 au 12/31/2016*
+  - title: PHILIPPE LECOMTE
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/philippe-lecomte.jpg
+    content: |
+      Techniques mixtes sur papier et toile
+      Rencontre avec l'artiste samedi 28 de 16H à 19H
+
+      *Du 01/28/2017 au 02/25/2017*
+  - title: Rencontre Annick ARGANT & Jean Claude BREAT
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/rencontre-annick-argant-and-jean-claude-breat.jpg
+    content: |
+      Annick ARGANT sculptures et volumes
+      Jean Claude BREAT peintures
+
+      *Du 03/16/2017 au 04/15/2017*
+  - title: Exposition Argant et Bréat dans la galerie de l'entreprise Keran
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/exposition-argant-et-breat-dans-la-galerie-de-lentreprise-keran.jpg
+    content: |
+      *Du 03/31/2017 au 06/02/2017*
+  - title: Nuit des Galeries#2 TETE A TETE
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/nuit-des-galeries2-tete-a-tete.jpg
+    content: >
+      TETE A TETE
+
+      Ou L’Art du Portrait, à condition que ce soit le vôtre!
+
+      Le portrait suppose, raconte, transmet une histoire personnelle qui peut
+      se voir, se deviner et se ressentir avec autant de variations qu’il y a
+      d’artistes pour vous regarder. Peintres et photographes,
+
+      N. Holland, C.Francheteau et B.Dumas vous invitent à passer à l’acte en
+      acceptant d’oublier le selfie et de vous laisser portraiturer!
+
+      Dès 20h la galerie se transformera en atelier vivant où Françoise Boudier
+      réalisera sous vos yeux le buste d’un modèle installé confortablement dans
+      son fauteuil.
+
+      Plus qu’acteur, devenez sujet !
+
+      SAMEDI 8 Discussion conférence par Juliette EOCHE DUVAL avec les 4
+      artistes sur le Portrait aujourd'hui, pour quoi, quel sens, quelle
+      histoire ? Samedi 8 Avril 11H- 12H30
+
+
+      *Du 04/06/2017 au 04/08/2017*
+  - title: LE PORTRAIT
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/le-portrait.jpg
+    content: |
+      *Du 04/14/2017 au 04/15/2017*
+  - title: Francky CRIQUET "Comme à l'atelier"
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/francky-criquet-comme-a-latelier.jpg
+    content: |
+      *Du 05/04/2017 au 05/27/2017*
+  - title: START ' UP 2017
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/start-up-2017.jpg
+    content: >
+      ST'ART UP 2017 2eme Edition
+
+      ce rendez vous lancé en 2016  à des étudiants en arts plastiques et des
+      autodidactes que je sélectionne d'exposer pour une 1ere fois en galerie.
+
+      Venez voir
+
+      et pourquoi pas
+
+      acquérir une  oeuvre d'un  pour les soutenir
+
+
+      ETRE CURIEUX
+
+      REGARDER AU DELA DE LEURS OEUVRES  DES JEUNES TALENTS
+
+      PENSER QUE L ART EST NECESSAIRE A NOTRE LIBERTE
+
+
+      *Du 06/29/2017 au 07/01/2017*
+  - title: TANGUI ROBERT
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/tangui-robert.jpg
+    content: |
+      *Du 07/12/2017 au 08/31/2017*
+  - title: Go Segawa
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/go-segawa.jpg
+    content: |
+      *Du 09/07/2017 au 09/23/2017*
+  - title: Damien Hamon & Tangui Robert chez KERAN
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/damien-hamon-and-tangui-robert-chez-keran.jpg
+    content: |
+      artistes permanents et visibles à la galerie
+
+      *Du 09/26/2017 au 11/24/2017*
+  - title: Xavier Jallais "Automorphie"
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/xavier-jallais-automorphie.jpg
+    content: |
+      Vernissage jeudi 5 à partir de 18H
+
+      *Du 10/05/2017 au 10/21/2017*
+  - title: Claude FRANCHETEAU
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/claude-francheteau.jpg
+    content: |
+      VERNISSAGE CAFE PHILO
+      AVEC CLAUDE BAZELIS
+      VENDREDI 24 NOVEMBRE 19H
+
+      *Du 11/24/2017 au 12/16/2017*
+  - title: MAXIME LUTUN VENTE PRIVEE
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/maxime-lutun-vente-privee.jpg
+    content: |
+      SCULPTEUR DE LUMIERE
+      vente privée 18H 21H
+
+      *Du 12/01/2017 au 12/03/2017*
+  - title: Images de Ryszard Swierad 25/01 - 17/02 "Ce que je crois voir"
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/images-de-ryszard-swierad-2501-1702-ce-que-je-crois-voir.jpg
+    content: >
+      "Ce que je crois voir" c'est un trouble devant la matière qui efface le
+      réel de l'image que notre oeil comprend d'instinct, mais très vite on
+      s'échappe du réel pour se raconter une histoire, un film, les oeuvres de
+      Rych'o donne envie d'écrire la suite
+
+
+      *Du 01/25/2018 au 02/17/2018*
+  - title: Laure Carré
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/laure-carre.jpg
+    content: >
+      Il n’y a rien d’éponyme dans les formes que LAURE nous offre dans son
+      travail sur toile, pas même dans ses collages-dessins. En apparence !
+      Ainsi l’énergie circule  vite et amplifie les mouvements tout en courbe
+      mais s’arrête net. Si carré il y a ce n’est pas pour la forme mais pour
+      son exigence vis-à-vis de sa toile.
+
+
+      Là n’est pas le premier paradoxe chez cette artiste lumineuse qui impose
+      des sujets troubles où la solitude s’accompagne d’un double de soi qui
+      parfois ne l’est pas. Rêves et fantômes sont invités à participer au
+      présent sans aucun effacement.
+
+      Laure est solaire car elle se laisse faire par son geste et donc elle ne
+      résiste pas, il n’y a pas de lutte entre elle et sa toile mais les états
+      dans lesquels elle laisse ses personnages nous amènent à nous en occuper.
+      Elle nous les confie, à condition d’en prendre soin.
+
+      Impossible de laisser ces personnages seuls dans ces situations et vu le
+      choix des couleurs, même si Laure se défend de toute histoire à nous
+      raconter, il va bien falloir que nous en parlions, car tout est sans
+      dessus dessous.
+
+      Alors si on pense à Bazelitz, si une époque les mains de Egon Schiele
+      s’imposaient, nous sommes actuellement dans une période de grande liberté
+      créative ou Laure emprunte avec respect à ses icônes de la peinture.
+
+
+      Et ainsi va cette vie « c’est vrai et pourquoi pas ! », rien ne la
+      contrarie Laure quand on regarde son travail, son atelier - car elle
+      travaille tout le temps - c’est pour nous, pour ceux qui aiment la
+      regarder, pour ceux qui la découvrent et s’étonnent. Devant autant de
+      toiles il ne faut agir, mais se laisser faire et cheminer vers l’une
+      d’elle.
+
+      C’est comme cela que je me retrouve avec une sélection que je ne peux
+      montrer en une seule fois. Donc Jeudi 5 Avril je fais un 2ème accrochage!
+
+      L’expo dans l’expo, on met la galerie à l’envers pour finir au Carré
+      Madame Laure en vous souhaitant un très bel anniversaire !
+
+
+      Elisabeth GIVRE
+
+
+      *Du 03/23/2018 au 04/14/2018*
+  - title: Pierre Muckensturm & Go Segawa
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/pierre-muckensturm-and-go-segawa.jpg
+    content: |
+      installation située chez KERAN 4 rue Viviani à Nantes
+
+      *Du 03/29/2018 au 05/18/2018*
+  - title: Nuit des Galeries#3 No limit
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/nuit-des-galeries3-no-limit.jpg
+    content: >
+      " 140 caractères minimum "
+
+      4 artistes vous proposent 1 oeuvre photo. No limit, selon votre
+      inspiration vous écrivez la suite & vous partagez sur Facebok et Instagram
+
+      Artistes : Neil RATNAVIRA  Eric MARAIS RYCHO Dimitri ROUBICHOU
+
+      Lors des premières Nuit des Galeries j'ai observé combien le public de
+      tout âge aimait participer, en dessinant, jouant, posant pour leur
+      portrait.
+
+      Cette année je souhaite explorer des contraires dans les codes de notre
+      société tout en les utilisant.
+
+      1er contraire : 1 seule oeuvre à regarder par artiste plutôt qu'une
+      PROFUSION +/- =UNIQUE
+
+      2eme contraire : rien ne presse, rien d'URGENT   +/- = PRENDRE LE TEMPS
+
+      3eme contraire : dire ce qu'une oeuvre nous inspire avec ses mots plutôt
+      que de réduire ses émotions à des EMOTICONS +/- = RACONTER DES HISTOIRES
+
+
+      A disposition : papiers-crayons version XIXeme siècle , machines à écrire
+      vs XXeme, tablettes vs XXIeme siècle.
+
+
+      Chaque artiste de manière totalement  subjective choisira le texte sur son
+      oeuvre afin d'offrir 4 PASS du MUSEE DES ARTS DE NANTES
+
+
+      *Du 04/19/2018 au 04/19/2018*
+  - title: L'hallucination simple Patrick Gueguen
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/lhallucination-simple.jpg
+    content: >
+      Texte de son ami Roland HALBERT qui sera en signature de son livre
+
+      samedi 23 juin à 14H
+
+
+      ***
+
+
+      La peinture de Patrick Guéguen : « art brut » ? « art ethnique » ? « art
+      singulier » ? Quand on a prononcé ces formules magiques de la critique, on
+      n’a pas dit grand-chose. Il y a fort à craindre que ce soient là des
+      dénominations commodes et des classifications trompeuses qui empêchent de
+      voir en profondeur. Rimbaud vous éclaire davantage sur ces tableaux
+      lorsqu’il évoque l’hallucination simple : « Je m’habituai à
+      l’hallucination simple. » (Alchimie du verbe). Et nul besoin de
+      stupéfiants pour susciter ce regard vrillant, cette vision d’affût qui
+      transperce les apparences et traverse les modes. Vous habituer à
+      l’hallucination simple revient à échanger vos écrans opaques contre le
+      microscope-télescope Hubble. Alors, commence l’atelier des dieux et se
+      réinvente la création du monde avec l’écarquillement lyrique de l’œil
+      plongé dans l’aquarium astral ou happé par le fourmillement de la vie
+      terrestre.
+
+      ...suite du texte disponible à la galerie et sur demande
+      contact@galeriegaia.fr
+
+
+      *Du 06/09/2018 au 06/30/2018*
+  - title: 40 ans d'Histoire d'Art Anniversaire Galerie Gaïa
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/40-ans-dhistoire-dart.jpg
+    content: >
+      Il y 3 ans Norbert Marsal me confiait les précieuses clés de ce lieu .
+      Mais savez vous que l'histoire a commencé en 1978 ?
+
+      Allez... venez rafraîchir la mémoire de vos émotions le 21 juin à 18h...
+      visiteurs d un jour, clients de toujours, passants qui passent en se
+      disant "pas le temps maintenant mais c est vraiment bien cette galerie" et
+      bien entrez et partageons vos Histoires de ce lieu qui vous appartient.
+
+      4 artistes préparent 2 serigraphies inédites qui seront disponibles en
+      exclusivité :
+
+      Le collectif Au Seuil avec Jeronimo Gaëtan Chevrier Tangui Robert, et
+      Boris Jakobek
+
+      L'exposition de leurs oeuvres durera jusqu'au 28 juillet.
+
+
+      *Du 06/21/2018 au 07/28/2018*
+  - title: KAZY installée chez Keran
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/kazy-installee-chez-keran.jpg
+    content: >
+      Keran 1 Rue Viviani Nantes
+
+      ouvert au public de 9H à 12H & 14H à 18H du lundi au vendredi
+
+      Du mur à la toile...
+
+
+      Le chat au pied de Trempolino à Nantes, la Villa Occupada pour le Voyage à
+      Nantes, des murs à Casablanca, Istambul, Johannesburg, Shanghai, Tokyo,
+      Hong Kong...
+
+      Comment un graffeur habitué aux grands espaces bruts peut-il nous
+      embarquer dans ses histoires ?
+
+
+      L'émotion n'a pas d'échelle et ne se commande pas, c'est avec un esprit
+      libre que Kazy Usclef nous dévoilera ses toiles pour l'exposition Keran.
+
+      Laissez-vous embarquer !
+
+
+      *Du 07/04/2018 au 09/07/2018*
+  - title: La galerie est ouverte tout l'été
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/la-galerie-est-ouverte-tout-lete.jpg
+    content: |
+      *Du 07/07/2018 au 08/31/2018*
+  - title: 4eme Open International de Squash de Nantes
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/4eme-open-international-de-squash-de-nantes.jpg
+    content: >
+      A la rentrée c'est promis je fais du sport !
+
+      Oui mais où ?
+
+      Et bien au théâtre Graslin ...
+
+      Ils sont vraiment  fous ces nantais !
+
+      Là ce n'est plus un pas de côté c'est du grand éc-art !
+
+      Du 5 au 9 septembre
+
+      Suivez nous avec la galerie Gaïa partenaire de cet événement totalement
+      décalé où sport et culture se mélangent si bien :
+
+      Pour le 4ème opus  Tangui Robert va effectuer un marathon de 5 jours avec
+      1 croquis réalisé chaque jour, édité dans la nuit pour une exposition à
+      J+1 !
+
+      Attention cette édition se limite à 20 exemplaires
+
+      achat sur place au Théâtre Graslin - ou réservation Galerie Gaïa - 20€
+
+      Les derniers billets (succès oblige il n'en reste pas beaucoup...) sont en
+      vente auprès de PSA Open International Squash Nantes.
+
+
+      https://www.youtube.com/channel/UCKwY-uJEvEXsHBynYNy2kfg
+
+
+      *Du 09/05/2018 au 09/09/2018*
+  - title: '"Découverte de Talents" Neil Ratnavira'
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/decouverte-de-talents.jpg
+    content: >
+      Partenaire chez Cinna Nantes, la Galerie Gaïa propose de faire découvrir
+      le talent de Neil Ratnavira, artiste peintre et aussi photographe de rue.
+
+      Son énergie très contrôlée se retrouve libérée dans ce travail sur toile &
+      papier où les couleurs s'étalent avec force spontanéité, mais le geste est
+      très maitrisée.
+
+      Fin observateur de la gestuelle picturale de Franz Kline  cet artiste
+      américano-srilankais et installée en France il y a deux ans, nous propose
+      une prolongation contemporaine de cet univers très expressif.
+
+      Neil Ratnavira réalisera plusieurs toiles sur place avec encres & pinceaux
+
+
+      *Du 10/04/2018 au 10/04/2018*
+  - title: Keran accueille Gianni BASSO
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/keran-accueille-gianni-basso.jpg
+    content: >
+      REALITE OU ABSTRACTION?
+
+
+      Croire ce que l on voit ou douter.
+
+      Faire confiance à son intuition ou hésiter.
+
+      Toutes ces émotions sont provoquées par la proposition photographique de
+      Gianni BASSO.
+
+      Glisser, plonger dans ses eaux énigmatiques, c est comme initier un voyage
+      presque familier.
+
+
+      *Du 10/16/2018 au 12/14/2018*
+  - title: Georges ROUSSE Photographe plasticien
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/georges-rousse-photographe-plasticien.jpg
+    content: >
+      Pour faire écho à l'exposition Polygones qui a lieu au musée DOBREE à
+      Nantes
+
+      la galerie Gaïa vous propose une sélection de 7 photographies en édition
+      limitée à 10 exemplaires
+
+
+      https://grand-patrimoine.loire-atlantique.fr/jcms/l-agenda/les-expositions/2019-georges-rousse/polygones-exposition-de-georges-rousse-fr-p2\_314968
+
+
+      *Du 02/07/2019 au 03/09/2019*
+  - title: ISTHME
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/isthme.jpg
+    content: >
+      peinture et collage - estampe
+
+      "Quand la peinture  vient des moments passés en mer, la nuit, quand le
+      monde est ombre géante, voie lactée et frémissement de lumière, quand se
+      révèlent toutes les nuances de bleus, alors le voyage de la matière sur la
+      toile sublime la rencontre de l’eau et du ciel."
+
+
+      *Du 06/06/2019 au 06/29/2019*
+  - title: Vagabondage avec Elisabeth WADECKI
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/vagabondage-avec-elisabeth-wadecki.jpg
+    content: >
+      A propos de la peinture d’Elisabeth Wadecki
+
+
+      Proust disait « écrire pour éclaircir la vie ».
+
+      On pourrait dire de même de la peinture d’E.W. Sa peinture est lumineuse.
+      L’artiste dit avancer sur son chemin, sereinement, partant de rien et vers
+      nulle part, avec comme seule quête, nécessité, cette route, l’acte de
+      créer et d’être présente à la vie.
+
+      Les traces laissées sont ce que cette artiste recueille de la
+      transformation constante de la nature et de la fugacité des éléments.
+
+      L’acte pictural ne relève pas chez elle d’une projection mais elle garde
+      la trace d’une circulation entre sujet et monde.  Au carrefour du temps et
+      de l’espace, elle fixe sur la toile quelque chose des petites bulles
+      décrites par Proust. Sa peinture n’illustre pas elle est la sensation de
+      sa propre réalisation.
+
+      Cézanne a apporté à HantaÏ l'assurance que la voie de la peinture moderne
+      consistait dans l'expression par la couleur. La force de la couleur peut à
+      elle seule donner à la forme sa plénitude et rendre compte de la
+      construction du monde. Cézanne lui a également apporté l'évidence que la
+      voie du moderne en peinture passait par l'aménagement de blanc aussi
+      important que les zones peintes et que l'ensemble peint et non peint
+      pouvait et devait s'agencer en un plan respirant dont pas un point ne
+      s'enfonce.
+
+      E.W. peut faire sienne cette position picturale. L’espace blanc, « vide »
+      dans la peinture de cette artiste, n’est pas quelque chose de vague ou
+      d’inexistant mais un élément dynamique et agissant. Il est le lieu de
+      non-dits et donc de tous les possibles. Ce « rien » relie l’espace peint à
+      un monde invisible, il vise la
+      plénitude.                                                      C’est
+      peut-être un état vers lequel tend cette peinture. Comme l’explique
+      François Cheng dans « Vide et plein, le langage pictural chinois » ce «
+      vide » constitue sans doute le lien par excellence où la forme, la couleur
+      ou le « plein » serait à même d’atteindre cette vraie plénitude.
+
+      La peinture d’E.W. provoque une ouverture de perceptions, une
+      sollicitation des sens, outre la vue, où se joue une incorporation du
+      réel, une union entre le corps, le sujet, et le monde qui l’entoure.
+      Partout, le geste de l’artiste semble dans son élan, sa variété, capter
+      les souffles qui animent l’univers. Il s’arrondit, s’allège et se
+      fragmente en touches denses ou fluides, s’effiloche pour mieux épouser
+      l’essence cachée des choses.
+
+      Sa peinture garde la trace d’un frémissement à travers le temps, comme si
+      l’œil du peintre n’avait capté que l’essence même du réel, tel un
+      calligraphe qui, dans la vitalité et l’immédiateté de son geste, jette ça
+      et là un jaune moisson, un vert lentilles d’eau, un rose ou un
+      terre-de-sienne d’argile, et prend son envol dans l’espace subtil d’un
+      blanc mat, ou celui d’un bleu crépusculaire...
+
+      Où il n’est question que de notre « être au monde… »
+
+
+      *Du 07/05/2019 au 07/27/2019*
+  - title: C'est ouvert tout l'été
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/cest-ouvert-tout-lete.jpg
+    content: >
+      La galerie est ouverte du jeudi au samedi 11H 19H SAUF LES 1ER - 2 - 3 -
+      15 AOUT 2019
+
+
+      *Du 07/28/2019 au 08/31/2019*
+  - title: Dessin et Peinture de Philippe LECOMTE
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/dessin-et-peinture-de-philippe-lecomte.jpg
+    content: >
+      VERNISSAGE VENDREDI 8/11 18H - 20H
+
+      Sélection de dessins et toiles, une abstraction qui n'en est pas une, la
+      seule condition pour le savoir est de prendre son temps devant chacune et
+      de se laisser faire et faire confiance à son instinct. La couleur fera le
+      reste.
+
+      L'exposition se clôture le DIMANCHE 24 NOVEMBRE de 13H à 18H dans le cadre
+      de l'évènement "Les galeries, le dimanche" organisé par l'association Art
+      Galeries Nantes.
+
+
+      *Du 11/07/2019 au 11/24/2019*
+  - title: De l'art ou du bacon? Discussion débat
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/de-lart-ou-du-bacon.jpg
+    content: >
+      DIMANCHE 24 NOVEMBRE dernier jour de l'exposition de Philippe LECOMTE. Ce
+      sera l'occasion de causer avec vous de l'état de la critique d'art.
+      Comment parler d'art aujourd'hui, avec la présence de Louis Raimond
+      journaliste
+
+
+      *Du 11/24/2019 au 11/24/2019*
+  - title: 'Les galeries, le dimanche 24 Novembre'
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/les-galeries-le-dimanche-24-novembre.jpg
+    content: >
+      Dans cette invitation, la virgule est importante !
+
+      En effet, elle initie le temps d’une pause, le temps d’une déambulation,
+      le temps du regard
+
+      qui sourit à ce qui se propose, le temps qui permet d’envisager un après
+      en l’occurrence la
+
+      Nuit des Galeries #4 en 2020 !
+
+      En cet après-midi du dimanche 24 novembre, l’occasion sera pour les
+      fidèles de nos lieux,
+
+      aux amoureux-curieux d’artistes de franchir le pas de nos portes, de
+      re-découvrir nos
+
+      galeries et nos lieux et surtout les artistes que nous y accueillons avec
+      toujours autant de
+
+      bienveillance et la volonté insensée – mais si grisante - de leur
+      promotion et diffusion !
+
+
+      *Du 11/24/2019 au 11/24/2019*
+  - title: Fêtes - Art 2019
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/fetes-art-2019.jpg
+    content: |
+      Des idées cadeaux à partir de 20€ suivez Instagram et Facebook
+      Une idée par jour dans le calendr-idées suivez Instagram et Facebook
+      Retrouvez ces idées dans l'onglet Artiste Fêtes-Art
+      Des bons cadeaux
+      Livraisons offertes
+      OUVERTURES SPECIALES EN DECEMBRE 2019
+      Ouvertures du lundi 2 au lundi 23 de 11H - 19H
+      Ouverture les dimanches 8 - 17 - 22 /12 de 15H à 19H
+
+      *Du 12/02/2019 au 12/23/2019*
+  - title: Polymorphie Jorj Morin
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/polymorphie-jorj-morin.jpg
+    content: >
+      L'exposition POLYMORPHIE  c'est le désir de faire découvrir à ceux qui ne
+      connaissent pas l'artiste nantais Jorj MORIN, comme il est passionnant de
+      regarder un artiste se confronter à des supports différents  qui offrent
+      des contraintes jubilatoires.
+
+      Découvrir ses peintures, ses gravures mais aussi des gouaches, des stèles
+      et des tapisseries, où la ligne claire et la palette de couleurs nous font
+      intimement vibrer.
+
+
+      *Du 01/16/2020 au 02/01/2020*
+  - title: Exposition à Pornichet
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/20200827_001459.jpg
+    content: |
+      Lieu d'exposition sur rendez-vous, contactez moi au 02 40 48 14 91
+  - title: 'Paris - Salon fotofever - Carrousel du Louvre 12 au 15 Novembre '
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/flyerverso-galerie-gaia-fotofever.jpg
+    content: >
+      # Galerie Gaia Fotofever
+
+
+      **Embarquez pour un tour du monde la photographie contemporaine!**
+      fotofever accueille au Carrousel du Louvre, au cœur de Paris, **50
+      galeries et éditeurs dont la Galerie Gaïa** présentant le meilleur de la
+      scène photographique contemporaine avec 150 artistes exposés
+  - title: '"Ensemble" exposition photos de Jean-François Mollière'
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/flyerrecto-galerie-gaia-molliere.jpg
+    content: >
+      # Jean François Mollière
+
+
+      Ouverture de la [QPN ](https://www.festival-qpn.com "QPN NANTES
+      ")Quinzaine Photographique Nantaise sur la thématique de "ENSEMBLE".
+
+
+      [Jean-François
+      Mollière](https://galeriegaia.fr/artists/jean-francois-molliere/ "jean
+      francois molliere ") réunit l’infiniment sensible blottit dans de grands
+      ensemble urbains qui pourraient paraître hostiles.
+
+
+      Sa traque de l’instant se fait patiemment, à l’abri, et son travail
+      ambitionne de réunir l’unité de temps à l’unité de lieu pour créer un
+      ensemble qui nous parait familier par sa photogénie cinématographique.
+      Tout est minutieusement attendu pour créer avec les hasards des mouvements
+      et de la lumière, une histoire digne d’un scénario de grands studios.
+
+
+      Que dire aussi de ces individus en composition avec leur milieu, dans un
+      métro, une salle de classe ou un restaurant. Cela nous ramène à cette
+      notion du « je » avec les autres qui forme intuitivement un ensemble et
+      invente un corpus qui nous dépasse.
+
+
+      Cette notion de la dualité dans un ensemble est réellement sensible dans
+      les différentes séries de [Jean-François
+      Mollière.](https://galeriegaia.fr/artists/jean-francois-molliere/ "jean
+      farncois moliere")
+  - title: Peinture fraîche...Chantier en cours !
+    date: 2021-01-29T10:28:33.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/galerie-gaia-galerie-art-nantes-chantier.jpg
+    content: >
+      Depuis 2015 les expositions et vos visites ont fait vibrer ce lieu !\
+
+      Cela mérite bien quelques travaux pour être encore plus beau pour sa
+      réouverture en Mars 2021.
+
+
+      Durant le mois de Février vous pouvez sélectionner des œuvres dans le
+      Catalogue que je peux vous livrer à domicile pour faire votre choix.
+
+
+      A très vite et suivez nos actualités sur Instagram galeriegaianantes
+  - title: Interview de Isthme
+    date: 2020-11-02T16:10:55.000Z
+    categories:
+      - Interview
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/atelier_isthme_19_12_hd_05.jpg
+    content: >
+      [Interview par Elisabeth Givre dans l'atelier de
+      Isthme](https://www.youtube.com/watch?v=lwznot2FJRs "Interview de Isabelle
+      Thoams ")
+  - title: Interview de Laure Carré
+    date: 2020-11-02T16:05:35.000Z
+    categories:
+      - Interview
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/galeriegaia-laurecarre-portrait-artiste.jpg
+    content: >
+      [Interview par Elisabeth Givre dans l'atelier de Laure
+      Carré](https://www.youtube.com/watch?v=_yZm3PLM4Z4\&t=4s "Interview Laure
+      Carré")
+  - title: En Février visitez des ateliers d'artistes
+    date: 2021-03-05T23:00:00.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/galerie-gaia-fevrier2020.jpg
+    content: >
+      # Visite d'ateliers d'artistes de le Galerie Gaia Nantes
+
+
+      Nous vous proposons durant ce mois de **Février et les vacances
+      scolaires**\
+
+      une **,**\
+
+      pour vous permettre de découvrir leur travail dans leurs lieux chargés
+      d'histoires...
+
+
+      **Feuilletez le Catalogue** des artistes de la Galerie et contactez moi\
+
+      pour que **je vous organise une visite privée** pour vous et/ou des
+      proches dans la limite de 6 personnes. Les **enfants et adolescents** sont
+      fortement bienvenus, il y a des rendez-vous à ne pas manquer avec la
+      jeunesse.
+
+
+      Cette escapade artistique sera **un moment personnel et privilégié** pour
+      échanger tranquillement avec l'artiste dont l’œuvre vous intrigue et ainsi
+      vivre des émotions singulières qui resteront indélébiles.
+
+
+      Ateliers et artistes prêts à vous accueillir :
+
+
+      [Isthme ](https://galeriegaia.fr/artists/isthme/ "isthme isabelle
+      thomas")- [Toma L](https://galeriegaia.fr/artists/toma-l/ "thomas l toma l
+      thomas labarthe") - [Olivier Frémont]() - Laure Carré - Elisabeth Wadecki
+      - Kazy Usclef - Franco Salas Borques - Nadia Barbotin-Sébastien Bouchard -
+      Françoise Paressant - Pierre Tual...
+  - title: 'Artefacts Edwin Wide Exposition Peinture '
+    date: 2021-03-11T20:22:49.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/CartonArtefactRecto.jpg
+    content: >
+      # Edwin Wide "Artefacts"
+
+
+      [Artefact en Sciences
+      naturelles](https://www.larousse.fr/dictionnaires/francais/artefact/5512
+      "edwin wide artefact") : phénomène d'origine artificielle ou accidentelle
+      qui altère une expérience portant sur un phénomène naturel.
+
+
+      Artefact en anthropologie : produit ayant subi une transformation, même
+      minime, par l'homme et qui se distingue ainsi d'un autre provoqué par un
+      phénomène naturel.
+
+
+      Artefact en **photographie**, électronique et informatique : élément
+      indésirable ou défectueux.
+
+
+      **Et Artefacts pour Edwin Wide ?**\
+
+      C'est le résultat de ce merveilleux entêtement pour les fragments
+      d'histoire d'hommes, de femmes, d'enfants qui s'incarnent dans une photo
+      d'identité, trouvée par hasard au sol dans nos villes-ruines modernes. Et
+      le processus recommence, chacune de ces images naturelles, redevient
+      création par un phénomène d'altération picturale imaginée par Edwin Wide.
+      Une autre Histoire commence, une autre image se construit subtilement sous
+      nos yeux, un visage apparaît. Altération, transformation, le défaut comme
+      une provocation ingénieuse plantée sous nos yeux par l'artiste pour nous
+      émouvoir subtilement.
+  - title: Wave week-end arts visuels 28 29 30 Mai 2021
+    date: 2021-05-28T15:48:59.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/wave_150dpi-01
+      (1).png
+    content: >
+      Non - Habitants\
+
+      La Galerie Gaïa accueille en résidence 3 étudiants de l'Ecole des Beaux
+      Arts de Nantes afin qu'après cette longue période de retrait forcé ils
+      puissent travailler, montrer, échanger sur leurs pratiques respectives.
+
+
+      Ainsi chacun s'installe pour 3 jours avec son bureau de travail, son
+      matériel et ses envies d'évoquer leur rapport à la ville, à l'espace de
+      vie et à la galerie.
+
+
+      Simon Bousquet - sculpture béton
+
+
+      Basile Collet - installation végétale
+
+
+      Edwin Blandin - dessin
+  - title: Jean-Michel Nicolau "S'il reste des silences"
+    date: 2021-06-24T16:05:09.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/s'il
+      reste des silences Couv .jpeg
+    content: >
+      # Jean Michel Nicolau
+
+
+      Exposition de photographie du jeudi 24 au samedi 26 Juin 2021\
+
+      Livre tiré à 300 exemplaires disponibles à la galerie et Librairie
+      Coiffard et Durance et chez l'éditeur Art3 Plessis.
+
+
+      "S'il reste des silences" est un livre de photographies qu'au-delà de sa
+      méticuleuse préparation, Jean-Michel Nicolau s’apprêtait à nous dévoiler
+      avec générosité mais surtout avec une exigence toute particulière.
+
+
+      Le samedi matin, je recevais leur visite avec Jacqueline Pécantet, ils
+      allaient ou revenaient du marché, et pendant que je discutais des
+      nouvelles céramiques ou gravures de Jacqueline, Jean-Michel se penchait
+      sur les œuvres d'autres artistes de la galerie. Quand je dis qu'il se
+      penchait, je devrais dire il plongeait car il aimait  aller chercher loin
+      au-delà des apparences et de la surface. Sa voix ensuite traduisait cette
+      émotion pour croiser l'intention et le résultat. Si la bienveillance était
+      une marque de respect , précis était son analyse.
+
+
+      Je vous laisse découvrir l'exposition que nous accrochons en sa mémoire
+      avec Jacqueline Pécantet qui sera présente pour vous raconter ces images.
+
+
+      Je vous préviens je n'ai pas souvent vu une qualité de photographie en
+      noir et blanc aussi subtile, une envie irrésistible de toucher le papier
+      car on sent une matière irisée qui frôle la surface et transforme l'image.
+      Un résultat obtenu grâce à une très étroite collaboration avec un
+      imprimeur génial qui a même décidé de nommer ce noir le Noir Nicolau.
+
+
+      Tout n'est pas dit, et vous n'avez encore rien vu !
+  - title: 'Tangui Robert Chroniques Nantaises '
+    date: 2021-07-01T16:36:34.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/invitationTR1.jpg
+    content: >
+      # Tangui Robert
+
+
+      ### Fragments paysages - Chroniques Nantaises
+
+
+      Tangui Robert arpente les berges de Loire, serpente dans les couloirs du
+      musée des Arts, fragmente ses carnets pour mélanger croquis et
+      photographies.\
+
+      Si certains  paysages et architectures qu'il nous montre font partie de
+      nos déambulations, Tangui a ce talent pour les scruter, les détailler et
+      les denteler comme un orfèvre. Les drapés observés sur des toiles du musée
+      incarnent exactement ce rapprochement iconoclaste des sujets. Avec Tangui
+      ces fusions créent des fragments de paysage élégants et évidents.
+
+
+      Exposition [Tangui Robert ](https://galeriegaia.fr/artists/tangui-robert/
+      "tangui robert ")à scruter de près tout l'été à la Galerie Gaïa
+  - title: La marche des flots
+    date: 2021-07-05T17:34:36.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/galerie-gaia-franco
+      saas borquez -pornichet.jpg
+    content: >
+      ## Exposition La marche des flots Médiathèque de Pornichet
+
+
+      Huile sur toile et dessins
+
+
+      Le peintre [Franco Salas
+      Borquez](https://galeriegaia.fr/artists/franco-salas-borquez/ "franco
+      salas borquez") représenté par la Galerie Gaïa depuis 2017 expose des
+      œuvres récentes à la Médiathèque Camille Flammarion de Pornichet (Place du
+      Marché).\
+
+      L’artiste connu par ses peintures des mers qui expriment toute la force de
+      cette nature, propose pour cette nouvelle exposition de nous faire
+      ressentir la poésie en se plongeant dans ses compositions maritimes.
+
+
+      Une exposition pour tous les passionnés d’art , de la mer et de voyage.
+
+
+      Du Mardi au Dimanche 10H 12H30 15H30 18H\
+
+      Prolongation le Vendredi 19H\
+
+      Fermé le lundi
+
+
+      Information et rendez-vous pour visite privée au 02 40 48 14 91
+  - title: La marche des flots Franco Salas Borquez
+    date: 2021-07-17T13:41:57.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/galerie-gaia-pornichet-franco-salas-borquez.jpg
+    content: >
+      [https://www.youtube.com/watch?v=4l1EKXeYYf8](https://www.youtube.com/watch?v=4l1EKXeYYf8
+      "https://www.youtube.com/watch?v=4l1EKXeYYf8")
+
+
+      # Franco Salas Borquez
+  - title: La marche des flots Franco Salas Borquez
+    date: 2021-07-20T06:55:05.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/galerie-gaia-franco
+      salas borquez-l'indomptable.jpg
+    content: >
+      A Nantes cet été la galerie reste ouverte du mardi au samedi 13H 21H\
+
+      2 salles 2 expositions
+
+
+      **Franco Salas Borquez** connu par ses peintures des mers qui expriment
+      toute la force de cette nature, propose pour cette nouvelle exposition de
+      nous faire ressentir la poésie en se plongeant dans ses compositions
+      maritimes.Une exposition pour tous les passionnés d’art , de la mer et de
+      voyage.
+
+
+      **Tangui Robert** arpente les berges de Loire, serpente dans les couloirs
+      du musée des Arts, fragmente ses carnets pour mélanger croquis et
+      photographies.\
+
+      Si certains paysages et architectures qu’il nous montre font partie de nos
+      déambulations, Tangui a ce talent pour les scruter, les détailler et les
+      denteler comme un orfèvre. Les drapés observés sur des toiles du musée
+      incarnent exactement ce rapprochement iconoclaste des sujets. Avec Tangui
+      ces fusions créent des fragments de paysage élégants et évidents.
+  - title: Interview Versants
+    date: 2021-09-07T09:55:55.000Z
+    categories:
+      - Interview
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/STRATES_M__Pornichet_HD_2.JPG
+    content: >
+      [Interview Décadrée de Versants par Elisabeth
+      Givre](https://www.youtube.com/watch?v=DxkvbjnGL4E "tangui robert jeronimo
+      gaetan chevrier")
+
+
+      !\[]\(https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/article-galerie-gaïa-
+      01.jpg)
+  - title: Hors les murs Pornichet 18 &19 Septembre 2021
+    date: 2021-09-04T09:19:43.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/article-galerie-gaïa-
+      02.jpg
+    content: >
+      [Côté Ouest Magazine Août Septembre
+      2021](https://www.cotemaison.fr/cote-ouest/ "Côté Ouest Magazine")\
+
+      **Escapade Hors les Murs**
+
+
+      Comme vous pouvez le découvrir dans cette incroyable publication du
+      magazine Côté Ouest de Août Septembre,\
+
+      Je vous accueille sur rendez-vous à Pornichet pour regarder autrement une
+      sélection d’œuvres de mes artistes exposé-es à la galerie à Nantes.
+
+
+      C'est aussi l'occasion de découvrir in situ la fresque réalisée par
+      VERSANTS (Jérôme Maillet Gaëtan Chevrier et Tangui Robert).
+
+
+      Le week-end du **4 &** **5** septembre et du **18 & 19** septembre.\
+
+      Visite exclusive sur rendez-vous 02 40 48 14 91 - max groupe de 6\
+
+      Visite sans obligation d'achat.
+  - title: Aline Isoard  vernissage 7/10 18H
+    date: 2021-10-07T12:12:55.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/A.ISOARDafficheQPN.jpg
+    content: >
+      # Aline ISOARD QPN 2021
+
+
+      Auto-Fiction exposition photographie présentée dans le cadre de la 25eme
+      édition de la QPN 2021 avec la thématique : "Histoire(s)"
+
+
+      C’est dans l'habitacle cloisonné de vitres d’une voiture qu’Aline Isoard
+      réalise ses photographies. Ce lieu clos et protecteur fonctionne comme une
+      lumineuse, et donc paradoxale, chambre noire où le renversement spéculaire
+      de l'espace s'opère grâce aux reflets des rétroviseurs.
+
+
+      Sur les voies de circulation avec ses automobiles aperçues furtivement, la
+      photographe nous livre un témoignage social sur un monde nomade. La saisie
+      des attitudes des conducteurs anonymes et des passagers, objets, et
+      fragments de carrosseries sont révélateurs d'une appartenance à une sphère
+      culturelle et professionnelle, déductibles des seules apparences
+      représentées.\
+
+      Après une sélection de ses prises de vue, Aline Isoard retravaille les
+      tirages numériques et fait subir à leur couche pigmentaire des opérations
+      manuelles pour supprimer, aussi bien que pour les révéler, des détails,
+      des éléments graphiques, mais également afin d'atténuer des couleurs ou
+      des contrastes.
+
+
+      *Elle se dit peintre, elle se dit photographe,* 2019 (extrait)
+
+
+      [Jacques Py, critique
+      d’art](https://www.archivesdelacritiquedart.org/auteur/py-jacques "Jacques
+      Py")
+
+
+      Exposition du 6 au 30 Octobre 2021\
+
+      Vernissage 6/10/21 18H\
+
+      Ouverture Dimanche 10 Octobre 14H
+  - title: Interview Aline Isoard Auto-Fiction
+    date: 2021-10-16T09:52:01.000Z
+    categories:
+      - Interview
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/A.ISOARDafficheQPN.jpg
+    content: >
+      [Interview Aline Isoard](https://www.youtube.com/watch?v=IJa9MaLJCpQ
+      "Aline Isoard Quinzaine photographique nantaise")
+  - title: Le présent du monde
+    date: 2021-11-04T21:55:48.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/gaia_le-brusq_2021.jpg
+    content: >
+      # Jacques Le Brusq
+
+
+      Exposition Le présent du monde, peinture
+
+
+      Au commencement j'ai rencontré Jacques Le Brusq. Je ne connaissais rien de
+      son travail.\
+
+      Nous parlions de la peinture, de la couleur.\
+
+      Nous parlions du métier de galeriste,\
+
+      Nous parlions de l’art, de l’éducation, de la formation dans les écoles.
+
+
+      Et en parlant de tout, nous parlions de nous.
+
+
+      Alors un jour il y a eu une invitation, à voir pour regarder. Je me suis
+      retrouvée assise dans un salon où les toiles étaient prêtes à se montrer.
+      Ce fût un moment délicieux, où Jacques orchestra cette exposition comme
+      une pièce de théâtre – ne dit-on pas tableau pour parler de la
+      scénographie d’une pièce ? - .
+
+
+      Tout le film de nos échanges se redéployait, le chemin d’une vie libre et
+      engagée traduit dans ses peintures.
+
+
+      J’ai vécu ce moment intimement et intensément au présent, mais je me
+      projetais incessamment dans ce futur pour partager cette rencontre de
+      Jacques avec sa peinture.
+
+
+      Avant ma deuxième rencontre avec ses œuvres, j’ai convoqué mes souvenirs
+      avec la nostalgie de la première fois.
+
+
+      Maintenant je sais qu’il n’ y a aucun regret de cette première fois, car
+      c’est une peinture qui se réinvente dès lors que nous sommes convoquées à
+      les revoir.
+
+
+      Oui regarder une peinture de Jacques, c’est comme prendre rendez-vous avec
+      l’essentiel.
+
+
+      Sa peinture mérite la lumière. Se faire happer par le tout, puis glisser
+      vers les transitions chromatiques vaporeuses et mystérieuses, se laisser
+      envelopper. La peinture de jacques est présente et éthérée.
+
+
+      Pas de figuration, mais la réalité de l’abstraction , la présence au
+      monde.
+
+
+      Elisabeth Givre - Galerie Gaïa
+  - title: Rétro Crade
+    date: 2022-01-20T16:02:16.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/AfficheGAIA-TOMA_220103-BAT.jpg
+    content: >
+      **[Prolongation exposition jusqu'au 19 Février
+      2022](https://galeriegaia.fr/artists/toma-l/ "EXPO TOMA L")**
+
+
+      **Rétro Crade Toma-L**
+
+
+      Cette exposition est née comme un besoin de commencer l'année coûte que
+      coûte. Avec cette conviction que les contraintes d'organisation ne peuvent
+      entraver cette nécessité de voir, de regarder, de participer, de provoquer
+      un télescopage entre nos vies quotidiennes et nos envies de vagabondage.
+      Une exposition c'est un ***manifeste*** pour stimuler nos émotions et
+      créer ces vibrations artistiques, ces ***étincelles*** essentielles à
+      notre imagination.
+
+
+      Cette mission je la confie pour la seconde fois à **Thomas Labarthe**.
+
+
+      Le travail de Thomas se nourrit du face à face avec les autres. Ami-e-s,
+      relations, rencontres, frictions sympathiques, confrontations de pensées,
+      fêtes et musique en bande, et tous ces manques de l'autre laissent des
+      traces.\
+
+      Il est donc question dans les formes et les couleurs, de cette humanité
+      qui nous caractérise et qui engage le corps et l'esprit dans un sursaut
+      vital.\
+
+      Cela provoque une nouvelle création, des couleurs proches des éléments de
+      terre de feu, d'eau et d'air et propose ainsi une nouvelle écriture
+      picturale.\
+
+      ***Bonheur !*** Ses personnages, leurs pieds, leurs poings et leurs
+      mouvements sont toujours là en rétro-plan !
+  - title: Bruxelles Affordable Art Fair
+    date: 2022-03-23T12:10:30.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/AAF_2022_BRU_04_CAM_story_v4withlogo.jpg
+    content: >
+      # AFFORDABLE ART FAIR BRUXELLES
+
+
+      **INVITATION OFFERTE PAR LA GALERIE**
+
+
+      Obtenir un billet pour le [vernissage
+      VIP](https://aafbrussels.seetickets.com/tour/affordable-art-fair-brussels
+      "TICKET VIP") du mercredi 23\
+
+      mot de passe **G-GAIAVE limitée à 60 places**
+
+
+      Obtenir un billet pour [le
+      salon](https://aafbrussels.seetickets.com/tour/affordable-art-fair-brussels
+      "SALON BRUXELLES") du jeudi 24 au dimanche 27\
+
+      mot de passe **G-GAIAGP limitée à 150 places**
+  - title: 'Marie Veyron Bathellier Natures à l''oeuvre '
+    date: 2022-03-31T12:08:10.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/AFFICHE
+      MARIE BATHELLIER GALERIEGAIA.jpg
+    content: >
+      # **Marie Veyron Bathellier**
+
+
+      **Vernissage Jeudi 31 Mars 18H en présence de l'artiste.**
+
+
+      Marie Veyron Bathellier s'inspire de la nature jusqu'à faire corps avec
+      elle. Au-delà du sujet dont elle se nourrit, elle utilise le végétal comme
+      pinceau, la terre comme liant, les branches comme support, les ronces
+      comme sculpture, l'eau de pluie pour diluer la matière qui subtilement se
+      révèle sur le papier , la toile et le bois. Le chemin est aussi important
+      que l’œuvre achevée. Exposition naturellement sensible.
+
+
+      Toile, papier, sculpture, installation
+  - title: Françoise Paressant
+    date: 2022-04-30T21:00:37.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/Galerie
+      Gaïa - Françoise Paressant A2 haute def.jpg
+    content: >
+      **Rencontre avec l'artiste Jeudi 19 Mai à partir de 17H**
+
+
+      Joyeuse et talentueuse coloriste, [Françoise Paressant]() s'amuse des
+      formes et des couleurs pour rendre tous les supports vivants et vibrants.
+      Reconnue internationalement pour son talent de lissière elle nous propose
+      des tapisseries contemporaines ainsi que des collages papier sur toile.
+
+
+      Deux tapisseries exposées proviennent de [La Galerie Chevalier Parsua]()
+      prêtées pour cette exposition. [Sonatine et
+      Strada](https://galeriegaia.fr/artists/francoise-paressant-1/ "galerie
+      chevalier parsua")
+
+
+      Des œuvres de Françoise Paressant sont entrées dans les collections du
+      Musée des Arts Décoratifs Paris, et au Musée des Arts de Nantes suite à
+      une exposition en 1984.
+  - title: Isthme - Absolu
+    categories: []
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/Galerie
+      Gaïa - Isthme A2 V2.JPEG
+    content: >
+      **Vernissage Jeudi 2 Juin à 18h**
+
+
+      La peinture d[’Isthme](https://galeriegaia.fr/artists/isthme/) est une
+      rencontre avec la lumière.
+
+
+      Une clarté qu’elle poursuit et collecte parfois dans les miroitements
+      fluorescents d'une vague la nuit. Une quête du sublime qu’elle équilibre
+      par la transparence et le geste.
+
+
+      Ce geste qui envahit tout, qui dépasse le souvenir du sensible et qui
+      implique le corps sur la toile. Il se fait ample et généreux, se perd dans
+      des abymes d’outremarins et de cramoisis, pourtant chaque ligne doit faire
+      sens. Pour Isthme ses peintures sont des constructions plastiques et
+      architecturales où la verticalité et la spontanéité sont essentielles.
+
+
+      La série montrée à la [Galerie Gaia](https://galeriegaia.fr) s’articule
+      autour de deux pratiques, celle de la peinture dans laquelle on se perd,
+      on plonge et l’on se laisse surprendre par une lumière qui transcende la
+      matière. Celle du collage qui juxtapose différentes textures et différents
+      bleus dans des compositions frontales.
+
+
+      [Isthme](https://galeriegaia.fr/artists/isthme/) (1963)
+
+
+      Diplômée de l’École des Beaux-Arts Appliquées Saydie Bronfman de Montréal.
+      Elle vit et travaille à Nantes.
+
+
+      Sélectionnée plusieurs années dans les salons parisiens de Garches et
+      Réalités Nouvelles, elle rejoint la [Galerie Gaia](https://galeriegaia.fr)
+      en 2018.
+  - title: 'Exposition Job '
+    date: 2022-07-04T22:00:00.000Z
+    categories: []
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/Affiche
+      COM JOB PORNICHET.jpg
+    content: >
+      ## Job peinture
+
+
+      Exposition - lundi 4 juillet 2022
+
+
+      Exposition Salle à côté de la médiathèque Place du Marché à Pornichet\
+
+      Du 4 au 16 Juillet 2022\
+
+      Job est un artiste peintre qui nous aide à prendre le temps pour que nos
+      souvenirs apparaissent inondés par une lumière solaire et une palette de
+      couleurs chaudes comme le sable.
+
+
+      Le cadrage est aussi important que les sujets saisis dans des moments de
+      vie discrets, simples et heureux. Tout en traits, perspectives et lignes
+      de fuite, la ville devient décors de cinéma propice à laisser notre
+      imagination raconter la suite de l’histoire.
+
+
+      Parfois il est juste bon de se laisser aller à la douceur d’une atmosphère
+      légère.
+  - title: Judith Wolfe Couleurs vitales
+    date: 2022-09-15T09:00:59.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/galerie-gaia-judith-wolfe-Lespots
+      d'Angélique 10-150x122 cm-5000€-technique mixte sur papier
+      marouflé_toile-2002 .jpg
+    content: >
+      **Judith Wolfe - Couleurs Vitales**\
+
+      **Exposition 15 au 30 Septembre 2022**\
+
+      **Vernissage 15/09 18H**\
+
+      Judith Wolfe a étudié avec le peintre John Ferren au Queens College de New
+      York puis avec Oskar Kokoschka à Salzbourg, avant de s'installer à Paris
+      en 1966.\
+
+      D'abord influencée par les expressionnistes européens, elle poursuit ses
+      recherches graphiques dans son utilisation de couleurs fortes et de coups
+      de pinceau expressifs sur la toile ou sur papier.\
+
+      En 1976, très impressionnée par les collages monumentaux de Matisse,
+      Judith Wolfe entame une série d'œuvres sur papier à grande échelle
+      .Papiers arrachés, déchirés puis à nouveau collés et assemblés, il y a là
+      comme un symbole de fragilité mais aussi de la légèreté et une indéniable
+      vitalité.\
+
+      Après avoir maîtrisé la peinture sur papier, elle complète et juxtapose
+      maintenant ces bleus, rouges et jaunes primaires avec les blancs du papier
+      et les dessins à l'encre noire. À la fin des années 90, des phrases et des
+      morceaux de poèmes se sont glissés dans ses compositions.\
+
+      Les œuvres récentes de Judith Wolfe questionnent notre course à la
+      modernité dans un monde des plus instable. Pourtant, ses œuvres, à travers
+      son utilisation vibrante de la couleur, renforcent un sentiment d'espoir.
+  - title: 'Pierre Tual '
+    date: 2022-10-06T09:00:33.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/instagram_carousel-square.jpg
+    content: >
+      # [Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/ "pierre tual")
+
+
+      Pierre Tual dialogue avec le vide, l’équilibre et la forme.
+
+
+      Sculpteur abstrait par excellence ses œuvres se composent d’axes, de plans
+      et de courbes qu’il fait cohabiter. Il cherche, expérimente, questionne la
+      matière et l’espace. Il recherche le point de tension, cet instant où le
+      matériau cède et se laisse guider par sa main. Qu’il travaille l’acier
+      Corten, la céramique ou le bronze, les plis organiques, les courbes
+      délicates et les équilibres ténues sont inhérents au travail de Pierre
+      Tual.
+
+
+      Les œuvres montrées à la Galerie Gaia s’articule autour de deux pratiques.
+      Celle de la sculpture & celle peu connu du dessin et autres monotypes.
+
+
+      Pierre Tual
+
+
+      Diplômé de l’école des Beaux-Arts de Nantes et de l’École supérieur des
+      Beaux-Arts de Paris. Il expose dès 1966 au Salon de la Jeune Sculpture à
+      Paris, au Musée des Beaux Art de Nantes en 1977, au Centre Pompidou en
+      1982 pour l’exposition « In situ », puis à la Galerie de France en 1984.
+      Ses sculptures s’exposent de New-York à Copenhague en passant par la
+      Friche de l’Escalette à Marseille. Il rejoint la Galerie Gaia en 2019.
+
+
+      Texte : Ines Ben Brahim
+  - title: Georges Rousse & la QPN
+    date: 2022-10-27T11:54:14.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/G_ROUSSE_Instagram_1.jpg
+    content: >
+      # Georges Rousse est un plasticien de l’espace fantasmé.
+
+
+      La rencontre d’un lieu à l’abandon est le point de départ de son acte
+      créatif. La ruine, ce terrain propice à la poésie est questionné par la
+      lumière puis par une forme simple. Pour arriver à créer les dimensions et
+      les échelles qui révèlent l’espace, l’artiste esquisse des dessins
+      préparatoires où ses formes courent le long des murs, des sols et des
+      plafonds.
+
+
+      « Je visite un bâtiment. À un certain endroit, je m’arrête parce que je
+      perçois dans l’espace des choses qui m’intéressent. Je vois la lumière. Je
+      cherche souvent l’incidence de la lumière sur l’architecture. J’observe la
+      complexité des volumes dans le lieu »
+
+
+      Son travail de croquis lui permet d’appréhender le lieu, support spatial
+      de l’œuvre, qu’il ne s’interdit pas de modifier ou d’altérer. Mais, il lui
+      permet aussi de percevoir son cliché photographique en devenir. Enfin,
+      arrive la photographie, qui fige le lieu dans l’œuvre, cet espace qui lui
+      continue son évolution, sa dégradation, ses poésies.
+
+
+      « Quand je réalise une œuvre j’en fait une photo, ça me plairait de
+      m’arrêter avant et de rester dans la transformation du lieu. Ce serait un
+      acte artistique gratuit. »
+
+
+      **QPN Ici et ailleurs …**
+
+
+      Le concept de territoire est d’abord habité par la notion d’appartenance,
+      à un espace délimité par des frontières, à une culture ou encore à un
+      patrimoine. Puis, très vite, il fait échos aux changements, aux
+      transitions, aux envies de voyages. L’on quitte un territoire, par
+      nécessité, par fantasme d’un ailleurs ou par gout d‘aventures. Le
+      territoire est donc multiple, fluctuant, vaporeux et souvent politique.
+
+
+      A la Galerie Gaia les œuvres de George Rousse créée des paysages
+      fantasmés, des territoires inconnus que seule sa photographie nous permet
+      d’entrevoir.
+
+
+      Texte : Ines Ben Brahim
+  - title: 'Exposition Collective '
+    date: 2022-11-28T18:01:36.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/Capture
+      d’écran 2022-12-01 à 10.54.53.png
+    content: >
+      Retrouvez en exposition collective et dans le
+      [catalogue](https://galeriegaia.fr/catalogue/ "catalogue galerie")\
+
+      les 9 artistes exposé-es en 2022
+
+
+      Toma-l\
+
+      Edwin Wide\
+
+      Marie Bathelier\
+
+      Françoise Paressant\
+
+      Isthme\
+
+      Job\
+
+      Judith Wolfe\
+
+      Pierre Tual\
+
+      Georges Rousse
+  - title: Exposition Jean-François MOLLIERE
+    date: 2023-01-10T11:29:02.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/GAÏA_MOLLIERE_INSTA_1.jpg
+    content: >
+      Une lumière, une atmosphère, un grain singulier.\
+
+      Jean-François Mollière nous fait découvrir son intime perception des
+      mégapoles et ses réalités fantasmées des paysages désertiques.\
+
+      Un ailleurs poétique, souvent mystérieux, sans aucun doute le début de
+      narrations cinématographiques.
+
+
+      La série montrée à la galerie Gaïa s’articule autour de deux thématiques
+      qui semblent s’opposer.\
+
+      La première, architecturée et incarnée des grandes villes de l’Est
+      américain, nous plonge dans des vapeurs et des flottements intemporels.\
+
+      La seconde, désertique, chaude et minérale de la Namibie, s’écarte
+      radicalement des représentations classiques de ces vastes paysages.
+
+
+      Quelques contrastes qui doucement s’immiscent en nous et stimulent
+      l’onirisme.
+
+
+      Auteur & photojournaliste indépendant, Jean-François Molliere a collaboré
+      à de nombreux ouvrages et magazines dans le domaine de l’art, du sport, et
+      de l’architecture.
+
+
+      Premier Prix Ilford de la photographie Noir et Blanc de l’année 1998\
+
+      Prix Ilford 1996 et 2000\
+
+      Prix de la photographie urbaine de la MEP 2021 (Maison Européenne de la
+      photographie) et du magazine Fisheye
+  - title: Exposition Laure Carré
+    date: 2023-03-07T08:53:59.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/GAIA-CARRÉ-INSTA.jpg
+    content: >
+      **VERNISSAGE JEUDI 9 MARS 18H**
+
+
+      Exposition du 7 au 25 Mars 2023
+
+
+      **[Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "Laure
+      Carré")** entre tous les matins dans son atelier là où les rêves sont
+      encore chauds !
+
+
+      Méthodiquement elle installe ses toiles, prépare ses couleurs dans une
+      ambiance de café-clope-musique. Ce qui se passe ensuite, dépasse
+      l’intention consciente. Comme le dit Jacques le Brusq qui aime la peinture
+      de Laure pour sa totale liberté : « ça peint ». Laure accepte ce qui
+      arrive sur la toile et se plaît ensuite à vivre les vides, à installer les
+      couleurs, à dessiner des contours pour faire apparaître des histoires où
+      les repentirs deviennent des fantômes cachés. Onirisme par absence
+      formelle de structure, pouvoir narratif déroutant avec des thèmes
+      récurrents comme le cheval, les corps alanguis, des visages qui surgissent
+      partiellement, acceptons de suivre l’artiste dans ce chambardement. Laure
+      peint de la main droite ou de la main gauche non par facilité mais pour
+      aller chercher soit des intentions soit des intuitions. Au passage il se
+      pourrait bien que les formes qui surgissent se retrouvent tête en bas, non
+      par seul hommage à Baselitz, mais aussi parce qu’ils flottent réellement.
+
+
+      Les œuvres présentées à la galerie se composent d’huiles sur toile,
+      collages et dessins, souvenirs de paysages et de scènes intimes où
+      l'artiste s’affranchit de la technique pour imposer la singularité de son
+      geste.
+
+
+      Diplômée de Duperré, de la Parson School of New York et d'Olivier de
+      Serre, Laure Carré expose dès ses débuts à New York, Paris et Tokyo. Son
+      travail reconnaissable au premier regard, en fait une artiste dont vous
+      garderez quelques réminiscences.
+  - title: 4eme Dimanche des Galeries de Art Galeries Nantes le 2 Avril 14H-18H
+    date: 2023-04-02T20:34:46.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/Flyer-A6-AGN-avril-2023_web
+      (003)-1.jpg
+    content: >
+      L'association Art Galeries Nantes organise son 4ème Dimanche des Galeries\
+
+      Dimanche 2 Avril de 14H à 18H\
+
+      Des expositions, des concerts, des rencontres et des galeristes qui vous
+      accueillent pour partager leurs émotions artistiques !
 ---
+

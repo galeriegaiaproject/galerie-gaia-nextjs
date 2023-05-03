@@ -12,8 +12,6 @@ seo:
 template: artist
 title: The Blind
 location: ''
-birth: 0
-death: 0
 expose: true
 exhibitions: []
 work: content/works/the-blind-je-gueule.md

@@ -8,7 +8,6 @@ template: artist
 title: 'Paressant Françoise '
 location: ''
 birth: '1944'
-death: 0
 expose: true
 exhibitions:
   - title: 'Galerie Chevalier '

@@ -10,7 +10,6 @@ template: artist
 title: 'Tual Pierre '
 location: ''
 birth: '1941'
-death: ''
 expose: true
 exhibitions: []
 seo:

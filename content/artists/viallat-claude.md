@@ -12,8 +12,6 @@ seo:
 template: artist
 title: Viallat Claude
 location: ''
-birth: 0
-death: 0
 expose: true
 exhibitions: []
 work: content/works/viallat-claude-sans-_-fond-rose.md

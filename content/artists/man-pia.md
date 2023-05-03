@@ -12,8 +12,6 @@ seo:
 template: artist
 title: Man et Pia
 location: ''
-birth: 0
-death: 0
 expose: false
 exhibitions: []
 work: content/works/man-et-pia-earthforms.md

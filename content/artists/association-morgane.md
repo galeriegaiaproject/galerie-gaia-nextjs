@@ -3,8 +3,6 @@ template: artist
 title: Association Morgane
 location: ''
 fields: []
-birth: '0'
-death: '0'
 expose: false
 exhibitions: []
 work: content/works/association-morgane-valota-hasards-pour-morgane.md

@@ -4,8 +4,6 @@ title: 'Argant Annick '
 location: France
 fields:
   - Sculpture
-birth: '0'
-death: '0'
 expose: true
 exhibitions:
   - title: En permanence à la galerie Lindengruen    www.lindengruen.at

@@ -12,8 +12,6 @@ seo:
 template: artist
 title: Belaud Cindy
 location: ''
-birth: 0
-death: 0
 expose: true
 exhibitions: []
 work: content/works/belaud-cindy-3x3x3.md

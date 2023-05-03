@@ -5,8 +5,6 @@ location: ''
 fields:
   - Peinture
   - Oeuvre sur papier
-birth: 0
-death: 0
 expose: true
 exhibitions:
   - title: Rétro-Crade

@@ -3,8 +3,6 @@ template: artist
 title: Art Galeries Nantes
 location: 'Nantes '
 fields: []
-birth: '0'
-death: '0'
 expose: true
 exhibitions: []
 redirect_from:

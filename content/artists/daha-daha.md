@@ -4,8 +4,6 @@ title: Hamon Damien Daha
 location: ''
 fields:
   - Design
-birth: '0'
-death: '0'
 expose: true
 exhibitions: []
 redirect_from:

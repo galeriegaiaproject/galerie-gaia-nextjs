@@ -6,8 +6,6 @@ styles:
 template: artist
 title: 'Kerba Muriel '
 location: ''
-birth: 0
-death: 0
 expose: false
 exhibitions: []
 seo:

@@ -11,8 +11,6 @@ seo:
 template: artist
 title: 'WAVE  Nantes '
 location: ''
-birth: 0
-death: 0
 expose: false
 exhibitions: []
 work: content/works/wave-nantes-griffes-par-simon-bousquet.md

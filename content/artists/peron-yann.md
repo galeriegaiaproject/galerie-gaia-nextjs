@@ -12,8 +12,6 @@ seo:
 template: artist
 title: Peron Yann
 location: ''
-birth: 0
-death: 0
 expose: true
 exhibitions: []
 work: content/works/peron-yann-nenuphars-de-lerdre.md

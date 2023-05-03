@@ -12,7 +12,6 @@ template: artist
 title: Villeglé Jacques
 location: ''
 birth: '1926'
-death: 0
 expose: true
 exhibitions: []
 work: content/works/villegle-jacques-tremeac.md

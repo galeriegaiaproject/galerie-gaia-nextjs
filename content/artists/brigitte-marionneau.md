@@ -6,8 +6,6 @@ styles:
 template: artist
 title: 'Marionneau Brigitte '
 location: ''
-birth: 0
-death: 0
 expose: true
 exhibitions:
   - title: Amélie Maison d'art

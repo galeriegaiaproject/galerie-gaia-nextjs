@@ -4,8 +4,6 @@ title: 'Francheteau Claude '
 location: ''
 fields:
   - Peinture
-birth: '0'
-death: '0'
 expose: false
 exhibitions:
   - title: Exposition personnelle

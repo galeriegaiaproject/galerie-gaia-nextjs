@@ -5,8 +5,6 @@ location: ''
 fields:
   - Oeuvre sur papier
   - Céramique
-birth: '0'
-death: '0'
 expose: true
 exhibitions:
   - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré

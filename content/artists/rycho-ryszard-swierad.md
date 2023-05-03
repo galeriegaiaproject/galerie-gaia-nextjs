@@ -4,8 +4,6 @@ title: Rycho Ryszard Swierad
 location: Pologne
 fields:
   - Photographie
-birth: '0'
-death: '0'
 expose: true
 exhibitions: []
 redirect_from:

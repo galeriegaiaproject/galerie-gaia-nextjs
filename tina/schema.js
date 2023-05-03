@@ -419,9 +419,6 @@ const pageActualites = {
           type: 'datetime',
           name: 'date',
           label: 'Date',
-          ui: {
-            timeFormat: 'HH:mm',
-          },
         },
         {
           type: 'string',

@@ -12,8 +12,6 @@ seo:
 template: artist
 title: Job
 location: ''
-birth: 0
-death: 0
 expose: true
 exhibitions:
   - title: Exposition Médiathèque Camille Flamarion Pornichet

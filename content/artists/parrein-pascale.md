@@ -13,8 +13,6 @@ seo:
 template: artist
 title: Parrein Pascale
 location: ''
-birth: 0
-death: 0
 expose: true
 exhibitions: []
 work: content/works/parrein-pascale-impacts-vi.md

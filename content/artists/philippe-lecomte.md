@@ -4,8 +4,6 @@ title: 'Lecomte Philippe '
 location: ''
 fields:
   - Oeuvre sur papier
-birth: '0'
-death: '0'
 expose: true
 exhibitions:
   - title: 'Exposition dessins et peintures '

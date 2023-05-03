@@ -2,8 +2,6 @@
 template: artist
 title: Mai 2023
 location: ''
-birth: '0'
-death: '0'
 expose: true
 exhibitions: []
 redirect_from:

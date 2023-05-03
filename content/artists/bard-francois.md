@@ -11,8 +11,6 @@ seo:
 template: artist
 title: Bard François
 location: ''
-birth: 0
-death: 0
 expose: true
 exhibitions: []
 work: content/works/bard-francois-cours.md

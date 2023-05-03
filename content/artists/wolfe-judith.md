@@ -14,8 +14,6 @@ seo:
 template: artist
 title: Wolfe Judith
 location: ''
-birth: 0
-death: 0
 expose: true
 exhibitions: []
 work: content/works/wolfe-judith-les-pots-dangelique-10.md

@@ -6,8 +6,6 @@ fields:
   - Street art
   - Photographie
   - Peinture
-birth: '0'
-death: '0'
 expose: true
 exhibitions:
   - title: Affordable Art Fair Bruxelles avec Galerie Gaïa

@@ -12,8 +12,6 @@ seo:
 template: artist
 title: Engels Didier
 location: ''
-birth: 0
-death: 0
 expose: true
 exhibitions: []
 work: content/works/engels-didier-kaaien-compo-verte.md
