@@ -10,7 +10,7 @@ template: artist
 title: 'Tual Pierre '
 location: ''
 birth: '1941'
-death: 0
+death: ''
 expose: true
 exhibitions: []
 seo:
@@ -21,6 +21,7 @@ seo:
   image: ''
 work: content/works/tual-pierre-petite-oblique-contre-le-mur.md
 ---
+
 # Pierre Tual
 
 > "Quand je plie une feuille de métal, l'espace entre dedans"
@@ -31,10 +32,12 @@ Pierre Tual ne force rien, il s'ouvre à chaque fois un passage.
 
 C'est l'alliage du métal choisi, son épaisseur, sa résistance et sa souplesse qui déterminent la courbe finale : pas de presse, de rouleau, presque pas de machine, la main du sculpteur est la mesure de la force engagée.
 
-"Quand je plie une feuille de métal, l'espace entre dedans" dit Pierre Tual.  
+"Quand je plie une feuille de métal, l'espace entre dedans" dit Pierre Tual.\
 L'espace est un élément de la sculpture au même titre que le matériau ou la forme. Il circule en elle et autour d'elle. Chaque sculpture est un ensemble tendu : tension du métal qui résiste, tension des formes, pureté des lignes et équilibre.
 
-    Extrait du texte de Françoise Posselle Exposition Galerie Regards Paris 1994
+```
+Extrait du texte de Françoise Posselle Exposition Galerie Regards Paris 1994
+```
 
 **Parcours :**
 
@@ -56,7 +59,9 @@ It is the alloy of the chosen metal, its thickness, its resistance and its flexi
 
 When I bend a sheet of metal, space enters into it," says Pierre Tual, "Space is an element of the sculpture in the same way as the material or the form. It circulates in it and around it. Each sculpture is a tense whole: tension of the metal which resists, tension of the forms, purity of the lines and balance.
 
-    Extract of the text of Françoise Posselle Exhibition Gallery Regards Paris 1994
+```
+Extract of the text of Françoise Posselle Exhibition Gallery Regards Paris 1994
+```
 
 Academic career:
 
