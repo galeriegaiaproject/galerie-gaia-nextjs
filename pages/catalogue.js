@@ -18,7 +18,6 @@ import { fromFilesystem2Url } from '@/utils/resolve'
 
 export const getStaticProps = async ({ params }) => {
   const artists = await client.queries.artistsConnection({ first: 100000 })
-  const works = await client.queries.worksConnection({ first: 100000 })
 
   try {
     return {
@@ -32,17 +31,17 @@ export const getStaticProps = async ({ params }) => {
             title: node.title,
             fields: node.fields,
             styles: node.styles,
-            works: works.data.worksConnection.edges
-              .filter(({ node: work }) => work.artist.id === node.id)
-              .map(({ node }) => ({
-                sold: node.sold,
-                styles: node.styles,
-                fields: node.fields,
-                price: node.price,
-                dimensions: node.dimensions,
-                title: node.title,
-                image: node.image,
-                id: node.id,
+            works: node.works,
+            works: (node.works || [])
+              .map(({ work }) => ({
+                sold: work.sold,
+                styles: work.styles,
+                fields: work.fields,
+                price: work.price,
+                dimensions: work.dimensions,
+                title: work.title,
+                image: work.image,
+                id: work.id,
               }))
           })).filter(({ expose, works }) => expose && works.some(work => !work.sold))
         }
@@ -90,7 +89,7 @@ const Catalogue = ({ tina, scrollPosition, ...props }) => {
       type: 'select',
       transform: (artist, styles) => !styles.length ? artist : ({
         ...artist,
-        works: artist.works.filter(work => (
+        works: (artist.works || []).filter(work => (
           (styles.some(style => (artist.styles || []).includes(style.value)) && (work.styles || []).length === 0)
           || styles.some(style => (work.styles || []).includes(style.value))
         )),
@@ -108,7 +107,7 @@ const Catalogue = ({ tina, scrollPosition, ...props }) => {
       type: 'select',
       transform: (artist, fields) => !fields.length ? artist : ({
         ...artist,
-        works: artist.works.filter(work => (
+        works: (artist.works || []).filter(work => (
           (fields.some(field => (artist.fields || []).includes(field.value)) && (work.fields || []).length === 0)
           || fields.some(field => (work.fields || []).includes(field.value))
         )),
@@ -126,7 +125,7 @@ const Catalogue = ({ tina, scrollPosition, ...props }) => {
       type: 'select',
       transform: (artist, artists) => !artists.length ? artist : ({
         ...artist,
-        works: artists.map(artist => artist.value).includes(artist.title) ? artist.works : [],
+        works: artists.map(artist => artist.value).includes(artist.title) ? (artist.works || []) : [],
       }),
       props: {
         label: 'Artistes',
@@ -143,7 +142,7 @@ const Catalogue = ({ tina, scrollPosition, ...props }) => {
       default: [],
       transform: (artist, prices) => !prices.length ? artist : ({
         ...artist,
-        works: artist.works.filter(work => prices.some(([min, max]) => (work.price * 1.05) >= min && (work.price * 1.05) <= max)),
+        works: (artist.works || []).filter(work => prices.some(([min, max]) => (work.price * 1.05) >= min && (work.price * 1.05) <= max)),
       }),
       props: {
         label: 'Prix',
@@ -160,7 +159,7 @@ const Catalogue = ({ tina, scrollPosition, ...props }) => {
       default: [],
       transform: (artist, formats) => !formats.length ? artist : ({
         ...artist,
-        works: artist.works.filter(work => formats.some(([min, max]) => (
+        works: (artist.works || []).filter(work => formats.some(([min, max]) => (
           (work.dimensions?.height && work.dimensions?.width)
           && (
             work.dimensions?.height >= min && work.dimensions?.height <= max
@@ -182,7 +181,7 @@ const Catalogue = ({ tina, scrollPosition, ...props }) => {
       default: [],
       transform: (artist, orientations) => !orientations.length ? artist : ({
         ...artist,
-        works: artist.works.filter(work => orientations.some((orientation) => (work.dimensions?.height && work.dimensions?.width) && ({
+        works: (artist.works || []).filter(work => orientations.some((orientation) => (work.dimensions?.height && work.dimensions?.width) && ({
           portrait: work.dimensions?.height > work.dimensions?.width,
           landscape: work.dimensions?.height < work.dimensions?.width,
           square: work.dimensions?.height === work.dimensions?.width,
@@ -202,9 +201,9 @@ const Catalogue = ({ tina, scrollPosition, ...props }) => {
   const entities = useMemo(() => (shuffled
     .map(artist => Object.keys(values).filter(key => !['page'].includes(key)).reduce((acc, key) => options[key].transform(acc, values[key]), {
       ...artist,
-      works: artist.works.filter(work => !work.sold),
+      works: (artist.works || []).filter(work => !work.sold),
     }))
-    .filter(artist => artist.works.filter(work => !work.sold).length)
+    .filter(artist => (artist.works || []).filter(work => !work.sold).length)
   ), [shuffled, values])
 
   const pagination = usePagination(entities, 10, { initial: values.page || 0 })
@@ -260,7 +259,7 @@ const Catalogue = ({ tina, scrollPosition, ...props }) => {
               <article key={artist.id} css={Catalogue.styles.artist}>
                 <label><Link to={fromFilesystem2Url(artist.id)}>{artist.title}</Link></label>
                 <div css={Catalogue.styles.row}>
-                  {artist.works.filter(work => !work.sold).map((work, index) => (
+                  {(artist.works || []).filter(work => !work.sold).map((work, index) => (
                     <div css={Catalogue.styles.work} key={index}>
                       <Work
                         title={work.title}

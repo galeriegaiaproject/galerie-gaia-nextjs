@@ -97,7 +97,7 @@ const Artist = ({ tina, ...props }) => {
   }, [page.expose])
 
   const cart = useSnipcartContext()
-  const works = useMemo(() => page.works.map(({ work }) => work).filter(work => !work.sold), [page.works])
+  const works = useMemo(() => (page.works || []).map(({ work }) => work).filter(work => !work.sold), [page.works])
   const slides = useMemo(() => works.map(work => work.image).filter(image => !!image), [works])
   const [slide, setSlide] = useState(query?.work ? works.filter(work => !!work.image).findIndex(work => fromFilesystem2Url(work.id).replace('/works/', '') === query.work) : 0)
   const index = (slide >= 0 ? slide : Math.ceil(Math.abs(slide / slides.length))) % slides.length
