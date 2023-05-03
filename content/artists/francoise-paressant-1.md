@@ -21,6 +21,31 @@ seo:
   description: ''
   image: ''
 work: content/works/paressant-francoise-sans-titre.md
+works:
+  - work: content/works/paressant-francoise-af-001.md
+  - work: content/works/paressant-francoise-af-004.md
+  - work: content/works/paressant-francoise-af-005.md
+  - work: content/works/paressant-francoise-dessin-ruban.md
+  - work: content/works/paressant-francoise-eclaircies-en-fin-de-journee.md
+  - work: content/works/paressant-francoise-feutre-croise.md
+  - work: content/works/paressant-francoise-info-presse-magazine-investir-09_2021.md
+  - work: content/works/paressant-francoise-installation-en-trio-cpm-60_50-1-2-3.md
+  - work: content/works/paressant-francoise-la-strada.md
+  - work: content/works/paressant-francoise-papier-huile-1.md
+  - work: content/works/paressant-francoise-papier-huile-2-en-situation-verticale.md
+  - work: content/works/paressant-francoise-papier-huile-2.md
+  - work: content/works/paressant-francoise-papier-huile-4.md
+  - work: content/works/paressant-francoise-papier-main.md
+  - work: content/works/paressant-francoise-papier-tisse-iii.md
+  - work: content/works/paressant-francoise-plage-de-la-mine-dor-en-situation.md
+  - work: content/works/paressant-francoise-plage-de-la-mine-dor.md
+  - work: content/works/paressant-francoise-portrait-de-francoise-paressant.md
+  - work: content/works/paressant-francoise-sans-titre-papier-fait-main-teinte-en-situation.md
+  - work: content/works/paressant-francoise-sans-titre-papier-fait-main.md
+  - work: content/works/paressant-francoise-sans-titre.md
+  - work: content/works/paressant-francoise-sonatine-en-situation.md
+  - work: content/works/paressant-francoise-sonatine.md
+  - work: content/works/paressant-francoise-suite-pour-piano-jouet.md
 ---
 # Françoise Paressant
 

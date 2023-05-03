@@ -11,6 +11,24 @@ redirect_from:
 styles:
   - Figuratif
 work: content/works/healy-isabelle-point-dequilibre.md
+works:
+  - work: content/works/healy-isabelle-anouck.md
+  - work: content/works/healy-isabelle-confluence-detail.md
+  - work: content/works/healy-isabelle-confluence.md
+  - work: content/works/healy-isabelle-detail-de-point-dequilibre.md
+  - work: content/works/healy-isabelle-fondation.md
+  - work: content/works/healy-isabelle-la-sphere-des-possibles.md
+  - work: content/works/healy-isabelle-le-mythe-de-sisyphe.md
+  - work: content/works/healy-isabelle-les-albatros.md
+  - work: content/works/healy-isabelle-les-ames-soeurs.md
+  - work: content/works/healy-isabelle-les-vacances.md
+  - work: content/works/healy-isabelle-notre-heritage-en-situation.md
+  - work: content/works/healy-isabelle-notre-heritage.md
+  - work: content/works/healy-isabelle-point-dequilibre.md
+  - work: content/works/healy-isabelle-portrait.md
+  - work: content/works/healy-isabelle-ronde-de-nuit.md
+  - work: content/works/healy-isabelle-une-ile-en-exterieur.md
+  - work: content/works/healy-isabelle-une-ile.md
 ---
 # Isabelle Healy
 

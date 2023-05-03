@@ -15,6 +15,10 @@ location: ''
 expose: true
 exhibitions: []
 work: content/works/jouet-michel-odm.md
+works:
+  - work: content/works/jouet-michel-odm.md
+  - work: content/works/jouet-michel-systematique.md
+  - work: content/works/jouet-michel-souris.md
 ---
 # Michel Jouet
 

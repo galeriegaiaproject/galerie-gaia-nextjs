@@ -11,6 +11,29 @@ redirect_from:
 styles:
   - Figuratif
 work: content/works/robert-tangui-louveche-ii.md
+works:
+  - work: content/works/robert-tangui-belem.md
+  - work: content/works/robert-tangui-bras-de-la-madeleine-et-jardin-des-plantes-nantes.md
+  - work: content/works/robert-tangui-bras-de-la-madeleine-et-jardin-des-plantes.md
+  - work: content/works/robert-tangui-cale-de-lesclain-et-jardin-des-plantes.md
+  - work: content/works/robert-tangui-cale-dubigeon.md
+  - work: content/works/robert-tangui-chantier-de-lesclain.md
+  - work: content/works/robert-tangui-digue.md
+  - work: content/works/robert-tangui-empreintes.md
+  - work: content/works/robert-tangui-extrait-de-jardin-des-plantes.md
+  - work: content/works/robert-tangui-grandes-serres-et-bord-de-loire-ii.md
+  - work: content/works/robert-tangui-grandes-serres-et-bord-de-loire-nantes.md
+  - work: content/works/robert-tangui-jardin-des-plantes.md
+  - work: content/works/robert-tangui-jardin-nuages-nantes.md
+  - work: content/works/robert-tangui-loire-li.md
+  - work: content/works/robert-tangui-louveche-ii.md
+  - work: content/works/robert-tangui-maison-toulu.md
+  - work: content/works/robert-tangui-palais-nantes.md
+  - work: content/works/robert-tangui-reflet-loire-nantes.md
+  - work: content/works/robert-tangui-salento.md
+  - work: content/works/robert-tangui-tourbiere.md
+  - work: content/works/robert-tangui-trentemoult.md
+  - work: content/works/robert-tangui-xia-men.md
 ---
 # Tangui Robert
 

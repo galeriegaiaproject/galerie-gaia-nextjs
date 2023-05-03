@@ -17,6 +17,22 @@ seo:
   description: ''
   image: ''
 work: content/works/bourriau-dimitri-teatro-colosseum.md
+works:
+  - work: content/works/bourriau-dimitri-atlantis-teatro.md
+  - work: content/works/bourriau-dimitri-bank.md
+  - work: content/works/bourriau-dimitri-buzludzha-bulgarie-interieur.md
+  - work: content/works/bourriau-dimitri-buzludzha-bulgarie.md
+  - work: content/works/bourriau-dimitri-cochlea.md
+  - work: content/works/bourriau-dimitri-dictators-villa.md
+  - work: content/works/bourriau-dimitri-greenhouse-3.md
+  - work: content/works/bourriau-dimitri-independance-day.md
+  - work: content/works/bourriau-dimitri-jumanji-theater.md
+  - work: content/works/bourriau-dimitri-noratlas.md
+  - work: content/works/bourriau-dimitri-portrait.md
+  - work: content/works/bourriau-dimitri-snow-storm.md
+  - work: content/works/bourriau-dimitri-soviet-spa.md
+  - work: content/works/bourriau-dimitri-teatro-colosseum.md
+  - work: content/works/bourriau-dimitri-theatre-de-bel-air.md
 ---
 # Dimitri Bourriau
 

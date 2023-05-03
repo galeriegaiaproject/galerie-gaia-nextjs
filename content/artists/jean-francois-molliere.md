@@ -12,6 +12,31 @@ fields:
 styles:
   - Figuratif
 work: content/works/molliere-jean-francois-paysage-sensible-3.md
+works:
+  - work: content/works/molliere-jean-francois-chicago-21.md
+  - work: content/works/molliere-jean-francois-chicago-22.md
+  - work: content/works/molliere-jean-francois-chicago-23.md
+  - work: content/works/molliere-jean-francois-chicago-27.md
+  - work: content/works/molliere-jean-francois-chicago-46.md
+  - work: content/works/molliere-jean-francois-new-york-11.md
+  - work: content/works/molliere-jean-francois-new-york-15.md
+  - work: content/works/molliere-jean-francois-new-york-20.md
+  - work: content/works/molliere-jean-francois-new-york-5.md
+  - work: content/works/molliere-jean-francois-new-york-50.md
+  - work: content/works/molliere-jean-francois-new-york-59.md
+  - work: content/works/molliere-jean-francois-new-york-67.md
+  - work: content/works/molliere-jean-francois-new-york-69.md
+  - work: content/works/molliere-jean-francois-new-york-7.md
+  - work: content/works/molliere-jean-francois-new-york-72.md
+  - work: content/works/molliere-jean-francois-paysage-sensible-1.md
+  - work: content/works/molliere-jean-francois-paysage-sensible-3.md
+  - work: content/works/molliere-jean-francois-paysage-sensible-7.md
+  - work: content/works/molliere-jean-francois-paysages-sensibles-2.md
+  - work: content/works/molliere-jean-francois-paysages-sensibles-4.md
+  - work: content/works/molliere-jean-francois-tokyo-1.md
+  - work: content/works/molliere-jean-francois-tokyo-4.md
+  - work: content/works/molliere-jean-francois-tokyo-6.md
+  - work: content/works/molliere-jean-francois-tokyo-9.md
 ---
 # Jean-François Mollière
 

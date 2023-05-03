@@ -9,6 +9,22 @@ exhibitions: []
 redirect_from:
   - /artistes/62-collectif-jeronimo-gaetan-chevrier-tangui-robert/
 work: content/works/versants-strates-42.md
+works:
+  - work: content/works/versants-echo-v.md
+  - work: content/works/versants-failles-22.md
+  - work: content/works/versants-fresque-1.md
+  - work: content/works/versants-fresque-2.md
+  - work: content/works/versants-fresque-iii.md
+  - work: content/works/versants-gaia.md
+  - work: content/works/versants-strates-42.md
+  - work: content/works/versants-strates-52.md
+  - work: content/works/versants-strates-58.md
+  - work: content/works/versants-strates-60.md
+  - work: content/works/versants-strates-61.md
+  - work: content/works/versants-strates-67.md
+  - work: content/works/versants-strates-69.md
+  - work: content/works/versants-strates-77.md
+  - work: content/works/versants-strates-79.md
 ---
 # Tangui Robert Jeronimo Gaetan Chevrier pour Versants
 

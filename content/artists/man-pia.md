@@ -15,6 +15,13 @@ location: ''
 expose: false
 exhibitions: []
 work: content/works/man-et-pia-earthforms.md
+works:
+  - work: content/works/man-et-pia-a-forest.md
+  - work: content/works/man-et-pia-below-the-cherry-moon-2020.md
+  - work: content/works/man-et-pia-dancing-in-the-street.md
+  - work: content/works/man-et-pia-earthforms.md
+  - work: content/works/man-et-pia-on-our-way.md
+  - work: content/works/man-et-pia-take-a-long-way-home.md
 ---
 Pia Laureau et Manolo Chrétien se sont rencontrés en 1987 aux Arts Appliqués Olivier de Serres à Paris.
 

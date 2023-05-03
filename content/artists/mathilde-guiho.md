@@ -35,6 +35,19 @@ seo:
   description: ''
   image: ''
 work: content/works/guiho-mathilde-les-genoux-rouges.md
+works:
+  - work: content/works/guiho-mathilde-brulees.md
+  - work: content/works/guiho-mathilde-ciel-plein.md
+  - work: content/works/guiho-mathilde-eaux-vides.md
+  - work: content/works/guiho-mathilde-embuee.md
+  - work: content/works/guiho-mathilde-le-regard.md
+  - work: content/works/guiho-mathilde-les-genoux-rouges.md
+  - work: content/works/guiho-mathilde-loire.md
+  - work: content/works/guiho-mathilde-oeil.md
+  - work: content/works/guiho-mathilde-oiseaux.md
+  - work: content/works/guiho-mathilde-portrait-de-fil.md
+  - work: content/works/guiho-mathilde-portrait-de-mathilde-guiho.md
+  - work: content/works/guiho-mathilde-rouge.md
 ---
 # Mathilde Guiho
 

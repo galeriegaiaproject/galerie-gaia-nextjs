@@ -11,6 +11,13 @@ redirect_from:
 styles:
   - Figuratif
 work: content/works/rycho-ryszard-swierad-venise.md
+works:
+  - work: content/works/rycho-ryszard-swierad-3-freres.md
+  - work: content/works/rycho-ryszard-swierad-jetee.md
+  - work: content/works/rycho-ryszard-swierad-la-dune-dici.md
+  - work: content/works/rycho-ryszard-swierad-la-mer-dici.md
+  - work: content/works/rycho-ryszard-swierad-st-lui.md
+  - work: content/works/rycho-ryszard-swierad-venise.md
 ---
 # Ryszard Swierad - Rycho
 

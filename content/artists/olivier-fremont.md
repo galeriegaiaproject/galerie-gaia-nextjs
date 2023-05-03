@@ -11,6 +11,11 @@ redirect_from:
 styles:
   - Abstrait
 work: content/works/fremont-olivier-nuage.md
+works:
+  - work: content/works/fremont-olivier-ailes.md
+  - work: content/works/fremont-olivier-mur-11.md
+  - work: content/works/fremont-olivier-nuage-detail.md
+  - work: content/works/fremont-olivier-nuage.md
 ---
 # Olivier Fremont
 

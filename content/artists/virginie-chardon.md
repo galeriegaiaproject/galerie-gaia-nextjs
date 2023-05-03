@@ -11,6 +11,20 @@ redirect_from:
 styles:
   - Figuratif
 work: content/works/chardon-virginie-la-petite-coreenne.md
+works:
+  - work: content/works/chardon-virginie-balthazar-lorang-outan.md
+  - work: content/works/chardon-virginie-cesar-et-virginie.md
+  - work: content/works/chardon-virginie-eiko-la-crecerelle.md
+  - work: content/works/chardon-virginie-hipolyte-le-morse.md
+  - work: content/works/chardon-virginie-james-le-cocker-anglais.md
+  - work: content/works/chardon-virginie-la-petite-coreenne.md
+  - work: content/works/chardon-virginie-le-cachalot.md
+  - work: content/works/chardon-virginie-le-pelican.md
+  - work: content/works/chardon-virginie-les-soeurs-coreennes-vue-de-cote.md
+  - work: content/works/chardon-virginie-les-soeurs-coreennes-vue-de-face.md
+  - work: content/works/chardon-virginie-omer-avec-virginie.md
+  - work: content/works/chardon-virginie-omer-le-dog-allemand.md
+  - work: content/works/chardon-virginie-stan-le-bouledog-anglais.md
 ---
 # Virginie Chardon
 

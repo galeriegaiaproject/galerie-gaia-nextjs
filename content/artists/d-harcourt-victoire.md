@@ -15,6 +15,17 @@ location: ''
 expose: true
 exhibitions: []
 work: content/works/dharcourt-victoire-alliance-xii.md
+works:
+  - work: content/works/dharcourt-victoire-alliance-blanche-au-mur.md
+  - work: content/works/dharcourt-victoire-alliance-blanche.md
+  - work: content/works/dharcourt-victoire-alliance-iv.md
+  - work: content/works/dharcourt-victoire-alliance-xii.md
+  - work: content/works/dharcourt-victoire-alliance-xiii.md
+  - work: content/works/dharcourt-victoire-alliance-xviii-en-situation.md
+  - work: content/works/dharcourt-victoire-alliance-xviii.md
+  - work: content/works/dharcourt-victoire-equilibre-mini.md
+  - work: content/works/dharcourt-victoire-petite-catena.md
+  - work: content/works/dharcourt-victoire-portrait-de-victoire-dharcourt.md
 ---
 # Victoire D'Harcourt
 

@@ -15,6 +15,22 @@ redirect_from:
 styles:
   - Abstrait
 work: content/works/lecomte-philippe-2020spp8b.md
+works:
+  - work: content/works/lecomte-philippe-2017plp12.md
+  - work: content/works/lecomte-philippe-2020spp3.md
+  - work: content/works/lecomte-philippe-2020spp34.md
+  - work: content/works/lecomte-philippe-2020spp35.md
+  - work: content/works/lecomte-philippe-2020spp37.md
+  - work: content/works/lecomte-philippe-2020spp42.md
+  - work: content/works/lecomte-philippe-2020spp49b.md
+  - work: content/works/lecomte-philippe-2020spp5b.md
+  - work: content/works/lecomte-philippe-2020spp8a.md
+  - work: content/works/lecomte-philippe-2020spp8b.md
+  - work: content/works/lecomte-philippe-2020spp8c.md
+  - work: content/works/lecomte-philippe-2020spp8d.md
+  - work: content/works/lecomte-philippe-2020spp8e.md
+  - work: content/works/lecomte-philippe-2020spp8f.md
+  - work: content/works/lecomte-philippe-exposition-dessin-et-peinture.md
 ---
 # Philippe Lecomte
 

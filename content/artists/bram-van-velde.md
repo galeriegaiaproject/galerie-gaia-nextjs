@@ -13,6 +13,13 @@ redirect_from:
 styles:
   - Abstrait
 work: content/works/van-velde-bram-mp-361.md
+works:
+  - work: content/works/van-velde-bram-bram-van-velde-encadree.md
+  - work: content/works/van-velde-bram-mp-167.md
+  - work: content/works/van-velde-bram-mp-320.md
+  - work: content/works/van-velde-bram-mp-350.md
+  - work: content/works/van-velde-bram-mp-361.md
+  - work: content/works/van-velde-bram-mp-371.md
 ---
 # Litho Bram Van Velde
 

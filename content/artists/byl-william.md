@@ -15,6 +15,13 @@ location: France
 expose: true
 exhibitions: []
 work: content/works/byl-william-cheval-sable.md
+works:
+  - work: content/works/byl-william-buffle-sable.md
+  - work: content/works/byl-william-cheval-noir.md
+  - work: content/works/byl-william-cheval-sable.md
+  - work: content/works/byl-william-portrait-de-william-byl.md
+  - work: content/works/byl-william-tatou.md
+  - work: content/works/byl-william-taureau-noir.md
 ---
 **Soyez patient pour 2023 une nouvelle sélection arrive.  
 Si vous voulez être informé de leur arrivée** [**contact@galeriegaia.fr**]()

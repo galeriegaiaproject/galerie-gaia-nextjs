@@ -15,6 +15,10 @@ location: ''
 expose: true
 exhibitions: []
 work: content/works/viallat-claude-sans-_-fond-rose.md
+works:
+  - work: content/works/viallat-claude-sans-_-fond-rose.md
+  - work: content/works/viallat-claude-sans-titre-21.md
+  - work: content/works/viallat-claude-sans-titre-6.md
 ---
 # Claude Viallat
 

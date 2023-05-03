@@ -27,8 +27,6 @@ export const getStaticProps = async ({ params }) => {
         tina: {
           page: await client.queries.artists({ relativePath: `${params.artist}.md` }),
           metadata: await client.queries.metadata({ relativePath: 'index.md' }),
-          works: (await client.queries.worksConnection({ first: 100000 }))
-            .data.worksConnection.edges.filter(work => work.node.artist.id === `content/artists/${params.artist}.md`),
         }
       },
     }
@@ -99,7 +97,7 @@ const Artist = ({ tina, ...props }) => {
   }, [page.expose])
 
   const cart = useSnipcartContext()
-  const works = useMemo(() => tina.works.map(({ node }) => node).filter(work => !work.sold), [tina.works])
+  const works = useMemo(() => page.works.map(({ work }) => work).filter(work => !work.sold), [page.works])
   const slides = useMemo(() => works.map(work => work.image).filter(image => !!image), [works])
   const [slide, setSlide] = useState(query?.work ? works.filter(work => !!work.image).findIndex(work => fromFilesystem2Url(work.id).replace('/works/', '') === query.work) : 0)
   const index = (slide >= 0 ? slide : Math.ceil(Math.abs(slide / slides.length))) % slides.length

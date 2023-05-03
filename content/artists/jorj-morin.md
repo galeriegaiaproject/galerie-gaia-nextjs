@@ -20,6 +20,51 @@ seo:
   description: ''
   image: ''
 work: content/works/morin-jorj-estampe-tapisserie-sentiers-perdus.md
+works:
+  - work: content/works/morin-jorj-estampe-tapisserie-arbre-pyramide.md
+  - work: content/works/morin-jorj-estampe-tapisserie-bouquet-compose.md
+  - work: content/works/morin-jorj-estampe-tapisserie-cat-328.md
+  - work: content/works/morin-jorj-estampe-tapisserie-coeur-ii.md
+  - work: content/works/morin-jorj-estampe-tapisserie-colonne-sensible.md
+  - work: content/works/morin-jorj-estampe-tapisserie-construction-ephemere.md
+  - work: content/works/morin-jorj-estampe-tapisserie-cyclope.md
+  - work: content/works/morin-jorj-estampe-tapisserie-entrelacs-ii.md
+  - work: content/works/morin-jorj-estampe-tapisserie-espace-agite.md
+  - work: content/works/morin-jorj-estampe-tapisserie-exposition-polymorphie.md
+  - work: content/works/morin-jorj-estampe-tapisserie-fleur-dansant.md
+  - work: content/works/morin-jorj-estampe-tapisserie-isthme-noir.md
+  - work: content/works/morin-jorj-estampe-tapisserie-jeu-daiguilles.md
+  - work: content/works/morin-jorj-estampe-tapisserie-la-tour-de-guet.md
+  - work: content/works/morin-jorj-estampe-tapisserie-larbre-noue.md
+  - work: content/works/morin-jorj-estampe-tapisserie-le-chateau-vertical.md
+  - work: content/works/morin-jorj-estampe-tapisserie-le-coeur-sensible.md
+  - work: content/works/morin-jorj-estampe-tapisserie-le-point-retenu.md
+  - work: content/works/morin-jorj-estampe-tapisserie-le-temps-suspendu.md
+  - work: content/works/morin-jorj-estampe-tapisserie-le-vent-qui-va.md
+  - work: content/works/morin-jorj-estampe-tapisserie-lechelle-de-jacob.md
+  - work: content/works/morin-jorj-estampe-tapisserie-les-yeux-rouges.md
+  - work: content/works/morin-jorj-estampe-tapisserie-loeil-inquiet.md
+  - work: content/works/morin-jorj-estampe-tapisserie-massif-forestier.md
+  - work: content/works/morin-jorj-estampe-tapisserie-mouvement-mecanique.md
+  - work: content/works/morin-jorj-estampe-tapisserie-noeud-majuscule.md
+  - work: content/works/morin-jorj-estampe-tapisserie-oiseau-passant.md
+  - work: content/works/morin-jorj-estampe-tapisserie-petit-bois-habite.md
+  - work: content/works/morin-jorj-estampe-tapisserie-pierre-gravee.md
+  - work: content/works/morin-jorj-estampe-tapisserie-point-rouge.md
+  - work: content/works/morin-jorj-estampe-tapisserie-quatre-paires-dyeux.md
+  - work: content/works/morin-jorj-estampe-tapisserie-regards-disperces.md
+  - work: content/works/morin-jorj-estampe-tapisserie-regards-inquiets.md
+  - work: content/works/morin-jorj-estampe-tapisserie-sans-titre.md
+  - work: content/works/morin-jorj-estampe-tapisserie-sentiers-perdus.md
+  - work: content/works/morin-jorj-estampe-tapisserie-signaux-optiques.md
+  - work: content/works/morin-jorj-estampe-tapisserie-tapisserie-espace-nacre.md
+  - work: content/works/morin-jorj-estampe-tapisserie-tapisserie-papillon.md
+  - work: content/works/morin-jorj-estampe-tapisserie-trois-petits-masques.md
+  - work: content/works/morin-jorj-estampe-tapisserie-trois-signes-non-identifies.md
+  - work: content/works/morin-jorj-estampe-tapisserie-un-oeil-polyvalent.md
+  - work: content/works/morin-jorj-estampe-tapisserie-une-branche-verte.md
+  - work: content/works/morin-jorj-estampe-tapisserie-une-certaine-cohesion.md
+  - work: content/works/morin-jorj-estampe-tapisserie-vents-tournants.md
 ---
 
 # Jorj Morin (Georges)

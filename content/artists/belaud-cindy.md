@@ -15,6 +15,10 @@ location: ''
 expose: true
 exhibitions: []
 work: content/works/belaud-cindy-3x3x3.md
+works:
+  - work: content/works/belaud-cindy-3x3x3.md
+  - work: content/works/belaud-cindy-aplat.md
+  - work: content/works/belaud-cindy-aplat-en-situation.md
 ---
 # Cindy Belaud
 

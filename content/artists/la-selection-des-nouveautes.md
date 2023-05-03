@@ -15,6 +15,19 @@ seo:
     Exposition, peinture, sculpture, estampe, photographie… Découvrez les
     nouveautés de la Galerie Gaïa, galerie d'art contemporain à Nantes.
 work: content/works/mars-2023-nouveautes.md
+works:
+  - work: content/works/mars-2023-blue-pacifique-ii-par-isthme-installe-a-lamenite.md
+  - work: content/works/mars-2023-bram-van-velde-encadre-par-notre-atelier.md
+  - work: content/works/mars-2023-carraimant-tout-en-gres-de-annick-argant.md
+  - work: content/works/mars-2023-dimitri-roubichou.md
+  - work: content/works/mars-2023-job-bella-giornata.md
+  - work: content/works/mars-2023-la-petite-coreenne-de-virginie-chardon.md
+  - work: content/works/mars-2023-le-point-dequilibre-isabelle-healy.md
+  - work: content/works/mars-2023-nouveautes.md
+  - work: content/works/mars-2023-petit-cube-dans-vegetation-par-marie-vandooren.md
+  - work: content/works/mars-2023-toma-l.md
+  - work: content/works/mars-2023-yann-peron.md
+  - work: content/works/mars-2023-yellow-shoes-exposition-de-laure-carre-jusquau-25-mars.md
 ---
 
 # Idées cadeaux originales

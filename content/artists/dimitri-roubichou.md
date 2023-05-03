@@ -11,6 +11,26 @@ redirect_from:
 styles:
   - Figuratif
 work: content/works/roubichou-dimitri-echoes.md
+works:
+  - work: content/works/roubichou-dimitri-acate.md
+  - work: content/works/roubichou-dimitri-akemi.md
+  - work: content/works/roubichou-dimitri-anchorage.md
+  - work: content/works/roubichou-dimitri-anemone.md
+  - work: content/works/roubichou-dimitri-coquillage-recto-1.md
+  - work: content/works/roubichou-dimitri-coquillage-verso-1.md
+  - work: content/works/roubichou-dimitri-echoes.md
+  - work: content/works/roubichou-dimitri-iris.md
+  - work: content/works/roubichou-dimitri-jade.md
+  - work: content/works/roubichou-dimitri-mikayo.md
+  - work: content/works/roubichou-dimitri-miki.md
+  - work: content/works/roubichou-dimitri-moha.md
+  - work: content/works/roubichou-dimitri-naoned.md
+  - work: content/works/roubichou-dimitri-paa.md
+  - work: content/works/roubichou-dimitri-paige.md
+  - work: content/works/roubichou-dimitri-penelope.md
+  - work: content/works/roubichou-dimitri-portrait.md
+  - work: content/works/roubichou-dimitri-trophee.md
+  - work: content/works/roubichou-dimitri-vera.md
 ---
 # Dimitri Roubichou
 

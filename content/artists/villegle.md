@@ -15,6 +15,9 @@ birth: '1926'
 expose: true
 exhibitions: []
 work: content/works/villegle-jacques-tremeac.md
+works:
+  - work: content/works/villegle-jacques-sans-rose.md
+  - work: content/works/villegle-jacques-tremeac.md
 ---
 # [Jacques Villeglé](https://www.moma.org/artists/6163 "jacques villéglé villglé")
 

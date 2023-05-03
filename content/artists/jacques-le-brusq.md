@@ -21,6 +21,30 @@ seo:
   description: ''
   image: ''
 work: content/works/le-brusq-jacques-ver-cla-flo-opus-6.md
+works:
+  - work: content/works/le-brusq-jacques-29-afr-opus-1-encadree.md
+  - work: content/works/le-brusq-jacques-5390-br-pay-flo-opus-1-encadree.md
+  - work: content/works/le-brusq-jacques-7731-gar-lem-opus-1-encadree.md
+  - work: content/works/le-brusq-jacques-br-mo-no-opus-2-dans-latelier.md
+  - work: content/works/le-brusq-jacques-contre-jour.md
+  - work: content/works/le-brusq-jacques-cour-sud-le-prunier.md
+  - work: content/works/le-brusq-jacques-en-beauce-opus-1-en-situation.md
+  - work: content/works/le-brusq-jacques-en-beauce-opus-1.md
+  - work: content/works/le-brusq-jacques-en-beauce-opus-2-en-situation.md
+  - work: content/works/le-brusq-jacques-en-beauce-opus-2.md
+  - work: content/works/le-brusq-jacques-en-beauce.md
+  - work: content/works/le-brusq-jacques-exposition-le-present-du-monde.md
+  - work: content/works/le-brusq-jacques-la-breche-opus-2.md
+  - work: content/works/le-brusq-jacques-louvert-opus-1.md
+  - work: content/works/le-brusq-jacques-louvert-opus-2.md
+  - work: content/works/le-brusq-jacques-portrait.md
+  - work: content/works/le-brusq-jacques-rhuys-opus-1-toile.md
+  - work: content/works/le-brusq-jacques-terre-labouree.md
+  - work: content/works/le-brusq-jacques-ver-cla-flo-opus-3.md
+  - work: content/works/le-brusq-jacques-ver-cla-flo-opus-5.md
+  - work: content/works/le-brusq-jacques-ver-cla-flo-opus-6.md
+  - work: content/works/le-brusq-jacques-vers-le-jardin.md
+  - work: content/works/le-brusq-jacques-vers-lentree-les-douglas.md
 ---
 # Jacques Le Brusq
 

@@ -22,6 +22,10 @@ exhibitions:
     start: '2018'
     end: ''
 work: content/works/rich-designer-les-inseparables.md
+works:
+  - work: content/works/rich-designer-les-inseparables.md
+  - work: content/works/rich-designer-mise-en-situation-devant-une-toile-de-edwin-wide.md
+  - work: content/works/rich-designer-rich-designer-isabelle-rolland-christophe-hascoet.md
 ---
 **A la frontière de l’objet d’art et du design**
 

@@ -62,6 +62,14 @@ const artistsCollection = {
   },
   fields: [
     {
+      ...seoField,
+      ui: {
+        defaultItem: {
+          type: 'article',
+        },
+      },
+    },
+    {
       type: 'string',
       name: 'title',
       label: 'Nom',
@@ -101,6 +109,30 @@ const artistsCollection = {
       label: 'Exposer',
     },
     {
+      type: 'reference',
+      name: 'work',
+      label: 'Oeuvre mis en avant',
+      collections: ['works'],
+    },
+    {
+      type: 'object',
+      name: 'works',
+      label: 'Oeuvres',
+      list: true,
+      itemProps: (item) => ({
+        key: item.work,
+        label: item.work,
+      }),
+      fields: [
+        {
+          type: 'reference',
+          name: 'work',
+          label: 'Oeuvre',
+          collections: ['works'],
+        },
+      ],
+    },
+    {
       type: 'object',
       name: 'exhibitions',
       label: 'Expositions',
@@ -137,20 +169,6 @@ const artistsCollection = {
       name: 'biography',
       label: 'Biography',
       isBody: true,
-    },
-    {
-      type: 'reference',
-      name: 'work',
-      label: 'Oeuvre mis en avant',
-      collections: ['works'],
-    },
-    {
-      ...seoField,
-      ui: {
-        defaultItem: {
-          type: 'article',
-        },
-      },
     },
   ],
 }

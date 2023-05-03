@@ -18,6 +18,35 @@ seo:
   description: ''
   image: ''
 work: content/works/isoard-aline-pont-15-2021.md
+works:
+  - work: content/works/isoard-aline-fenetre-sur-route-1-2020.md
+  - work: content/works/isoard-aline-fenetre-sur-route-3-2020.md
+  - work: content/works/isoard-aline-fenetre-sur-route-6_2021.md
+  - work: content/works/isoard-aline-fenetre-sur-route-9-2018.md
+  - work: content/works/isoard-aline-fenetre-sur-route-9-_2019.md
+  - work: content/works/isoard-aline-fenetre-sur-route-gf12_2015.md
+  - work: content/works/isoard-aline-fenetre-sur-route-gf7-2014.md
+  - work: content/works/isoard-aline-fenetre-sur-route-idf-4_2017.md
+  - work: content/works/isoard-aline-habitant-sur-route-6-2020.md
+  - work: content/works/isoard-aline-habitants-sur-route-5-2021.md
+  - work: content/works/isoard-aline-les-objets-10-2020.md
+  - work: content/works/isoard-aline-livre-apparaitre-disparaitre-etre.md
+  - work: content/works/isoard-aline-pages-du-livre-apparaitre-disparaitre-etre.md
+  - work: content/works/isoard-aline-paysage-sur-route-argentine-7-2020.md
+  - work: content/works/isoard-aline-pont-15-2021.md
+  - work: content/works/isoard-aline-pont-19_2017.md
+  - work: content/works/isoard-aline-pont-gf2-2016.md
+  - work: content/works/isoard-aline-reflets-1-2021.md
+  - work: content/works/isoard-aline-reflets-2-2019.md
+  - work: content/works/isoard-aline-reflets-2-2021.md
+  - work: content/works/isoard-aline-reflets-3-2019.md
+  - work: content/works/isoard-aline-reflets-4-2020.md
+  - work: content/works/isoard-aline-station-12-2016.md
+  - work: content/works/isoard-aline-station-3-2016.md
+  - work: content/works/isoard-aline-station-3-2017.md
+  - work: content/works/isoard-aline-station-3-2018.md
+  - work: content/works/isoard-aline-station-5_2017.md
+  - work: content/works/isoard-aline-station-6-2017.md
 ---
 # Aline Isoard
 

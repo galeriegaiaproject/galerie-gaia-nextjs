@@ -19,6 +19,45 @@ seo:
   description: ''
   image: ''
 work: content/works/tual-pierre-petite-oblique-contre-le-mur.md
+works:
+  - work: content/works/tual-pierre-algue-marine.md
+  - work: content/works/tual-pierre-atelier-pierre-tual.md
+  - work: content/works/tual-pierre-blanche-entrecroisee.md
+  - work: content/works/tual-pierre-bronze-jour-de-mars.md
+  - work: content/works/tual-pierre-brou-de-noix-1.md
+  - work: content/works/tual-pierre-brou-de-noix-2.md
+  - work: content/works/tual-pierre-brou-de-noix-3.md
+  - work: content/works/tual-pierre-brou-de-noix-4.md
+  - work: content/works/tual-pierre-brou-de-noix-5.md
+  - work: content/works/tual-pierre-ceramique-jaune.md
+  - work: content/works/tual-pierre-ceramique-verte.md
+  - work: content/works/tual-pierre-citadelle.md
+  - work: content/works/tual-pierre-dessin-le-jour-de-mars.md
+  - work: content/works/tual-pierre-dessin-le-jour-de-venus.md
+  - work: content/works/tual-pierre-dessin-le-jour-du-soleil.md
+  - work: content/works/tual-pierre-eau-forte-sans-titre-2.md
+  - work: content/works/tual-pierre-eau-forte-sans-titre.md
+  - work: content/works/tual-pierre-estacade-i.md
+  - work: content/works/tual-pierre-estacade-ii.md
+  - work: content/works/tual-pierre-exposition-pierre-tual-octobre-2022.md
+  - work: content/works/tual-pierre-isafjordur.md
+  - work: content/works/tual-pierre-jour-dapollon.md
+  - work: content/works/tual-pierre-jour-de-venus.md
+  - work: content/works/tual-pierre-kerinos-etude.md
+  - work: content/works/tual-pierre-kerinos.md
+  - work: content/works/tual-pierre-le-cirque.md
+  - work: content/works/tual-pierre-le-manege.md
+  - work: content/works/tual-pierre-louxor.md
+  - work: content/works/tual-pierre-marine-i.md
+  - work: content/works/tual-pierre-monotype-1.md
+  - work: content/works/tual-pierre-monotype-2.md
+  - work: content/works/tual-pierre-petite-oblique-contre-le-mur.md
+  - work: content/works/tual-pierre-primitive-ndegree1.md
+  - work: content/works/tual-pierre-primitive-ndegree3.md
+  - work: content/works/tual-pierre-relief-au-mur.md
+  - work: content/works/tual-pierre-sargasse.md
+  - work: content/works/tual-pierre-verre-et-terre-cuite.md
+  - work: content/works/tual-pierre-voyelle-o.md
 ---
 
 # Pierre Tual

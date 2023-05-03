@@ -11,6 +11,8 @@ exhibitions: []
 styles:
   - Abstrait
 work: content/works/francois-morellet-pi-02001e-tt-colore.md
+works:
+  - work: content/works/francois-morellet-pi-02001e-tt-colore.md
 ---
 # François Morellet
 

@@ -17,6 +17,23 @@ seo:
   description: ''
   image: ''
 work: content/works/morellet-francois-systeme-hasards-et-telephone.md
+works:
+  - work: content/works/morellet-francois-1ere-page-et-colophon-signes.md
+  - work: content/works/morellet-francois-documentation-source-1.md
+  - work: content/works/morellet-francois-documentation-source-2.md
+  - work: content/works/morellet-francois-hasards-systeme-et-telephone-1.md
+  - work: content/works/morellet-francois-hasards-systeme-et-telephone-10.md
+  - work: content/works/morellet-francois-hasards-systeme-et-telephone-2.md
+  - work: content/works/morellet-francois-hasards-systeme-et-telephone-3.md
+  - work: content/works/morellet-francois-hasards-systeme-et-telephone-4.md
+  - work: content/works/morellet-francois-hasards-systeme-et-telephone-5.md
+  - work: content/works/morellet-francois-hasards-systeme-et-telephone-6.md
+  - work: content/works/morellet-francois-hasards-systeme-et-telephone-7.md
+  - work: content/works/morellet-francois-hasards-systeme-et-telephone-8.md
+  - work: content/works/morellet-francois-hasards-systeme-et-telephone-9.md
+  - work: content/works/morellet-francois-integralite-du-coffret-des-11-lithographies.md
+  - work: content/works/morellet-francois-livre-coffret-systemes-hasard-et-telephone.md
+  - work: content/works/morellet-francois-systeme-hasards-et-telephone.md
 ---
 # François Morellet
 

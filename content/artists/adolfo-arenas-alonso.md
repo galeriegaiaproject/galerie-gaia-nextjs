@@ -11,6 +11,11 @@ redirect_from:
 styles:
   - Figuratif
 work: content/works/adolfo-arenas-alonso-dolce-immaculate.md
+works:
+  - work: content/works/adolfo-arenas-alonso-dolce-immaculate.md
+  - work: content/works/adolfo-arenas-alonso-jocondo-il-bello.md
+  - work: content/works/adolfo-arenas-alonso-sine-noblitate-skull-and-bird.md
+  - work: content/works/adolfo-arenas-alonso-sinnoblitate-extrait-skull-and-bird.md
 ---
 # Adolfo Arenas Alonso
 

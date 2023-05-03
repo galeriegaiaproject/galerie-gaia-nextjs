@@ -15,6 +15,11 @@ location: ''
 expose: true
 exhibitions: []
 work: content/works/engels-didier-kaaien-compo-verte.md
+works:
+  - work: content/works/engels-didier-36-part1.md
+  - work: content/works/engels-didier-36-part2.md
+  - work: content/works/engels-didier-kaaien-compo-verte.md
+  - work: content/works/engels-didier-stained-glass.md
 ---
 # Engels Didier
 

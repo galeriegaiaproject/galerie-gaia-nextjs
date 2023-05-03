@@ -14,6 +14,17 @@ location: ''
 expose: false
 exhibitions: []
 work: content/works/wave-nantes-griffes-par-simon-bousquet.md
+works:
+  - work: content/works/wave-nantes-crash-par-simon-bousquet.md
+  - work: content/works/wave-nantes-griffes-par-simon-bousquet.md
+  - work: content/works/wave-nantes-noir-neon-par-simon-bousquet.md
+  - work: content/works/wave-nantes-non-habitants.md
+  - work: content/works/wave-nantes-nouvelle-condition-par-simon-collet.md
+  - work: content/works/wave-nantes-portrait-basile-collet.md
+  - work: content/works/wave-nantes-portrait-edwin-blandin.md
+  - work: content/works/wave-nantes-portrait-simon-bousquet.md
+  - work: content/works/wave-nantes-wassily-architecture.md
+  - work: content/works/wave-nantes-wave-week-end-arts-visuels-nantes-28-29-30-mai-2021.md
 ---
 # [WAVE NANTES 2021](https://metropole.nantes.fr/infonantes/agenda/45412-wave--week-end-arts-visuels "WAVE NANTES")
 

@@ -11,6 +11,25 @@ redirect_from:
 styles:
   - Figuratif
 work: content/works/jakobek-boris-un-faux-refuge.md
+works:
+  - work: content/works/jakobek-boris-capture-sous-hypnose.md
+  - work: content/works/jakobek-boris-dans-les-vapeurs.md
+  - work: content/works/jakobek-boris-dream-baby-dream.md
+  - work: content/works/jakobek-boris-ho-visto.md
+  - work: content/works/jakobek-boris-il-avait-besoin-dune-boussole.md
+  - work: content/works/jakobek-boris-la-coupe.md
+  - work: content/works/jakobek-boris-la-reunion.md
+  - work: content/works/jakobek-boris-la-ruine.md
+  - work: content/works/jakobek-boris-le-montage.md
+  - work: content/works/jakobek-boris-les-oreilles-qui-saignent.md
+  - work: content/works/jakobek-boris-meteorologie-dun-prisme.md
+  - work: content/works/jakobek-boris-sans-titre-donald.md
+  - work: content/works/jakobek-boris-sans-titre-les-marcheurs.md
+  - work: content/works/jakobek-boris-sans-titre.md
+  - work: content/works/jakobek-boris-schlaasss.md
+  - work: content/works/jakobek-boris-the-footbridge-of-sadness.md
+  - work: content/works/jakobek-boris-un-faux-refuge.md
+  - work: content/works/jakobek-boris-un-veritable-remodelage-de-la-planete.md
 ---
 # Boris Jakobek
 

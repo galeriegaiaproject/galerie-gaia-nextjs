@@ -13,6 +13,23 @@ redirect_from:
 styles:
   - Abstrait
 work: content/works/morin-jorj-peinture-ceramique-resac.md
+works:
+  - work: content/works/morin-jorj-peinture-ceramique-arbre-a-couleurs.md
+  - work: content/works/morin-jorj-peinture-ceramique-bois-sec-en-situation.md
+  - work: content/works/morin-jorj-peinture-ceramique-bois-secs-i.md
+  - work: content/works/morin-jorj-peinture-ceramique-celebration-du-soir.md
+  - work: content/works/morin-jorj-peinture-ceramique-construction-hesitante.md
+  - work: content/works/morin-jorj-peinture-ceramique-conversation-dans-le-ciel.md
+  - work: content/works/morin-jorj-peinture-ceramique-etoile-verte.md
+  - work: content/works/morin-jorj-peinture-ceramique-exposition-polymorphie-du-16-janvier-1er-fevrier-2020.md
+  - work: content/works/morin-jorj-peinture-ceramique-le-taillis.md
+  - work: content/works/morin-jorj-peinture-ceramique-ouest-france-040220.md
+  - work: content/works/morin-jorj-peinture-ceramique-passage-de-migrateurs-en-situation.md
+  - work: content/works/morin-jorj-peinture-ceramique-peut-etre-une-lucarne.md
+  - work: content/works/morin-jorj-peinture-ceramique-point-culminant-en-situation.md
+  - work: content/works/morin-jorj-peinture-ceramique-point-culminant.md
+  - work: content/works/morin-jorj-peinture-ceramique-resac.md
+  - work: content/works/morin-jorj-peinture-ceramique-vis-a-vis.md
 ---
 # Jorj Morin (Georges)
 

@@ -14,6 +14,49 @@ redirect_from:
 styles:
   - Abstrait
 work: content/works/muckensturm-pierre-xxii-101-343-vue-de-biais.md
+works:
+  - work: content/works/muckensturm-pierre-14p1832263.md
+  - work: content/works/muckensturm-pierre-14p1834.md
+  - work: content/works/muckensturm-pierre-14p2906.md
+  - work: content/works/muckensturm-pierre-15p15082.md
+  - work: content/works/muckensturm-pierre-162r220612-411.md
+  - work: content/works/muckensturm-pierre-182c160413-installation.md
+  - work: content/works/muckensturm-pierre-182c160413.md
+  - work: content/works/muckensturm-pierre-184j210811-47.md
+  - work: content/works/muckensturm-pierre-184j210831-411.md
+  - work: content/works/muckensturm-pierre-185r091011.md
+  - work: content/works/muckensturm-pierre-186s19111-925.md
+  - work: content/works/muckensturm-pierre-186s19112-925.md
+  - work: content/works/muckensturm-pierre-186s19113-925.md
+  - work: content/works/muckensturm-pierre-2021p3392.md
+  - work: content/works/muckensturm-pierre-2022p3471.md
+  - work: content/works/muckensturm-pierre-2023p3472.md
+  - work: content/works/muckensturm-pierre-2026p3571.md
+  - work: content/works/muckensturm-pierre-203r0941-composition-a-6-angles-a-entas-.md
+  - work: content/works/muckensturm-pierre-203r0942-composition-a-6-angles-a-entas-.md
+  - work: content/works/muckensturm-pierre-203r0943-composition-a-6-angles-a-entas.md
+  - work: content/works/muckensturm-pierre-203r0944-composition-a-6-angles-a-entas.md
+  - work: content/works/muckensturm-pierre-203r0946-composition-a-6-angles-a-entas.md
+  - work: content/works/muckensturm-pierre-20m1882.md
+  - work: content/works/muckensturm-pierre-20m1886.md
+  - work: content/works/muckensturm-pierre-diptyque-xxi-41-117.md
+  - work: content/works/muckensturm-pierre-plus-ou-moins-deux-virgule-deux-degres-de-fantaisie-orthogonale.md
+  - work: content/works/muckensturm-pierre-portrait-pierre-muckensturm.md
+  - work: content/works/muckensturm-pierre-xxi-25-034.md
+  - work: content/works/muckensturm-pierre-xxi-40-116.md
+  - work: content/works/muckensturm-pierre-xxi-46-150.md
+  - work: content/works/muckensturm-pierre-xxi-56-150.md
+  - work: content/works/muckensturm-pierre-xxi-58-150.md
+  - work: content/works/muckensturm-pierre-xxi-64-175.md
+  - work: content/works/muckensturm-pierre-xxi-65-175.md
+  - work: content/works/muckensturm-pierre-xxi-67-175.md
+  - work: content/works/muckensturm-pierre-xxii-06-010.md
+  - work: content/works/muckensturm-pierre-xxii-07-010.md
+  - work: content/works/muckensturm-pierre-xxii-101-343-vue-de-biais.md
+  - work: content/works/muckensturm-pierre-xxii-101-343.md
+  - work: content/works/muckensturm-pierre-xxii-101-348-en-situation.md
+  - work: content/works/muckensturm-pierre-xxii-104-348.md
+  - work: content/works/muckensturm-pierre-xxii-41-074.md
 ---
 # Pierre Muckensturm
 

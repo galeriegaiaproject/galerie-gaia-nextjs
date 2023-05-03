@@ -22,6 +22,45 @@ seo:
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure carre-yellow shoes.jpg'
   description: 'Laure Carré Yellow shoes '
 work: content/works/carre-laure-au-fil-du-temps.md
+works:
+  - work: content/works/carre-laure-allongee-sans-souci.md
+  - work: content/works/carre-laure-atelier-laure-carre.md
+  - work: content/works/carre-laure-au-fil-du-temps.md
+  - work: content/works/carre-laure-autoportrait.md
+  - work: content/works/carre-laure-bal-masque.md
+  - work: content/works/carre-laure-blue-boxer.md
+  - work: content/works/carre-laure-blue-jeans.md
+  - work: content/works/carre-laure-buste-de-femme.md
+  - work: content/works/carre-laure-cactus-et-cheval.md
+  - work: content/works/carre-laure-cest-la-vie.md
+  - work: content/works/carre-laure-coup-de-vent.md
+  - work: content/works/carre-laure-dog-woman.md
+  - work: content/works/carre-laure-dream-country.md
+  - work: content/works/carre-laure-exposition-du-7-au-25-mars-2023.md
+  - work: content/works/carre-laure-face-a-face.md
+  - work: content/works/carre-laure-full-moon.md
+  - work: content/works/carre-laure-green-cloud.md
+  - work: content/works/carre-laure-hide-and-seek.md
+  - work: content/works/carre-laure-jeune-fille.md
+  - work: content/works/carre-laure-la-fille-aux-bottes.md
+  - work: content/works/carre-laure-le-cheval-noir.md
+  - work: content/works/carre-laure-le-dernier-souffle.md
+  - work: content/works/carre-laure-le-haut-vert.md
+  - work: content/works/carre-laure-le-perplexe.md
+  - work: content/works/carre-laure-le-volcan.md
+  - work: content/works/carre-laure-mannequin-atelier-manrique.md
+  - work: content/works/carre-laure-montagnes-heureuses.md
+  - work: content/works/carre-laure-moutain-dance.md
+  - work: content/works/carre-laure-paysage-du-nord.md
+  - work: content/works/carre-laure-portrait.md
+  - work: content/works/carre-laure-reve-de-cheval.md
+  - work: content/works/carre-laure-roc-and-cactus.md
+  - work: content/works/carre-laure-ronde-sentimentale.md
+  - work: content/works/carre-laure-small-pocket.md
+  - work: content/works/carre-laure-songe.md
+  - work: content/works/carre-laure-sweet-home.md
+  - work: content/works/carre-laure-tete-et-main.md
+  - work: content/works/carre-laure-yellow-shoes.md
 ---
 # Laure Carré
 

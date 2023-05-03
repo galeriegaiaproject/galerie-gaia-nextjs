@@ -15,6 +15,19 @@ location: ''
 expose: true
 exhibitions: []
 work: content/works/peron-yann-nenuphars-de-lerdre.md
+works:
+  - work: content/works/peron-yann-ciel-de-nenuphars.md
+  - work: content/works/peron-yann-detail-emile-2021_04.md
+  - work: content/works/peron-yann-eau-douce-du-havre.md
+  - work: content/works/peron-yann-emile-2021-04.md
+  - work: content/works/peron-yann-jardin-des-plantes-nantes.md
+  - work: content/works/peron-yann-lit-de-loire.md
+  - work: content/works/peron-yann-nenuphars-de-lerdre.md
+  - work: content/works/peron-yann-ombres-de-londe.md
+  - work: content/works/peron-yann-paysage-de-loire.md
+  - work: content/works/peron-yann-portrait-de-lartiste.md
+  - work: content/works/peron-yann-profondeurs.md
+  - work: content/works/peron-yann-reflet-de-lerdre.md
 ---
 "Dès la plus petite enfance j’ai aimé colorer, barbouiller, créer avec rapidité, rage et plaisir pour laisser mes traces sur toutes formes de papier, bois, carton, tôle ondulée, etc. Barioler cahiers d’écolier, agendas et autres supports de cours, m’a extrait de mon quotidien solitaire pour vivre des aventures oniriques. Mes vacances d’été, je les ai partagées à Pont- Aven entre le plaisir de m’enliser dans la vase, nager dans l’eau glacée de cette rivière d’eau saumâtre et observer les feuillages du bois d’amour où Paul Sérusier a peint « Le Talisman ».
 

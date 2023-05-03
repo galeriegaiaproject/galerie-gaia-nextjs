@@ -19,6 +19,10 @@ redirect_from:
 styles:
   - Figuratif
 work: content/works/argant-annick-les-carraimants-en-duo.md
+works:
+  - work: content/works/argant-annick-carraimant-tout-en-gres.md
+  - work: content/works/argant-annick-carraimant.md
+  - work: content/works/argant-annick-les-carraimants-en-duo.md
 ---
 # Annick Argant
 

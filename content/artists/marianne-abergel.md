@@ -12,6 +12,9 @@ styles:
   - Figuratif
   - Abstrait
 work: content/works/abergel-marianne-grande-chimere-lievre-celadon.md
+works:
+  - work: content/works/abergel-marianne-chimere-cachee-le-lievre.md
+  - work: content/works/abergel-marianne-chimere-cachee-la-girafe.md
 ---
 
 # Marianne Abergel

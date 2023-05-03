@@ -9,6 +9,15 @@ exhibitions: []
 redirect_from:
   - /artistes/66-daha-daha/
 work: content/works/hamon-damien-daha-fauteuil-ellipse.md
+works:
+  - work: content/works/hamon-damien-daha-cube-plie-brule.md
+  - work: content/works/hamon-damien-daha-cube-plie-chene-brut.md
+  - work: content/works/hamon-damien-daha-cube-plie-huile-or.md
+  - work: content/works/hamon-damien-daha-cube-plie-or.md
+  - work: content/works/hamon-damien-daha-ellipse-en-situation.md
+  - work: content/works/hamon-damien-daha-fauteuil-ellipse.md
+  - work: content/works/hamon-damien-daha-valet.md
+  - work: content/works/hamon-damien-daha-zoom-sur-cube-plie-brule.md
 ---
 # Damien Hamon Daha
 

@@ -20,6 +20,11 @@ redirect_from:
 styles:
   - Figuratif
 work: content/works/kazy-usclef-le-masque.md
+works:
+  - work: content/works/kazy-usclef-fresque-pour-la-galerie-gaia.md
+  - work: content/works/kazy-usclef-la-danse-des-couteaux.md
+  - work: content/works/kazy-usclef-la-sieste.md
+  - work: content/works/kazy-usclef-le-masque.md
 ---
 # Kazy Usclef
 

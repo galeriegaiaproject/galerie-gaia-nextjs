@@ -15,6 +15,8 @@ death: 29 septembre 2016
 expose: true
 exhibitions: []
 work: content/works/jaffe-shirley-sans-titre.md
+works:
+  - work: content/works/jaffe-shirley-sans-titre.md
 ---
 Américaine installée à Paris depuis 1949, la peintre Shirley Jaffe à perfectionné ses abstractions géométriques à la fois ludique et rigoureuse depuis la fin des années 60. Elle expose avec Jean Fournier avant de rejoindre la[ Galerie Obadia](https://www.nathalieobadia.com/fr/artists/43-shirley-jaffe-estate/overview/)
 

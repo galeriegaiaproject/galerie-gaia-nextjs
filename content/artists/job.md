@@ -19,6 +19,11 @@ exhibitions:
     start: 4 Juillet 2022
     end: 17 Juillet 2022
 work: content/works/job-les-collines-au-vent.md
+works:
+  - work: content/works/job-brigneau.md
+  - work: content/works/job-les-collines-au-vent.md
+  - work: content/works/job-portrait-de-philippe-bigot.md
+  - work: content/works/job-sur-les-quais.md
 ---
 > Job est un artiste peintre qui nous aide à prendre le temps pour que nos souvenirs apparaissent inondés par une lumière solaire et une palette de couleurs chaudes comme le sable.
 >

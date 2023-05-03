@@ -13,6 +13,27 @@ redirect_from:
   - /artistes/79-valerie-le-roux/
 styles: []
 work: content/works/le-roux-valerie-corail-kaki-bleu-ciel-et-bleu-cobalt.md
+works:
+  - work: content/works/le-roux-valerie-algue-bleu-ciel-et-fonce-format-allonge.md
+  - work: content/works/le-roux-valerie-algue-curry.md
+  - work: content/works/le-roux-valerie-algue-vert-argile.md
+  - work: content/works/le-roux-valerie-balanes-bleues-sur-fond-rouge.md
+  - work: content/works/le-roux-valerie-corail-kaki-bleu-ciel-et-bleu-cobalt.md
+  - work: content/works/le-roux-valerie-corail-orange-bleu-marine-format-allonge.md
+  - work: content/works/le-roux-valerie-feuille-bleue-n.md
+  - work: content/works/le-roux-valerie-grande-bouteille-motif-bleu-et-noir.md
+  - work: content/works/le-roux-valerie-grande-coupe-algue-curry.md
+  - work: content/works/le-roux-valerie-homard-rouge.md
+  - work: content/works/le-roux-valerie-poisson-russe.md
+  - work: content/works/le-roux-valerie-serigraphie-bleue.md
+  - work: content/works/le-roux-valerie-serigraphie-orange.md
+  - work: content/works/le-roux-valerie-serigraphie-verte.md
+  - work: content/works/le-roux-valerie-tete-a-queue-orange.md
+  - work: content/works/le-roux-valerie-trio-poissons-rayes-rouge-orange.md
+  - work: content/works/le-roux-valerie-trio-vegetal-rouge-bleu-marine-et-clair.md
+  - work: content/works/le-roux-valerie-vase-vert-clair.md
+  - work: content/works/le-roux-valerie-vegetal-bleu-ciel-et-fonce-format-allonge.md
+  - work: content/works/le-roux-valerie-vegetal-orange-vif-et-bleu-marine-format-allonge.md
 ---
 # Valérie Le Roux
 

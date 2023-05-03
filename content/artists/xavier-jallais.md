@@ -11,6 +11,10 @@ redirect_from:
 styles:
   - Figuratif
 work: content/works/jallais-xavier-avant-daller-plus-loin.md
+works:
+  - work: content/works/jallais-xavier-ailleurs-ou-nulle-part.md
+  - work: content/works/jallais-xavier-avant-daller-plus-loin.md
+  - work: content/works/jallais-xavier-cerf-1.md
 ---
 # Xavier Jallais
 

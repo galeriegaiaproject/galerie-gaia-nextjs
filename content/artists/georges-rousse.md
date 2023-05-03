@@ -10,6 +10,28 @@ redirect_from:
   - /artistes/93-georges-rousse/
 styles: []
 work: content/works/rousse-georges-vevey.md
+works:
+  - work: content/works/rousse-georges-arles-1986.md
+  - work: content/works/rousse-georges-blanc-mesnil.md
+  - work: content/works/rousse-georges-bomdock.md
+  - work: content/works/rousse-georges-bourgoin-jallieu-2.md
+  - work: content/works/rousse-georges-chasse-sur-rhone-1.md
+  - work: content/works/rousse-georges-chateau-des-alpilles-st-remy-de-provence.md
+  - work: content/works/rousse-georges-esch-sur-alzette.md
+  - work: content/works/rousse-georges-exposition-galerie-gaia-2022.md
+  - work: content/works/rousse-georges-exposition-georges-rousse-galerie-gaia.md
+  - work: content/works/rousse-georges-le-pavillon-de-la-muette-1.md
+  - work: content/works/rousse-georges-le-pavillon-de-la-muette-2.md
+  - work: content/works/rousse-georges-lisbonne-3.md
+  - work: content/works/rousse-georges-luxembourg-blanc.md
+  - work: content/works/rousse-georges-luxembourg-jaune.md
+  - work: content/works/rousse-georges-marseille-1.md
+  - work: content/works/rousse-georges-mumbai.md
+  - work: content/works/rousse-georges-nantes-2.md
+  - work: content/works/rousse-georges-polygone.md
+  - work: content/works/rousse-georges-seoul.md
+  - work: content/works/rousse-georges-utopia.md
+  - work: content/works/rousse-georges-vevey.md
 ---
 # Georges Rousse
 

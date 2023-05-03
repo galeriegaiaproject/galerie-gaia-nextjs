@@ -11,6 +11,24 @@ redirect_from:
 styles:
   - Figuratif
 work: content/works/gueguen-patrick-x.md
+works:
+  - work: content/works/gueguen-patrick-exposition-samedi-9-juin.md
+  - work: content/works/gueguen-patrick-i.md
+  - work: content/works/gueguen-patrick-ii.md
+  - work: content/works/gueguen-patrick-iii.md
+  - work: content/works/gueguen-patrick-iv.md
+  - work: content/works/gueguen-patrick-ix.md
+  - work: content/works/gueguen-patrick-v.md
+  - work: content/works/gueguen-patrick-vi.md
+  - work: content/works/gueguen-patrick-vii.md
+  - work: content/works/gueguen-patrick-viii.md
+  - work: content/works/gueguen-patrick-x.md
+  - work: content/works/gueguen-patrick-xi.md
+  - work: content/works/gueguen-patrick-xiii.md
+  - work: content/works/gueguen-patrick-xiv.md
+  - work: content/works/gueguen-patrick-xv.md
+  - work: content/works/gueguen-patrick-xvii.md
+  - work: content/works/gueguen-patrick-xx.md
 ---
 # Patrick Guéguen
 

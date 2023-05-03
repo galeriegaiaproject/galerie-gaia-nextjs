@@ -20,6 +20,13 @@ seo:
   description: ''
   image: ''
 work: content/works/gueho-corinne-ancrage-3.md
+works:
+  - work: content/works/gueho-corinne-ancrage-3.md
+  - work: content/works/gueho-corinne-ancrage-pont.md
+  - work: content/works/gueho-corinne-cylindre-3.md
+  - work: content/works/gueho-corinne-cylindre.md
+  - work: content/works/gueho-corinne-portrait.md
+  - work: content/works/gueho-corinne-vigie.md
 ---
 # Corinne Guého
 

@@ -22,6 +22,24 @@ styles:
   - Figuratif
   - Abstrait
 work: content/works/edwin-wide-donnart-117-ri.md
+works:
+  - work: content/works/edwin-wide-donnart-05-01-17.md
+  - work: content/works/edwin-wide-donnart-117-ri.md
+  - work: content/works/edwin-wide-donnart-6-11-19-22h01.md
+  - work: content/works/edwin-wide-donnart-abandoned-place-1.md
+  - work: content/works/edwin-wide-donnart-abandoned-place-2.md
+  - work: content/works/edwin-wide-donnart-abandoned-place-4.md
+  - work: content/works/edwin-wide-donnart-bal-angers-3.md
+  - work: content/works/edwin-wide-donnart-couple-aout-1937.md
+  - work: content/works/edwin-wide-donnart-edwin-wide.md
+  - work: content/works/edwin-wide-donnart-fresque-urbaine-nantes-rue-arche-seche.md
+  - work: content/works/edwin-wide-donnart-hors-champ.md
+  - work: content/works/edwin-wide-donnart-idfra-dj.md
+  - work: content/works/edwin-wide-donnart-idfra-ea.md
+  - work: content/works/edwin-wide-donnart-idfra-lgf.md
+  - work: content/works/edwin-wide-donnart-soldat-1915.md
+  - work: content/works/edwin-wide-donnart-tpdne-1.md
+  - work: content/works/edwin-wide-donnart-tpdne-3.md
 ---
 # Edwin Wide Donnart
 

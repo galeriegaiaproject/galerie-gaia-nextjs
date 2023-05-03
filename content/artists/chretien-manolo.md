@@ -15,6 +15,22 @@ location: ''
 expose: false
 exhibitions: []
 work: content/works/chretien-manolo-cockpit-concorde.md
+works:
+  - work: content/works/chretien-manolo-alumination-green-and-red-diptyque-in-situ.md
+  - work: content/works/chretien-manolo-alumination-green-and-red-diptyque.md
+  - work: content/works/chretien-manolo-beech-wing.md
+  - work: content/works/chretien-manolo-cockpit-concorde-in-situ-dans-des-bureaux.md
+  - work: content/works/chretien-manolo-cockpit-concorde.md
+  - work: content/works/chretien-manolo-exoplanete-5-in-situ.md
+  - work: content/works/chretien-manolo-exoplanete-5.md
+  - work: content/works/chretien-manolo-exoplanete-6.md
+  - work: content/works/chretien-manolo-indian-sabre-2-in-situ.md
+  - work: content/works/chretien-manolo-indian-sabre-2.md
+  - work: content/works/chretien-manolo-mirage.md
+  - work: content/works/chretien-manolo-new-wave-2.md
+  - work: content/works/chretien-manolo-new-wave-5.md
+  - work: content/works/chretien-manolo-new-wave-6.md
+  - work: content/works/chretien-manolo-t-bird-carman.md
 ---
 # Manolo Chrétien
 

@@ -17,6 +17,16 @@ location: ''
 expose: true
 exhibitions: []
 work: content/works/wolfe-judith-les-pots-dangelique-10.md
+works:
+  - work: content/works/wolfe-judith-calais-douvre-1.md
+  - work: content/works/wolfe-judith-couleurs-vitales.md
+  - work: content/works/wolfe-judith-fleur-du-desert.md
+  - work: content/works/wolfe-judith-floraisons.md
+  - work: content/works/wolfe-judith-les-pots-dangelique-10.md
+  - work: content/works/wolfe-judith-les-pots-dangelique-4.md
+  - work: content/works/wolfe-judith-les-pots-dangelique-6.md
+  - work: content/works/wolfe-judith-portrait-de-judith-wolfe.md
+  - work: content/works/wolfe-judith-saint-nazaire-5.md
 ---
 # Judith Wolfe
 

@@ -15,6 +15,15 @@ seo:
   description: ''
   image: ''
 work: content/works/kerba-muriel-blooming.md
+works:
+  - work: content/works/kerba-muriel-algue-petrole.md
+  - work: content/works/kerba-muriel-alveoles-argent.md
+  - work: content/works/kerba-muriel-blooming.md
+  - work: content/works/kerba-muriel-blue-lemon.md
+  - work: content/works/kerba-muriel-deep-inside.md
+  - work: content/works/kerba-muriel-feminite.md
+  - work: content/works/kerba-muriel-hypnotic.md
+  - work: content/works/kerba-muriel-totem.md
 ---
 # Muriel Kerba
 

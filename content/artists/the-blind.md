@@ -15,6 +15,14 @@ location: ''
 expose: true
 exhibitions: []
 work: content/works/the-blind-je-gueule.md
+works:
+  - work: content/works/the-blind-extrait-de-la-serie-jeux-de-societes.md
+  - work: content/works/the-blind-je-gueule-tu-gueulesils-braillent.md
+  - work: content/works/the-blind-je-gueule.md
+  - work: content/works/the-blind-touche-par-ce-regard.md
+  - work: content/works/the-blind-toucher-avec-les-mains-propres.md
+  - work: content/works/the-blind-toucher-l-horizon-du-bout-des-doigts.md
+  - work: content/works/the-blind-touchez-pas-a-madame.md
 ---
 # The Blind
 

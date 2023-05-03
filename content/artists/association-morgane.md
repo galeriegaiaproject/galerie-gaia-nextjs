@@ -6,6 +6,18 @@ fields: []
 expose: false
 exhibitions: []
 work: content/works/association-morgane-valota-hasards-pour-morgane.md
+works:
+  - work: content/works/association-morgane-corinne-heraud.md
+  - work: content/works/association-morgane-exposition-des-25-feuillets.md
+  - work: content/works/association-morgane-exposition-des-25-oeuvres.md
+  - work: content/works/association-morgane-jean-noel-hallet.md
+  - work: content/works/association-morgane-livre-coffret-hasards-pour-morgane.md
+  - work: content/works/association-morgane-nadja-holland.md
+  - work: content/works/association-morgane-quelques-feuillets-exposes.md
+  - work: content/works/association-morgane-tangui-robert-hasards-pour-morgane.md
+  - work: content/works/association-morgane-thanh-hasards-pour-morgane.md
+  - work: content/works/association-morgane-tirage-au-sort-des-25-oeuvres.md
+  - work: content/works/association-morgane-valota-hasards-pour-morgane.md
 ---
 Déroulé de l'évènement  Samedi 27 février 2016  - 17H
 
