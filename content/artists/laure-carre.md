@@ -54,7 +54,6 @@ works:
   - work: content/works/carre-laure-paysage-du-nord.md
   - work: content/works/carre-laure-portrait.md
   - work: content/works/carre-laure-reve-de-cheval.md
-  - work: content/works/carre-laure-roc-and-cactus.md
   - work: content/works/carre-laure-ronde-sentimentale.md
   - work: content/works/carre-laure-small-pocket.md
   - work: content/works/carre-laure-songe.md
