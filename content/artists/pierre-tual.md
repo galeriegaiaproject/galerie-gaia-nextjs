@@ -18,7 +18,7 @@ seo:
   type: ''
   description: ''
   image: ''
-work: content/works/tual-pierre-petite-oblique-contre-le-mur.md
+work: content/works/tual-pierre-kerinos.md
 works:
   - work: content/works/tual-pierre-algue-marine.md
   - work: content/works/tual-pierre-atelier-pierre-tual.md
