@@ -10,7 +10,7 @@ seo:
   image: ''
 articles:
   - title: 2015 Galerie Gaia 2023 Galerie Gaia Studio
-    date: 2023-05-03T22:00:00.000Z
+    date: 2023-05-04T22:00:00.000Z
     categories:
       - Exposition
     image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/4 AMI GAIÌ\x88A NVITATION RECTO.jpg"
