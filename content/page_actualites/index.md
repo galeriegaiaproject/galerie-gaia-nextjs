@@ -17,12 +17,6 @@ articles:
     content: |
       De l'exposition d’œuvres à la création de projets artistique\
       Cocktail Jeudi 4 Mai 18H 20H
-  - title: 2015 2023
-    date: 2023-05-03T22:00:00.000Z
-    categories:
-      - Exposition
-    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/4 AMI GAIÌ\x88A NVITATION RECTO.jpg"
-    content: ''
   - title: FRAGMENTS   PAYSAGES    Tangui Robert
     date: 2020-12-06T11:38:00.000Z
     categories:
@@ -2007,5 +2001,6 @@ articles:
       Des expositions, des concerts, des rencontres et des galeristes qui vous
       accueillent pour partager leurs émotions artistiques !
 ---
+
 
 
