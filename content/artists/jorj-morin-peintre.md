@@ -29,7 +29,6 @@ works:
   - work: content/works/morin-jorj-peinture-ceramique-point-culminant-en-situation.md
   - work: content/works/morin-jorj-peinture-ceramique-point-culminant.md
   - work: content/works/morin-jorj-peinture-ceramique-resac.md
-  - work: content/works/morin-jorj-peinture-ceramique-vis-a-vis.md
 ---
 # Jorj Morin (Georges)
 

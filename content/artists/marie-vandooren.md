@@ -29,7 +29,6 @@ works:
   - work: content/works/vandooren-marie-palindrome-3-couleurs.md
   - work: content/works/vandooren-marie-palindrome-3.md
   - work: content/works/vandooren-marie-petit-cube-dans-vegetation.md
-  - work: content/works/vandooren-marie-piscine-et-vegetation.md
   - work: content/works/vandooren-marie-piscine-vegetale.md
   - work: content/works/vandooren-marie-plongeoir-fumee.md
   - work: content/works/vandooren-marie-portrait-de-marie-vandooren.md
