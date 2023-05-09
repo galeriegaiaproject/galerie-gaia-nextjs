@@ -24,7 +24,6 @@ works:
   - work: content/works/estampes-frederic-poincelet-sans-titre-2.md
   - work: content/works/estampes-frederic-poincelet-sans-titre-3.md
   - work: content/works/estampes-georges-autard-perte-de-sens.md
-  - work: content/works/estampes-gerard-garouste-les-engendrements-de-pentagruel.md
   - work: content/works/estampes-gerard-tranquandi-duo-en-situation.md
   - work: content/works/estampes-gerard-traquandi-sans-titre-noir.md
   - work: content/works/estampes-gerard-traquandi-sans-titre-orange.md
