@@ -9,14 +9,6 @@ seo:
     contemporain à Nantes, galerie art contemporain nantes
   image: ''
 articles:
-  - title: 2015 Galerie Gaia 2023 Galerie Gaia Studio
-    date: 2023-05-04T22:00:00.000Z
-    categories:
-      - Exposition
-    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/4 AMI GAIÌ\x88A NVITATION RECTO.jpg"
-    content: |
-      De l'exposition d’œuvres à la création de projets artistique\
-      Cocktail Jeudi 4 Mai 18H 20H
   - title: FRAGMENTS   PAYSAGES    Tangui Robert
     date: 2020-12-06T11:38:00.000Z
     categories:
@@ -2000,7 +1992,16 @@ articles:
 
       Des expositions, des concerts, des rencontres et des galeristes qui vous
       accueillent pour partager leurs émotions artistiques !
+  - title: 2015 Galerie Gaia 2023 Galerie Gaia Studio
+    date: 2023-05-04T22:00:00.000Z
+    categories:
+      - Exposition
+    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/4 AMI GAIÌ\x88A NVITATION RECTO.jpg"
+    content: |
+      De l'exposition d’œuvres à la création de projets artistique\
+      Cocktail Jeudi 4 Mai 18H 20H
 ---
+
 
 
 
