@@ -12,7 +12,10 @@ styles:
   - Abstrait
 seo:
   title: 'Sélection d''estampes - Galerie Gaïa, galerie d''art contemporain'
-  description: 'Galerie Gaïa, galerie d''art contemporain vous présente une sélection d''estampes à découvrir, réserver et commander en ligne ou à la galerie d''art à Nantes.'
+  description: >-
+    Galerie Gaïa, galerie d'art contemporain vous présente une sélection
+    d'estampes à découvrir, réserver et commander en ligne ou à la galerie d'art
+    à Nantes.
 work: content/works/estampes-cleon-peterson-flowers-of-evil-the-kiss-white.md
 works:
   - work: content/works/estampes-chillida-exposition-1971-barcelone.md
@@ -27,10 +30,10 @@ works:
   - work: content/works/estampes-gerard-traquandi-sans-titre-orange.md
   - work: content/works/estampes-herve-di-rosa-le-pecheur.md
   - work: content/works/estampes-herve-di-rosa-le-promeneur.md
-  - work: content/works/estampes-miro-exposition-barcelone-1973.md
   - work: content/works/estampes-pierre-alechinsky-ziggourat-ii.md
   - work: content/works/estampes-soulie-tony-la-rue-de-la-soie.md
   - work: content/works/estampes-tapies-exposition-galerie-maeght-1975.md
   - work: content/works/estampes-valerie-bonduelle.md
 ---
+
 # CLEON PETERSON DI ROSA BASELITZ BURAGLIO ALECHINSKI TRAQUANDI JAFFE GAROUSTE LINDSTROM
