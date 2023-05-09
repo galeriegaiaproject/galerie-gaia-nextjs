@@ -19,7 +19,6 @@ works:
   - work: content/works/vandooren-marie-colimacon.md
   - work: content/works/vandooren-marie-contraste-4.md
   - work: content/works/vandooren-marie-fete-foraine.md
-  - work: content/works/vandooren-marie-forme-darchitecture-3.md
   - work: content/works/vandooren-marie-forme-darchitecture-4.md
   - work: content/works/vandooren-marie-jardin-des-plantes.md
   - work: content/works/vandooren-marie-la-forme-du-ciel-1.md
@@ -34,6 +33,7 @@ works:
   - work: content/works/vandooren-marie-vestige-2.md
   - work: content/works/vandooren-marie-ymca-rose.md
 ---
+
 # Marie Vandooren
 
 > Sa transcription des espaces urbains
@@ -42,7 +42,7 @@ Marie Vandooren est née en 1976. Elle est diplômée d'un baccalauréat en Arts
 
 Texte de Marie Vandooren :
 
-En peinture,  Marie Vandooren interroge notre rapport intime à la ville. A la manière d’un collage elle joue sur les échelles et les proportions. Les espaces urbains reproduits sont des décors, abritant des humains en errance, des personnages inexpressifs occupés à leurs pensées, dans une posture intime. Mis à nu et surexposés dans l’espace, les personnages deviennent vulnérables, enfermés dans des univers qui paraissent clos. Ils errent sans but, s’ennuient, vaquent à des occupations vaines.  Il s’agit de mettre en avant l’absurdité de nos sociétés modernes dans le décor de la ville, là où tout se montre mais où tout y est faux. Le dedans et le dehors se confrontent laissant apparaître la solitude des figures humaines.  
+En peinture,  Marie Vandooren interroge notre rapport intime à la ville. A la manière d’un collage elle joue sur les échelles et les proportions. Les espaces urbains reproduits sont des décors, abritant des humains en errance, des personnages inexpressifs occupés à leurs pensées, dans une posture intime. Mis à nu et surexposés dans l’espace, les personnages deviennent vulnérables, enfermés dans des univers qui paraissent clos. Ils errent sans but, s’ennuient, vaquent à des occupations vaines.  Il s’agit de mettre en avant l’absurdité de nos sociétés modernes dans le décor de la ville, là où tout se montre mais où tout y est faux. Le dedans et le dehors se confrontent laissant apparaître la solitude des figures humaines.\
 Son traitement, proche de celui de la bande dessinée, tend à montrer combien les villes sont devenues toutes semblables, des lieux vides où l’homme a de plus en plus de mal à trouver son identité. Enfin, il est aussi question de la rêverie propre à l’enfance. Ces moments où rien ne se produit, où le corps est en attente, comme en suspens.
 
 > Her transcription of urban spaces
