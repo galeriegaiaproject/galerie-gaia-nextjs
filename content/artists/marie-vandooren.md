@@ -17,7 +17,6 @@ works:
   - work: content/works/vandooren-marie-beton-et-vegetation.md
   - work: content/works/vandooren-marie-beton-volant.md
   - work: content/works/vandooren-marie-colimacon.md
-  - work: content/works/vandooren-marie-contraste-4.md
   - work: content/works/vandooren-marie-fete-foraine.md
   - work: content/works/vandooren-marie-jardin-des-plantes.md
   - work: content/works/vandooren-marie-la-forme-du-ciel-1.md
