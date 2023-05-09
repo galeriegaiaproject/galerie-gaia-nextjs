@@ -11,6 +11,7 @@ artists:
   - artist: content/artists/la-selection-des-nouveautes.md
   - artist: content/artists/d-harcourt-victoire.md
   - artist: content/artists/laure-carre.md
+  - artist: content/artists/brigitte-marionneau.md
   - artist: content/artists/jean-francois-molliere.md
   - artist: content/artists/pierre-tual.md
   - artist: content/artists/toma-l.md
@@ -33,7 +34,6 @@ artists:
   - artist: content/artists/tangui-robert.md
   - artist: content/artists/aline-isoard.md
   - artist: content/artists/elisabeth-wadecki.md
-  - artist: content/artists/brigitte-marionneau.md
   - artist: content/artists/marie-vandooren.md
   - artist: content/artists/franco-salas-borquez.md
   - artist: content/artists/job.md
@@ -76,6 +76,7 @@ artists:
   - artist: content/artists/wave-week-end-arts-visuels-nantes.md
   - artist: content/artists/art-galeries-nantes.md
 ---
+
 
 
 
