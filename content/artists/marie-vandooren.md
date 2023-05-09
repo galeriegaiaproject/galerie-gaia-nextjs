@@ -19,7 +19,6 @@ works:
   - work: content/works/vandooren-marie-colimacon.md
   - work: content/works/vandooren-marie-contraste-4.md
   - work: content/works/vandooren-marie-fete-foraine.md
-  - work: content/works/vandooren-marie-forme-darchitecture-1.md
   - work: content/works/vandooren-marie-forme-darchitecture-3.md
   - work: content/works/vandooren-marie-forme-darchitecture-4.md
   - work: content/works/vandooren-marie-jardin-des-plantes.md
