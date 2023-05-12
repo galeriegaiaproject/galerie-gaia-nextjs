@@ -1996,9 +1996,7 @@ articles:
     date: 2023-05-04T22:00:00.000Z
     categories:
       - Exposition
-    image: >-
-      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/4 AMI GAIA
-      INVITATION RECTO.jpg
+    image: ''
     content: |
       De l'exposition d’œuvres à la création de projets artistique\
       Cocktail Jeudi 4 Mai 18H 20H
