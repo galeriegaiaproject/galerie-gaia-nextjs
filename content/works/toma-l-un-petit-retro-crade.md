@@ -11,7 +11,7 @@ dimensions:
   height: 30
   width: 21
   depth: 0
-price: 1380
+price: 1450
 contextual: true
 ---
 
