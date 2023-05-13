@@ -932,17 +932,6 @@ articles:
 
 
       *Du 07/05/2019 au 07/27/2019*
-  - title: C'est ouvert tout l'été
-    categories:
-      - Exposition
-    image: >-
-      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/cest-ouvert-tout-lete.jpg
-    content: >
-      La galerie est ouverte du jeudi au samedi 11H 19H SAUF LES 1ER - 2 - 3 -
-      15 AOUT 2019
-
-
-      *Du 07/28/2019 au 08/31/2019*
   - title: Dessin et Peinture de Philippe LECOMTE
     categories:
       - Exposition
