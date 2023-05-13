@@ -9,7 +9,7 @@ seo:
     avant achat.
 carousel:
   - work: content/works/marionneau-brigitte-contenir-le-vent-9-x.md
-  - work: content/works/tual-pierre-kerinos.md
+  - work: content/works/peron-yann-reflet-de-lerdre.md
   - work: content/works/muckensturm-pierre-xxii-101-343-vue-de-biais.md
 ---
 
