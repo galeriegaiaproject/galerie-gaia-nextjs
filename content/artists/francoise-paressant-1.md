@@ -28,7 +28,6 @@ works:
   - work: content/works/paressant-francoise-dessin-ruban.md
   - work: content/works/paressant-francoise-eclaircies-en-fin-de-journee.md
   - work: content/works/paressant-francoise-feutre-croise.md
-  - work: content/works/paressant-francoise-info-presse-magazine-investir-09_2021.md
   - work: content/works/paressant-francoise-installation-en-trio-cpm-60_50-1-2-3.md
   - work: content/works/paressant-francoise-la-strada.md
   - work: content/works/paressant-francoise-papier-huile-1.md
@@ -39,14 +38,15 @@ works:
   - work: content/works/paressant-francoise-papier-tisse-iii.md
   - work: content/works/paressant-francoise-plage-de-la-mine-dor-en-situation.md
   - work: content/works/paressant-francoise-plage-de-la-mine-dor.md
-  - work: content/works/paressant-francoise-portrait-de-francoise-paressant.md
   - work: >-
       content/works/paressant-francoise-sans-titre-papier-fait-main-teinte-en-situation.md
   - work: content/works/paressant-francoise-sans-titre-papier-fait-main.md
   - work: content/works/paressant-francoise-sans-titre.md
   - work: content/works/paressant-francoise-sonatine-en-situation.md
   - work: content/works/paressant-francoise-sonatine.md
+  - work: content/works/paressant-francoise-info-presse-magazine-investir-09_2021.md
   - work: content/works/paressant-francoise-suite-pour-piano-jouet.md
+  - work: content/works/paressant-francoise-portrait-de-francoise-paressant.md
 ---
 
 # Françoise Paressant
