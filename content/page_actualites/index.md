@@ -9,15 +9,6 @@ seo:
     contemporain à Nantes, galerie art contemporain nantes
   image: ''
 articles:
-  - title: Exposition Brigitte Marionneau
-    date: 2023-05-21T22:00:00.000Z
-    categories:
-      - Exposition
-    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/marionneau-brigitte/Capture dâ\x80\x99eÌ\x81cran 2023-05-13 aÌ\x80 11.37.05.png"
-    content: |
-      Exposition de céramiques de Brigitte Marionneau du 23 Mai au 10 Juin
-
-      Vernissage jeudi 25 Mai 18H  
   - title: FRAGMENTS   PAYSAGES    Tangui Robert
     date: 2020-12-06T11:38:00.000Z
     categories:
@@ -1849,6 +1840,15 @@ articles:
 
       Des expositions, des concerts, des rencontres et des galeristes qui vous
       accueillent pour partager leurs émotions artistiques !
+  - title: Exposition Brigitte Marionneau
+    date: 2023-05-21T22:00:00.000Z
+    categories:
+      - Exposition
+    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/marionneau-brigitte/Capture dâ\x80\x99eÌ\x81cran 2023-05-13 aÌ\x80 11.37.05.png"
+    content: |
+      Exposition de céramiques de Brigitte Marionneau du 23 Mai au 10 Juin
+
+      Vernissage jeudi 25 Mai 18H
 ---
 
 
