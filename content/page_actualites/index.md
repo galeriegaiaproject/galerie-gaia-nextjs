@@ -1094,24 +1094,6 @@ articles:
       les différentes séries de [Jean-François
       Mollière.](https://galeriegaia.fr/artists/jean-francois-molliere/ "jean
       farncois moliere")
-  - title: Peinture fraîche...Chantier en cours !
-    date: 2021-01-29T10:28:33.000Z
-    categories:
-      - Exposition
-    image: >-
-      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/galerie-gaia-galerie-art-nantes-chantier.jpg
-    content: >
-      Depuis 2015 les expositions et vos visites ont fait vibrer ce lieu !\
-
-      Cela mérite bien quelques travaux pour être encore plus beau pour sa
-      réouverture en Mars 2021.
-
-
-      Durant le mois de Février vous pouvez sélectionner des œuvres dans le
-      Catalogue que je peux vous livrer à domicile pour faire votre choix.
-
-
-      A très vite et suivez nos actualités sur Instagram galeriegaianantes
   - title: Interview de Isthme
     date: 2020-11-02T16:10:55.000Z
     categories:
