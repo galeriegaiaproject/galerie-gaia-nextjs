@@ -354,26 +354,6 @@ articles:
 
 
       *Du 09/30/2016 au 12/02/2016*
-  - title: Clothilde Lasserre & Edith Basseville
-    categories:
-      - Exposition
-    image: >-
-      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/clothilde-lasserre-and-edith-basseville.jpg
-    content: >
-      Parfois le geste du pinceau de Clothilde Lasserre semble se tordre de
-      plaisir.
-
-      Alors en installant les sculptures de fil d'acier d'Edith Basseville à
-      côté des toiles de Clothilde , on assiste à une échappée belle de ce
-      mouvement qui prend forme et vie dans les sculptures et mobiles d'Edith.
-
-      Magie des oeuvres qui lors d'une installation créent des dialogues et des
-      interactions poétiques.
-
-      Exposition à vivre sur place !
-
-
-      *Du 10/08/2016 au 10/29/2016*
   - title: Mur d'essayage
     categories:
       - Exposition
@@ -543,16 +523,6 @@ articles:
       VENDREDI 24 NOVEMBRE 19H
 
       *Du 11/24/2017 au 12/16/2017*
-  - title: MAXIME LUTUN VENTE PRIVEE
-    categories:
-      - Exposition
-    image: >-
-      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/maxime-lutun-vente-privee.jpg
-    content: |
-      SCULPTEUR DE LUMIERE
-      vente privée 18H 21H
-
-      *Du 12/01/2017 au 12/03/2017*
   - title: Images de Ryszard Swierad 25/01 - 17/02 "Ce que je crois voir"
     categories:
       - Exposition
@@ -664,40 +634,6 @@ articles:
 
 
       *Du 04/19/2018 au 04/19/2018*
-  - title: L'hallucination simple Patrick Gueguen
-    categories:
-      - Exposition
-    image: >-
-      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/lhallucination-simple.jpg
-    content: >
-      Texte de son ami Roland HALBERT qui sera en signature de son livre
-
-      samedi 23 juin à 14H
-
-
-      ***
-
-
-      La peinture de Patrick Guéguen : « art brut » ? « art ethnique » ? « art
-      singulier » ? Quand on a prononcé ces formules magiques de la critique, on
-      n’a pas dit grand-chose. Il y a fort à craindre que ce soient là des
-      dénominations commodes et des classifications trompeuses qui empêchent de
-      voir en profondeur. Rimbaud vous éclaire davantage sur ces tableaux
-      lorsqu’il évoque l’hallucination simple : « Je m’habituai à
-      l’hallucination simple. » (Alchimie du verbe). Et nul besoin de
-      stupéfiants pour susciter ce regard vrillant, cette vision d’affût qui
-      transperce les apparences et traverse les modes. Vous habituer à
-      l’hallucination simple revient à échanger vos écrans opaques contre le
-      microscope-télescope Hubble. Alors, commence l’atelier des dieux et se
-      réinvente la création du monde avec l’écarquillement lyrique de l’œil
-      plongé dans l’aquarium astral ou happé par le fourmillement de la vie
-      terrestre.
-
-      ...suite du texte disponible à la galerie et sur demande
-      contact@galeriegaia.fr
-
-
-      *Du 06/09/2018 au 06/30/2018*
   - title: 40 ans d'Histoire d'Art Anniversaire Galerie Gaïa
     categories:
       - Exposition
@@ -750,13 +686,6 @@ articles:
 
 
       *Du 07/04/2018 au 09/07/2018*
-  - title: La galerie est ouverte tout l'été
-    categories:
-      - Exposition
-    image: >-
-      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/la-galerie-est-ouverte-tout-lete.jpg
-    content: |
-      *Du 07/07/2018 au 08/31/2018*
   - title: 4eme Open International de Squash de Nantes
     categories:
       - Exposition
