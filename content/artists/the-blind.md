@@ -4,15 +4,15 @@ fields:
 styles:
   - Abstrait
 seo:
-  type: article
   title: ''
   heading: ''
+  type: article
   description: ''
   image: ''
 template: artist
 title: The Blind
 location: ''
-expose: true
+expose: false
 exhibitions: []
 work: content/works/the-blind-je-gueule.md
 works:
@@ -24,6 +24,7 @@ works:
   - work: content/works/the-blind-toucher-l-horizon-du-bout-des-doigts.md
   - work: content/works/the-blind-touchez-pas-a-madame.md
 ---
+
 # The Blind
 
 > Il casse les codes de l'art avec des graffitis tactiles en braille, accessibles à toutes et tous
@@ -36,7 +37,7 @@ Les œuvres que la galerie Gaïa vous présente constituent quatre déclinaisons
 
 > He breaks the codes of art with tactile graffiti in Braille, accessible to all
 
-The Blind is a graduate of the Nantes School of Fine Arts and has been working with the 100 Pressure Collective since 2003. 
+The Blind is a graduate of the Nantes School of Fine Arts and has been working with the 100 Pressure Collective since 2003.
 
 His specificity? The graffiti for blind people, collage of half-spheres of plaster on the walls of the city, text in Braille alphabet and in three dimensions. The Blind modifies the classic form of Braille and gives it greater visibility. You have to use your hand and not your finger to read these giant messages. Each message is unique and only makes sense in the context in which it was written. Only common points between all the inscriptions: irony and provocation.
 
