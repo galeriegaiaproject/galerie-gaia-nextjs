@@ -887,22 +887,6 @@ articles:
 
 
       *Du 11/24/2019 au 11/24/2019*
-  - title: Fêtes - Art 2019
-    categories:
-      - Exposition
-    image: >-
-      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/fetes-art-2019.jpg
-    content: |
-      Des idées cadeaux à partir de 20€ suivez Instagram et Facebook
-      Une idée par jour dans le calendr-idées suivez Instagram et Facebook
-      Retrouvez ces idées dans l'onglet Artiste Fêtes-Art
-      Des bons cadeaux
-      Livraisons offertes
-      OUVERTURES SPECIALES EN DECEMBRE 2019
-      Ouvertures du lundi 2 au lundi 23 de 11H - 19H
-      Ouverture les dimanches 8 - 17 - 22 /12 de 15H à 19H
-
-      *Du 12/02/2019 au 12/23/2019*
   - title: Polymorphie Jorj Morin
     categories:
       - Exposition
