@@ -24,11 +24,12 @@ works:
   - work: content/works/argant-annick-carraimant.md
   - work: content/works/argant-annick-les-carraimants-en-duo.md
 ---
+
 # Annick Argant
 
-> Créatrice de sculptures nées de deux mondes témoignant de parfaits équilibres
+Jusqu'à cette révélation de l’essentiel là ou la simplicité tutoie la complexité
 
-Annick Argant est née en 1957. Elle sculpte depuis 1983. Elle a obtenu le prix Bréauté en 2007 par l’Académie Française des Beaux Arts pour son oeuvre l’Oiseau-enclume. Ses oeuvres sont exposées à la Galerie Gaïa depuis 2016, aux galeries Lindengruen à Wien (Autriche), et à Ze Art à Dinard. “Décrire avec justesse mes intentions artistiques n’est pas simple. Elles naissent de mon monde intérieur, d’une quête et d’un combat nés d’un monde qui m’entoure, une nostalgie de l’idéal et des nobles inspirations de l’esprit. La sincérité, l’authenticité, l’exigence et la discipline s’imposent dans toutes mes recherches artistiques. Elles me conduisent à cet éclairage, à cette révélation de l’essentiel là ou la simplicité tutoie la complexité, là ou la beauté tutoie la laideur, là ou la douceur tutoie la cruauté pour ensuite offrir à ce monde extérieur un jardin silencieux, sensible et subtil où pousse un équilibre fragile, un besoin vital de l’existence telle que l’espérance, la beauté et l’amour.” Annick Argant
+Annick Argant née en 1957 sculpte depuis 1983. Elle a obtenu le prix Bréauté en 2007 par l’Académie Française des Beaux Arts pour son oeuvre l’Oiseau-enclume. Ses oeuvres sont exposées à la Galerie Gaïa depuis 2016, aux galeries Lindengruen à Wien (Autriche), et à Ze Art à Dinard. “Décrire avec justesse mes intentions artistiques n’est pas simple. Elles naissent de mon monde intérieur, d’une quête et d’un combat nés d’un monde qui m’entoure, une nostalgie de l’idéal et des nobles inspirations de l’esprit. La sincérité, l’authenticité, l’exigence et la discipline s’imposent dans toutes mes recherches artistiques. Elles me conduisent à cet éclairage, à cette révélation de l’essentiel là ou la simplicité tutoie la complexité, là ou la beauté tutoie la laideur, là ou la douceur tutoie la cruauté pour ensuite offrir à ce monde extérieur un jardin silencieux, sensible et subtil où pousse un équilibre fragile, un besoin vital de l’existence telle que l’espérance, la beauté et l’amour.” Annick Argant
 
 > Creator of sculptures born from two worlds giving evidences of perfect balances
 
