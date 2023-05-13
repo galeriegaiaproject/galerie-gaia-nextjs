@@ -86,42 +86,6 @@ articles:
 
 
       Votre fidélité sera infiniment précieuse
-  - title: Naïf et Trash Exposition Jean Paul FRIOL
-    date: 2021-01-16T10:21:06.000Z
-    categories:
-      - Exposition
-    image: >-
-      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/friol-gravure-couleur-ea-1-8-1988-23x41cm.jpeg
-    content: >
-      **Un monde de passion:** peinture, vin, musique, tous les sens de manière
-      exacerbée …
-
-
-      Jean-Paul Friol est né en 1948 à Paris dans une famille dont les parents
-      sont férus de culture et d’art, et le familiarise à la peinture, la
-      sculpture la littérature. **L’art étant toutefois considéré comme un
-      loisir et non comme un métier,** sa mère l’oriente et le conditionne à
-      faire des études de médecine. Il se spécialisera en **chirurgie de la
-      main, et partagera sa vie entre ces deux amours, la science et l’art.**
-
-
-      Jean Paul Friol s’adonnera à la gravure au milieu des années 80. Il
-      s’efforce de travailler conjointement l**a luminosité du noir et blanc, le
-      contraste des formes et les jeux d’équilibre, générant mouvement et rythme
-      intemporel.**
-
-
-      **"Tous les objets que j’intègre dans mes tableaux ont une histoire. Et
-      même si je suis le seul à la connaitre, ce n’est pas l’important
-      puisqu’ainsi je leur donne une nouvelle existence »**.\
-
-      Jean- Paul Friol incarne ainsi l’enfant qui se joue d’un modelage
-      esthétique en mélangeant toutes ces matières, textures et anecdotes afin
-      de générer superposition, couches, rythme, poésie et de permettre une
-      unité dans la multiplicité.\
-
-      **«Quand je fais du collage c’est un peu comme si j’écrivais de la poésie
-      ».**
   - title: Exposition inaugurale
     categories:
       - Exposition
