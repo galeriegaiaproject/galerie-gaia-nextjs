@@ -18,7 +18,7 @@ redirect_from:
   - /artistes/51-annick-argant/
 styles:
   - Figuratif
-work: content/works/argant-annick-les-carraimants-en-duo.md
+work: content/works/annick-argantmd-carraimant-3-traits.md
 works:
   - work: content/works/annick-argantmd-carraimant-3-traits.md
   - work: content/works/argant-annick-carraimant-tout-en-gres.md
