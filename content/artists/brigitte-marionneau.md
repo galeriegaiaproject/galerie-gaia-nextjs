@@ -32,7 +32,6 @@ seo:
   image: ''
 work: content/works/marionneau-brigitte-contenir-le-vent-9-x.md
 works:
-  - work: content/works/marionneau-brigitte-atelier.md
   - work: content/works/marionneau-brigitte-contenir-le-vent-8-i.md
   - work: content/works/marionneau-brigitte-contenir-le-vent-8-x.md
   - work: content/works/marionneau-brigitte-contenir-le-vent-9-x.md
@@ -40,6 +39,7 @@ works:
   - work: content/works/marionneau-brigitte-le-geste.md
   - work: content/works/marionneau-brigitte-portrait-brigitte-marionneau.md
 ---
+
 # Brigitte Marionneau
 
 > De la couleur au noir et blanc, de l'architecture longiligne à la topographie humaine
