@@ -33,7 +33,6 @@ works:
   - work: content/works/toma-l-little-grey-and-color.md
   - work: content/works/toma-l-little-simple-brut.md
   - work: content/works/toma-l-little-trash.md
-  - work: content/works/toma-l-projet-vas-y.md
   - work: content/works/toma-l-querelle-carbone-10.md
   - work: content/works/toma-l-rsb-36.md
   - work: content/works/toma-l-rsb14-tuxpan.md
@@ -48,6 +47,7 @@ works:
   - work: content/works/toma-l-stone-age-16.md
   - work: content/works/toma-l-bonne-pierre-bon-oeil-01.md
   - work: content/works/toma-l-tow-boys-trash.md
+  - work: content/works/toma-l-projet-vas-y.md
   - work: content/works/toma-l-bonne-pierre-bon-oeil-13-noir.md
   - work: content/works/toma-l-bonne-pierre-bon-oeil-14-bleu-and-noir.md
   - work: content/works/toma-l-bonne-pierre-bon-oeil-02-ocre.md
