@@ -22,16 +22,8 @@ styles:
 work: content/works/toma-l-simple-brut.md
 works:
   - work: content/works/toma-l-5-little-grey-and-color-en-situation-atelier.md
-  - work: content/works/toma-l-bonne-pierre-bon-oeil-01.md
-  - work: content/works/toma-l-bonne-pierre-bon-oeil-02-bleu.md
-  - work: content/works/toma-l-bonne-pierre-bon-oeil-02-noir.md
-  - work: content/works/toma-l-bonne-pierre-bon-oeil-02-ocre.md
-  - work: content/works/toma-l-bonne-pierre-bon-oeil-10.md
-  - work: content/works/toma-l-bonne-pierre-bon-oeil-13-noir.md
-  - work: content/works/toma-l-bonne-pierre-bon-oeil-13-vert.md
-  - work: content/works/toma-l-bonne-pierre-bon-oeil-14-bleu-and-noir.md
-  - work: content/works/toma-l-bonne-pierre-bon-oeil-14-noir.md
   - work: content/works/toma-l-catalogue-de-la-collection.md
+  - work: content/works/toma-l-bonne-pierre-bon-oeil-14-noir.md
   - work: content/works/toma-l-diptyque-little-grey-and-color.md
   - work: content/works/toma-l-drawing-black.md
   - work: content/works/toma-l-fre-12.md
@@ -45,12 +37,20 @@ works:
   - work: content/works/toma-l-querelle-carbone-10.md
   - work: content/works/toma-l-rsb-36.md
   - work: content/works/toma-l-rsb14-tuxpan.md
+  - work: content/works/toma-l-bonne-pierre-bon-oeil-10.md
   - work: content/works/toma-l-simple-brut.md
   - work: content/works/toma-l-simple-trash.md
+  - work: content/works/toma-l-bonne-pierre-bon-oeil-13-vert.md
   - work: content/works/toma-l-stone-age-02.md
+  - work: content/works/toma-l-bonne-pierre-bon-oeil-02-noir.md
   - work: content/works/toma-l-stone-age-03.md
+  - work: content/works/toma-l-bonne-pierre-bon-oeil-02-bleu.md
   - work: content/works/toma-l-stone-age-16.md
+  - work: content/works/toma-l-bonne-pierre-bon-oeil-01.md
   - work: content/works/toma-l-tow-boys-trash.md
+  - work: content/works/toma-l-bonne-pierre-bon-oeil-13-noir.md
+  - work: content/works/toma-l-bonne-pierre-bon-oeil-14-bleu-and-noir.md
+  - work: content/works/toma-l-bonne-pierre-bon-oeil-02-ocre.md
 ---
 
 # toma-l
