@@ -1844,7 +1844,7 @@ articles:
     date: 2023-05-21T22:00:00.000Z
     categories:
       - Exposition
-    image: ''
+    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/marionneau-brigitte/Capture dâ\x80\x99eÌ\x81cran .png"
     content: |
       Exposition de céramiques de Brigitte Marionneau du 23 Mai au 10 Juin
 
