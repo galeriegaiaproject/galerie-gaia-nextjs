@@ -19,12 +19,13 @@ seo:
   title: 'Laure Carré '
   heading: 'laure carré '
   type: website
-  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure carre-yellow shoes.jpg'
   description: 'Laure Carré Yellow shoes '
+  image: >-
+    https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
+    carre-yellow shoes.jpg
 work: content/works/carre-laure-au-fil-du-temps.md
 works:
   - work: content/works/carre-laure-allongee-sans-souci.md
-  - work: content/works/carre-laure-atelier-laure-carre.md
   - work: content/works/carre-laure-au-fil-du-temps.md
   - work: content/works/carre-laure-autoportrait.md
   - work: content/works/carre-laure-bal-masque.md
@@ -51,23 +52,24 @@ works:
   - work: content/works/carre-laure-mannequin-atelier-manrique.md
   - work: content/works/carre-laure-montagnes-heureuses.md
   - work: content/works/carre-laure-moutain-dance.md
-  - work: content/works/carre-laure-paysage-du-nord.md
-  - work: content/works/carre-laure-portrait.md
   - work: content/works/carre-laure-reve-de-cheval.md
   - work: content/works/carre-laure-ronde-sentimentale.md
   - work: content/works/carre-laure-small-pocket.md
   - work: content/works/carre-laure-songe.md
   - work: content/works/carre-laure-sweet-home.md
   - work: content/works/carre-laure-tete-et-main.md
+  - work: content/works/carre-laure-atelier-laure-carre.md
   - work: content/works/carre-laure-yellow-shoes.md
+  - work: content/works/carre-laure-portrait.md
 ---
+
 # Laure Carré
 
 [Interview Décadrée de Laure Carré par la Galerie Gaïa](https://youtu.be/_yZm3PLM4Z4 "interview galerie gaia laure carré")
 
 "Il n’y a rien d’éponyme dans les formes que Laure Carré nous offre dans son travail sur toile, pas même dans ses collages-dessins. En apparence ! Ainsi l’énergie circule  vite et amplifie les mouvements tout en courbe mais s’arrête net. Si carré il y a ce n’est pas pour la forme mais pour son exigence vis-à-vis de sa toile.
 
-Là n’est pas le premier paradoxe chez cette artiste lumineuse qui impose des sujets troubles où la solitude s’accompagne d’un double de soi qui parfois ne l’est pas. Rêves et fantômes sont invités à participer au présent sans aucun effacement. Laure Carré est solaire car elle se laisse faire par son geste et donc elle ne résiste pas, il n’y a pas de lutte entre elle et sa toile mais les états dans lesquels elle laisse ses personnages nous amènent à nous en occuper. Laure Carré nous les confie, à condition d’en prendre soin. Impossible de laisser ces personnages seuls dans ces situations et vu le choix des couleurs, même si Laure se défend de toute histoire à nous raconter, il va bien falloir que nous en parlions, car tout est sans dessus dessous. Alors si on pense à [Bazelitz](https://galeriegaia.fr/artists/estampes/ "bazelitz estampe putman"), si une époque les mains de [Egon Schiele ](Exposition Galerie Gaïa mars avril 2018. "fondation louis vuiton")s’imposaient, nous sommes actuellement dans une période de grande liberté créative ou Laure emprunte avec respect à ses icônes de la peinture.
+Là n’est pas le premier paradoxe chez cette artiste lumineuse qui impose des sujets troubles où la solitude s’accompagne d’un double de soi qui parfois ne l’est pas. Rêves et fantômes sont invités à participer au présent sans aucun effacement. Laure Carré est solaire car elle se laisse faire par son geste et donc elle ne résiste pas, il n’y a pas de lutte entre elle et sa toile mais les états dans lesquels elle laisse ses personnages nous amènent à nous en occuper. Laure Carré nous les confie, à condition d’en prendre soin. Impossible de laisser ces personnages seuls dans ces situations et vu le choix des couleurs, même si Laure se défend de toute histoire à nous raconter, il va bien falloir que nous en parlions, car tout est sans dessus dessous. Alors si on pense à [Bazelitz](https://galeriegaia.fr/artists/estampes/ "bazelitz estampe putman"), si une époque les mains de \[Egon Schiele ]\(Exposition Galerie Gaïa mars avril 2018. "fondation louis vuiton")s’imposaient, nous sommes actuellement dans une période de grande liberté créative ou Laure emprunte avec respect à ses icônes de la peinture.
 
 Et ainsi va cette vie « c’est vrai et pourquoi pas ! », rien ne la contrarie Laure quand on regarde son travail, son atelier - car elle travaille tout le temps - c’est pour nous, pour ceux qui aiment la regarder, pour ceux qui la découvrent et s’étonnent. Devant autant de toiles il ne faut agir, mais se laisser faire et cheminer vers l’une d’elle. C’est comme cela que je me retrouve avec une sélection que je ne peux montrer en une seule fois. Donc un deuxième accrochage à mi-parcours, l’expo dans l’expo, on met la galerie à l’envers pour finir au Carré Madame Laure "
 
