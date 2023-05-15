@@ -25,6 +25,7 @@ seo:
     carre-yellow shoes.jpg
 work: content/works/carre-laure-au-fil-du-temps.md
 works:
+  - work: content/works/carre-laure-yellow-shoes.md
   - work: content/works/carre-laure-allongee-sans-souci.md
   - work: content/works/carre-laure-au-fil-du-temps.md
   - work: content/works/carre-laure-autoportrait.md
@@ -34,7 +35,6 @@ works:
   - work: content/works/carre-laure-buste-de-femme.md
   - work: content/works/carre-laure-cactus-et-cheval.md
   - work: content/works/carre-laure-cest-la-vie.md
-  - work: content/works/carre-laure-coup-de-vent.md
   - work: content/works/carre-laure-dog-woman.md
   - work: content/works/carre-laure-dream-country.md
   - work: content/works/carre-laure-exposition-du-7-au-25-mars-2023.md
@@ -59,7 +59,6 @@ works:
   - work: content/works/carre-laure-sweet-home.md
   - work: content/works/carre-laure-tete-et-main.md
   - work: content/works/carre-laure-atelier-laure-carre.md
-  - work: content/works/carre-laure-yellow-shoes.md
   - work: content/works/carre-laure-portrait.md
 ---
 
