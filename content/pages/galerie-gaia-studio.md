@@ -96,17 +96,30 @@ content:
 
       Présidente de Art Galeries Nantes\
 
+
+
       Membre de [Ruptur](https://www.ruptur.fr/ "RUPTUR ") acteur d'une économie
       créative et environnementale\
+
+
 
       Membre de
       [AMO](https://www.linkedin.com/in/amo-bretagne-pays-de-loire-961183164/?originalSubdomain=fr
       "amo ")\
 
+
+
       Adhérent du [Pôle des Arts Visuels Pays de
       Loire](https://poleartsvisuels-pdl.fr/ "Pole des arts visuels ")\
 
-      Adhérent des [Amis du Musée des Arts de Nantes]()
+
+
+      Adhérent des [Amis du Musée des Arts de Nantes\
+
+      ]()
+
+
+      Membre du [CPGA](https://www.comitedesgaleriesdart.com/ "CPGA")
     contact:
       placeholder: Prendre contact avec notre équipe
       display: true
@@ -149,4 +162,5 @@ seo:
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC_3559-2.jpg'
 index: 0
 ---
+
 
