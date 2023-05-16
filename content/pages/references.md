@@ -9,7 +9,8 @@ content:
       ![](<https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/logo
       cpga basse
       def.png>)![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/Logo-membre-ruptur-couleur.png)![](<https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/logo
-      amo.png>)
+      amo.png>)![](<https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/Logo
+      Keran.png>)
     contact:
       placeholder: ''
       display: false
