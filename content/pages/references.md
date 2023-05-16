@@ -7,7 +7,8 @@ content:
 
 
       ![](<https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/logo
-      cpga basse def.png>)
+      cpga basse
+      def.png>)![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/Logo-membre-ruptur-couleur.png)
     contact:
       placeholder: ''
       display: false
