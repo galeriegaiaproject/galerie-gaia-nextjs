@@ -1845,11 +1845,33 @@ articles:
     categories:
       - Exposition
     image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/marionneau-brigitte/Capture dâ\x80\x99eÌ\x81cran .png"
-    content: |
+    content: >+
       Exposition de céramiques de Brigitte Marionneau du 23 Mai au 10 Juin
 
-      Vernissage jeudi 25 Mai 18H
+
+      Vernissage jeudi 25 Mai 18H\
+
+
+      « Lorsque je scelle le dernier morceau de terre d’une pièce, j’enferme
+      l’air contenu dans le volume. La terre devient alors une frontière
+      vivante entre l’intérieur et l’extérieur. La poche d’air enfermée, sous
+      pression, me permet de tendre les surfaces et les lignes. Mes mains
+      exercent une pression sur les parois et déterminent les courbes du
+      volume. L’air devient mon allié pour bâtir. 
+
+
+      La terre est une matière souple, qui a sa plasticité, sa propre
+      vitalité. Je ne peux pas me contenter seulement d’un effet de matière.
+      La texture est recherchée en tant que vocabulaire plastique, soit par de
+      larges enduits de terre ajoutée sauvagement puis effacée en partie et
+      réécrit comme un palimpseste, soit par des surfaces gravées librement.
+      Je redessine la forme par le trait, par le geste. 
+
+
+      Je laisse ainsi mon empreinte, ma cartographie personnelle au volume
+      architecturé. »
 ---
+
 
 
 
