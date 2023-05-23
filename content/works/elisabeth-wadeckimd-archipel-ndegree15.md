@@ -1,6 +1,6 @@
 ---
 title: Archipel N°15
-reference: 'Wadecki Elisabeth, Archipel N°15'
+reference: 'Wadecki Elisabeth, Archipel N 15'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/wadecki-elisabeth/galerie-gaia-elisabeth-wadecki-archipel
   15.jpg
