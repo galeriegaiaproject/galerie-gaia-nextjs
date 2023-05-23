@@ -26,12 +26,6 @@ content:
       à tout artiste plasticien.ne français.se ou vivant en France.
 
 
-      Pour candidater remplissez le formulaire\
-
-      [https://forms.gle/DZmKBvtHT4P2xeaK7](https://forms.gle/DZmKBvtHT4P2xeaK7
-      "https://forms.gle/DZmKBvtHT4P2xeaK7")
-
-
       **MODALITÉS :**
 
 
@@ -135,13 +129,6 @@ content:
       **Prix B Signature**\
 
       **4 Rue Fénelon 44000 Nantes**
-
-
-      **RAPPEL** pour candidater remplissez le formulaire
-
-
-      [https://forms.gle/DZmKBvtHT4P2xeaK7](https://forms.gle/DZmKBvtHT4P2xeaK7
-      "https://forms.gle/DZmKBvtHT4P2xeaK7")
     contact:
       placeholder: Poser une question sur l'appel à projet B Signature
       display: true
@@ -178,4 +165,5 @@ seo:
     galerie gaia- article ouest france.png
 index: 4
 ---
+
 
