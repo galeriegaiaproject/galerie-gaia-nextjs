@@ -17,7 +17,6 @@ works:
   - work: content/works/le-roux-valerie-algue-bleu-ciel-et-fonce-format-allonge.md
   - work: content/works/le-roux-valerie-algue-curry.md
   - work: content/works/le-roux-valerie-algue-vert-argile.md
-  - work: content/works/le-roux-valerie-balanes-bleues-sur-fond-rouge.md
   - work: content/works/le-roux-valerie-corail-kaki-bleu-ciel-et-bleu-cobalt.md
   - work: content/works/le-roux-valerie-corail-orange-bleu-marine-format-allonge.md
   - work: content/works/le-roux-valerie-feuille-bleue-n.md
@@ -31,8 +30,10 @@ works:
   - work: content/works/le-roux-valerie-trio-vegetal-rouge-bleu-marine-et-clair.md
   - work: content/works/le-roux-valerie-vase-vert-clair.md
   - work: content/works/le-roux-valerie-vegetal-bleu-ciel-et-fonce-format-allonge.md
-  - work: content/works/le-roux-valerie-vegetal-orange-vif-et-bleu-marine-format-allonge.md
+  - work: >-
+      content/works/le-roux-valerie-vegetal-orange-vif-et-bleu-marine-format-allonge.md
 ---
+
 # Valérie Le Roux
 
 "Concilier inspiration régionale et esprit contemporain, ce n'est pas si fréquent. Valérie Le Roux y parvient.
@@ -41,7 +42,7 @@ Céramiste mais pas que. Le support ne serait peut-être que prétexte pour inst
 
 Et les sérigraphies sont réalisées par un CAT régional, ce qui est aussi important pour Valérie Leroux"
 
-**Xavier de Jarcy - TELERAMA** 
+**Xavier de Jarcy - TELERAMA**
 
 [Regarder Maison France 5 novembre 2020](https://www.france.tv/france-5/la-maison-france-5/2007295-concarneau.html "valerie leroux maison farnce 5")
 
@@ -51,4 +52,4 @@ Ceramist but not only. The support would be perhaps only pretext to install a li
 
 And the serigraphs are made by a regional CAT, which is also important for Valerie Leroux.
 
-Xavier de Jarcy - TELERAMA 
+Xavier de Jarcy - TELERAMA
