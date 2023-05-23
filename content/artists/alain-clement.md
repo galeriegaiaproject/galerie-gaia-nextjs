@@ -13,12 +13,11 @@ styles:
 work: content/works/clement-alain-sans-titre-06ma2g.md
 works:
   - work: content/works/clement-alain-sans-titre-06ma2g.md
-  - work: content/works/clement-alain-sans-titre-06ma4g.md
-  - work: content/works/clement-alain-sans-titre-06ma6g.md
   - work: content/works/clement-alain-sans-titre-2.md
   - work: content/works/clement-alain-sans-titre-20j3g.md
   - work: content/works/clement-alain-sans-titre-21s1g.md
 ---
+
 # Alain Clément
 
 > Une peinture structurée
