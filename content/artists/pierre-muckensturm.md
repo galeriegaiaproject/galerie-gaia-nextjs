@@ -30,17 +30,22 @@ works:
   - work: content/works/muckensturm-pierre-186s19113-925.md
   - work: content/works/muckensturm-pierre-2021p3392.md
   - work: content/works/muckensturm-pierre-2022p3471.md
-  - work: content/works/muckensturm-pierre-2023p3472.md
   - work: content/works/muckensturm-pierre-2026p3571.md
-  - work: content/works/muckensturm-pierre-203r0941-composition-a-6-angles-a-entas-.md
-  - work: content/works/muckensturm-pierre-203r0942-composition-a-6-angles-a-entas-.md
-  - work: content/works/muckensturm-pierre-203r0943-composition-a-6-angles-a-entas.md
-  - work: content/works/muckensturm-pierre-203r0944-composition-a-6-angles-a-entas.md
-  - work: content/works/muckensturm-pierre-203r0946-composition-a-6-angles-a-entas.md
+  - work: >-
+      content/works/muckensturm-pierre-203r0941-composition-a-6-angles-a-entas-.md
+  - work: >-
+      content/works/muckensturm-pierre-203r0942-composition-a-6-angles-a-entas-.md
+  - work: >-
+      content/works/muckensturm-pierre-203r0943-composition-a-6-angles-a-entas.md
+  - work: >-
+      content/works/muckensturm-pierre-203r0944-composition-a-6-angles-a-entas.md
+  - work: >-
+      content/works/muckensturm-pierre-203r0946-composition-a-6-angles-a-entas.md
   - work: content/works/muckensturm-pierre-20m1882.md
   - work: content/works/muckensturm-pierre-20m1886.md
   - work: content/works/muckensturm-pierre-diptyque-xxi-41-117.md
-  - work: content/works/muckensturm-pierre-plus-ou-moins-deux-virgule-deux-degres-de-fantaisie-orthogonale.md
+  - work: >-
+      content/works/muckensturm-pierre-plus-ou-moins-deux-virgule-deux-degres-de-fantaisie-orthogonale.md
   - work: content/works/muckensturm-pierre-portrait-pierre-muckensturm.md
   - work: content/works/muckensturm-pierre-xxi-25-034.md
   - work: content/works/muckensturm-pierre-xxi-40-116.md
@@ -58,6 +63,7 @@ works:
   - work: content/works/muckensturm-pierre-xxii-104-348.md
   - work: content/works/muckensturm-pierre-xxii-41-074.md
 ---
+
 # Pierre Muckensturm
 
 Pierre MUCKENSTURM vit et travaille en France.
@@ -82,24 +88,24 @@ Il se plaît ainsi à affirmer, non sans ironie : « j’ai un goût prononcé p
 
 **Collections :**
 
-Tama Art University Museum . Tokyo  
-International Print Center . New York  
-Musée des Beaux arts de Liège  
-Musée Boribana . Dakar  
+Tama Art University Museum . Tokyo\
+International Print Center . New York\
+Musée des Beaux arts de Liège\
+Musée Boribana . Dakar\
 Musée du Petit Format d’Art Contemporain . Nismes (Belgique)
 
 Villes de  : Colmar - La Roche-sur-Yon - Kingersheim - La Rochelle .
 
-\**2023  
-\**Group show at Gaïa Gallery . Nantes . F  
-Duo show with Carola Bürgi at La Ligne Gallery . Zürich . CH  
-Group show at Musée Bossuet . Meaux . F  
-Art Paris . Grand Palais Éphémère . La Ligne Gallery . Paris . F  
+\**2023*\
+*\**Group show at Gaïa Gallery . Nantes . F\
+Duo show with Carola Bürgi at La Ligne Gallery . Zürich . CH\
+Group show at Musée Bossuet . Meaux . F\
+Art Paris . Grand Palais Éphémère . La Ligne Gallery . Paris . F\
 Winter Group Show at La Ligne Gallery . Zürich . CH
 
-\**2022  
-\**21e Biennale internationale « Petit Format de Papier » . Nismes . B et Charleville -Mézières . F  
-Art Paris 2022 7-10 april Grand Palais Éphémère . La Ligne Gallery . Paris . F  
+\**2022*\
+*\**21e Biennale internationale « Petit Format de Papier » . Nismes . B et Charleville -Mézières . F\
+Art Paris 2022 7-10 april Grand Palais Éphémère . La Ligne Gallery . Paris . F\
 Winter Group Show at La Ligne Gallery . Zürich . CH
 
 ***
