@@ -1,6 +1,6 @@
 ---
 title: Archipel n°16
-reference: 'Wadecki Elisabeth, Archipel n°16'
+reference: 'Wadecki Elisabeth, Archipel 16'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/wadecki-elisabeth/galerie-gaia-elisabeth-wadecki-archipel
   16.jpg
