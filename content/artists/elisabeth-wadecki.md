@@ -16,7 +16,6 @@ seo:
   type: website
 work: content/works/wadecki-elisabeth-archipel-ndegree8.md
 works:
-  - work: content/works/elisabeth-wadeckimd-archipel-ndegree16.md
   - work: content/works/wadecki-elisabeth-archipel-ndegree8.md
   - work: content/works/wadecki-elisabeth-archipels-ndegree11.md
   - work: content/works/wadecki-elisabeth-archipels-ndegree13.md
