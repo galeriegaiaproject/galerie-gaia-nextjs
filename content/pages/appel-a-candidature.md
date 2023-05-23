@@ -148,8 +148,7 @@ content:
       Paris
 
 
-      [https://bsignaturehotels.com/fr](https://bsignaturehotels.com/fr
-      "https://bsignaturehotels.com/fr")
+      [https://bsignaturehotels.com/fr/#](https://bsignaturehotels.com/fr/#)
     contact:
       placeholder: Un message à nous adresser ?
 seo:
