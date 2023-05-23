@@ -12,6 +12,7 @@ styles:
   - Abstrait
 work: content/works/clement-alain-sans-titre-06ma2g.md
 works:
+  - work: content/works/alain-clementmd-20jig-2020.md
   - work: content/works/clement-alain-sans-titre-06ma2g.md
 ---
 
