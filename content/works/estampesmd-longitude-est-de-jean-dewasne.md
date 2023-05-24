@@ -1,6 +1,6 @@
 ---
-title: Longitude Est de Jean Dewasne
-reference: 'Estampe, Jean Dewasne Longitude Est'
+title: Longitude Est de Jean Dewasne png
+reference: 'Estampe, Jean Dewasne png Longitude Est '
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/estampes/jpeg
   galerie gaia-dewasne jean-longitude-est-50X65.jpeg
