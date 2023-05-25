@@ -13,6 +13,7 @@ styles:
   - Abstrait
 work: content/works/abergel-marianne-grande-chimere-lievre-celadon.md
 works:
+  - work: content/works/marianne-abergelmd-pourquoi-chimere-noir.md
   - work: content/works/marianne-abergelmd-lievre-blanc-6.md
   - work: content/works/abergel-marianne-chimere-cachee-le-lievre.md
   - work: content/works/abergel-marianne-chimere-cachee-la-girafe.md
