@@ -114,9 +114,7 @@ content:
 
 
 
-      Adhérent des [Amis du Musée des Arts de Nantes\
-
-      ]()
+      Adhérent des [Amis du Musée des Arts de Nantes](http://www.amis-musee-arts-nantes.fr/ "Amis du Musée des Arts de Nantes")
 
 
       Membre du [CPGA](https://www.comitedesgaleriesdart.com/ "CPGA")
