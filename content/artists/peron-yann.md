@@ -4,9 +4,9 @@ fields:
 styles:
   - Figuratif
 seo:
-  type: article
   title: ''
   heading: ''
+  type: article
   description: ''
   image: ''
 template: artist
@@ -21,7 +21,6 @@ works:
   - work: content/works/peron-yann-eau-douce-du-havre.md
   - work: content/works/peron-yann-emile-2021-04.md
   - work: content/works/peron-yann-jardin-des-plantes-nantes.md
-  - work: content/works/peron-yann-lit-de-loire.md
   - work: content/works/peron-yann-nenuphars-de-lerdre.md
   - work: content/works/peron-yann-ombres-de-londe.md
   - work: content/works/peron-yann-paysage-de-loire.md
@@ -29,9 +28,12 @@ works:
   - work: content/works/peron-yann-profondeurs.md
   - work: content/works/peron-yann-reflet-de-lerdre.md
 ---
+
 "Dès la plus petite enfance j’ai aimé colorer, barbouiller, créer avec rapidité, rage et plaisir pour laisser mes traces sur toutes formes de papier, bois, carton, tôle ondulée, etc. Barioler cahiers d’écolier, agendas et autres supports de cours, m’a extrait de mon quotidien solitaire pour vivre des aventures oniriques. Mes vacances d’été, je les ai partagées à Pont- Aven entre le plaisir de m’enliser dans la vase, nager dans l’eau glacée de cette rivière d’eau saumâtre et observer les feuillages du bois d’amour où Paul Sérusier a peint « Le Talisman ».
 
-    L’eau et l’essence de térébenthine m’ont conduit à l’expression gestuelle figurative le plus souvent aquarellée de teintes diluées.
+```
+L’eau et l’essence de térébenthine m’ont conduit à l’expression gestuelle figurative le plus souvent aquarellée de teintes diluées.
+```
 
 Peindre, m’a ouvert l’esprit et pousser hors de mon territoire. Il m’a fallu résister à l’appel de la peinture pour poursuivre mes études d’architecture jusqu’au moment où j’ai compris que je devais vivre avec. Les visites de musées et des expositions de mes contemporains m’ont influencées et donner un sens à l’acte gratuit et puissamment égoïste de peindre.
 
@@ -47,7 +49,9 @@ Alors, j’expose cette première œuvre de mon fils Emile, peinte pendant 2020,
 
 Since my early childhood I have loved to color, to daub, to create with speed, rage and pleasure to leave my traces on all forms of paper, wood, cardboard, corrugated iron, etc. Colouring school notebooks, agendas and other course materials, extracted me from my solitary daily life to live dreamlike adventures. I spent my summer vacations in Pont-Aven between the pleasure of getting stuck in the mud, swimming in the icy water of this brackish river and observing the foliage of the Bois d'Amour where Paul Sérusier painted "Le Talisman".
 
-    Water and turpentine led me to figurative gestural expression, most often watercolored with diluted colors.
+```
+Water and turpentine led me to figurative gestural expression, most often watercolored with diluted colors.
+```
 
 Painting opened my mind and pushed me out of my territory. I had to resist the call of painting to pursue my studies in architecture until I understood that I had to live with it. Visits to museums and exhibitions of my contemporaries influenced me and gave meaning to the free and powerfully selfish act of painting.
 
