@@ -11,7 +11,7 @@ redirect_from:
 styles:
   - Figuratif
   - Abstrait
-work: content/works/abergel-marianne-lievre-vert-clair.md
+work: content/works/abergel-marianne-chimere-cachee-la-girafe.md
 works:
   - work: content/works/abergel-marianne-chimere-cachee-le-lievre.md
   - work: content/works/abergel-marianne-chimere-cachee-la-girafe.md
