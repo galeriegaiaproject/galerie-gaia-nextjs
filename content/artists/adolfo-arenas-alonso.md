@@ -13,10 +13,10 @@ styles:
 work: content/works/adolfo-arenas-alonso-dolce-immaculate.md
 works:
   - work: content/works/adolfo-arenas-alonso-dolce-immaculate.md
-  - work: content/works/adolfo-arenas-alonso-jocondo-il-bello.md
   - work: content/works/adolfo-arenas-alonso-sine-noblitate-skull-and-bird.md
   - work: content/works/adolfo-arenas-alonso-sinnoblitate-extrait-skull-and-bird.md
 ---
+
 # Adolfo Arenas Alonso
 
 > L'usage du graphite traduisant la luxure
