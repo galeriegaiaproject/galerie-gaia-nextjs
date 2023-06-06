@@ -11,10 +11,8 @@ redirect_from:
 styles:
   - Figuratif
   - Abstrait
-work: content/works/abergel-marianne-grande-chimere-lievre-celadon.md
+work: content/works/abergel-marianne-lievre-vert-clair.md
 works:
-  - work: content/works/marianne-abergelmd-pourquoi-chimere-noir.md
-  - work: content/works/marianne-abergelmd-lievre-blanc-6.md
   - work: content/works/abergel-marianne-chimere-cachee-le-lievre.md
   - work: content/works/abergel-marianne-chimere-cachee-la-girafe.md
 ---
