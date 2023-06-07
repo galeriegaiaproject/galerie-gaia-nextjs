@@ -23,6 +23,7 @@ artists:
   - artist: content/artists/jacques-le-brusq.md
   - artist: content/artists/pierre-muckensturm.md
   - artist: content/artists/virginie-chardon.md
+  - artist: content/artists/belaud-cindy.md
   - artist: content/artists/byl-william.md
   - artist: content/artists/edwin-wide.md
   - artist: content/artists/jouet-michel.md
@@ -45,7 +46,6 @@ artists:
   - artist: content/artists/wolfe-judith.md
   - artist: content/artists/jacqueline-pecantet.md
   - artist: content/artists/chretien-manolo.md
-  - artist: content/artists/belaud-cindy.md
   - artist: content/artists/morellet-francois.md
   - artist: content/artists/estampes.md
   - artist: content/artists/man-pia.md
