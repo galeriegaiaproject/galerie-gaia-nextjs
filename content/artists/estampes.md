@@ -9,6 +9,7 @@ exhibitions: []
 redirect_from:
   - /artistes/102-estampes/
 styles:
+  - Figuratif
   - Abstrait
 seo:
   title: 'Sélection d''estampes - Galerie Gaïa, galerie d''art contemporain'
@@ -18,6 +19,7 @@ seo:
     à Nantes.
 work: content/works/estampes-georges-autard-perte-de-sens.md
 works:
+  - work: content/works/estampesmd-longitude-est.md
   - work: content/works/estampes-cleon-peterson-flowers-of-evil-the-kiss-white.md
   - work: content/works/estampes-frederic-poincelet-sans-titre-2.md
   - work: content/works/estampes-frederic-poincelet-sans-titre-3.md
