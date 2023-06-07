@@ -15,17 +15,16 @@ artists:
   - artist: content/artists/laure-carre.md
   - artist: content/artists/jean-francois-molliere.md
   - artist: content/artists/pierre-tual.md
-  - artist: content/artists/tilly-yves.md
   - artist: content/artists/isthme.md
+  - artist: content/artists/tilly-yves.md
   - artist: content/artists/annick-argant.md
   - artist: content/artists/francoise-paressant-1.md
   - artist: content/artists/olivier-fremont.md
   - artist: content/artists/jacques-le-brusq.md
+  - artist: content/artists/pierre-muckensturm.md
   - artist: content/artists/virginie-chardon.md
   - artist: content/artists/byl-william.md
-  - artist: content/artists/pierre-muckensturm.md
   - artist: content/artists/edwin-wide.md
-  - artist: content/artists/peron-yann.md
   - artist: content/artists/jouet-michel.md
   - artist: content/artists/viallat-claude.md
   - artist: content/artists/georges-rousse.md
@@ -75,6 +74,7 @@ artists:
   - artist: content/artists/adolfo-arenas-alonso.md
   - artist: content/artists/wave-week-end-arts-visuels-nantes.md
   - artist: content/artists/art-galeries-nantes.md
+  - artist: content/artists/peron-yann.md
 ---
 
 
