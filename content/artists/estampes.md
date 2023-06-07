@@ -19,7 +19,6 @@ seo:
     à Nantes.
 work: content/works/estampes-tapies-exposition-galerie-maeght-1975.md
 works:
-  - work: content/works/estampesmd-longitude-est-de-jean-dewasne.md
   - work: content/works/estampesmd-la-mourre-de-jean-dewasne.md
   - work: content/works/estampesmd-colony-de-tony-cragg.md
   - work: content/works/estampes-cleon-peterson-flowers-of-evil-the-kiss-white.md
