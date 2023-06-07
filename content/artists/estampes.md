@@ -17,7 +17,7 @@ seo:
     Galerie Gaïa, galerie d'art contemporain vous présente une sélection
     d'estampes à découvrir, réserver et commander en ligne ou à la galerie d'art
     à Nantes.
-work: content/works/estampesmd-longitude-est.md
+work: content/works/estampes-tapies-exposition-galerie-maeght-1975.md
 works:
   - work: content/works/estampes-cleon-peterson-flowers-of-evil-the-kiss-white.md
   - work: content/works/estampes-frederic-poincelet-sans-titre-2.md
