@@ -24,7 +24,6 @@ works:
   - work: content/works/estampesmd-printemps-a-mille-coeur-de-jean-messagier.md
   - work: content/works/estampesmd-la-mourre-de-jean-dewasne.md
   - work: content/works/estampesmd-colony-de-tony-cragg.md
-  - work: content/works/estampes-cleon-peterson-flowers-of-evil-the-kiss-white.md
   - work: content/works/estampes-frederic-poincelet-sans-titre-2.md
   - work: content/works/estampes-frederic-poincelet-sans-titre-3.md
   - work: content/works/estampes-georges-autard-perte-de-sens.md
