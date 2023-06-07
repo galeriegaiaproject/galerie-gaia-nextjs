@@ -18,7 +18,6 @@ seo:
     à Nantes.
 work: content/works/estampes-cleon-peterson-flowers-of-evil-the-kiss-white.md
 works:
-  - work: content/works/estampes-chillida-exposition-1971-barcelone.md
   - work: content/works/estampes-cleon-peterson-flowers-of-evil-the-kiss-white.md
   - work: content/works/estampes-frederic-poincelet-sans-titre-2.md
   - work: content/works/estampes-frederic-poincelet-sans-titre-3.md
