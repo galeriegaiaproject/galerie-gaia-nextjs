@@ -17,7 +17,7 @@ seo:
     Galerie Gaïa, galerie d'art contemporain vous présente une sélection
     d'estampes à découvrir, réserver et commander en ligne ou à la galerie d'art
     à Nantes.
-work: content/works/estampes-tapies-exposition-galerie-maeght-1975.md
+work: content/works/estampesmd-la-mourre-de-jean-dewasne.md
 works:
   - work: content/works/estampesmd-signature-de-jean-messagier.md
   - work: content/works/estampesmd-longitude-est-de-jean-dewasne.md
