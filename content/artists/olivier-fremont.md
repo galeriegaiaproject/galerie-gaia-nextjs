@@ -12,11 +12,13 @@ styles:
   - Abstrait
 work: content/works/fremont-olivier-nuage.md
 works:
+  - work: content/works/olivier-fremontmd-installation-11-toles-froissees.md
   - work: content/works/fremont-olivier-ailes.md
   - work: content/works/fremont-olivier-mur-11.md
   - work: content/works/fremont-olivier-nuage-detail.md
   - work: content/works/fremont-olivier-nuage.md
 ---
+
 # Olivier Fremont
 
 Olivier Frémont sait qu’après Dada et les Nouveaux Réalistes qui ont magnifiquement ouvert la voie, beaucoup d’artistes ont succombé aux sirènes de la récupération mais, lui-même, n’a jamais été vraiment séduit par la poétique de l’objet « tout fait ». Les débris et restes qu’il recueille et réunit précautionneusement n’ont plus d’histoire : il « opère » au chevet de ces lambeaux suturés pour redonner couleur et vie à la chair du fer. A ce stade de recherche dans les entrailles métalliques le choix d’un rendu lisse ou rugueux, mat ou verni ne relève plus que d’un impossible défi : exprimer les états d’âme de la matière.
