@@ -12,6 +12,7 @@ styles:
   - Abstrait
 work: content/works/fremont-olivier-nuage.md
 works:
+  - work: content/works/olivier-fremontmd-sans-titre-tole-froissee-2023.md
   - work: content/works/olivier-fremontmd-installation-11-toles-froissees.md
   - work: content/works/fremont-olivier-ailes.md
   - work: content/works/fremont-olivier-mur-11.md
