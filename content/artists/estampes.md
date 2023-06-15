@@ -19,6 +19,7 @@ seo:
     à Nantes.
 work: content/works/estampesmd-la-mourre-de-jean-dewasne.md
 works:
+  - work: content/works/estampesmd-burkhard-balthasar-maiko.md
   - work: content/works/estampesmd-signature-de-jean-messagier.md
   - work: content/works/estampesmd-longitude-est-de-jean-dewasne.md
   - work: content/works/estampesmd-printemps-a-mille-coeur-de-jean-messagier.md
