@@ -13,9 +13,9 @@ styles:
 work: content/works/jallais-xavier-avant-daller-plus-loin.md
 works:
   - work: content/works/jallais-xavier-ailleurs-ou-nulle-part.md
-  - work: content/works/jallais-xavier-avant-daller-plus-loin.md
   - work: content/works/jallais-xavier-cerf-1.md
 ---
+
 # Xavier Jallais
 
 Né en 1971, Xavier Jallais vit et travaille à Chauvigny dans la Vienne.  Il est diplômé d’une licence de mathématiques, d’une Licence d’Histoire de l’Art et d’un Master Pro en Conservation-Restauration des Biens Culturel (spécialité peinture).
