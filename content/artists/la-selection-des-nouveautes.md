@@ -23,7 +23,6 @@ works:
   - work: content/works/mars-2023-dimitri-roubichou.md
   - work: content/works/mars-2023-la-petite-coreenne-de-virginie-chardon.md
   - work: content/works/mars-2023-le-point-dequilibre-isabelle-healy.md
-  - work: content/works/mars-2023-nouveautes.md
   - work: content/works/mars-2023-petit-cube-dans-vegetation-par-marie-vandooren.md
   - work: content/works/mars-2023-toma-l.md
   - work: content/works/mars-2023-yann-peron.md
