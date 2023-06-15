@@ -10,7 +10,7 @@ redirect_from:
   - /artistes/75-xavier-jallais/
 styles:
   - Figuratif
-work: content/works/jallais-xavier-avant-daller-plus-loin.md
+work: content/works/xavier-jallaismd-jai-reve-dhorizon-plus-vaste.md
 works:
   - work: content/works/xavier-jallaismd-jai-reve-dhorizon-plus-vaste.md
   - work: content/works/xavier-jallaismd-et-ne-plus-se-retourner.md
