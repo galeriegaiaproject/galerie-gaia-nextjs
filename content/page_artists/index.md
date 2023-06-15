@@ -14,6 +14,7 @@ artists:
   - artist: content/artists/d-harcourt-victoire.md
   - artist: content/artists/laure-carre.md
   - artist: content/artists/jean-francois-molliere.md
+  - artist: content/artists/xavier-jallais.md
   - artist: content/artists/pierre-tual.md
   - artist: content/artists/isthme.md
   - artist: content/artists/tilly-yves.md
@@ -29,7 +30,6 @@ artists:
   - artist: content/artists/jouet-michel.md
   - artist: content/artists/viallat-claude.md
   - artist: content/artists/georges-rousse.md
-  - artist: content/artists/xavier-jallais.md
   - artist: content/artists/isabelle-healy.md
   - artist: content/artists/tangui-robert.md
   - artist: content/artists/aline-isoard.md
