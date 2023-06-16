@@ -9,6 +9,13 @@ seo:
     contemporain à Nantes, galerie art contemporain nantes
   image: ''
 articles:
+  - title: 'Nuit des Galeries '
+    date: 2023-06-30T22:00:00.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/art-galeries-nantes/galerie-gaia-art-galeries-nantes-nuit-des-galeries-2023.jpg
+    content: "La #6 Nuit des Galeries s’inscrit dans l’édition 2023 de la Nuit du VAN à l’invitation\ndu Voyage à Nantes. En effet, Art Galerie Nantes fédère depuis 2016 des\ngaleristes privés, acteurs nantais de l’art contemporain. L’association\nintervient avec un triple objectif de solidarité professionnelle, d’action\nculturelle dans une volonté d’ouverture de ses lieux à tous les publics,\nnotamment par l’organisation d’événements collectifs (nuits des galeries,\ndimanches des galeries...) et de promotion des artistes en France comme à\nl’international (salons, échanges interrégionaux\_...). \n\nC’est pourquoi ce samedi 1er juillet se succéderont rencontres\nartistiques, cartes blanches, performances, impromptus musicaux, ateliers,\névénements participatifs. Ainsi visiteuses et visiteurs pourront découvrir le\ntravail d’une vingtaine d’artistes français ou étrangers, toutes et tous\ncontemporains, porteurs d’esthétiques différentes des plus réalistes aux plus\nconceptuels. Peintres, dessinateurs, artistes de l’estampe, sculpteurs,\ncéramistes, nombre d’entre eux seront présents dans les galeries. \n\nGalerie Gaïa – quartier Hôtel de Ville\n\nLe Triphasé – quartier Guist’hau\n\nLe 56 – quartier Butte Saint Anne\n\nGalerie Albane – quartier Graslin\n\nLe Jardin des Formes – quartier Tour de Bretagne\n\nGalerie des Oubliés – quartier Dobré\n\n\nDe 14h à 22h.\n\n\n\n\n\n\n\n"
   - title: FRAGMENTS   PAYSAGES    Tangui Robert
     date: 2020-12-06T11:38:00.000Z
     categories:
@@ -1845,11 +1852,11 @@ articles:
     categories:
       - Exposition
     image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/marionneau-brigitte/Capture dâ\x80\x99eÌ\x81cran .png"
-    content: >+
+    content: >
       Exposition de céramiques de Brigitte Marionneau du 23 Mai au 10 Juin
 
 
-      Vernissage jeudi 25 Mai 18H\
+      Vernissage jeudi 25 Mai 18H\\
 
 
       « Lorsque je scelle le dernier morceau de terre d’une pièce, j’enferme
@@ -1857,7 +1864,7 @@ articles:
       vivante entre l’intérieur et l’extérieur. La poche d’air enfermée, sous
       pression, me permet de tendre les surfaces et les lignes. Mes mains
       exercent une pression sur les parois et déterminent les courbes du
-      volume. L’air devient mon allié pour bâtir. 
+      volume. L’air devient mon allié pour bâtir.
 
 
       La terre est une matière souple, qui a sa plasticité, sa propre
@@ -1865,7 +1872,7 @@ articles:
       La texture est recherchée en tant que vocabulaire plastique, soit par de
       larges enduits de terre ajoutée sauvagement puis effacée en partie et
       réécrit comme un palimpseste, soit par des surfaces gravées librement.
-      Je redessine la forme par le trait, par le geste. 
+      Je redessine la forme par le trait, par le geste.
 
 
       Je laisse ainsi mon empreinte, ma cartographie personnelle au volume
