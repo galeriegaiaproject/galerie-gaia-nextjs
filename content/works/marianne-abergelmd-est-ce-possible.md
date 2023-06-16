@@ -5,7 +5,7 @@ image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/abergel-marianne/galerie-gaia-marianne-abergel-est
   ce possible-chimere-bleu.jpg
 artist: content/artists/marianne-abergel.md
-price: 700
+price: 650
 technique: 'Grès émaillé bleu, cuisson oxydante 1260°'
 fields: []
 styles: []
