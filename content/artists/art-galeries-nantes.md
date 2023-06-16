@@ -9,21 +9,31 @@ redirect_from:
   - /artistes/81-art-galeries-nantes/
 seo:
   title: 'Évènements Art Galeries Nantes - Galerie Gaïa, galerie d''art à Nantes'
-  description: Retrouvez ici les évènements de l'association Art Galeries Nantes et venez à la rencontre des galeries et des artistes Nantais !
-work: content/works/art-galeries-nantes-2-avril-2023-14h-18h-le-dimanche-des-galeries.md
+  description: >-
+    Retrouvez ici les évènements de l'association Art Galeries Nantes et venez à
+    la rencontre des galeries et des artistes Nantais !
+work: >-
+  content/works/art-galeries-nantes-2-avril-2023-14h-18h-le-dimanche-des-galeries.md
 works:
-  - work: content/works/art-galeries-nantes-10-octobre-2021-les-galeries-le-dimanche.md
-  - work: content/works/art-galeries-nantes-2-avril-2023-14h-18h-le-dimanche-des-galeries.md
+  - work: content/works/art-galeries-nantesmd-nuit-des-galeries-6.md
+  - work: >-
+      content/works/art-galeries-nantes-10-octobre-2021-les-galeries-le-dimanche.md
+  - work: >-
+      content/works/art-galeries-nantes-2-avril-2023-14h-18h-le-dimanche-des-galeries.md
   - work: content/works/art-galeries-nantes-art-galeries-nantes.md
-  - work: content/works/art-galeries-nantes-dimanche-1er-mai-2022-les-galeries-dart-nantaises-sont-ouvertes.md
-  - work: content/works/art-galeries-nantes-le-dimanche-les-galeries-sont-ouvertes-le-2-avril-2023.md
-  - work: content/works/art-galeries-nantes-les-galeries-le-dimanche-24-novembre-2019.md
+  - work: >-
+      content/works/art-galeries-nantes-dimanche-1er-mai-2022-les-galeries-dart-nantaises-sont-ouvertes.md
+  - work: >-
+      content/works/art-galeries-nantes-le-dimanche-les-galeries-sont-ouvertes-le-2-avril-2023.md
+  - work: >-
+      content/works/art-galeries-nantes-les-galeries-le-dimanche-24-novembre-2019.md
   - work: content/works/art-galeries-nantes-nuit-des-galeries-5-nouveau-format.md
   - work: content/works/art-galeries-nantes-nuit-des-galeries-5.md
   - work: content/works/art-galeries-nantes-nuit-des-galeries1.md
   - work: content/works/art-galeries-nantes-nuit-des-galeries2.md
   - work: content/works/art-galeries-nantes-nuit-des-galeries3.md
 ---
+
 # Art Galeries Nantes
 
 ## Galerie Albane l'Artichaut Galerie Le 56  Galerie des oubliés  Le Triphasé  Le Jardin des Formes Galerie Gaïa
