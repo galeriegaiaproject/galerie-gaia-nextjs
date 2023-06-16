@@ -13,6 +13,7 @@ styles:
   - Abstrait
 work: content/works/abergel-marianne-chimere-cachee-la-girafe.md
 works:
+  - work: content/works/marianne-abergelmd-se-relever.md
   - work: content/works/abergel-marianne-chimere-cachee-le-lievre.md
   - work: content/works/abergel-marianne-chimere-cachee-la-girafe.md
 ---
