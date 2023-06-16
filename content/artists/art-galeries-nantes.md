@@ -12,8 +12,7 @@ seo:
   description: >-
     Retrouvez ici les évènements de l'association Art Galeries Nantes et venez à
     la rencontre des galeries et des artistes Nantais !
-work: >-
-  content/works/art-galeries-nantes-2-avril-2023-14h-18h-le-dimanche-des-galeries.md
+work: content/works/art-galeries-nantesmd-nuit-des-galeries-6.md
 works:
   - work: content/works/art-galeries-nantesmd-nuit-des-galeries-6.md
   - work: >-
