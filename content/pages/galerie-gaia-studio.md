@@ -70,58 +70,6 @@ content:
     contact:
       placeholder: Un message à nous adresser ?
   - column: >
-      # Elisabeth Givre
-
-
-      Directrice
-
-
-      Passionnée d'histoire de l'art, d'art pariétal et d'architecture, diplômée
-      de l’école de commerce IDRAC Lyon, j’ai travaillé 20 ans comme directrice
-      d’agences et chef de projets pour Manpower France.
-
-
-      **Mon intention** en créant Galerie Gaïa Studio est d’accompagner des
-      structures privées et publics pour **concevoir des projets artistiques
-      sur-mesure**.\
-
-      La particularité de notre démarche et de **faire sens** en sélectionnant
-      des artistes qui s’inspireront des savoir-faire de l'entreprise, de
-      l’histoire d'un lieu ou de l’intention architecturale d'un projet
-      immobilier.
-
-
-      ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/elisabeth-givre-galerie-gaia-studio-nb.jpg)
-
-
-      Présidente de Art Galeries Nantes\
-
-
-
-      Membre de [Ruptur](https://www.ruptur.fr/ "RUPTUR ") acteur d'une économie
-      créative et environnementale\
-
-
-
-      Membre de
-      [AMO](https://www.linkedin.com/in/amo-bretagne-pays-de-loire-961183164/?originalSubdomain=fr
-      "amo ")\
-
-
-
-      Adhérent du [Pôle des Arts Visuels Pays de
-      Loire](https://poleartsvisuels-pdl.fr/ "Pole des arts visuels ")\
-
-
-
-      Adhérent des [Amis du Musée des Arts de Nantes](http://www.amis-musee-arts-nantes.fr/ "Amis du Musée des Arts de Nantes")
-
-
-      Membre du [CPGA](https://www.comitedesgaleriesdart.com/ "CPGA")
-    contact:
-      placeholder: Prendre contact avec notre équipe
-      display: true
-  - column: >
       # Inès Ben Brahim
 
 
