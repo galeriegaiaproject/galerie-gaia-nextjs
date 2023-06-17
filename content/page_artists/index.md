@@ -58,7 +58,6 @@ artists:
   - artist: content/artists/mathilde-guiho.md
   - artist: content/artists/valerie-le-roux.md
   - artist: content/artists/dimitri-bourriau.md
-  - artist: content/artists/muriel-kerba.md
   - artist: content/artists/bram-van-velde.md
   - artist: content/artists/boris-jakobek.md
   - artist: content/artists/rich-designer.md
