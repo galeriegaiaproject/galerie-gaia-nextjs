@@ -5,6 +5,9 @@ content:
       Elisabeth Givre
 
 
+
+
+
       Directrice
 
 
@@ -27,7 +30,15 @@ content:
 
       Membre du Comité Professionnel des Galeries d'Art CPGA\
 
-      Présidente de Art Galeries Nantes\
+      Présidente de Art Galeries Nantes \
+
+      Membre du Pôle des Arts Visuels - Conseil d'Administration \
+
+      Membre de Ruptur \
+
+      Membre de AMO \
+
+      Membre des Amis du Musée des Arts de Nantes  \
 
   - column: >
       # Nos engagements, nos valeurs
