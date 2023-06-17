@@ -45,7 +45,6 @@ artists:
   - artist: content/artists/philippe-lecomte.md
   - artist: content/artists/wolfe-judith.md
   - artist: content/artists/jacqueline-pecantet.md
-  - artist: content/artists/chretien-manolo.md
   - artist: content/artists/morellet-francois.md
   - artist: content/artists/estampes.md
   - artist: content/artists/jorj-morin.md
