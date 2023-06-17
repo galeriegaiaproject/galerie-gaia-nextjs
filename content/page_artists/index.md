@@ -48,7 +48,6 @@ artists:
   - artist: content/artists/chretien-manolo.md
   - artist: content/artists/morellet-francois.md
   - artist: content/artists/estampes.md
-  - artist: content/artists/man-pia.md
   - artist: content/artists/jorj-morin.md
   - artist: content/artists/marianne-abergel.md
   - artist: content/artists/the-blind.md
