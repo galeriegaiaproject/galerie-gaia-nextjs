@@ -16,6 +16,7 @@ expose: true
 exhibitions: []
 work: content/works/engels-didier-kaaien-compo-verte.md
 works:
+  - work: content/works/engels-didiermd-the-bunch.md
   - work: content/works/engels-didiermd-framed.md
   - work: content/works/engels-didiermd-blue-one.md
   - work: content/works/engels-didier-36-part1.md
