@@ -63,7 +63,6 @@ artists:
   - artist: content/artists/jorj-morin-peintre.md
   - artist: content/artists/alain-clement.md
   - artist: content/artists/daha-daha.md
-  - artist: content/artists/rycho-ryszard-swierad.md
   - artist: content/artists/combas.md
   - artist: content/artists/renaud-allirand.md
   - artist: content/artists/claude-francheteau.md
