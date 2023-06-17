@@ -49,6 +49,7 @@ artists:
   - artist: content/artists/morellet-francois.md
   - artist: content/artists/estampes.md
   - artist: content/artists/jorj-morin.md
+  - artist: content/artists/peron-yann.md
   - artist: content/artists/marianne-abergel.md
   - artist: content/artists/the-blind.md
   - artist: content/artists/parrein-pascale.md
@@ -71,7 +72,6 @@ artists:
   - artist: content/artists/adolfo-arenas-alonso.md
   - artist: content/artists/wave-week-end-arts-visuels-nantes.md
   - artist: content/artists/art-galeries-nantes.md
-  - artist: content/artists/peron-yann.md
 ---
 
 
