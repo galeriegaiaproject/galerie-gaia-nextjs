@@ -14,7 +14,7 @@ title: Engels Didier
 location: ''
 expose: true
 exhibitions: []
-work: content/works/engels-didier-kaaien-compo-verte.md
+work: content/works/engels-didiermd-the-bunch.md
 works:
   - work: content/works/engels-didiermd-the-bunch.md
   - work: content/works/engels-didiermd-framed.md
