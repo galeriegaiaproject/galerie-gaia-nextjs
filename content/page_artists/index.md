@@ -59,7 +59,6 @@ artists:
   - artist: content/artists/valerie-le-roux.md
   - artist: content/artists/dimitri-bourriau.md
   - artist: content/artists/bram-van-velde.md
-  - artist: content/artists/boris-jakobek.md
   - artist: content/artists/rich-designer.md
   - artist: content/artists/jorj-morin-peintre.md
   - artist: content/artists/alain-clement.md
