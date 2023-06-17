@@ -8,7 +8,7 @@ expose: true
 exhibitions: []
 redirect_from:
   - /artistes/66-daha-daha/
-work: content/works/hamon-damien-daha-fauteuil-ellipse.md
+work: content/works/hamon-damien-daha-cube-plie-or.md
 works:
   - work: content/works/hamon-damien-daha-cube-plie-brule.md
   - work: content/works/hamon-damien-daha-cube-plie-chene-brut.md
@@ -19,6 +19,7 @@ works:
   - work: content/works/hamon-damien-daha-valet.md
   - work: content/works/hamon-damien-daha-zoom-sur-cube-plie-brule.md
 ---
+
 # Damien Hamon Daha
 
 > Ebénisterie contemporaine, inspirée et atypique
@@ -37,14 +38,14 @@ En tout cas en évolution, la vie se manifeste et apporte aussi ses réjouissanc
 
 > Contemporary, inspired and atypical woodworking
 
-Cabinetmaker with a talent that expresses itself on the line between art and craft. Each piece is unique. The artist is present in galleries in Paris and New York and at the Gaïa Gallery. 
+Cabinetmaker with a talent that expresses itself on the line between art and craft. Each piece is unique. The artist is present in galleries in Paris and New York and at the Gaïa Gallery.
 
-"To create something new, here is an old idea." 
+"To create something new, here is an old idea."
 
-By definition, infinity is endless. But this indefinable has no end, neither from one end nor the other. 
+By definition, infinity is endless. But this indefinable has no end, neither from one end nor the other.
 
-Where are we in this immensity? I wave between these unknowns. By claiming to defy my ignorance, I make visible what I see. To make exist for me congratulate to understand and so on... 
+Where are we in this immensity? I wave between these unknowns. By claiming to defy my ignorance, I make visible what I see. To make exist for me congratulate to understand and so on...
 
-Eternal cycle in recommencement? In progression? In perdition? 
+Eternal cycle in recommencement? In progression? In perdition?
 
 In any case in evolution, life manifests itself and also brings its joys.
