@@ -14,7 +14,7 @@ seo:
   description: >-
     Exposition, peinture, sculpture, estampe, photographie… Découvrez les
     nouveautés de la Galerie Gaïa, galerie d'art contemporain à Nantes.
-work: content/works/mars-2023-nouveautes.md
+work: content/works/avril-2023-nouveautes.md
 works:
   - work: >-
       content/works/mars-2023-blue-pacifique-ii-par-isthme-installe-a-lamenite.md
