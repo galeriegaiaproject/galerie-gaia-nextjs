@@ -32,7 +32,7 @@ exports.handler = async (event, context, callback) => {
     return
   }
 
-  const slugified = `${file.split('/').map(str => slug(str, { lower: true })).join('/').slice(0, -ext.length)}${ext}`
+  const slugified = `${file.slice(0, -ext.length).split('/').map(str => slug(str, { lower: true })).join('/')}${ext}`
 
   try {
     high = await sharp(tina).resize(1920).toBuffer()
