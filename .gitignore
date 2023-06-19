@@ -37,3 +37,7 @@ next-env.d.ts
 # nextjs
 public/robots.txt
 public/sitemap*.xml
+
+# aws
+.aws/node_modules
+.aws/*.zip
