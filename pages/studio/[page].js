@@ -51,7 +51,7 @@ const Studio = ({ tina, ...props }) => {
           {page.content.map(({ column, contact }, index) => (
             <article key={index}>
               <RichText children={column} />
-              {contact.display && (
+              {contact?.display && (
                 <Contact
                   id="uT-oykFnR_MeNQndwoxtc"
                   button={contact.button}
