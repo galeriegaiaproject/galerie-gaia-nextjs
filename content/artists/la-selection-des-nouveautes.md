@@ -2,7 +2,7 @@
 template: artist
 title: Juin 2023
 location: ''
-expose: true
+expose: false
 exhibitions: []
 redirect_from:
   - /artistes/78-la-selection-des-nouveautes-de-mars-2020/
