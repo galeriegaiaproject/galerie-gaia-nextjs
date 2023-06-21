@@ -8,7 +8,9 @@ opening: |-
 phone: 02 40 48 14 91
 email: contact@galeriegaia.fr
 announcement: |
-  Expo Collective
+  1er Juillet \
+  Nuit du Van et des Galeries \
+  Cindy Belaud & Edwin Wide
 instagram: 'https://www.instagram.com/galeriegaianantes'
 facebook: >-
   https://www.facebook.com/pages/category/Museum/Galerie-Ga%C3%AFa-1567216053496092/
