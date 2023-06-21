@@ -8,9 +8,7 @@ opening: |-
 phone: 02 40 48 14 91
 email: contact@galeriegaia.fr
 announcement: |
-  Brigitte Marionneau\
-  Céramique\
-  prolongation 17 Juin
+  Expo Collective
 instagram: 'https://www.instagram.com/galeriegaianantes'
 facebook: >-
   https://www.facebook.com/pages/category/Museum/Galerie-Ga%C3%AFa-1567216053496092/
