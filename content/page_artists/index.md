@@ -13,15 +13,15 @@ artists:
   - artist: content/artists/brigitte-marionneau.md
   - artist: content/artists/laure-carre.md
   - artist: content/artists/d-harcourt-victoire.md
+  - artist: content/artists/isthme.md
   - artist: content/artists/jean-francois-molliere.md
   - artist: content/artists/xavier-jallais.md
   - artist: content/artists/pierre-tual.md
-  - artist: content/artists/isthme.md
   - artist: content/artists/tilly-yves.md
-  - artist: content/artists/annick-argant.md
-  - artist: content/artists/francoise-paressant-1.md
-  - artist: content/artists/olivier-fremont.md
   - artist: content/artists/jacques-le-brusq.md
+  - artist: content/artists/francoise-paressant-1.md
+  - artist: content/artists/annick-argant.md
+  - artist: content/artists/olivier-fremont.md
   - artist: content/artists/pierre-muckensturm.md
   - artist: content/artists/virginie-chardon.md
   - artist: content/artists/belaud-cindy.md
