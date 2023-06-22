@@ -2,7 +2,7 @@
 template: about
 content:
   - column: >
-      Elisabeth Givre
+      # Elisabeth Givre
 
 
       Directrice
