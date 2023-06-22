@@ -21,8 +21,6 @@ works:
   - work: content/works/robert-tangui-loire-li.md
   - work: content/works/robert-tangui-louveche-ii.md
   - work: content/works/robert-tangui-palais-nantes.md
-  - work: content/works/robert-tangui-reflet-loire-nantes.md
-  - work: content/works/robert-tangui-salento.md
   - work: content/works/robert-tangui-tourbiere.md
   - work: content/works/robert-tangui-trentemoult.md
   - work: content/works/robert-tangui-xia-men.md
