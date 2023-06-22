@@ -8,6 +8,7 @@ seo:
     de découvrir de nombreux artistes contemporains internationaux.
   image: ''
 artists:
+  - artist: content/artists/remy-pierre-alexandre.md
   - artist: content/artists/la-selection-des-nouveautes.md
   - artist: content/artists/brigitte-marionneau.md
   - artist: content/artists/toma-l.md
