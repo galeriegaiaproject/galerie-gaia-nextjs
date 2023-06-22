@@ -18,23 +18,23 @@ artists:
   - artist: content/artists/xavier-jallais.md
   - artist: content/artists/pierre-tual.md
   - artist: content/artists/tilly-yves.md
+  - artist: content/artists/pierre-muckensturm.md
   - artist: content/artists/jacques-le-brusq.md
   - artist: content/artists/francoise-paressant-1.md
   - artist: content/artists/annick-argant.md
   - artist: content/artists/olivier-fremont.md
-  - artist: content/artists/pierre-muckensturm.md
   - artist: content/artists/virginie-chardon.md
   - artist: content/artists/belaud-cindy.md
-  - artist: content/artists/byl-william.md
+  - artist: content/artists/isabelle-healy.md
   - artist: content/artists/edwin-wide.md
+  - artist: content/artists/byl-william.md
+  - artist: content/artists/marie-vandooren.md
+  - artist: content/artists/tangui-robert.md
   - artist: content/artists/jouet-michel.md
   - artist: content/artists/viallat-claude.md
   - artist: content/artists/georges-rousse.md
-  - artist: content/artists/isabelle-healy.md
-  - artist: content/artists/tangui-robert.md
   - artist: content/artists/aline-isoard.md
   - artist: content/artists/elisabeth-wadecki.md
-  - artist: content/artists/marie-vandooren.md
   - artist: content/artists/franco-salas-borquez.md
   - artist: content/artists/job.md
   - artist: content/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert.md
