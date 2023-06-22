@@ -9,7 +9,6 @@ seo:
   image: ''
 artists:
   - artist: content/artists/remy-pierre-alexandre.md
-  - artist: content/artists/la-selection-des-nouveautes.md
   - artist: content/artists/brigitte-marionneau.md
   - artist: content/artists/toma-l.md
   - artist: content/artists/d-harcourt-victoire.md
