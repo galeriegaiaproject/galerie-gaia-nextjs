@@ -20,6 +20,7 @@ exhibitions:
     end: ''
 work: content/works/tilly-yves-chene-vert-2.md
 works:
+  - work: content/works/tilly-yvesmd-pommier.md
   - work: content/works/tilly-yves-chene-vert-2.md
 ---
 
