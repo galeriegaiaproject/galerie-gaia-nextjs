@@ -128,7 +128,7 @@ content:
       ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/ines-ben-brahim-galerie-gaia-studio-nb.jpg)
 
 
-      crédit photos [Dimitri
+      crédit photo [Dimitri
       Roubichou](https://galeriegaia.fr/artists/dimitri-roubichou/ "dimitri
       roubichou ")
     contact:
