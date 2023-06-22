@@ -5,6 +5,8 @@ fields:
 styles:
   - Abstrait
 expose: true
+works:
+  - work: content/works/remy-pierre-alexandremd-une-ballade-du-rouge-gorge-3.md
 ---
 
 Anatomie d’un contexte
@@ -14,17 +16,9 @@ objets traversants, parcourus par leur contexte, physiquement et conceptuellemen
 
 Eva Prouteau Éditions Domaine de Kerguéhennec et 2Angles, 2012
 
-
 Anatomy of a context
 
 Open to multiple readings (poetic, formalist, sociological, etc.), Pierre-Alexandre Remy's sculptures produce a hypertext of the territory. They sketch a portrait of the territory in complex folds, a blend of scientific and telluric thought, an atmospheric and sensual approach. They are objects that pass
 through, traversed by their context, both physically and conceptually. And at Flers, as at Kerguéhennec, this is perhaps what Pierre-Alexandre Rémy's busy production period reveals: the continuation of an intimate journey through the landscape, and the development of an increasingly concentrated, polysemic and abstract sculptural style.
 
 Eva Prouteau Éditions Domaine de Kerguéhennec et 2Angles, 2012
-
-
-
-
-
-
-
