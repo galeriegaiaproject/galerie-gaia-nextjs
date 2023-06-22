@@ -7,6 +7,7 @@ styles:
 expose: true
 works:
   - work: content/works/remy-pierre-alexandremd-une-ballade-du-rouge-gorge-3.md
+work: content/works/remy-pierre-alexandremd-une-ballade-du-rouge-gorge-3.md
 ---
 
 Anatomie d’un contexte
