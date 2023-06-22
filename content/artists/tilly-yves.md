@@ -18,7 +18,7 @@ exhibitions:
     location: Vannes
     start: ''
     end: ''
-work: content/works/tilly-yves-chene-vert-2.md
+work: content/works/tilly-yvesmd-bouleau.md
 works:
   - work: content/works/tilly-yvesmd-bouleau.md
   - work: content/works/tilly-yvesmd-eucalyptus-grand-format.md
