@@ -10,7 +10,6 @@ redirect_from:
   - /artistes/59-marianne-abergel/
 styles:
   - Figuratif
-  - Abstrait
 work: content/works/marianne-abergelmd-ou-es-tu.md
 works:
   - work: content/works/marianne-abergelmd-est-ce-possible.md
