@@ -9,10 +9,10 @@ seo:
   image: ''
 artists:
   - artist: content/artists/remy-pierre-alexandre.md
-  - artist: content/artists/brigitte-marionneau.md
   - artist: content/artists/toma-l.md
-  - artist: content/artists/d-harcourt-victoire.md
+  - artist: content/artists/brigitte-marionneau.md
   - artist: content/artists/laure-carre.md
+  - artist: content/artists/d-harcourt-victoire.md
   - artist: content/artists/jean-francois-molliere.md
   - artist: content/artists/xavier-jallais.md
   - artist: content/artists/pierre-tual.md
