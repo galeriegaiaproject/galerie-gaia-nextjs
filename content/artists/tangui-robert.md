@@ -17,8 +17,6 @@ works:
   - work: content/works/robert-tangui-chantier-de-lesclain.md
   - work: content/works/robert-tangui-digue.md
   - work: content/works/robert-tangui-extrait-de-jardin-des-plantes.md
-  - work: content/works/robert-tangui-grandes-serres-et-bord-de-loire-ii.md
-  - work: content/works/robert-tangui-grandes-serres-et-bord-de-loire-nantes.md
   - work: content/works/robert-tangui-jardin-des-plantes.md
   - work: content/works/robert-tangui-jardin-nuages-nantes.md
   - work: content/works/robert-tangui-loire-li.md
