@@ -1,11 +1,8 @@
 ---
 template: about
 content:
-  - column: >+
+  - column: >
       Elisabeth Givre
-
-
-
 
 
       Directrice
@@ -38,8 +35,7 @@ content:
 
       Membre de AMO \
 
-      Membre des Amis du Musée des Arts de Nantes  \
-
+      Membre des Amis du Musée des Arts de Nantes  \\
   - column: >
       # Nos engagements, nos valeurs
 
