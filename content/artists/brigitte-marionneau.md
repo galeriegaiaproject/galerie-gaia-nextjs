@@ -32,6 +32,9 @@ seo:
   image: ''
 work: content/works/brigitte-marionneaumd-contenir-le-vent-8-xi-7-xi.md
 works:
+  - work: content/works/brigitte-marionneaumd-contenir-le-vent-9xi.md
+  - work: content/works/brigitte-marionneaumd-contenir-le-vent-12-iii.md
+  - work: content/works/brigitte-marionneaumd-contenir-le-vent-12-xi.md
   - work: content/works/brigitte-marionneaumd-contenir-le-vent-15-iii.md
   - work: content/works/brigitte-marionneaumd-contenir-le-vent-8-xi-7-xi.md
   - work: content/works/marionneau-brigitte-le-geste.md
