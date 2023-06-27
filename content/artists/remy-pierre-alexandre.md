@@ -6,6 +6,8 @@ styles:
   - Abstrait
 expose: true
 works:
+  - work: content/works/remy-pierre-alexandremd-une-ballade-du-rouge-gorge-2.md
+  - work: content/works/remy-pierre-alexandremd-les-arborescences-inimaginees.md
   - work: content/works/remy-pierre-alexandremd-les-arborescences-inimaginees-2.md
   - work: content/works/remy-pierre-alexandremd-lermite-celeste-3.md
   - work: content/works/remy-pierre-alexandremd-echo-au-chaos-1.md
