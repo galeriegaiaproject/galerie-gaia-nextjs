@@ -14,9 +14,15 @@ styles:
   - Abstrait
 work: content/works/morin-jorj-peinture-ceramique-resac.md
 works:
+  - work: content/works/jorj-morin-peintremd-trois-soleils-bleus.md
+  - work: content/works/jorj-morin-peintremd-soleil-froid.md
+  - work: content/works/jorj-morin-peintremd-petit-monde.md
+  - work: content/works/jorj-morin-peintremd-fragile-equilibre.md
+  - work: content/works/jorj-morin-peintremd-eclaircie.md
+  - work: content/works/jorj-morin-peintremd-aquatique.md
   - work: content/works/morin-jorj-peinture-ceramique-arbre-a-couleurs.md
-  - work: content/works/morin-jorj-peinture-ceramique-ouest-france-040220.md
   - work: content/works/morin-jorj-peinture-ceramique-resac.md
+  - work: content/works/morin-jorj-peinture-ceramique-ouest-france-040220.md
 ---
 
 # Jorj Morin (Georges)
