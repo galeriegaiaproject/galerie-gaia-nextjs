@@ -36,7 +36,23 @@ export const getStaticProps = async ({ params }) => {
 }
 
 export const getStaticPaths = async () => {
-  const artistsListData = await client.queries.artistsConnection({ first: 100000 })
+  const artistsListData = await client.request({
+    query: `query artistsConnection($first: Float) {
+      artistsConnection(first: $first) {
+        edges {
+          cursor
+          node {
+            ... on Document {
+              _sys {
+                filename
+              }
+            }
+          }
+        }
+      }
+    }`,
+    variables: { first: -1 },
+  })
 
   return {
     paths: artistsListData.data.artistsConnection.edges.map((artist) => ({

@@ -17,7 +17,7 @@ import { useCacheContext } from '@/contexts/Cache'
 import { fromFilesystem2Url } from '@/utils/resolve'
 
 export const getStaticProps = async ({ params }) => {
-  const artists = await client.queries.artistsConnection({ first: 100000 })
+  const artists = await client.queries.artistsConnection({ first: -1 })
 
   try {
     return {

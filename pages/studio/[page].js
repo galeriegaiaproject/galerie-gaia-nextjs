@@ -22,7 +22,23 @@ export const getStaticProps = async ({ params }) => {
 }
 
 export const getStaticPaths = async () => {
-  const pagesListData = await client.queries.pagesConnection({ first: 100000 })
+  const pagesListData = await client.request({
+    query: `query pagesConnection($first: Float) {
+      pagesConnection(first: $first) {
+        edges {
+          cursor
+          node {
+            ... on Document {
+              _sys {
+                filename
+              }
+            }
+          }
+        }
+      }
+    }`,
+    variables: { first: -1 },
+  })
 
   return {
     paths: pagesListData.data.pagesConnection.edges.map((page) => ({
