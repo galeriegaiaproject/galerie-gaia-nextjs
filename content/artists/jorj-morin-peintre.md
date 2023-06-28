@@ -12,7 +12,7 @@ redirect_from:
   - /artistes/20-jorj-morin/
 styles:
   - Abstrait
-work: content/works/morin-jorj-peinture-ceramique-resac.md
+work: content/works/jorj-morin-peintremd-trois-soleils-bleus.md
 works:
   - work: content/works/jorj-morin-peintremd-trois-soleils-bleus.md
   - work: content/works/jorj-morin-peintremd-soleil-froid.md
