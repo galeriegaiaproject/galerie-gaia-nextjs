@@ -8,26 +8,26 @@ seo:
     de découvrir de nombreux artistes contemporains internationaux.
   image: ''
 artists:
-  - artist: content/artists/soemone-pierre.md
   - artist: content/artists/remy-pierre-alexandre.md
   - artist: content/artists/toma-l.md
+  - artist: content/artists/isthme.md
   - artist: content/artists/brigitte-marionneau.md
+  - artist: content/artists/belaud-cindy.md
   - artist: content/artists/laure-carre.md
   - artist: content/artists/d-harcourt-victoire.md
-  - artist: content/artists/isthme.md
+  - artist: content/artists/soemone-pierre.md
   - artist: content/artists/jean-francois-molliere.md
   - artist: content/artists/xavier-jallais.md
   - artist: content/artists/pierre-tual.md
   - artist: content/artists/tilly-yves.md
+  - artist: content/artists/edwin-wide.md
   - artist: content/artists/pierre-muckensturm.md
   - artist: content/artists/jacques-le-brusq.md
   - artist: content/artists/francoise-paressant-1.md
   - artist: content/artists/annick-argant.md
   - artist: content/artists/olivier-fremont.md
   - artist: content/artists/virginie-chardon.md
-  - artist: content/artists/belaud-cindy.md
   - artist: content/artists/isabelle-healy.md
-  - artist: content/artists/edwin-wide.md
   - artist: content/artists/byl-william.md
   - artist: content/artists/marie-vandooren.md
   - artist: content/artists/tangui-robert.md
@@ -43,8 +43,8 @@ artists:
   - artist: content/artists/engels-didier.md
   - artist: content/artists/go-segawa.md
   - artist: content/artists/shirley-jaffe.md
+  - artist: content/artists/jorj-morin-peintre.md
   - artist: content/artists/philippe-lecomte.md
-  - artist: content/artists/wolfe-judith.md
   - artist: content/artists/jacqueline-pecantet.md
   - artist: content/artists/morellet-francois.md
   - artist: content/artists/estampes.md
@@ -61,7 +61,6 @@ artists:
   - artist: content/artists/dimitri-bourriau.md
   - artist: content/artists/bram-van-velde.md
   - artist: content/artists/rich-designer.md
-  - artist: content/artists/jorj-morin-peintre.md
   - artist: content/artists/alain-clement.md
   - artist: content/artists/daha-daha.md
   - artist: content/artists/combas.md
