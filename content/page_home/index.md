@@ -8,7 +8,6 @@ seo:
     estampe, photographie, courtier en art, défiscalisation, location, prêt
     avant achat.
 carousel:
-  - work: content/works/marionneau-brigitte-contenir-le-vent-9-xi.md
   - work: content/works/peron-yann-reflet-de-lerdre.md
   - work: content/works/jaffe-shirley-sans-titre.md
 ---
