@@ -8,6 +8,7 @@ seo:
     de découvrir de nombreux artistes contemporains internationaux.
   image: ''
 artists:
+  - artist: content/artists/soemone-pierre.md
   - artist: content/artists/remy-pierre-alexandre.md
   - artist: content/artists/toma-l.md
   - artist: content/artists/brigitte-marionneau.md
@@ -70,6 +71,7 @@ artists:
   - artist: content/artists/wave-week-end-arts-visuels-nantes.md
   - artist: content/artists/art-galeries-nantes.md
 ---
+
 
 
 
