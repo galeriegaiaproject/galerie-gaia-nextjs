@@ -48,7 +48,6 @@ works:
   - work: content/works/carre-laure-le-haut-vert.md
   - work: content/works/carre-laure-moutain-dance.md
   - work: content/works/carre-laure-reve-de-cheval.md
-  - work: content/works/carre-laure-songe.md
   - work: content/works/carre-laure-tete-et-main.md
   - work: content/works/carre-laure-atelier-laure-carre.md
   - work: content/works/carre-laure-portrait.md
