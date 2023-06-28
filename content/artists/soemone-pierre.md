@@ -7,6 +7,7 @@ fields:
   - Peinture
 styles:
   - Abstrait
+expose: true
 ---
 
 Pierre Soemone peint depuis plus de 25ans, il rencontre le graffiti à 13ans et en
@@ -20,23 +21,11 @@ non figurative. Le geste y devient essentiel, le lettrage issu du graffiti s’e
 au profit de l’abstraction. Techniquement, il s’émancipe de l’aérosol et adopte
 une forme d’artisanat, un travail du papier, des encres, des bains de teintures
 et de l’acide réintroduisent l’accident dans ses créations et le karcher n’est
-jamais bien loin. 
-
-
-
-
+jamais bien loin.
 
  
 
-
-
-
-
  
-
-
-
-
 
  
 
@@ -50,29 +39,6 @@ in his work. He affirms a raw and non-figurative vision.  His gestures and
 movements become essential, the lettering from graffiti fades away in favor of abstraction.
 Technically he emancipates himself from the spray and adopts a form of craft, he
 works with papers, inks, dye baths and acid that enable him to reintroduce the
-accident in his creations and the karcher is never far away. 
-
-
-
-
-
-
-
-
-
-
-
-
+accident in his creations and the karcher is never far away.
 
  
-
-
-
-
-
-
-
-
-
-
-
