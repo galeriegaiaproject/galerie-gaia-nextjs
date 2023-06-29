@@ -8,8 +8,10 @@ artist: content/artists/remy-pierre-alexandre.md
 technique: Acier émaillé
 contextual: false
 dimensions:
-  height: 40
-  width: 40
-  depth: 30
+  height: 65
+  width: 80
+  depth: 63
+price: 3500
 ---
 
+2020
