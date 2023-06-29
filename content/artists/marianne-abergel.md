@@ -12,6 +12,8 @@ styles:
   - Figuratif
 work: content/works/marianne-abergelmd-ou-es-tu.md
 works:
+  - work: content/works/marianne-abergelmd-tete-de-lievre.md
+  - work: content/works/marianne-abergelmd-petite-tete-de-lievre.md
   - work: content/works/marianne-abergelmd-est-ce-possible.md
   - work: content/works/marianne-abergelmd-lievre-5.md
   - work: content/works/marianne-abergelmd-lievre-blanc-6.md
