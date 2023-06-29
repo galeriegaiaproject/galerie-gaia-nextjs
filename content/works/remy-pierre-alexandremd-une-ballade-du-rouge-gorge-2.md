@@ -11,5 +11,7 @@ dimensions:
   height: 30
   width: 30
   depth: 30
+price: 1800
 ---
 
+2022
