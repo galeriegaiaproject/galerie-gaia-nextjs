@@ -13,7 +13,6 @@ styles:
 work: content/works/isthme-nuit-en-mer-armen-1.md
 works:
   - work: content/works/isthme-ar-men-a.md
-  - work: content/works/isthme-bleu-majuscule-5.md
   - work: content/works/isthme-blue-pacifique-ii.md
   - work: content/works/isthme-deep-blue-10.md
   - work: content/works/isthme-deep-blue-15.md
@@ -31,6 +30,7 @@ works:
   - work: content/works/isthme-portrait-de-isthme.md
   - work: content/works/isthme-territoire-noirblanc.md
 ---
+
 # Isthme - Isabelle Thomas
 
 « Peindre est ma respiration. Elle m'est vitale. Elle agit comme une force... Ma peinture est alors ivresse, réjouissance et grâce comme vertige ou torpeur. » Isthme
