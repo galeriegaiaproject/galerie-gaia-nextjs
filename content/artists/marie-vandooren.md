@@ -9,9 +9,13 @@ exhibitions: []
 redirect_from:
   - /artistes/94-marie-vandooren/
 styles:
+  - Abstrait
   - Figuratif
 work: content/works/vandooren-marie-vestige-2.md
 works:
+  - work: content/works/marie-vandoorenmd-fumee-1.md
+  - work: content/works/marie-vandoorenmd-fumee-2.md
+  - work: content/works/marie-vandoorenmd-fumee-3.md
   - work: content/works/vandooren-marie-1-baigneur.md
   - work: content/works/vandooren-marie-3-nageurs.md
   - work: content/works/vandooren-marie-beton-et-vegetation.md
