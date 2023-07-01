@@ -11,7 +11,7 @@ redirect_from:
 styles:
   - Abstrait
   - Figuratif
-work: content/works/vandooren-marie-vestige-2.md
+work: content/works/marie-vandoorenmd-fumee-3.md
 works:
   - work: content/works/marie-vandoorenmd-fumee-1.md
   - work: content/works/marie-vandoorenmd-fumee-2.md
