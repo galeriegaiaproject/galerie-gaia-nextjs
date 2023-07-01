@@ -9,39 +9,6 @@ seo:
     contemporain à Nantes, galerie art contemporain nantes
   image: ''
 articles:
-  - title: Exposition de Isthme Médiathèque Pornichet
-    date: 2023-07-02T22:00:00.000Z
-    categories:
-      - Exposition
-    image: >-
-      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/CARTE
-      POSTALE ISTHME_page-0001.jpg
-    content: >+
-      L'événement se passe dans la salle d'exposition de Pornichet place du
-      marché. Horaires de la Médiathèque 
-
-
-      Exposition de peinture et collage et estampe de Isthme. 
-
-
-      Perdre pied avec bonheur ! \
-
-      Quand on contemple le travail d'Isthme on a ce plaisir instinctif lié à
-      cette couleur indissociable de son travail : le bleu! Et puis on se
-      souvient d'avoir vécu ces sensations de la lumière et de l'eau qui se
-      mêlent. Lumière qui se reflète ou qui transperce la surface quand on est
-      entre deux eaux. Dessus / Dessous. 
-
-
-      Je vous ai prévenu, on perd pied, et on aime vivre cette émotion !\
-
-
-
-
-
-
-
-
   - title: FRAGMENTS   PAYSAGES    Tangui Robert
     date: 2020-12-06T11:38:00.000Z
     categories:
@@ -1910,6 +1877,31 @@ articles:
     image: >-
       https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/art-galeries-nantes/galerie-gaia-art-galeries-nantes-nuit-des-galeries-2023.jpg
     content: "La #6 Nuit des Galeries s’inscrit dans l’édition 2023 de la Nuit du VAN à l’invitation\ndu Voyage à Nantes. En effet, Art Galerie Nantes fédère depuis 2016 des\ngaleristes privés, acteurs nantais de l’art contemporain. L’association\nintervient avec un triple objectif de solidarité professionnelle, d’action\nculturelle dans une volonté d’ouverture de ses lieux à tous les publics,\nnotamment par l’organisation d’événements collectifs (nuits des galeries,\ndimanches des galeries...) et de promotion des artistes en France comme à\nl’international (salons, échanges interrégionaux\_...).\n\nC’est pourquoi ce samedi 1er juillet se succéderont rencontres\nartistiques, cartes blanches, performances, impromptus musicaux, ateliers,\névénements participatifs. Ainsi visiteuses et visiteurs pourront découvrir le\ntravail d’une vingtaine d’artistes français ou étrangers, toutes et tous\ncontemporains, porteurs d’esthétiques différentes des plus réalistes aux plus\nconceptuels. Peintres, dessinateurs, artistes de l’estampe, sculpteurs,\ncéramistes, nombre d’entre eux seront présents dans les galeries.\n\nGalerie Gaïa – quartier Hôtel de Ville\n\nLe Triphasé – quartier Guist’hau\n\nLe 56 – quartier Butte Saint Anne\n\nGalerie Albane – quartier Graslin\n\nLe Jardin des Formes – quartier Tour de Bretagne\n\nGalerie des Oubliés – quartier Dobré\n\nDe 14h à 22h.\n"
+  - title: Exposition de Isthme Médiathèque Pornichet
+    date: 2023-07-02T22:00:00.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/CARTE
+      POSTALE ISTHME_page-0001.jpg
+    content: >+
+      L'événement se passe dans la salle d'exposition de Pornichet place du
+      marché. Horaires de la Médiathèque 
+
+
+      Exposition de peinture et collage et estampe de Isthme. 
+
+
+      Perdre pied avec bonheur ! \
+
+      Quand on contemple le travail d'Isthme on a ce plaisir instinctif lié à
+      cette couleur indissociable de son travail : le bleu! Et puis on se
+      souvient d'avoir vécu ces sensations de la lumière et de l'eau qui se
+      mêlent. Lumière qui se reflète ou qui transperce la surface quand on est
+      entre deux eaux. Dessus / Dessous. 
+
+
+      Je vous ai prévenu, on perd pied, et on aime vivre cette émotion !\
 ---
 
 
