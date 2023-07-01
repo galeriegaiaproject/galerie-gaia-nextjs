@@ -30,7 +30,7 @@ articles:
       cette couleur indissociable de son travail : le bleu! Et puis on se
       souvient d'avoir vécu ces sensations de la lumière et de l'eau qui se
       mêlent. Lumière qui se reflète ou qui transperce la surface quand on est
-      entre deux eaux. Dessus - Dessous. 
+      entre deux eaux. Dessus / Dessous. 
 
 
       Je vous ai prévenu, on perd pied, et on aime vivre cette émotion !\
