@@ -12,8 +12,6 @@ styles:
   - Abstrait
 work: content/works/isthme-entre-bleus-5.md
 works:
-  - work: content/works/isthme-deep-blue-15.md
-  - work: content/works/isthme-entre-bleus-1.md
   - work: content/works/isthme-entre-bleus-2.md
   - work: content/works/isthme-entre-bleus-5.md
   - work: content/works/isthme-installation-nuits-en-mer-24.md
