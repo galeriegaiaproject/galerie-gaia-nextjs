@@ -10,7 +10,7 @@ redirect_from:
   - /artistes/85tistes/85-isthme/
 styles:
   - Abstrait
-work: content/works/isthme-nuit-en-mer-armen-1.md
+work: content/works/isthme-entre-bleus-5.md
 works:
   - work: content/works/isthme-ar-men-a.md
   - work: content/works/isthme-blue-pacifique-ii.md
