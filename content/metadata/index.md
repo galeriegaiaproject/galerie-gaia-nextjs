@@ -8,9 +8,8 @@ opening: |-
 phone: 02 40 48 14 91
 email: contact@galeriegaia.fr
 announcement: |
-  1er Juillet \
-  Nuit du Van et des Galeries \
-  Cindy Belaud & Edwin Wide
+  Isthme Pornichet\
+  jusqu'au 16 juillet
 instagram: 'https://www.instagram.com/galeriegaianantes'
 facebook: >-
   https://www.facebook.com/pages/category/Museum/Galerie-Ga%C3%AFa-1567216053496092/
@@ -27,6 +26,7 @@ menu:
   - page: content/pages/art-et-fiscalite.md
   - page: content/pages/references.md
 ---
+
 
 
 
