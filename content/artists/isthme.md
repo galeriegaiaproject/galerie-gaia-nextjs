@@ -12,11 +12,7 @@ styles:
   - Abstrait
 work: content/works/isthme-entre-bleus-5.md
 works:
-  - work: content/works/isthme-ar-men-a.md
-  - work: content/works/isthme-blue-pacifique-ii.md
-  - work: content/works/isthme-deep-blue-10.md
   - work: content/works/isthme-deep-blue-15.md
-  - work: content/works/isthme-deep-blue-20.md
   - work: content/works/isthme-entre-bleus-1.md
   - work: content/works/isthme-entre-bleus-2.md
   - work: content/works/isthme-entre-bleus-5.md
@@ -24,9 +20,6 @@ works:
   - work: content/works/isthme-lenvol-ii.md
   - work: content/works/isthme-lino-b1.md
   - work: content/works/isthme-lino-v2.md
-  - work: content/works/isthme-nuit-en-mer-armen-1.md
-  - work: content/works/isthme-nuit-en-mer-iv.md
-  - work: content/works/isthme-nuits-en-mer-litho.md
   - work: content/works/isthme-portrait-de-isthme.md
   - work: content/works/isthme-territoire-noirblanc.md
 ---
