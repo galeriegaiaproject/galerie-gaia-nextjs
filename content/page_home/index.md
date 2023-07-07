@@ -8,9 +8,9 @@ seo:
     estampe, photographie, courtier en art, défiscalisation, location, prêt
     avant achat.
 carousel:
+  - work: content/works/isthmemd-lheure-bleue-1.md
   - work: content/works/remy-pierre-alexandremd-une-ballade-du-rouge-gorge-2.md
   - work: content/works/laure-carremd-green-horse.md
-  - work: content/works/jorj-morin-peintremd-aquatique.md
 ---
 
 
