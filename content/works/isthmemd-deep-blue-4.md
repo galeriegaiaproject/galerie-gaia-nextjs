@@ -1,6 +1,6 @@
 ---
-title: 'Deep blue #4'
-reference: 'Isthme, Deep blue #4'
+title: 'Entre bleus #2'
+reference: 'Isthme, Entre bleus #2'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/isthme/galerie-gaia-isthme-entre-bleus-4.jpg
 artist: content/artists/isthme.md
