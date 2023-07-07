@@ -12,6 +12,11 @@ styles:
   - Abstrait
 work: content/works/isthme-entre-bleus-5.md
 works:
+  - work: content/works/isthmemd-nuit-pacifique-2.md
+  - work: content/works/isthmemd-lheure-bleue-2.md
+  - work: content/works/isthmemd-lheure-bleue-1.md
+  - work: content/works/isthmemd-deep-blue-10.md
+  - work: content/works/isthmemd-deep-blue-4.md
   - work: content/works/isthmemd-entre-bleus-4.md
   - work: content/works/isthmemd-entre-bleus-18-a.md
   - work: content/works/isthmemd-entre-bleus-1.md
