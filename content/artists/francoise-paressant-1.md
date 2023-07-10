@@ -23,9 +23,6 @@ seo:
 work: content/works/paressant-francoise-sans-titre-papier-fait-main.md
 works:
   - work: content/works/paressant-francoise-af-001.md
-  - work: content/works/paressant-francoise-af-004.md
-  - work: content/works/paressant-francoise-af-005.md
-  - work: content/works/paressant-francoise-dessin-ruban.md
   - work: content/works/paressant-francoise-eclaircies-en-fin-de-journee.md
   - work: content/works/paressant-francoise-feutre-croise.md
   - work: content/works/paressant-francoise-la-strada.md
