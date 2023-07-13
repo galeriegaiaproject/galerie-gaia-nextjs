@@ -35,7 +35,7 @@ content:
 
       Membre de [Ruptur](https://www.ruptur.fr/ "Ruptur") \
 
-      Membre de AMO \
+      Membre de [AMO](https://amo-national.fr/ "AMO") \
 
       Membre des Amis du Musée des Arts de Nantes  \\
   - column: >
