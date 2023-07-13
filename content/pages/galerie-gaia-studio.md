@@ -37,7 +37,7 @@ content:
 
       Membre de [AMO](https://amo-national.fr/ "AMO") \
 
-      Membre des Amis du Musée des Arts de Nantes  \\
+      Membre des Amis du Musée des Arts de Nantes  
   - column: >
       # Nos engagements, nos valeurs
 
