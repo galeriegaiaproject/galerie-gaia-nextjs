@@ -25,9 +25,10 @@ content:
       ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/elisabeth-givre-galerie-gaia-studio-nb.jpg)
 
 
-      Membre du Comité Professionnel des Galeries d'Art CPGA\
+      Membre du Comité Professionnel des Galeries d'Art [CPGA\
 
-      Présidente de Art Galeries Nantes \
+      ](https://www.comitedesgaleriesdart.com/galeries/galerie-gaia/
+      "CPGA")Présidente de Art Galeries Nantes \
 
       Membre du Pôle des Arts Visuels - Conseil d'Administration \
 
@@ -143,5 +144,6 @@ seo:
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC_3559-2.jpg'
 index: 0
 ---
+
 
 
