@@ -32,7 +32,7 @@ content:
 
       Membre du Pôle des Arts Visuels - Conseil d'Administration \
 
-      Membre de Ruptur \
+      Membre de [Ruptur](https://www.ruptur.fr/ "Ruptur") \
 
       Membre de AMO \
 
