@@ -30,7 +30,8 @@ content:
       ](https://www.comitedesgaleriesdart.com/galeries/galerie-gaia/
       "CPGA")Présidente de Art Galeries Nantes \
 
-      Membre du Pôle des Arts Visuels - Conseil d'Administration \
+      Membre du [Pôle des Arts Visuels](https://poleartsvisuels-pdl.fr/ "Pole
+      des Arts Visuels") - Conseil d'Administration \
 
       Membre de [Ruptur](https://www.ruptur.fr/ "Ruptur") \
 
