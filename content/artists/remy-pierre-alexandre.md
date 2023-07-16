@@ -6,7 +6,6 @@ styles:
   - Abstrait
 expose: true
 works:
-  - work: content/works/remy-pierre-alexandremd-sous-les-pieds-le-ciel.md
   - work: content/works/remy-pierre-alexandremd-une-ballade-du-rouge-gorge-1.md
   - work: content/works/remy-pierre-alexandremd-lermite-celeste-2.md
   - work: content/works/remy-pierre-alexandremd-lermite-celeste-1.md
@@ -17,6 +16,7 @@ works:
   - work: content/works/remy-pierre-alexandremd-lermite-celeste-3.md
   - work: content/works/remy-pierre-alexandremd-echo-au-chaos-1.md
   - work: content/works/remy-pierre-alexandremd-une-ballade-du-rouge-gorge-3.md
+  - work: content/works/remy-pierre-alexandremd-sous-les-pieds-le-ciel.md
 work: content/works/remy-pierre-alexandremd-une-ballade-du-rouge-gorge-3.md
 ---
 
