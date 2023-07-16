@@ -10,9 +10,8 @@ redirect_from:
   - /artistes/85tistes/85-isthme/
 styles:
   - Abstrait
-work: content/works/isthme-entre-bleus-5.md
+work: content/works/isthmemd-lheure-bleue-2.md
 works:
-  - work: content/works/isthmemd-nuit-pacifique-2.md
   - work: content/works/isthmemd-lheure-bleue-2.md
   - work: content/works/isthmemd-lheure-bleue-1.md
   - work: content/works/isthmemd-deep-blue-10.md
