@@ -7,6 +7,8 @@ styles:
   - Figuratif
 work: content/works/wu-yuzimd-mauvaises-herbes-4.md
 works:
+  - work: content/works/wu-yuzimd-mauvaises-herbes-3.md
+  - work: content/works/wu-yuzimd-paysage-nocturne-1.md
   - work: content/works/wu-yuzimd-mauvaises-herbes-4.md
 ---
 
