@@ -8,8 +8,7 @@ opening: |-
 phone: 02 40 48 14 91
 email: contact@galeriegaia.fr
 announcement: |
-  Isthme Pornichet\
-  jusqu'au 16 juillet
+  Ouvert tout l'été
 instagram: 'https://www.instagram.com/galeriegaianantes'
 facebook: >-
   https://www.facebook.com/pages/category/Museum/Galerie-Ga%C3%AFa-1567216053496092/
