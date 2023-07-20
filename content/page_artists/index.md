@@ -8,6 +8,7 @@ seo:
     de découvrir de nombreux artistes contemporains internationaux.
   image: ''
 artists:
+  - artist: content/artists/wu-yuzi.md
   - artist: content/artists/remy-pierre-alexandre.md
   - artist: content/artists/toma-l.md
   - artist: content/artists/isthme.md
