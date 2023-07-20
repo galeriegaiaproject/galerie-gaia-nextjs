@@ -12,6 +12,8 @@ works:
 
 Yuzi WU est née en Chine et étudie à l'école des Beaux Arts de Nantes St Nazaire depuis 2019.
 
+L'artiste fait partie des 15 lauréats de la sélection du prix B Signature 2023, deux toiles sont entrées dans la collection de l'hôtel de la Bretesche à Missilliac (44).
+
 Yuzi WU peint des plantes que l'on trouve dans les espaces verts urbains.
 
 Les plantes, à l’origine la plus primitive des choses, sont aujourd’hui maintenues en captivité, aliénées pour se plier à l’esthétique humaine. Elles commencent par être plantées artificiellement dans la ville, mais étonnamment, avec un peu
