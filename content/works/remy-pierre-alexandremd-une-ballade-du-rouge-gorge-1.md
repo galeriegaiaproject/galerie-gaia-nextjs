@@ -11,7 +11,7 @@ dimensions:
   height: 30
   width: 30
   depth: 30
-price: 2200
+price: 2000
 ---
 
 2023
