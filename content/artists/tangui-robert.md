@@ -10,8 +10,10 @@ redirect_from:
   - /artistes/25-tangui-robert/
 styles:
   - Figuratif
-work: content/works/robert-tangui-louveche-ii.md
+work: content/works/tangui-robertmd-debordement-1.md
 works:
+  - work: content/works/tangui-robertmd-conakri-i.md
+  - work: content/works/tangui-robertmd-debordement-1.md
   - work: content/works/robert-tangui-belem.md
   - work: content/works/robert-tangui-cale-dubigeon.md
   - work: content/works/robert-tangui-chantier-de-lesclain.md
