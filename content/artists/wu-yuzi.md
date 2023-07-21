@@ -10,7 +10,7 @@ works:
   - work: content/works/wu-yuzimd-mauvaises-herbes-4.md
 ---
 
-Yuzi WU est née en Chine et étudie à l'école des Beaux Arts de Nantes St Nazaire depuis 2019.
+Yuzi WU est née en Chine, diplômée d'une licence de l'Ecole des Beaux Arts de Xi'An. Elle passe son DNA à l'école des Beaux Arts de Nantes St Nazaire en 2019 et diplômée d'un Master 1 en 2023.
 
 L'artiste fait partie des 15 lauréats de la sélection du prix B Signature 2023, deux toiles sont entrées dans la collection de l'hôtel de la Bretesche à Missilliac (44).
 
