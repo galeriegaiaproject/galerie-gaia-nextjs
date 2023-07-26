@@ -8,6 +8,13 @@ fields:
 styles:
   - Abstrait
 expose: true
+works:
+  - work: content/works/soemone-pierremd-03082022.md
+  - work: content/works/soemone-pierremd-11032023.md
+  - work: content/works/soemone-pierremd-160432017.md
+  - work: content/works/soemone-pierremd-29082022.md
+  - work: content/works/soemone-pierremd-20032019_1.md
+  - work: content/works/soemone-pierremd-20032019_2.md
 ---
 
 Pierre Soemone peint depuis plus de 25ans, il rencontre le graffiti à 13ans et en
