@@ -13,4 +13,4 @@ dimensions:
   width: 81
 ---
 
-2023
+2023 Exposée en juillet et aout 2023 atelier du Hézo (56 - Morbihan)
