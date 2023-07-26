@@ -16,6 +16,7 @@ expose: true
 exhibitions: []
 work: content/works/peron-yann-reflet-de-lerdre.md
 works:
+  - work: content/works/peron-yannmd-boire-dete.md
   - work: content/works/peron-yann-nenuphars-de-lerdre.md
   - work: content/works/peron-yann-eau-douce-du-havre.md
   - work: content/works/peron-yann-jardin-des-plantes-nantes.md
