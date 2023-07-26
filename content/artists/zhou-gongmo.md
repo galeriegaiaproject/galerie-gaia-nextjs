@@ -1,5 +1,5 @@
 ---
-title: ZHOU Gongmo
+title: Zhou Gongmo
 location: ''
 fields:
   - Peinture
