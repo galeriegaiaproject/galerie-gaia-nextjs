@@ -5,13 +5,12 @@ image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/jallais-xavier/galerie-gaia-jallais-xavier-heure
   du depart.jpg
 artist: content/artists/xavier-jallais.md
-price: 2000
+price: 1400
 technique: 'mixte '
 contextual: true
 dimensions:
-  height: 100
-  width: 81
+  height: 92
+  width: 73
 ---
 
 2023 - Caisse américaine chêne\
-oeuvre exposée à l'atelier du Hézo (56) Morbihan
