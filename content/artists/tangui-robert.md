@@ -18,8 +18,8 @@ works:
   - work: content/works/robert-tangui-cale-dubigeon.md
   - work: content/works/robert-tangui-chantier-de-lesclain.md
   - work: content/works/robert-tangui-digue.md
-  - work: content/works/robert-tangui-extrait-de-jardin-des-plantes.md
   - work: content/works/robert-tangui-jardin-des-plantes.md
+  - work: content/works/robert-tangui-extrait-de-jardin-des-plantes.md
   - work: content/works/robert-tangui-louveche-ii.md
   - work: content/works/robert-tangui-palais-nantes.md
   - work: content/works/robert-tangui-tourbiere.md
