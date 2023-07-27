@@ -13,4 +13,4 @@ dimensions:
   width: 73
 ---
 
-2023 - Caisse américaine chêne\
+2023 - Caisse américaine chêne
