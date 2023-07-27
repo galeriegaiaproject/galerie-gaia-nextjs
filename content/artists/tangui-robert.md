@@ -12,7 +12,11 @@ styles:
   - Figuratif
 work: content/works/tangui-robertmd-debordement-1.md
 works:
-  - work: content/works/tangui-robertmd-conakri-i.md
+  - work: content/works/tangui-robertmd-tokyo-1.md
+  - work: content/works/tangui-robertmd-sans-titre-ea.md
+  - work: content/works/tangui-robertmd-riviere-li.md
+  - work: content/works/tangui-robertmd-loire-li.md
+  - work: content/works/tangui-robertmd-hong-kong.md
   - work: content/works/tangui-robertmd-debordement-1.md
   - work: content/works/robert-tangui-belem.md
   - work: content/works/robert-tangui-cale-dubigeon.md
