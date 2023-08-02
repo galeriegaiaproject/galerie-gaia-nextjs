@@ -19,7 +19,6 @@ works:
   - work: content/works/isthmemd-entre-bleus-4.md
   - work: content/works/isthmemd-entre-bleus-1.md
   - work: content/works/isthme-entre-bleus-5.md
-  - work: content/works/isthme-installation-nuits-en-mer-24.md
   - work: content/works/isthme-lenvol-ii.md
   - work: content/works/isthme-lino-b1.md
   - work: content/works/isthme-lino-v2.md
