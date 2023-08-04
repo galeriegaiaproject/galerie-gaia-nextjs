@@ -20,6 +20,8 @@ exhibitions:
     end: ''
 work: content/works/tilly-yvesmd-pommier.md
 works:
+  - work: content/works/tilly-yvesmd-bouleau.md
+  - work: content/works/tilly-yvesmd-petit-eucalyptus.md
   - work: content/works/tilly-yvesmd-pommier.md
   - work: content/works/tilly-yves-chene-vert-2.md
 ---
