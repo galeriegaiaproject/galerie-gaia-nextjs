@@ -18,7 +18,7 @@ exhibitions:
     location: Vannes
     start: ''
     end: ''
-work: content/works/tilly-yvesmd-pommier.md
+work: content/works/tilly-yvesmd-bouleau.md
 works:
   - work: content/works/tilly-yvesmd-bouleau.md
   - work: content/works/tilly-yvesmd-petit-eucalyptus.md
