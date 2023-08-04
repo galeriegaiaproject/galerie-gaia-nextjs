@@ -13,6 +13,7 @@ works:
   - work: content/works/zhou-gongmomd-ecran-silencieux-12.md
   - work: content/works/zhou-gongmomd-ecran-silencieux-1.md
 work: content/works/zhou-gongmomd-ecran-silencieux-12.md
+expose: true
 ---
 
 Diplômé de l'École des Beaux Arts de Nantes en 2023\
