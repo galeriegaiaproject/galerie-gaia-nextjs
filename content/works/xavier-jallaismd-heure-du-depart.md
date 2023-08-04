@@ -13,4 +13,4 @@ dimensions:
   width: 73
 ---
 
-2023 - Caisse américaine en chêne
+2023 - Encadrement avec caisse américaine en chêne 
