@@ -21,7 +21,6 @@ works:
   - work: content/works/healy-isabelle-le-mythe-de-sisyphe.md
   - work: content/works/healy-isabelle-les-albatros.md
   - work: content/works/healy-isabelle-les-ames-soeurs.md
-  - work: content/works/healy-isabelle-les-vacances.md
   - work: content/works/healy-isabelle-notre-heritage-en-situation.md
   - work: content/works/healy-isabelle-notre-heritage.md
   - work: content/works/healy-isabelle-point-dequilibre.md
@@ -30,6 +29,7 @@ works:
   - work: content/works/healy-isabelle-une-ile-en-exterieur.md
   - work: content/works/healy-isabelle-une-ile.md
 ---
+
 # Isabelle Healy
 
 > "L'artiste doit aimer la vie et nous montrer qu'elle est belle" Anatole France
