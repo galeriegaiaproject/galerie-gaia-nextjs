@@ -24,9 +24,9 @@ works:
   - work: content/works/healy-isabelle-les-ames-soeurs.md
   - work: content/works/healy-isabelle-notre-heritage-en-situation.md
   - work: content/works/healy-isabelle-notre-heritage.md
-  - work: content/works/healy-isabelle-portrait.md
   - work: content/works/healy-isabelle-ronde-de-nuit.md
   - work: content/works/healy-isabelle-une-ile-en-exterieur.md
+  - work: content/works/healy-isabelle-portrait.md
   - work: content/works/healy-isabelle-une-ile.md
 ---
 
