@@ -18,8 +18,12 @@ redirect_from:
   - /artistes/51-annick-argant/
 styles:
   - Figuratif
-work: content/works/annick-argantmd-carraimant-3-traits.md
+work: content/works/annick-argantmd-carraimant-9.md
 works:
+  - work: content/works/annick-argantmd-carraimant-10.md
+  - work: content/works/annick-argantmd-carraimant-11.md
+  - work: content/works/annick-argantmd-carraimant-8.md
+  - work: content/works/annick-argantmd-carraimant-9.md
   - work: content/works/argant-annick-carraimant-tout-en-gres.md
   - work: content/works/argant-annick-les-carraimants-en-duo.md
 ---
