@@ -6,11 +6,11 @@ image: >-
 artist: content/artists/annick-argant.md
 price: 1200
 technique: 'Grés '
-contextual: true
+contextual: false
 dimensions:
   height: 28
   width: 15
   depth: 12
 ---
 
-Socle bois 
+Socle bois
