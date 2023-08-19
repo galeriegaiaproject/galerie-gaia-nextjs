@@ -1,8 +1,8 @@
 ---
-title: ' Ecran silencieux 7'
-reference: 'Zhou Gongmo, Ecran silencieux 7'
+title: Screen 7
+reference: 'Zhou Gongmo, Screen 7'
 image: >-
-  https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/zhou-gongmo/galerie-gaia-zhou-gongmo-ecran-silencieux-7.jpg
+  https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/zhou-gongmo/galerie-gaia-zhou-gongmo-Screen-7.jpg
 artist: content/artists/zhou-gongmo.md
 price: 1500
 technique: Huile sur toile
