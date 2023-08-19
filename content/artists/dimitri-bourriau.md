@@ -36,6 +36,10 @@ works:
 
 # Dimitri Bourriau
 
+Toutes les images sont éditées au total en 15 exemplaires sous 2 formats possibles : 
+
+120X80 cm prix 3045€  et 100X150 cm prix 3675€ comprenant le transport et le choix de la baguette.       Consultez-nous pour le conseil
+
 > Le photographe qui capture l'Histoire des lieux
 
 Dimitri Bourriau est un artiste français vivant à Nantes. Il a un diplôme de graphiste. En 2013, il s'est adonné à la photographie de patrimoine en ruine, en accord avec son intérêt pour les vestiges architecturaux et l'histoire. Il a commencé sa carrière de photographe avec une exploration d'un ancien cimetière de navires militaires. L'artiste sillonne la planète à la recherche de lieux en déclin afin d'y trouver inspiration et de capturer leur histoire. Via ces photographies, Dimitri Bourriau nous montre notre civilisation, en constante évolution, nous témoignant de nos souvenirs, seulement passagers. En 2017 Dimitri Bourriau devient ambassadeur de Manfrotto et d'Irix en 2018. Chacune de ses photographies sont éditées en seulement quinze exemplaires, garantissant une certaine exclusivité.
