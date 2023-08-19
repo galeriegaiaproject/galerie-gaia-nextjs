@@ -18,6 +18,8 @@ seo:
   image: ''
 work: content/works/dimitri-bourriaumd-titan-control-room.md
 works:
+  - work: content/works/dimitri-bourriaumd-panic-control-room-en-situation.md
+  - work: content/works/dimitri-bourriaumd-apollo-theater-2-en-situation.md
   - work: content/works/dimitri-bourriaumd-titan-control-room.md
   - work: content/works/dimitri-bourriaumd-soviet-house-of-culture-3.md
   - work: content/works/dimitri-bourriaumd-palace-of-culture-stalin.md
