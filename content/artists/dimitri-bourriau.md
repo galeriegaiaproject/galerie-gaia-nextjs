@@ -16,7 +16,7 @@ seo:
   type: ''
   description: ''
   image: ''
-work: content/works/bourriau-dimitri-teatro-colosseum.md
+work: content/works/dimitri-bourriaumd-titan-control-room.md
 works:
   - work: content/works/dimitri-bourriaumd-titan-control-room.md
   - work: content/works/dimitri-bourriaumd-soviet-house-of-culture-3.md
