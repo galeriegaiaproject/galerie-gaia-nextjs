@@ -9,7 +9,7 @@ dimensions:
   height: 100
   width: 150
   depth: null
-price: 0
+price: 3500
 sold: false
 contextual: true
 fields: []
