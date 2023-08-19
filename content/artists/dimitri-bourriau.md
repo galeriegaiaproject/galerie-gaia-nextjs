@@ -23,7 +23,6 @@ works:
   - work: content/works/bourriau-dimitri-buzludzha-bulgarie-interieur.md
   - work: content/works/bourriau-dimitri-buzludzha-bulgarie.md
   - work: content/works/bourriau-dimitri-cochlea.md
-  - work: content/works/bourriau-dimitri-dictators-villa.md
   - work: content/works/bourriau-dimitri-greenhouse-3.md
   - work: content/works/bourriau-dimitri-independance-day.md
   - work: content/works/bourriau-dimitri-jumanji-theater.md
@@ -34,6 +33,7 @@ works:
   - work: content/works/bourriau-dimitri-teatro-colosseum.md
   - work: content/works/bourriau-dimitri-theatre-de-bel-air.md
 ---
+
 # Dimitri Bourriau
 
 > Le photographe qui capture l'Histoire des lieux
