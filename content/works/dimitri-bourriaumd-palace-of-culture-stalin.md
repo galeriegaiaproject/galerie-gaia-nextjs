@@ -10,7 +10,7 @@ technique: Photographie sur papier baryté contrecollé sur dibon
 contextual: true
 dimensions:
   height: 100
-  width: 150
+  width: 120
 ---
 
 2023 Tirage en 15 exemplaires \
