@@ -18,6 +18,11 @@ seo:
   image: ''
 work: content/works/bourriau-dimitri-teatro-colosseum.md
 works:
+  - work: content/works/dimitri-bourriaumd-titan-control-room.md
+  - work: content/works/dimitri-bourriaumd-soviet-house-of-culture-3.md
+  - work: content/works/dimitri-bourriaumd-palace-of-culture-stalin.md
+  - work: content/works/dimitri-bourriaumd-palace-of-culture-narezany.md
+  - work: content/works/dimitri-bourriaumd-apollo-theater-2.md
   - work: content/works/bourriau-dimitri-atlantis-teatro.md
   - work: content/works/bourriau-dimitri-bank.md
   - work: content/works/bourriau-dimitri-buzludzha-bulgarie-interieur.md
@@ -36,7 +41,7 @@ works:
 
 # Dimitri Bourriau
 
-Toutes les images sont éditées au total en 15 exemplaires sous 2 formats possibles : 
+Toutes les images sont éditées au total en 15 exemplaires sous 2 formats possibles :
 
 120X80 cm prix 3045€  et 100X150 cm prix 3675€ comprenant le transport et le choix de la baguette.       Consultez-nous pour le conseil
 
