@@ -21,7 +21,6 @@ works:
   - work: content/works/healy-isabelle-la-sphere-des-possibles.md
   - work: content/works/healy-isabelle-le-mythe-de-sisyphe.md
   - work: content/works/healy-isabelle-les-albatros.md
-  - work: content/works/healy-isabelle-les-ames-soeurs.md
   - work: content/works/healy-isabelle-notre-heritage-en-situation.md
   - work: content/works/healy-isabelle-notre-heritage.md
   - work: content/works/healy-isabelle-ronde-de-nuit.md
