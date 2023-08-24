@@ -12,6 +12,7 @@ styles:
   - Abstrait
 work: content/works/isthmemd-lheure-bleue-2.md
 works:
+  - work: content/works/isthmemd-deep-blue-17.md
   - work: content/works/isthmemd-lheure-bleue-2.md
   - work: content/works/isthmemd-lheure-bleue-1.md
   - work: content/works/isthmemd-deep-blue-10.md
