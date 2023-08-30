@@ -10,7 +10,7 @@ email: contact@galeriegaia.fr
 announcement: |
   Toma-L\
   Exposition Lithographie \
-  19.09 - 07.10
+  19-09 au 07-10
 instagram: 'https://www.instagram.com/galeriegaianantes'
 facebook: >-
   https://www.facebook.com/pages/category/Museum/Galerie-Ga%C3%AFa-1567216053496092/
