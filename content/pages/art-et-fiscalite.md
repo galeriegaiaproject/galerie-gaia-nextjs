@@ -61,8 +61,9 @@ content:
       * Cela concerne des **artistes vivants ou non**
 
 
-      Faire une simulation* i[ci](https://www.galeriegaia.fr/leasing-simulation
-      "simulation Bail Art")*
+      Faire une simulation*
+      *[*ici*](https://www.galeriegaia.fr/leasing-simulation "simulation leasing
+      bail art")
 
 
       ## **Achat en défiscalisation**
