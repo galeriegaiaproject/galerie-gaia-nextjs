@@ -7,7 +7,7 @@ content:
 
       Pour renforcer l'identité de votre entreprise auprès de vos clients et
       collaborateurs une table de ping-pong c'est bien, mais une **œuvre d'art
-      unique, originale** incarnera encore plus vos valeurs et votre différence
+      unique, originale** incarnera d'avantage vos valeurs et votre singularité
       !
 
 
@@ -19,22 +19,22 @@ content:
       gaia")** **sur le site** de la galerie (photos - sérigraphies -
       sculptures- peintures).
 
-      * **Sourcing d’œuvres spécifiques** selon vos critères de style et de
-      budget.
+      * **Sourcing d’œuvres spécifiques** hors de notre galerie selon vos
+      critères de style et budget.
 
-      * Création d'une **fresque murale** intérieure ou extérieure,  par un
+      * Création d'une **fresque murale** intérieure ou extérieure, par un-e
       artiste graffeur (street-art)
 
-      * **Réalisation d'une installation** visuelle, sonore, lumineuse, mobile
-      sur mesure avec des matériaux de recyclage de votre entreprise. Voir notre
-      solution[ Art et
+      * **Conception d'une installation** visuelle, sonore, lumineuse, mobile
+      sur mesure avec des matériaux de ré-emplois de votre entreprise. Voir
+      notre solution[ Art et
       Entreprise](https://galeriegaia.fr/about/galerie-gaia-studio/ "ART EN
       ENTREPRISE").
 
         **Les +**  RSE, marque employeur,  bien-être au travail , créativité
 
-      Deux solutions d'achat pour des choix stratégiques patrimoniaux et fiscaux
-      différents : leasing avec option d'achat ou achat en défiscalisation
+      Deux solutions d'achat selon votre stratégie : leasing avec option d'achat
+      ou achat en défiscalisation
 
 
       ## **Leasing**
@@ -43,14 +43,14 @@ content:
       Nous avons retenu le professionnalisme de la société [BAIL
       ART,](https://www.galeriegaia.fr/leasing-simulation "BAIL ART SIMULATEUR")
       pour faciliter l'accès à des œuvres d'art avec la location & option
-      d'achat à la fin du contrat, la LOA.
+      d'achat à la fin du contrat (LOA).
 
 
       * **Capacité d'emprunt** préservée et haut du bilan allégé (hors IFRS)
 
       * Prix minimum de **2500€**
 
-      * **Étalement** du coût d'achat de **13 à 48 mois**
+      * Étalement du coût d'achat de **13 à 48 mois**
 
       * Déduction du résultat imposable et **réduction de l'IS (entreprises)**
       ou **IRPP (professions libérales)**
@@ -61,17 +61,8 @@ content:
       * Cela concerne des **artistes vivants ou non**
 
 
-      **Calcul pour une œuvre de 5000€ sur 24 mois :**
-
-
-      * loyer mensuel terme à échoir 273€ HT
-
-      * économies d'impôts générées 1905€ HT
-
-      * coût global hors économies de charges sociales, IR = 4647€ HT
-
-      * *Les loyers sont une charge déductible et génèrent une économie d'IS
-      estimée à 28 %*
+      Faire une simulation* i[ci](https://www.galeriegaia.fr/leasing-simulation
+      "simulation Bail Art")*
 
 
       ## **Achat en défiscalisation**
