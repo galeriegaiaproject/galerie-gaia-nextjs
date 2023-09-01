@@ -25,15 +25,24 @@ content:
       ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/elisabeth-givre-galerie-gaia-studio-nb.jpg)
 
 
-      Membre du Comité Professionnel des Galeries d'Art [CPGA](https://www.comitedesgaleriesdart.com/galeries/galerie-gaia/)Présidente de Art Galeries Nantes \
+      Membre du Comité Professionnel des Galeries d'Art
+      [CPGA](https://www.comitedesgaleriesdart.com/galeries/galerie-gaia/)
 
-      Membre du [Pôle des Arts Visuels](https://poleartsvisuels-pdl.fr/ "Pole des Arts Visuels") - Conseil d'Administration \
 
-      Membre de [Ruptur](https://www.ruptur.fr/ "Ruptur") \
+      Présidente de Art Galeries Nantes 
 
-      Membre de [AMO](https://amo-national.fr/ "AMO") \
 
-      Membre des Amis du Musée des Arts de Nantes  
+      Membre du [Pôle des Arts Visuels](https://poleartsvisuels-pdl.fr/ "Pole
+      des Arts Visuels") - Conseil d'Administration 
+
+
+      Membre de [Ruptur](https://www.ruptur.fr/ "Ruptur") 
+
+
+      Membre de [AMO](https://amo-national.fr/ "AMO") 
+
+
+      Membre des Amis du Musée des Arts de Nantes
   - column: >
       # Nos engagements, nos valeurs
 
@@ -141,6 +150,7 @@ seo:
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC_3559-2.jpg'
 index: 0
 ---
+
 
 
 
