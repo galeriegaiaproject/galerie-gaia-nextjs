@@ -115,8 +115,12 @@ const Artist = ({ tina, ...props }) => {
   const cart = useSnipcartContext()
   const works = useMemo(() => (page.works || []).map(({ work }) => work).filter(work => !work.sold), [page.works])
   const slides = useMemo(() => works.map(work => work.image).filter(image => !!image), [works])
-  const [slide, setSlide] = useState(query?.work ? works.filter(work => !!work.image).findIndex(work => fromFilesystem2Url(work.id).replace('/works/', '') === query.work) : 0)
+  const [slide, setSlide] = useState(0)
   const index = (slide >= 0 ? slide : Math.ceil(Math.abs(slide / slides.length))) % slides.length
+
+  useEffect(() => {
+    setSlide(query?.work ? works.filter(work => !!work.image).findIndex(work => fromFilesystem2Url(work.id).replace('/works/', '') === query.work) : 0)
+  }, [works, query?.work])
 
   const [ready, setReady] = useState(false)
   useEffect(() => {
@@ -240,7 +244,7 @@ const Artist = ({ tina, ...props }) => {
                           ].filter(v => v).join(", ")}
                           data-item-image={fromFilesystem2S3(work.image)}
                           data-item-price={work.price * 1.05}
-                          data-item-url={`${fromFilesystem2Url(page.id)}${fromFilesystem2Url(work.id).replace('/works', '')}`}
+                          data-item-url={`${fromFilesystem2Url(page.id)}?work=${fromFilesystem2Url(work.id).replace('/works/', '')}`}
                           data-item-max-quantity={1}
                           data-item-weight={(cart ? 1000 : 0) + SHIPPING_RULES[
                             work.fields?.find(field => Object.keys(SHIPPING_RULES).includes(field))
