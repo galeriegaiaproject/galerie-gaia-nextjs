@@ -41,9 +41,9 @@ content:
 
 
       Nous avons retenu le professionnalisme de la société [BAIL
-      ART,](https://bail-art.com/financement/ "BAIL ART SIMULATEUR") pour
-      faciliter l'accès à des œuvres d'art avec la location & option d'achat à
-      la fin du contrat, la LOA.
+      ART,](https://www.galeriegaia.fr/leasing-simulation "BAIL ART SIMULATEUR")
+      pour faciliter l'accès à des œuvres d'art avec la location & option
+      d'achat à la fin du contrat, la LOA.
 
 
       * **Capacité d'emprunt** préservée et haut du bilan allégé (hors IFRS)
@@ -187,4 +187,5 @@ redirect_from:
   - /defiscalisation-oeuvre-d-art/
 index: 5
 ---
+
 
