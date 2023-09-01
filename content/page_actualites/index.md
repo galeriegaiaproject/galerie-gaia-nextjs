@@ -9,6 +9,12 @@ seo:
     contemporain à Nantes, galerie art contemporain nantes
   image: ''
 articles:
+  - title: 'Toma-L Exposition de Lithographies '
+    date: 2023-09-18T22:00:00.000Z
+    categories:
+      - Exposition
+    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/toma-l/GAIÌ\x88A_TOMA-L_INVITATION_RECTO.jpg"
+    content: "Quand Toma-L s’immerge dans une nouvelle pratique comme la lithographie, il s’impose un temps exclusif pour\napprendre de ses mains. «\_Je me nourris des gestes de mes maîtres\_». \n\nL’alchimie commence en 2017 à l’imprimerie d’art Idem (Montparnasse) et se poursuit avec une fascination pour\nl’encrage sur la pierre au MAI (Musée Atelier Imprimerie de Nantes)\_.\_«\_Il y a de la chimie, voire de l’alchimie dans cette discipline (...)Ici l’accident confère à la singularité. Chaque geste même exécuté de façon sériel est une expérience, une exploration sans cesse renouvelée.\_» Ainsi chaque tirage effectué révèle son caractère unique et si précieux.\n\nDans cette exposition dédiée à la lithographie, Toma-L provoque encore plus ce trouble, en nous proposant des\nvariations picturales à partir de la lithographie nommée «\_Cotton size black\_». En réinventant en permanence son geste, Toma-L\_ trahit consciencieusement sa peinture, pour mieux lui revenir. \n\nComme un retour à l’âge de la pierre encrée.\n\n\n\n\n\n\n\n"
   - title: FRAGMENTS   PAYSAGES    Tangui Robert
     date: 2020-12-06T11:38:00.000Z
     categories:
@@ -51,7 +57,7 @@ articles:
       https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/il-peint-sur-nantes-toma-l.jpg
     content: >
       [Télécharger le Catalogue de
-      l'exposition](https://galeriegaia.frhttps://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/toma-l/tomal_cataloguedesoeuvres_gaiagalerie_14avril2020.pdf
+      l'exposition](https://galeriegaia.frhttps//galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/toma-l/tomal_cataloguedesoeuvres_gaiagalerie_14avril2020.pdf
       "catalogue Toma L")
 
 
@@ -1884,12 +1890,12 @@ articles:
     image: >-
       https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/CARTE
       POSTALE ISTHME_page-0001.jpg
-    content: >+
+    content: >
       L'événement se passe dans la salle d'exposition de Pornichet place du
-      marché. Horaires de la Médiathèque 
+      marché. Horaires de la Médiathèque
 
 
-      Exposition de peinture et collage et estampe de Isthme. 
+      Exposition de peinture et collage et estampe de Isthme.
 
 
       Perdre pied avec bonheur ! \
@@ -1898,11 +1904,12 @@ articles:
       cette couleur indissociable de son travail : le bleu! Et puis on se
       souvient d'avoir vécu ces sensations de la lumière et de l'eau qui se
       mêlent. Lumière qui se reflète ou qui transperce la surface quand on est
-      entre deux eaux. Dessus / Dessous. 
+      entre deux eaux. Dessus / Dessous.
 
 
-      Je vous ai prévenu, on perd pied, et on aime vivre cette émotion !\
+      Je vous ai prévenu, on perd pied, et on aime vivre cette émotion !\\
 ---
+
 
 
 
