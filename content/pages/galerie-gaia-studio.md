@@ -42,7 +42,8 @@ content:
       Membre de [AMO](https://amo-national.fr/ "AMO")
 
 
-      Membre des [Amis du Musée des Arts de Nantes](google.com)
+      Membre des [Amis du Musée des Arts de
+      Nantes](http://www.amis-musee-arts-nantes.fr/)
   - column: >
       # Nos engagements, nos valeurs
 
