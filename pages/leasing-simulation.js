@@ -1,8 +1,18 @@
+import React from 'react'
+import SEO from '@/components/SEO'
+
 const LeasingSimulation = ({ tina, ...props }) => {
   return (
-    <div css={LeasingSimulation.styles.element}>
-      <iframe src="https://app.bail-art.com/simulation?apiKey=skba_II752VT8W9NJ52UFRTSF35QREO9RV8" id="bail_art_iframe"></iframe>
-    </div>
+    <>
+      <SEO
+        title={`Simulation Leasing par Bail Art - Galerie Gaïa`}
+        description={`Simulez le leasing d'une oeuvre de la Galerie Gaïa, galerie d'art en ligne et à Nantes à l'aide de Bail Art.`}
+        url={'/leasing-simulation'}
+      />
+      <div css={LeasingSimulation.styles.element}>
+        <iframe src="https://app.bail-art.com/simulation?apiKey=skba_II752VT8W9NJ52UFRTSF35QREO9RV8" id="bail_art_iframe"></iframe>
+      </div>
+    </>
   )
 }
 
