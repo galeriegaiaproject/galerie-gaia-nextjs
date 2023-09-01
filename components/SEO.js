@@ -18,8 +18,8 @@ const SEO = ({ title, description, type, url, image, metadata }) => (
         description,
         type: type || 'website',
         locale: 'fr_FR',
-        siteName: metadata.title,
-        url: `${metadata.siteUrl}${url}`,
+        siteName: metadata?.title,
+        url: `${metadata?.siteUrl}${url}`,
         ...(image ? { image: fromFilesystem2S3(image) } : {}),
       }}
       twitter={{
