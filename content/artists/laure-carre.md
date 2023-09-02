@@ -29,7 +29,6 @@ works:
   - work: content/works/laure-carremd-cheval-en-tete.md
   - work: content/works/laure-carremd-cheval-qui-sen-va.md
   - work: content/works/laure-carremd-green-horse.md
-  - work: content/works/laure-carremd-lhonneur.md
   - work: content/works/laure-carremd-to-tame.md
   - work: content/works/carre-laure-yellow-shoes.md
   - work: content/works/carre-laure-allongee-sans-souci.md
