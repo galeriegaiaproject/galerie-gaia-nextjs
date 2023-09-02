@@ -3,7 +3,7 @@ template: artist
 title: Art Galeries Nantes
 location: 'Nantes '
 fields: []
-expose: true
+expose: false
 exhibitions: []
 redirect_from:
   - /artistes/81-art-galeries-nantes/
