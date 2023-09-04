@@ -44,7 +44,6 @@ works:
   - work: content/works/carre-laure-face-a-face.md
   - work: content/works/carre-laure-jeune-fille.md
   - work: content/works/carre-laure-le-dernier-souffle.md
-  - work: content/works/carre-laure-le-haut-vert.md
   - work: content/works/carre-laure-moutain-dance.md
   - work: content/works/carre-laure-reve-de-cheval.md
   - work: content/works/carre-laure-tete-et-main.md
