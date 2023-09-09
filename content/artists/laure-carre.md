@@ -40,7 +40,6 @@ works:
   - work: content/works/carre-laure-buste-de-femme.md
   - work: content/works/carre-laure-cactus-et-cheval.md
   - work: content/works/carre-laure-dog-woman.md
-  - work: content/works/carre-laure-exposition-du-7-au-25-mars-2023.md
   - work: content/works/carre-laure-face-a-face.md
   - work: content/works/carre-laure-jeune-fille.md
   - work: content/works/carre-laure-le-dernier-souffle.md
@@ -48,6 +47,7 @@ works:
   - work: content/works/carre-laure-reve-de-cheval.md
   - work: content/works/carre-laure-tete-et-main.md
   - work: content/works/carre-laure-atelier-laure-carre.md
+  - work: content/works/carre-laure-exposition-du-7-au-25-mars-2023.md
   - work: content/works/carre-laure-portrait.md
 ---
 
