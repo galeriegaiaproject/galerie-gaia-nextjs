@@ -263,9 +263,11 @@ const Artist = ({ tina, ...props }) => {
                           Acquérir cette oeuvre
                         </button>
                       )}
-                      <a href='/leasing-simulation' target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'underline' }}>
-                        <small>Simulation en Leasing</small>
-                      </a>
+                      {((work.price * 1.05) >= 2500) && (
+                        <a href='/leasing-simulation' target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'underline' }}>
+                          <small>Simulation en Leasing</small>
+                        </a>
+                      )}
                       <hr />
                     </Fragment>
                   )}
