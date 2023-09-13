@@ -19,7 +19,7 @@ redirect_from:
   - /artistes/99-toma-l/
 styles:
   - Figuratif
-work: content/works/toma-l-simple-brut.md
+work: content/works/toma-lmd-cotton-size-black-and-color-orange.md
 works:
   - work: content/works/toma-lmd-3-bonnes-pierres.md
   - work: content/works/toma-lmd-cotton-size-black-and-color-orange.md
