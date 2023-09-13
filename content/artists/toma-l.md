@@ -21,6 +21,15 @@ styles:
   - Figuratif
 work: content/works/toma-l-simple-brut.md
 works:
+  - work: content/works/toma-lmd-3-bonnes-pierres.md
+  - work: content/works/toma-lmd-cotton-size-black-and-color-orange.md
+  - work: content/works/toma-lmd-cotton-size-black-color-bleu.md
+  - work: content/works/toma-lmd-cotton-size-black-color-vert.md
+  - work: content/works/toma-lmd-cotton-size-color-rouge.md
+  - work: >-
+      content/works/toma-lmd-trio-cotton-size-black-and-colors-vert-noir-rouge-en-atelier.md
+  - work: >-
+      content/works/toma-lmd-trio-de-cotton-size-black-en-atelier-bleu-noir-orange.md
   - work: content/works/toma-l-5-little-grey-and-color-en-situation-atelier.md
   - work: content/works/toma-l-catalogue-de-la-collection.md
   - work: content/works/toma-l-bonne-pierre-bon-oeil-14-noir.md
