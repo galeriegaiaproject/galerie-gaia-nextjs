@@ -16,6 +16,7 @@ expose: true
 exhibitions: []
 work: content/works/engels-didiermd-the-bunch.md
 works:
+  - work: content/works/engels-didiermd-the-cranman.md
   - work: content/works/engels-didiermd-maniac-three.md
   - work: content/works/engels-didiermd-dark-framed-kalei-2-in-framed.md
   - work: content/works/engels-didiermd-its-my-blue-antwerp.md
