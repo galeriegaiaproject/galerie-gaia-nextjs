@@ -30,7 +30,6 @@ works:
   - work: content/works/tual-pierre-brou-de-noix-5.md
   - work: content/works/tual-pierre-ceramique-jaune.md
   - work: content/works/tual-pierre-ceramique-verte.md
-  - work: content/works/tual-pierre-citadelle.md
   - work: content/works/tual-pierre-dessin-le-jour-de-mars.md
   - work: content/works/tual-pierre-dessin-le-jour-de-venus.md
   - work: content/works/tual-pierre-dessin-le-jour-du-soleil.md
