@@ -8,9 +8,10 @@ seo:
     de découvrir de nombreux artistes contemporains internationaux.
   image: ''
 artists:
+  - artist: content/artists/toma-l.md
   - artist: content/artists/wu-yuzi.md
   - artist: content/artists/remy-pierre-alexandre.md
-  - artist: content/artists/toma-l.md
+  - artist: content/artists/engels-didier.md
   - artist: content/artists/isthme.md
   - artist: content/artists/brigitte-marionneau.md
   - artist: content/artists/zhou-gongmo.md
@@ -42,7 +43,6 @@ artists:
   - artist: content/artists/job.md
   - artist: content/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert.md
   - artist: content/artists/bard-francois.md
-  - artist: content/artists/engels-didier.md
   - artist: content/artists/go-segawa.md
   - artist: content/artists/shirley-jaffe.md
   - artist: content/artists/jorj-morin-peintre.md
@@ -72,6 +72,7 @@ artists:
   - artist: content/artists/wave-week-end-arts-visuels-nantes.md
   - artist: content/artists/art-galeries-nantes.md
 ---
+
 
 
 
