@@ -18,7 +18,7 @@ seo:
   type: ''
   description: ''
   image: ''
-work: content/works/tual-pierre-kerinos.md
+work: content/works/tual-pierre-brou-de-noix-2.md
 works:
   - work: content/works/tual-pierre-algue-marine.md
   - work: content/works/tual-pierre-atelier-pierre-tual.md
