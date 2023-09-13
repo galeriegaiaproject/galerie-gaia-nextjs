@@ -50,7 +50,6 @@ works:
   - work: content/works/toma-l-projet-vas-y.md
   - work: content/works/toma-l-bonne-pierre-bon-oeil-13-noir.md
   - work: content/works/toma-l-bonne-pierre-bon-oeil-14-bleu-and-noir.md
-  - work: content/works/toma-l-bonne-pierre-bon-oeil-02-ocre.md
 ---
 
 # toma-l
