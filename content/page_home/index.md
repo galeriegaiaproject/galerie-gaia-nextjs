@@ -8,10 +8,12 @@ seo:
     estampe, photographie, courtier en art, défiscalisation, location, prêt
     avant achat.
 carousel:
-  - work: content/works/dimitri-bourriaumd-titan-control-room.md
-  - work: content/works/wu-yuzimd-mauvaises-herbes-4.md
-  - work: content/works/remy-pierre-alexandremd-une-ballade-du-rouge-gorge-2.md
+  - work: content/works/toma-lmd-cotton-size-black-and-color-orange.md
+  - work: content/works/toma-lmd-3-bonnes-pierres.md
+  - work: >-
+      content/works/toma-lmd-trio-de-cotton-size-black-en-atelier-bleu-noir-orange.md
 ---
+
 
 
 
