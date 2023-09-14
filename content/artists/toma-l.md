@@ -21,6 +21,7 @@ styles:
   - Figuratif
 work: content/works/toma-lmd-cotton-size-black-and-color-orange.md
 works:
+  - work: content/works/toma-lmd-cotton-size-black.md
   - work: content/works/toma-lmd-3-bonnes-pierres.md
   - work: content/works/toma-lmd-cotton-size-black-and-color-orange.md
   - work: content/works/toma-lmd-cotton-size-black-color-bleu.md
