@@ -24,7 +24,6 @@ works:
   - work: content/works/morin-jorj-estampe-tapisserie-arbre-pyramide.md
   - work: content/works/morin-jorj-estampe-tapisserie-bouquet-compose.md
   - work: content/works/morin-jorj-estampe-tapisserie-cat-328.md
-  - work: content/works/morin-jorj-estampe-tapisserie-coeur-ii.md
   - work: content/works/morin-jorj-estampe-tapisserie-colonne-sensible.md
   - work: content/works/morin-jorj-estampe-tapisserie-construction-ephemere.md
   - work: content/works/morin-jorj-estampe-tapisserie-cyclope.md
