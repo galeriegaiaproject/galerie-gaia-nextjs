@@ -25,6 +25,8 @@ seo:
     carre-yellow shoes.jpg
 work: content/works/carre-laure-au-fil-du-temps.md
 works:
+  - work: content/works/laure-carremd-regarder-leau.md
+  - work: content/works/laure-carremd-eau-froide.md
   - work: content/works/laure-carremd-cheval-de-bois.md
   - work: content/works/laure-carremd-cheval-en-tete.md
   - work: content/works/laure-carremd-cheval-qui-sen-va.md
