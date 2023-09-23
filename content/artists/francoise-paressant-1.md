@@ -22,6 +22,7 @@ seo:
   image: ''
 work: content/works/francoise-paressant-1md-petit-tressage.md
 works:
+  - work: content/works/francoise-paressant-1md-grand-papier-japon.md
   - work: content/works/francoise-paressant-1md-petit-tressage.md
   - work: content/works/francoise-paressant-1md-papier-cousu-horizontal.md
   - work: content/works/francoise-paressant-1md-feutre-1.md
