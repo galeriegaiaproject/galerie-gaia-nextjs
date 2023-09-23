@@ -1,6 +1,6 @@
 ---
-title: Eau froide
-reference: 'Carré Laure, Eau froide'
+title: Regarder l'eau
+reference: 'Carré Laure, Regarder l''eau'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/carre-laure/galerie-gaia-laure-carre-eau
   froide.jpg
