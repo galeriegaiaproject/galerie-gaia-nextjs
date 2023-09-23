@@ -20,7 +20,7 @@ seo:
   type: ''
   description: ''
   image: ''
-work: content/works/paressant-francoise-sans-titre-papier-fait-main.md
+work: content/works/francoise-paressant-1md-petit-tressage.md
 works:
   - work: content/works/francoise-paressant-1md-petit-tressage.md
   - work: content/works/francoise-paressant-1md-papier-cousu-horizontal.md
