@@ -23,7 +23,7 @@ seo:
   image: >-
     https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
     carre-yellow shoes.jpg
-work: content/works/carre-laure-au-fil-du-temps.md
+work: content/works/laure-carremd-regarder-leau.md
 works:
   - work: content/works/laure-carremd-regarder-leau.md
   - work: content/works/laure-carremd-eau-froide.md
