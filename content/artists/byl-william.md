@@ -4,9 +4,9 @@ fields:
 styles:
   - Figuratif
 seo:
-  type: article
   title: ''
   heading: ''
+  type: article
   description: ''
   image: ''
 template: artist
@@ -16,17 +16,11 @@ expose: true
 exhibitions: []
 work: content/works/byl-william-cheval-sable.md
 works:
-  - work: content/works/byl-william-buffle-sable.md
-  - work: content/works/byl-william-cheval-noir.md
   - work: content/works/byl-william-cheval-sable.md
   - work: content/works/byl-william-portrait-de-william-byl.md
-  - work: content/works/byl-william-tatou.md
-  - work: content/works/byl-william-taureau-noir.md
 ---
-**Soyez patient pour 2023 une nouvelle sélection arrive.  
-Si vous voulez être informé de leur arrivée** [**contact@galeriegaia.fr**]()
 
-William Byl est passionné par le dessin depuis l'enfance, et se forme à l'école des Beaux- Arts de Cholet  
+William Byl est passionné par le dessin depuis l'enfance, et se forme à l'école des Beaux- Arts de Cholet\
 Il découvre la céramique des années 1950 et il est fasciné par les réalisations de Jean Derval, René Maurel, Roger Capron, François Raty, Jacques Blin, Luc Lanel et quelques autres...
 
 En 2013, William Byl choisi d’utiliser la terre comme nouveau mode d’expression et explore les techniques du modelage et de la céramique.
