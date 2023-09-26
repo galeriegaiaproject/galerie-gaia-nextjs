@@ -11,6 +11,7 @@ artists:
   - artist: content/artists/toma-l.md
   - artist: content/artists/wu-yuzi.md
   - artist: content/artists/remy-pierre-alexandre.md
+  - artist: content/artists/byl-william.md
   - artist: content/artists/engels-didier.md
   - artist: content/artists/isthme.md
   - artist: content/artists/brigitte-marionneau.md
@@ -31,7 +32,6 @@ artists:
   - artist: content/artists/olivier-fremont.md
   - artist: content/artists/virginie-chardon.md
   - artist: content/artists/isabelle-healy.md
-  - artist: content/artists/byl-william.md
   - artist: content/artists/marie-vandooren.md
   - artist: content/artists/tangui-robert.md
   - artist: content/artists/jouet-michel.md
