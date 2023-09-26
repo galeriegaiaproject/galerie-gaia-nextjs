@@ -14,7 +14,7 @@ title: Byl William
 location: France
 expose: true
 exhibitions: []
-work: content/works/byl-william-cheval-sable.md
+work: content/works/byl-williammd-cheval-roux.md
 works:
   - work: content/works/byl-williammd-buffle-noir.md
   - work: content/works/byl-williammd-cheval-roux.md
