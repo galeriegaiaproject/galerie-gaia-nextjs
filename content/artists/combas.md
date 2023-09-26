@@ -12,7 +12,6 @@ styles:
   - Figuratif
 work: content/works/combas-robert-le-combo-de-combas.md
 works:
-  - work: content/works/combas-robert-dragon-ea-69.md
   - work: content/works/combas-robert-le-combo-de-combas.md
 ---
 
