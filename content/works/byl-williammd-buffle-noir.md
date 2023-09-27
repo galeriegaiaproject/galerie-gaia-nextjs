@@ -1,16 +1,16 @@
 ---
-title: 'Buffle noir '
+title: 'Brame du rennes '
 reference: 'Byl William, Buffle noir '
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/byl-william/galerie
-  gaia-byl-williambuffle noir 0923.jpeg
+  gaia-byl-williambrame du renne roux 0923.JPG
 artist: content/artists/byl-william.md
-price: 1800
-technique: Grès noir recouvert de jus d'oxyde
+price: 2600
+technique: 'Grès roux  '
 contextual: false
 dimensions:
-  height: 40
-  width: 40
+  height: 48
+  width: 49
 ---
 
 2023
