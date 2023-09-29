@@ -61,9 +61,9 @@ content:
       * Cela concerne des **artistes vivants ou non**
 
 
-      Faire une simulation*
-      *[*ici*](https://www.galeriegaia.fr/leasing-simulation "simulation leasing
-      bail art")
+      Faire une simulation\*
+      \**[ici](https://www.galeriegaia.fr/leasing-simulation "simulation leasing
+      bail art")*
 
 
       ## **Achat en défiscalisation**
@@ -89,18 +89,15 @@ content:
       **Exemple de calcul pour une œuvre de 8000€ :**
 
 
-      * Une entreprise réalisant 350 000€ de chiffre d’affaire
+      * Une entreprise réalisant 700 000€ de chiffre d’affaire
 
-      * La déduction sur le résultat fiscal est plafonnée à 5 pour mille du
-      chiffre d’affaire soit 350 000 x 0,005 = 1750€ de plafond annuel
-      déductible
+      * La déduction sur le résultat fiscal est plafonnée à 5‰ du chiffre
+      d’affaire soit 700 000 x 0,005 = 3500€ de plafond annuel déductible
 
-      * La déduction de 25% du 1/5ème de l’œuvre : 1600€ X 0,25 = 400€
-
-      * Economie totale : 2000€
+      * La déduction de 25% du 1/5ème de l’œuvre : 8000€ X 0,25 = 2000€
 
 
-      *données chiffrées février 2023*
+      *données chiffrées Octobre 2023*
 
 
       ## Courtier en art
