@@ -1,20 +1,4 @@
 ---
-template: artist
-title: 'Carré Laure '
-location: ''
-fields:
-  - Peinture
-  - Oeuvre sur papier
-expose: true
-exhibitions:
-  - title: 'Laure Carré '
-    location: 'Galerie Gaia Nantes '
-    start: 7 Mars 2023
-    end: 25 Mars 2023
-redirect_from:
-  - /artistes/76-laure-carre/
-styles:
-  - Figuratif
 seo:
   title: 'Laure Carré '
   heading: 'laure carré '
@@ -23,12 +7,19 @@ seo:
   image: >-
     https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
     carre-yellow shoes.jpg
+title: 'Carré Laure '
+location: ''
+fields:
+  - Peinture
+  - Oeuvre sur papier
+styles:
+  - Figuratif
+expose: true
 work: content/works/laure-carremd-regarder-leau.md
 works:
   - work: content/works/laure-carremd-regarder-leau.md
   - work: content/works/laure-carremd-cheval-de-bois.md
   - work: content/works/laure-carremd-cheval-en-tete.md
-  - work: content/works/laure-carremd-cheval-qui-sen-va.md
   - work: content/works/laure-carremd-green-horse.md
   - work: content/works/laure-carremd-to-tame.md
   - work: content/works/carre-laure-yellow-shoes.md
@@ -50,6 +41,11 @@ works:
   - work: content/works/carre-laure-atelier-laure-carre.md
   - work: content/works/carre-laure-exposition-du-7-au-25-mars-2023.md
   - work: content/works/carre-laure-portrait.md
+exhibitions:
+  - title: 'Laure Carré '
+    location: 'Galerie Gaia Nantes '
+    start: 7 Mars 2023
+    end: 25 Mars 2023
 ---
 
 # Laure Carré
