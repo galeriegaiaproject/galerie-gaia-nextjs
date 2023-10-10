@@ -40,7 +40,6 @@ artists:
   - artist: content/artists/aline-isoard.md
   - artist: content/artists/elisabeth-wadecki.md
   - artist: content/artists/franco-salas-borquez.md
-  - artist: content/artists/job.md
   - artist: content/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert.md
   - artist: content/artists/bard-francois.md
   - artist: content/artists/go-segawa.md
@@ -72,10 +71,4 @@ artists:
   - artist: content/artists/wave-week-end-arts-visuels-nantes.md
   - artist: content/artists/art-galeries-nantes.md
 ---
-
-
-
-
-
-
 
