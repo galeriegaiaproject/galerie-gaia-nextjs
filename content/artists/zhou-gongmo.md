@@ -5,17 +5,16 @@ fields:
   - Peinture
 styles:
   - Figuratif
+expose: true
+work: content/works/zhou-gongmomd-dialogue.md
 works:
   - work: content/works/zhou-gongmomd-dialogue.md
   - work: content/works/zhou-gongmomd-ecran-silencieux-7.md
-  - work: content/works/zhou-gongmomd-ecran-silencieux-6.md
   - work: content/works/zhou-gongmomd-ecran-silencieux-3.md
   - work: content/works/zhou-gongmomd-ecran-silencieux-2.md
   - work: content/works/zhou-gongmomd-ecran-silencieux-12.md
   - work: content/works/zhou-gongmomd-ecran-silencieux-1.md
   - work: content/works/zhou-gongmomd-portrait.md
-work: content/works/zhou-gongmomd-dialogue.md
-expose: true
 ---
 
 Diplômé de l'École des Beaux Arts de Nantes en 2023\
