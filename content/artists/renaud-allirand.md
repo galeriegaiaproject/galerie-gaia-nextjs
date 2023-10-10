@@ -1,15 +1,11 @@
 ---
-template: artist
 title: 'Allirand Renaud '
 location: Paris
 fields:
   - Oeuvre sur papier
-expose: true
-exhibitions: []
-redirect_from:
-  - /artistes/35-renaud-allirand/
 styles:
   - Abstrait
+expose: true
 work: content/works/allirand-renaud-3.md
 works:
   - work: content/works/allirand-renaud-12-mai.md
@@ -20,17 +16,18 @@ works:
   - work: content/works/allirand-renaud-4.md
   - work: content/works/allirand-renaud-5.md
   - work: content/works/allirand-renaud-6.md
-  - work: content/works/allirand-renaud-8.md
   - work: content/works/allirand-renaud-sans-titre.md
   - work: content/works/allirand-renaud-xxvii.md
+exhibitions: []
 ---
+
 # Renaud Allirand
 
 > Les écritures rebelles
 
-"Barbelés infranchissables pour qui s’acharne à la conquête du sens, les jeux d’écriture de Renaud Allirand  déconcertent et fascinent ceux que ne décourage pas la vérité voilée du poème ou de l’énigme. L’artiste ne détruit pas les mots de la langue. Il les contourne et les enfouit. S’agit-il de les préserver en les rendant illisibles ? Comme un voleur qui se dissimule dans la foule, il cache son trésor dans la forêt des signes.  
-Cette écriture protège une joie secrète. Elle efface ses traces pour sauver sa liberté. Ses ruses écartent les pilleurs. Ecriture à rebours qui exulte de se perdre pour mieux se retrouver; filet jeté en haute mer qui retient sa capture. Le temps n’est plus où l’on se devait de renouer les mailles des discours galvaudés. Il faut tout réinventer en eau profonde. Ni appât, ni simulacre, le leurre proclame sa raison d’être : quand les mots défaillent, ces griffures dans la nuit creusent une aube nouvelle. Ainsi les premiers hommes, voleurs du feu, traçaient sur la roche obscure les animaux fantômes de leurs rêves pour marquer leur passage.  
-Ecriture rebelle à trop de clarté qui protège dans ses replis les découvertes de l’enfance éblouie. Avec obstination, l’artiste tisse la toile qui tamise  une lumière trop vive. Gravures qui s’offrent au regard pour le retenir et le libérer; alternance d’une curiosité vaine et d’un renoncement apaisé. Du secret pressenti, Renaud Allirand nous fait accepter le mystère où ce qui dérobe est plus précieux que l’apparence. Comment décrire cette irradiation des mots engloutis? Il faut s’attarder et se laisser envahir par le frémissement de ces arabesques incompréhensibles qui semblent emprunter aux temples de l’Orient leur hommage à un Dieu qui ne saurait être représenté. En se dissimulant, l’artiste livre ce qu’il a de plus précieux.  
+"Barbelés infranchissables pour qui s’acharne à la conquête du sens, les jeux d’écriture de Renaud Allirand  déconcertent et fascinent ceux que ne décourage pas la vérité voilée du poème ou de l’énigme. L’artiste ne détruit pas les mots de la langue. Il les contourne et les enfouit. S’agit-il de les préserver en les rendant illisibles ? Comme un voleur qui se dissimule dans la foule, il cache son trésor dans la forêt des signes.\
+Cette écriture protège une joie secrète. Elle efface ses traces pour sauver sa liberté. Ses ruses écartent les pilleurs. Ecriture à rebours qui exulte de se perdre pour mieux se retrouver; filet jeté en haute mer qui retient sa capture. Le temps n’est plus où l’on se devait de renouer les mailles des discours galvaudés. Il faut tout réinventer en eau profonde. Ni appât, ni simulacre, le leurre proclame sa raison d’être : quand les mots défaillent, ces griffures dans la nuit creusent une aube nouvelle. Ainsi les premiers hommes, voleurs du feu, traçaient sur la roche obscure les animaux fantômes de leurs rêves pour marquer leur passage.\
+Ecriture rebelle à trop de clarté qui protège dans ses replis les découvertes de l’enfance éblouie. Avec obstination, l’artiste tisse la toile qui tamise  une lumière trop vive. Gravures qui s’offrent au regard pour le retenir et le libérer; alternance d’une curiosité vaine et d’un renoncement apaisé. Du secret pressenti, Renaud Allirand nous fait accepter le mystère où ce qui dérobe est plus précieux que l’apparence. Comment décrire cette irradiation des mots engloutis? Il faut s’attarder et se laisser envahir par le frémissement de ces arabesques incompréhensibles qui semblent emprunter aux temples de l’Orient leur hommage à un Dieu qui ne saurait être représenté. En se dissimulant, l’artiste livre ce qu’il a de plus précieux.\
 Voici le roncier sauvage où chante l’oiseau invisible. Dans son ombre lumineuse veille l’espérance plus forte que la mort." Jacques Robinet
 
 > The rebel writings
