@@ -28,7 +28,6 @@ works:
   - work: content/works/carre-laure-autoportrait.md
   - work: content/works/carre-laure-bal-masque.md
   - work: content/works/carre-laure-blue-boxer.md
-  - work: content/works/carre-laure-blue-jeans.md
   - work: content/works/carre-laure-buste-de-femme.md
   - work: content/works/carre-laure-cactus-et-cheval.md
   - work: content/works/carre-laure-dog-woman.md
