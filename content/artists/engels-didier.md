@@ -14,7 +14,6 @@ styles:
 expose: true
 work: content/works/engels-didiermd-the-bunch.md
 works:
-  - work: content/works/engels-didiermd-portrait-en-action.md
   - work: content/works/engels-didiermd-the-cranman.md
   - work: content/works/engels-didiermd-maniac-three.md
   - work: content/works/engels-didiermd-dark-framed-kalei-2-in-framed.md
@@ -25,6 +24,7 @@ works:
   - work: content/works/engels-didier-36-part1.md
   - work: content/works/engels-didier-36-part2.md
   - work: content/works/engels-didier-kaaien-compo-verte.md
+  - work: content/works/engels-didiermd-portrait-en-action.md
   - work: content/works/engels-didier-stained-glass.md
 exhibitions: []
 ---
