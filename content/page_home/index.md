@@ -8,18 +8,9 @@ seo:
     estampe, photographie, courtier en art, défiscalisation, location, prêt
     avant achat.
 carousel:
-  - work: content/works/toma-lmd-cotton-size-black-and-color-orange.md
-  - work: content/works/toma-lmd-3-bonnes-pierres.md
+  - work: content/works/engels-didiermd-dark-framed-kalei-2-in-framed.md
+  - work: content/works/engels-didiermd-the-cranman.md
   - work: >-
       content/works/toma-lmd-trio-de-cotton-size-black-en-atelier-bleu-noir-orange.md
 ---
-
-
-
-
-
-
-
-
-
 
