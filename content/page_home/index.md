@@ -10,7 +10,5 @@ seo:
 carousel:
   - work: content/works/engels-didiermd-dark-framed-kalei-2-in-framed.md
   - work: content/works/engels-didiermd-the-cranman.md
-  - work: >-
-      content/works/toma-lmd-trio-de-cotton-size-black-en-atelier-bleu-noir-orange.md
 ---
 
