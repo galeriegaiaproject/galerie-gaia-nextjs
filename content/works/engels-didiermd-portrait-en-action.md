@@ -8,4 +8,6 @@ artist: content/artists/engels-didier.md
 contextual: false
 ---
 
-Portrait de l'artiste 
+[Video de l'artiste en action ](https://youtu.be/CscAchsYCig "Didier Engels en action")
+
+[https://youtu.be/CscAchsYCig](https://youtu.be/CscAchsYCig)
