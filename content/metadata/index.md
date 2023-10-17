@@ -15,9 +15,9 @@ menu:
   - page: content/pages/references.md
 caption: Art Contemporain
 announcement: |
-  Toma-L\
-  Exposition Lithographie \
-  prolongation 14/11
+  Didier Engels Exposition Photographie \
+  vernissage \
+  jeudi 19/10 18:00
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
