@@ -9,12 +9,6 @@ seo:
     contemporain à Nantes, galerie art contemporain nantes
   image: ''
 articles:
-  - title: Exposition photo Didier Engels
-    date: 2023-10-16T22:00:00.000Z
-    categories:
-      - Exposition
-    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/GAIÌ\x88A_ENGELS_INVITATION_A5_RECtO_page-0001.jpg"
-    content: "KAAIEN –\nDidier Engels\n\nVERNISSAGE JEUDI 19 OCTOBRE 18:00\n\nDidier Engels est un photographe autodicate belge, qui commence son travail photographique « Dry\nDock » et « Kaaien » en janvier 2015. Entrepreneur pendant 25 ans son œil s’est formé à la matière et aux couleurs du textile. La photographie c’est un médium technique mais encore faut-il savoir regarder. Et aimer regarder où que\nl’on soit. Didier Engels aime les zones portuaires, Anvers, Hambourg, Rotterdam, Zeebruge où il a grandi et même été dockers.\n\nL’évidence et le choc esthétique sont arrivés à Lorient face à une épave. Oxydation, sédimentation, lignes et\nnuanciers de couleurs. Depuis Didier Engels sait qu’il a besoin de trouver ces couleurs et cette matière, la tôle oxydée des cargos, les jeux de couleurs des containers qui se patinent et explosent à la lumière.\n\nDidier Engels est soit perché dans les airs à la traque du cargo qui offrira le patchwork de couleurs le plus\nnébuleux, soit niché au milieu des montagnes de containers\_ en quête du plus bel imbroglio de containers.\n«\_Je vois des choses que les autres ne voient pas. Beaucoup de gens photographient des containers, mais personne ne le fait de cette façon.\_»\n\nCes images capturées se transforment en trompe l’œil, dans une esthétique toute assumée, où les lignes\net les couleurs vibrent subtilement.\n\nLa Galerie Gaïa partenaire de la QPN 2023 présente une sélection de la série KAAIEN\n"
   - title: FRAGMENTS   PAYSAGES    Tangui Robert
     date: 2020-12-06T11:38:00.000Z
     categories:
@@ -1914,5 +1908,11 @@ articles:
       - Exposition
     image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/toma-l/GAIÌ\x88A_TOMA-L_INVITATION_RECTO.jpg"
     content: "Quand Toma-L s’immerge dans une nouvelle pratique comme la lithographie, il s’impose un temps exclusif pour\napprendre de ses mains. «\_Je me nourris des gestes de mes maîtres\_».\n\nL’alchimie commence en 2017 à l’imprimerie d’art Idem (Montparnasse) et se poursuit avec une fascination pour\nl’encrage sur la pierre au MAI (Musée Atelier Imprimerie de Nantes)\_.\_«\_Il y a de la chimie, voire de l’alchimie dans cette discipline (...)Ici l’accident confère à la singularité. Chaque geste même exécuté de façon sériel est une expérience, une exploration sans cesse renouvelée.\_» Ainsi chaque tirage effectué révèle son caractère unique et si précieux.\n\nDans cette exposition dédiée à la lithographie, Toma-L provoque encore plus ce trouble, en nous proposant des\nvariations picturales à partir de la lithographie nommée «\_Cotton size black\_». En réinventant en permanence son geste, Toma-L\_ trahit consciencieusement sa peinture, pour mieux lui revenir.\n\nComme un retour à l’âge de la pierre encrée.\n"
+  - title: Exposition photo Didier Engels
+    date: 2023-10-16T22:00:00.000Z
+    categories:
+      - Exposition
+    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/GAIÌ\x88A_ENGELS_INVITATION_A5_RECtO_page-0001.jpg"
+    content: "KAAIEN –\nDidier Engels\n\nVERNISSAGE JEUDI 19 OCTOBRE 18:00\n\nDidier Engels est un photographe autodicate belge, qui commence son travail photographique « Dry\nDock » et « Kaaien » en janvier 2015. Entrepreneur pendant 25 ans son œil s’est formé à la matière et aux couleurs du textile. La photographie c’est un médium technique mais encore faut-il savoir regarder. Et aimer regarder où que\nl’on soit. Didier Engels aime les zones portuaires, Anvers, Hambourg, Rotterdam, Zeebruge où il a grandi et même été dockers.\n\nL’évidence et le choc esthétique sont arrivés à Lorient face à une épave. Oxydation, sédimentation, lignes et\nnuanciers de couleurs. Depuis Didier Engels sait qu’il a besoin de trouver ces couleurs et cette matière, la tôle oxydée des cargos, les jeux de couleurs des containers qui se patinent et explosent à la lumière.\n\nDidier Engels est soit perché dans les airs à la traque du cargo qui offrira le patchwork de couleurs le plus\nnébuleux, soit niché au milieu des montagnes de containers\_ en quête du plus bel imbroglio de containers.\n«\_Je vois des choses que les autres ne voient pas. Beaucoup de gens photographient des containers, mais personne ne le fait de cette façon.\_»\n\nCes images capturées se transforment en trompe l’œil, dans une esthétique toute assumée, où les lignes\net les couleurs vibrent subtilement.\n\nLa Galerie Gaïa partenaire de la QPN 2023 présente une sélection de la série KAAIEN\n"
 ---
 
