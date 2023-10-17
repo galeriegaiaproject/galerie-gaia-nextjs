@@ -9,5 +9,3 @@ contextual: false
 ---
 
 [Video de l'artiste en action ](https://youtu.be/CscAchsYCig "Didier Engels en action")
-
-[https://youtu.be/CscAchsYCig](https://youtu.be/CscAchsYCig)
