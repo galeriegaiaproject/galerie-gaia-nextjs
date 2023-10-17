@@ -1,21 +1,20 @@
 ---
-fields:
-  - Photographie
-styles:
-  - Figuratif
 seo:
   title: ''
   heading: ''
   type: article
   description: ''
   image: ''
-template: artist
 title: Engels Didier
 location: ''
+fields:
+  - Photographie
+styles:
+  - Figuratif
 expose: true
-exhibitions: []
 work: content/works/engels-didiermd-the-bunch.md
 works:
+  - work: content/works/engels-didiermd-portrait-en-action.md
   - work: content/works/engels-didiermd-the-cranman.md
   - work: content/works/engels-didiermd-maniac-three.md
   - work: content/works/engels-didiermd-dark-framed-kalei-2-in-framed.md
@@ -27,6 +26,7 @@ works:
   - work: content/works/engels-didier-36-part2.md
   - work: content/works/engels-didier-kaaien-compo-verte.md
   - work: content/works/engels-didier-stained-glass.md
+exhibitions: []
 ---
 
 # Engels Didier
