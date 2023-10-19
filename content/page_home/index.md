@@ -8,7 +8,8 @@ seo:
     estampe, photographie, courtier en art, défiscalisation, location, prêt
     avant achat.
 carousel:
-  - work: content/works/engels-didiermd-dark-framed-kalei-2-in-framed.md
+  - work: content/works/engels-didiermd-maniac-three.md
+  - work: content/works/engels-didiermd-another-one-in-the-wall.md
   - work: content/works/engels-didiermd-the-cranman.md
 ---
 
