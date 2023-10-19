@@ -14,6 +14,16 @@ styles:
 expose: true
 work: content/works/engels-didiermd-the-bunch.md
 works:
+  - work: content/works/engels-didiermd-the-eight-day-lilacs.md
+  - work: content/works/engels-didiermd-little-compo-seven.md
+  - work: content/works/engels-didiermd-little-compo-five.md
+  - work: content/works/engels-didiermd-the-pink-one.md
+  - work: content/works/engels-didiermd-the-green-one.md
+  - work: content/works/engels-didiermd-the-blue-one.md
+  - work: content/works/engels-didiermd-staked-attitude.md
+  - work: content/works/engels-didiermd-contaitris.md
+  - work: content/works/engels-didiermd-another-one-in-the-wall.md
+  - work: content/works/engels-didiermd-3-shoots-in-the-water.md
   - work: content/works/engels-didiermd-the-cranman.md
   - work: content/works/engels-didiermd-maniac-three.md
   - work: content/works/engels-didiermd-its-my-blue-antwerp.md
