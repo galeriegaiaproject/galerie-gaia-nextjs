@@ -24,8 +24,8 @@ works:
   - work: content/works/engels-didier-36-part1.md
   - work: content/works/engels-didier-36-part2.md
   - work: content/works/engels-didier-kaaien-compo-verte.md
-  - work: content/works/engels-didiermd-portrait-en-action.md
   - work: content/works/engels-didier-stained-glass.md
+  - work: content/works/engels-didiermd-portrait-en-action.md
 exhibitions: []
 ---
 
