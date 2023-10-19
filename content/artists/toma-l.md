@@ -1,11 +1,44 @@
 ---
-template: artist
 title: Toma-L
 location: ''
 fields:
   - Peinture
   - Oeuvre sur papier
+styles:
+  - Figuratif
 expose: true
+work: content/works/toma-lmd-cotton-size-black-color-vert.md
+works:
+  - work: content/works/toma-lmd-cotton-size-black.md
+  - work: content/works/toma-lmd-3-bonnes-pierres.md
+  - work: content/works/toma-lmd-cotton-size-black-color-vert.md
+  - work: content/works/toma-lmd-cotton-size-color-rouge.md
+  - work: >-
+      content/works/toma-lmd-trio-cotton-size-black-and-colors-vert-noir-rouge-en-atelier.md
+  - work: content/works/toma-l-5-little-grey-and-color-en-situation-atelier.md
+  - work: content/works/toma-l-catalogue-de-la-collection.md
+  - work: content/works/toma-l-bonne-pierre-bon-oeil-14-noir.md
+  - work: content/works/toma-l-diptyque-little-grey-and-color.md
+  - work: content/works/toma-l-drawing-black.md
+  - work: content/works/toma-l-fre-12.md
+  - work: content/works/toma-l-installation-wood-cartel-toma-l-nantes-2014.md
+  - work: content/works/toma-l-le-type-retro-crade-aux-couleurs-flash.md
+  - work: content/works/toma-l-little-grey-and-color.md
+  - work: content/works/toma-l-little-simple-brut.md
+  - work: content/works/toma-l-little-trash.md
+  - work: content/works/toma-l-querelle-carbone-10.md
+  - work: content/works/toma-l-rsb-36.md
+  - work: content/works/toma-l-bonne-pierre-bon-oeil-10.md
+  - work: content/works/toma-l-simple-brut.md
+  - work: content/works/toma-l-bonne-pierre-bon-oeil-13-vert.md
+  - work: content/works/toma-l-stone-age-02.md
+  - work: content/works/toma-l-bonne-pierre-bon-oeil-02-noir.md
+  - work: content/works/toma-l-stone-age-03.md
+  - work: content/works/toma-l-stone-age-16.md
+  - work: content/works/toma-l-bonne-pierre-bon-oeil-01.md
+  - work: content/works/toma-l-projet-vas-y.md
+  - work: content/works/toma-l-bonne-pierre-bon-oeil-13-noir.md
+  - work: content/works/toma-l-bonne-pierre-bon-oeil-14-bleu-and-noir.md
 exhibitions:
   - title: Rétro-Crade
     location: Nantes Galerie Gaïa
@@ -15,51 +48,6 @@ exhibitions:
     location: Galerie Gaia
     start: 21 Mai
     end: 20 Juin
-redirect_from:
-  - /artistes/99-toma-l/
-styles:
-  - Figuratif
-work: content/works/toma-lmd-cotton-size-black-and-color-orange.md
-works:
-  - work: content/works/toma-lmd-cotton-size-black.md
-  - work: content/works/toma-lmd-3-bonnes-pierres.md
-  - work: content/works/toma-lmd-cotton-size-black-and-color-orange.md
-  - work: content/works/toma-lmd-cotton-size-black-color-bleu.md
-  - work: content/works/toma-lmd-cotton-size-black-color-vert.md
-  - work: content/works/toma-lmd-cotton-size-color-rouge.md
-  - work: >-
-      content/works/toma-lmd-trio-cotton-size-black-and-colors-vert-noir-rouge-en-atelier.md
-  - work: >-
-      content/works/toma-lmd-trio-de-cotton-size-black-en-atelier-bleu-noir-orange.md
-  - work: content/works/toma-l-5-little-grey-and-color-en-situation-atelier.md
-  - work: content/works/toma-l-catalogue-de-la-collection.md
-  - work: content/works/toma-l-bonne-pierre-bon-oeil-14-noir.md
-  - work: content/works/toma-l-diptyque-little-grey-and-color.md
-  - work: content/works/toma-l-drawing-black.md
-  - work: content/works/toma-l-fre-12.md
-  - work: content/works/toma-l-installation-wood-cartel-toma-l-nantes-2014.md
-  - work: content/works/toma-l-le-type-retro-crade-aux-couleurs-flash.md
-  - work: content/works/toma-l-little-graphite-and-color.md
-  - work: content/works/toma-l-little-grey-and-color.md
-  - work: content/works/toma-l-little-simple-brut.md
-  - work: content/works/toma-l-little-trash.md
-  - work: content/works/toma-l-querelle-carbone-10.md
-  - work: content/works/toma-l-rsb-36.md
-  - work: content/works/toma-l-rsb14-tuxpan.md
-  - work: content/works/toma-l-bonne-pierre-bon-oeil-10.md
-  - work: content/works/toma-l-simple-brut.md
-  - work: content/works/toma-l-simple-trash.md
-  - work: content/works/toma-l-bonne-pierre-bon-oeil-13-vert.md
-  - work: content/works/toma-l-stone-age-02.md
-  - work: content/works/toma-l-bonne-pierre-bon-oeil-02-noir.md
-  - work: content/works/toma-l-stone-age-03.md
-  - work: content/works/toma-l-bonne-pierre-bon-oeil-02-bleu.md
-  - work: content/works/toma-l-stone-age-16.md
-  - work: content/works/toma-l-bonne-pierre-bon-oeil-01.md
-  - work: content/works/toma-l-tow-boys-trash.md
-  - work: content/works/toma-l-projet-vas-y.md
-  - work: content/works/toma-l-bonne-pierre-bon-oeil-13-noir.md
-  - work: content/works/toma-l-bonne-pierre-bon-oeil-14-bleu-and-noir.md
 ---
 
 # toma-l
