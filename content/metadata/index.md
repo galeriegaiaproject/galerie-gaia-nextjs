@@ -16,8 +16,7 @@ menu:
 caption: Art Contemporain
 announcement: |
   Didier Engels Exposition Photographie \
-  vernissage \
-  jeudi 19/10 18:00
+  jusqu'au 4 Novembre
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
