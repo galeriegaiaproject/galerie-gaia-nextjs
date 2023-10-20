@@ -9,7 +9,7 @@ seo:
     avant achat.
 carousel:
   - work: content/works/engels-didiermd-little-compo-seven.md
-  - work: content/works/engels-didiermd-another-one-in-the-wall.md
   - work: content/works/engels-didiermd-the-cranman.md
+  - work: content/works/engels-didiermd-another-one-in-the-wall.md
 ---
 
