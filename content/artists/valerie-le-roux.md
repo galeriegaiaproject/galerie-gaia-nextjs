@@ -1,22 +1,15 @@
 ---
-template: artist
 title: 'Le Roux Valérie '
 location: ''
 fields:
   - Oeuvre sur papier
   - Céramique
-expose: true
-exhibitions:
-  - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
-    start: Eté 2018
-redirect_from:
-  - /artistes/79-valerie-le-roux/
 styles: []
-work: content/works/le-roux-valerie-corail-kaki-bleu-ciel-et-bleu-cobalt.md
+expose: true
+work: content/works/le-roux-valerie-algue-curry.md
 works:
   - work: content/works/le-roux-valerie-algue-bleu-ciel-et-fonce-format-allonge.md
   - work: content/works/le-roux-valerie-algue-curry.md
-  - work: content/works/le-roux-valerie-corail-kaki-bleu-ciel-et-bleu-cobalt.md
   - work: content/works/le-roux-valerie-feuille-bleue-n.md
   - work: content/works/le-roux-valerie-poisson-russe.md
   - work: content/works/le-roux-valerie-serigraphie-bleue.md
@@ -25,6 +18,9 @@ works:
   - work: content/works/le-roux-valerie-trio-poissons-rayes-rouge-orange.md
   - work: content/works/le-roux-valerie-vase-vert-clair.md
   - work: content/works/le-roux-valerie-vegetal-bleu-ciel-et-fonce-format-allonge.md
+exhibitions:
+  - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
+    start: Eté 2018
 ---
 
 # Valérie Le Roux
