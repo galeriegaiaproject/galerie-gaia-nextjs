@@ -1,26 +1,26 @@
 ---
-fields:
-  - Peinture
-styles:
-  - Figuratif
 seo:
   title: ''
   heading: ''
   type: article
   description: ''
   image: ''
-template: artist
 title: Peron Yann
 location: ''
+fields:
+  - Peinture
+styles:
+  - Figuratif
 expose: true
-exhibitions: []
 work: content/works/peron-yann-reflet-de-lerdre.md
 works:
+  - work: content/works/peron-yannmd-le-havre-a-oudon.md
   - work: content/works/peron-yannmd-boire-dete.md
   - work: content/works/peron-yann-nenuphars-de-lerdre.md
   - work: content/works/peron-yann-jardin-des-plantes-nantes.md
   - work: content/works/peron-yann-reflet-de-lerdre.md
   - work: content/works/peron-yann-portrait-de-lartiste.md
+exhibitions: []
 ---
 
 "Dès la plus petite enfance j’ai aimé colorer, barbouiller, créer avec rapidité, rage et plaisir pour laisser mes traces sur toutes formes de papier, bois, carton, tôle ondulée, etc. Barioler cahiers d’écolier, agendas et autres supports de cours, m’a extrait de mon quotidien solitaire pour vivre des aventures oniriques. Mes vacances d’été, je les ai partagées à Pont- Aven entre le plaisir de m’enliser dans la vase, nager dans l’eau glacée de cette rivière d’eau saumâtre et observer les feuillages du bois d’amour où Paul Sérusier a peint « Le Talisman ».
