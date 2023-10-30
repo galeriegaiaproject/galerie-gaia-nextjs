@@ -1,6 +1,6 @@
 ---
-title: DAL3/2
-reference: 'Dubreuil Jean-François, DAL3/2'
+title: DAL3/3
+reference: 'Dubreuil Jean-François, DAL3/3'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/dubreuil-jean-francois/galerie-gaia-dubreuil-jean-francois-DAL3-3.jpg
 artist: content/artists/dubreuil.md
