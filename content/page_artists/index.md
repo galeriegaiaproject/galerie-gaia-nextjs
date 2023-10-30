@@ -9,6 +9,7 @@ seo:
   image: ''
 artists:
   - artist: content/artists/pierre-muckensturm.md
+  - artist: content/artists/dubreuil.md
   - artist: content/artists/byl-william.md
   - artist: content/artists/1001.md
   - artist: content/artists/toma-l.md
