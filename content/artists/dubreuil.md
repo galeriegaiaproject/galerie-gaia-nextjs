@@ -8,6 +8,19 @@ styles:
   - Abstrait
 birth: '1946'
 expose: false
+works:
+  - work: content/works/dubreuilmd-dal31.md
+  - work: content/works/dubreuilmd-dal32.md
+  - work: content/works/dubreuilmd-dal33.md
+  - work: content/works/dubreuilmd-qabh1.md
+  - work: content/works/dubreuilmd-qabj21.md
+  - work: content/works/dubreuilmd-qabj22.md
+  - work: content/works/dubreuilmd-qabt21.md
+  - work: content/works/dubreuilmd-qabt22.md
+  - work: content/works/dubreuilmd-qye31.md
+  - work: content/works/dubreuilmd-qye32.md
+  - work: content/works/dubreuilmd-qyes33.md
+  - work: content/works/dubreuilmd-portrait-datelier.md
 ---
 
 Né en 1946, Jean-François Dubreuil construit depuis les années 1970 ses tableaux à partir de supports d’informations imprimés, hebdomadaires et surtout quotidiens (régionaux, nationaux, étrangers). Chaque tableau est une traduction plastique, non pas du contenu de ces journaux, mais des surfaces occupées par les contenus.
