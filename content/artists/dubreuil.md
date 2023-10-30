@@ -8,6 +8,7 @@ styles:
   - Abstrait
 birth: '1946'
 expose: false
+work: content/works/dubreuilmd-qye31.md
 works:
   - work: content/works/dubreuilmd-dal31.md
   - work: content/works/dubreuilmd-dal32.md
