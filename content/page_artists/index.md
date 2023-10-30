@@ -8,11 +8,12 @@ seo:
     de découvrir de nombreux artistes contemporains internationaux.
   image: ''
 artists:
+  - artist: content/artists/pierre-muckensturm.md
+  - artist: content/artists/byl-william.md
   - artist: content/artists/1001.md
   - artist: content/artists/toma-l.md
   - artist: content/artists/wu-yuzi.md
   - artist: content/artists/remy-pierre-alexandre.md
-  - artist: content/artists/byl-william.md
   - artist: content/artists/engels-didier.md
   - artist: content/artists/isthme.md
   - artist: content/artists/brigitte-marionneau.md
@@ -26,7 +27,6 @@ artists:
   - artist: content/artists/pierre-tual.md
   - artist: content/artists/tilly-yves.md
   - artist: content/artists/edwin-wide.md
-  - artist: content/artists/pierre-muckensturm.md
   - artist: content/artists/jacques-le-brusq.md
   - artist: content/artists/francoise-paressant-1.md
   - artist: content/artists/annick-argant.md
