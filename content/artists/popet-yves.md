@@ -2,12 +2,20 @@
 title: Popet Yves
 ---
 
+Yves Popet est un artiste présent depuis 1994 à la Galerie LAHUMIERE - Paris
+
+Extrait : 
+(…) La mission qu’il s ‘est assignée sera de montrer que l’art est une conquête permanente et non pas un droit acquis ; il refuse les aléas de la chance au profit de l’expérimentation : en somme un anachorète qui nous raconte
+les tribulations d’un carré dans un carré. Le miracle de la transmutation s’opère dans un dialogue fond-forme. Il
+lui suffit de déplacer l’un dans l’autre ou d’en changer les couleurs pour nous faire regarder l’infini. Ses tableaux sont en relation les uns les autres, la simplicité peut ainsi devenir extravagante, tant la complexité sous-jacente qui
+préside à son élaboration s’efface. L’œuvre devient secrète, car elle ne révèle plus tous les détours qui ont permis de procéder à l’investissement de la surface.
+
+J.C. LAHUMIÈRE 1998
 
 
+Extrait :
 
-
-“L’espace vient à nous avec des couleurs vives et se rétracte avec les teintes foncées et les tons gris. Les couleurs, c’est l’ ‘’air‘’ dans le ballon de l’espace, auquel le gris, çà et là, met des fuites. ” Malcom de Chazal, sens plastique.
-
+“L’espace vient à nous avec des couleurs vives et se rétracte avec les teintes foncées et les tons gris. Les couleurs, c’ est l’ ‘’air‘’ dans le ballon de l’espace, auquel le gris, çà et là, met des fuites. ” Malcom de Chazal, sens plastique.
 
 Y-a-t-il des mots pour la peinture ? Les mots sauraient-ils se faire regard ? De toute évidence, Yves Popet se méfie des commentaires de type narratif ou descriptif. Depuis des années, sereinement il poursuit son œuvre, sans soucis de l’exhibitionnisme. Aux grands éclats, il préfère une certaine réserve. Il s’adresse à nous sans vouloir séduire trop vite, avec douceur, un certain détachement. Une telle œuvre, par sa fragilité, on peut dire qu’elle cherche les métaphores nuancées plutôt qu’arrogantes. Si la peinture est, pour lui, une sorte de savoir, un tel savoir se joue d’abord, pratiquement, dans l’ordre du pictural. Cela signifie, je crois, que le visible ne s’y trouve pas réduit aux mots. L’artiste véritable, je veux dire celui qui ne confond pas la pensée artistique et les effets de mode, toujours en appelle à ce quelque chose qui se dérobe dans le visible. Yves Popet organise, mesure, compose, selon des verticales et des horizontales, selon des découpes géométriques précises. Il semble proposer les éléments d’une démonstration rigoureuse. Faut-il pour cela parler de la tradition poursuivie de ce que l’on appelle “art concret” ?
 Si l’on veut. Mais tradition cultivée non point pour elle-même, mais pour ce qu’elle permet, le développement d’une démarche très personnelle, détenant sa propre logique, associée à un sens de la poésie qui échappe à une
@@ -17,9 +25,21 @@ l’expérience de ce temps suspendu. Il y a là, me semble-t-il, dans ce jeu d�
 
 Emmanuel Guigon - Directeur du musée des Beaux-Arts de Besançon.
 
+COLLECTIONS PUBLIQUES :
 
+France : Fond National d’Art Contemporain, Musées de Cambrai, Gravelines,Grenoble, Mâcon, Montbéliard, Valenciennes.
 
+Allemagne : Musées de Bonn, Erfurt , Freiburg, Ludwighafen, Soest-collection Schrott. Collection Hoppe-Ritter.
 
+Canada : Université de Cagliari. 
+
+Hollande : Mondriannhuis-Amersfoort.
+
+Hongrie : collection Vaas
+
+Italie : Musées de Calassetta, Sassari (Sardaigne).
+
+Pologne : Musée de Chelm.
 
 
 
