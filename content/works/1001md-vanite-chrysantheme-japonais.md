@@ -1,6 +1,6 @@
 ---
-title: Vanité Chrysanthème japonais
-reference: '1011, vanité Chrystanthème japonais'
+title: Chrysanthème japonais
+reference: '1011, Chrystanthème japonais'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/1011/galerie-gaia-1011-vanite-chrysantheme-japonnais.jpg
 artist: content/artists/1001.md
@@ -12,3 +12,4 @@ dimensions:
   width: 70
 ---
 
+Œuvre de la série "Vanité"
