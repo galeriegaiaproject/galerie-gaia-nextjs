@@ -8,7 +8,6 @@ styles: []
 expose: true
 work: content/works/le-roux-valerie-algue-curry.md
 works:
-  - work: content/works/le-roux-valerie-algue-bleu-ciel-et-fonce-format-allonge.md
   - work: content/works/le-roux-valerie-algue-curry.md
   - work: content/works/le-roux-valerie-feuille-bleue-n.md
   - work: content/works/le-roux-valerie-poisson-russe.md
