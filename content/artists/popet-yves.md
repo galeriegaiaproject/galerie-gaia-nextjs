@@ -1,17 +1,21 @@
 ---
 title: Popet Yves
+fields:
+  - Oeuvre sur papier
+  - Dessin
+styles:
+  - Abstrait
 ---
 
 Yves Popet est un artiste présent depuis 1994 à la Galerie LAHUMIERE - Paris
 
-Extrait : 
+Extrait :
 (…) La mission qu’il s ‘est assignée sera de montrer que l’art est une conquête permanente et non pas un droit acquis ; il refuse les aléas de la chance au profit de l’expérimentation : en somme un anachorète qui nous raconte
 les tribulations d’un carré dans un carré. Le miracle de la transmutation s’opère dans un dialogue fond-forme. Il
 lui suffit de déplacer l’un dans l’autre ou d’en changer les couleurs pour nous faire regarder l’infini. Ses tableaux sont en relation les uns les autres, la simplicité peut ainsi devenir extravagante, tant la complexité sous-jacente qui
 préside à son élaboration s’efface. L’œuvre devient secrète, car elle ne révèle plus tous les détours qui ont permis de procéder à l’investissement de la surface.
 
 J.C. LAHUMIÈRE 1998
-
 
 Extrait :
 
@@ -31,7 +35,7 @@ France : Fond National d’Art Contemporain, Musées de Cambrai, Gravelines,Gre
 
 Allemagne : Musées de Bonn, Erfurt , Freiburg, Ludwighafen, Soest-collection Schrott. Collection Hoppe-Ritter.
 
-Canada : Université de Cagliari. 
+Canada : Université de Cagliari.
 
 Hollande : Mondriannhuis-Amersfoort.
 
@@ -40,10 +44,3 @@ Hongrie : collection Vaas
 Italie : Musées de Calassetta, Sassari (Sardaigne).
 
 Pologne : Musée de Chelm.
-
-
-
-
-
-
-
