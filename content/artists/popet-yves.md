@@ -23,7 +23,7 @@ works:
   - work: content/works/popet-yvesmd-portrait-yves-popet.md
 ---
 
-Yves Popet est un artiste présent depuis 1994 à la Galerie LAHUMIERE - Paris
+Yves Popet est un artiste présent depuis 1994 à la Galerie Lahumière à Paris et depuis 2010 à la Galerie Oniris à Rennes.
 
 Extrait :
 (…) La mission qu’il s ‘est assignée sera de montrer que l’art est une conquête permanente et non pas un droit acquis ; il refuse les aléas de la chance au profit de l’expérimentation : en somme un anachorète qui nous raconte
