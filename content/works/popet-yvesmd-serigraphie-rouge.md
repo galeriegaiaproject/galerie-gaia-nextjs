@@ -1,6 +1,6 @@
 ---
-title: 'Sérigraphie rouge '
-reference: 'Popet Yves, Sérigraphie rouge '
+title: Sérigraphie rouge sur fond fushia
+reference: 'Popet Yves, Sérigraphie rouge sur fond fushia'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/popet-yves/galerie-gaia-popet-yves-45 
   ALBUM SERIG 2013 37,5 x 37,5.jpeg
