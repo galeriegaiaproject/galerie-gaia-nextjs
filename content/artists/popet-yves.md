@@ -5,6 +5,7 @@ fields:
   - Dessin
 styles:
   - Abstrait
+expose: true
 work: content/works/popet-yvesmd-serigraphie-rouge.md
 works:
   - work: content/works/popet-yvesmd-xv-07-2017.md
