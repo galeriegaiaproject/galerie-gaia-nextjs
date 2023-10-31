@@ -5,6 +5,7 @@ fields:
   - Oeuvre sur papier
   - Peinture
 birth: '1946'
+expose: true
 work: content/works/garibbo-albertemd-amenagement-serein.md
 works:
   - work: content/works/garibbo-albertemd-amenagement-serein.md
