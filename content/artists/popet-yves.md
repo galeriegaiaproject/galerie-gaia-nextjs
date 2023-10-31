@@ -5,6 +5,21 @@ fields:
   - Dessin
 styles:
   - Abstrait
+works:
+  - work: content/works/popet-yvesmd-xv-07-2017.md
+  - work: content/works/popet-yvesmd-xviii-07-2017.md
+  - work: content/works/popet-yvesmd-xxi.md
+  - work: content/works/popet-yvesmd-xxx-10-2021.md
+  - work: content/works/popet-yvesmd-xxxii-11-2021.md
+  - work: content/works/popet-yvesmd-xxxv-12-2021.md
+  - work: content/works/popet-yvesmd-xxxvi-12-2021.md
+  - work: content/works/popet-yvesmd-serigraphie-violet-sur-fond-blanc.md
+  - work: content/works/popet-yvesmd-serigraphie-verte.md
+  - work: content/works/popet-yvesmd-serigraphie-rouge.md
+  - work: content/works/popet-yvesmd-serigraphie-bleu-sur-fond-bleu.md
+  - work: content/works/popet-yvesmd-serigraphie-blanc-sur-fond-noir.md
+  - work: content/works/popet-yvesmd-coffret-des-5-serigraphies.md
+  - work: content/works/popet-yvesmd-portrait-yves-popet.md
 ---
 
 Yves Popet est un artiste présent depuis 1994 à la Galerie LAHUMIERE - Paris
