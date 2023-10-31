@@ -8,6 +8,7 @@ seo:
     de découvrir de nombreux artistes contemporains internationaux.
   image: ''
 artists:
+  - artist: content/artists/popet-yves.md
   - artist: content/artists/pierre-muckensturm.md
   - artist: content/artists/dubreuil.md
   - artist: content/artists/byl-william.md
