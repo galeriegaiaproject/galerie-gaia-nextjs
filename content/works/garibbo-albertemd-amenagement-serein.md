@@ -13,4 +13,4 @@ dimensions:
   width: 50
 ---
 
-1992, oeuvre encadrée
+1992, œuvre encadrée 
