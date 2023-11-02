@@ -1,6 +1,6 @@
 ---
 title: Pierre de lune 1
-reference: 'Garribo Alberte, Pierre de lune 1'
+reference: 'Garibbo Alberte, Pierre de lune 1'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/garibbo-alberte/galerie-gaia-garibbo-alberte-PIERRE
   DE LUNE huile sur toile - 1- 60x60E.jpeg
