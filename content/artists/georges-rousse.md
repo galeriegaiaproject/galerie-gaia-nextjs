@@ -7,7 +7,6 @@ styles: []
 expose: true
 work: content/works/rousse-georges-vevey.md
 works:
-  - work: content/works/rousse-georges-arles-1986.md
   - work: content/works/rousse-georges-blanc-mesnil.md
   - work: content/works/rousse-georges-bomdock.md
   - work: content/works/rousse-georges-bourgoin-jallieu-2.md
