@@ -1,19 +1,16 @@
 ---
-template: artist
 title: Morin Jorj Peinture Céramique
 location: Nantes
 fields:
   - Peinture
+styles:
+  - Abstrait
 birth: '1909'
 death: '1995'
 expose: true
-exhibitions: []
-redirect_from:
-  - /artistes/20-jorj-morin/
-styles:
-  - Abstrait
 work: content/works/jorj-morin-peintremd-trois-soleils-bleus.md
 works:
+  - work: content/works/jorj-morin-peintremd-feu-protege.md
   - work: content/works/jorj-morin-peintremd-trois-soleils-bleus.md
   - work: content/works/jorj-morin-peintremd-soleil-froid.md
   - work: content/works/jorj-morin-peintremd-petit-monde.md
@@ -23,6 +20,7 @@ works:
   - work: content/works/morin-jorj-peinture-ceramique-arbre-a-couleurs.md
   - work: content/works/morin-jorj-peinture-ceramique-resac.md
   - work: content/works/morin-jorj-peinture-ceramique-ouest-france-040220.md
+exhibitions: []
 ---
 
 # Jorj Morin (Georges)
