@@ -9,8 +9,8 @@ price: 3600
 technique: 'Huile sur toile '
 contextual: true
 dimensions:
-  height: 100
-  width: 100
+  height: 60
+  width: 60
 ---
 
 1992
