@@ -1,38 +1,30 @@
 ---
-template: artist
 title: Rousse Georges
 location: ''
 fields:
   - Photographie
-expose: true
-exhibitions: []
-redirect_from:
-  - /artistes/93-georges-rousse/
 styles: []
+expose: true
 work: content/works/rousse-georges-vevey.md
 works:
   - work: content/works/rousse-georges-arles-1986.md
   - work: content/works/rousse-georges-blanc-mesnil.md
   - work: content/works/rousse-georges-bomdock.md
   - work: content/works/rousse-georges-bourgoin-jallieu-2.md
-  - work: content/works/rousse-georges-chasse-sur-rhone-1.md
   - work: content/works/rousse-georges-chateau-des-alpilles-st-remy-de-provence.md
   - work: content/works/rousse-georges-esch-sur-alzette.md
   - work: content/works/rousse-georges-exposition-galerie-gaia-2022.md
   - work: content/works/rousse-georges-exposition-georges-rousse-galerie-gaia.md
-  - work: content/works/rousse-georges-le-pavillon-de-la-muette-1.md
-  - work: content/works/rousse-georges-le-pavillon-de-la-muette-2.md
-  - work: content/works/rousse-georges-lisbonne-3.md
   - work: content/works/rousse-georges-luxembourg-blanc.md
   - work: content/works/rousse-georges-luxembourg-jaune.md
   - work: content/works/rousse-georges-marseille-1.md
   - work: content/works/rousse-georges-mumbai.md
-  - work: content/works/rousse-georges-nantes-2.md
   - work: content/works/rousse-georges-polygone.md
-  - work: content/works/rousse-georges-seoul.md
   - work: content/works/rousse-georges-utopia.md
   - work: content/works/rousse-georges-vevey.md
+exhibitions: []
 ---
+
 # Georges Rousse
 
 > L'accord de la surface plane d'une photographie et la peinture en relief
@@ -55,11 +47,11 @@ L'artiste a participé à de nombreuses biennales - Biennale de Paris, Biennale 
 
 **Timelaps de l'installation Marseille 2011**
 
-Part 1 : https://www.youtube.com/watch?v=LFT5CpYtMz0
+Part 1 : [https://www.youtube.com/watch?v=LFT5CpYtMz0](https://www.youtube.com/watch?v=LFT5CpYtMz0)
 
-Part 2 : https://www.youtube.com/watch?v=tFiXI5nkATE
+Part 2 : [https://www.youtube.com/watch?v=tFiXI5nkATE](https://www.youtube.com/watch?v=tFiXI5nkATE)
 
-Part 3 : https://www.youtube.com/watch?v=1e7msPV3CtI
+Part 3 : [https://www.youtube.com/watch?v=1e7msPV3CtI](https://www.youtube.com/watch?v=1e7msPV3CtI)
 
 The harmony between a flat surface of a photography and a painting in relief
 
