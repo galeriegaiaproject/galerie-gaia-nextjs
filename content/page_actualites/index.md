@@ -9,6 +9,12 @@ seo:
     contemporain à Nantes, galerie art contemporain nantes
   image: ''
 articles:
+  - title: Art concret
+    date: 2023-11-13T23:00:00.000Z
+    categories:
+      - Exposition
+    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/GAIÌ\x88A_MUCKENSTURM_AFF_B1(2)_page-0001.jpg"
+    content: "Vernissage samedi 18 Novembre en présence des artistes Pierre Muckensturm, Alberte Garibbo, Yves Popet, Miche Jouet, Jean-François dubreuil\n“L’art concret veut transformer le monde, il veut rendre l’existence plus supportable. Il veut sauver l’homme de la folie la plus dangereuse : la vanité\". \n\nIl veut simplifier la vie de l’homme.\nIl veut l’identifier avec la nature...\n\nL’art concret est un art élémentaire, naturel, sain, qui fait pousser dans la tête et le cœur les étoiles de la paix, de l’amour et de la poésie. Où entre l’art concret, sort la mélancolie, traînant ses valises grises remplies de soupirs\nnoirs.”  Jean Arp, 1944\n\nL’art concret, c’est avant tout un langage pictural strictement non-figuratif. Ce sont des lignes, des formes et des couleurs\_: un vocabulaire graphique accessible à tous. \n\nUne œuvre concrète résulte d’une construction simple et contrôlable, un protocole créatif, qui répond à un principe géométrique que s’impose l’artiste. Elle se libère de la représentation du monde qu’elle simplifie à l’extrême en lignes, courbes et angles droits. Une pratique qui s’éloigne du sensible, sans autre référence qu’elle-même. Et oui un carré reste un carré. Parfois, ce protocole est perturbé, la rigueur est détournée pour laisser place non sans humour à une utopie, subversive. \n\n«\_J’ai un goût prononcé pour la fantaisie, avec une tolérance de 2,2 degrés.\_» Pierre Muckenstrum\n\nLes artistes présentés à la Galerie Gaïa s’inscrivent dans la filiation de cette pratique chacun avec des systèmes de créations qui leur sont propres. \n\nPierre Muckenstrum utilise l’Entasis et ses variations souvent riches d’humour, Alberte Garibbo questionne le noir, ses enchantements et ses subtilités. Le carré devient la source d’inspiration et de référence des créations de Yves Poppet, il est utilisé pour sa simplicité et sa capacité de transformation, Michel Jouet s’intéresse à la ligne et au volume quant à Jean-Francois Dubreuil, ce sont les unes de presses qu’il essentialise et font système géométrique. \n\n\n\n\n\n\n\n"
   - title: FRAGMENTS   PAYSAGES    Tangui Robert
     date: 2020-12-06T11:38:00.000Z
     categories:
@@ -155,11 +161,14 @@ articles:
       - Exposition
     image: >-
       https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/tony-soulie.jpg
-    content: |
+    content: >
       vernissage jeudi 19 Novembre à 18H
+
       des lithos, des aquatintes, et des peintures originales
 
-      https://www.youtube.com/watch?v=t6Et5ZKeUXY
+
+      [https://www.youtube.com/watch?v=t6Et5ZKeUXY](https://www.youtube.com/watch?v=t6Et5ZKeUXY)
+
 
       *Du 11/19/2015 au 12/05/2015*
   - title: Hasards pour Morgane
@@ -184,7 +193,7 @@ articles:
       40€.
 
 
-      http://assomorgane.fr/Partenariat-avec-GAIA.html
+      [http://assomorgane.fr/Partenariat-avec-GAIA.html](http://assomorgane.fr/Partenariat-avec-GAIA.html)
 
 
       *Du 02/25/2016 au 02/27/2016*
@@ -203,7 +212,8 @@ articles:
       Venez pour voir en live, pour participer, pour jouer, pour apprendre...
 
 
-      pour en savoir plus sur l'événement  http://www.chambre21.fr
+      pour en savoir plus sur l'événement 
+      [http://www.chambre21.fr](http://www.chambre21.fr)
 
 
       *Du 04/21/2016 au 04/21/2016*
@@ -233,7 +243,7 @@ articles:
       NOCTURNE LE 12 MAI 19H 22H avec reprise d'une oeuvre éphémère
 
 
-      www.chambre21.fr
+      [www.chambre21.fr](http://www.chambre21.fr)
 
 
       *Du 04/22/2016 au 05/14/2016*
@@ -283,7 +293,7 @@ articles:
       du projet, elle expose une série de photos prises pendant cette première
       phase de travail dans les grandes métropoles africaines.
 
-      http://www.grafikama.fr/fr/category/artistes-fr/
+      [http://www.grafikama.fr/fr/category/artistes-fr/](http://www.grafikama.fr/fr/category/artistes-fr/)
 
 
       *Du 07/01/2016 au 08/27/2016*
@@ -683,7 +693,7 @@ articles:
       vente auprès de PSA Open International Squash Nantes.
 
 
-      https://www.youtube.com/channel/UCKwY-uJEvEXsHBynYNy2kfg
+      [https://www.youtube.com/channel/UCKwY-uJEvEXsHBynYNy2kfg](https://www.youtube.com/channel/UCKwY-uJEvEXsHBynYNy2kfg)
 
 
       *Du 09/05/2018 au 09/09/2018*
@@ -742,7 +752,7 @@ articles:
       limitée à 10 exemplaires
 
 
-      https://grand-patrimoine.loire-atlantique.fr/jcms/l-agenda/les-expositions/2019-georges-rousse/polygones-exposition-de-georges-rousse-fr-p2\_314968
+      [https://grand-patrimoine.loire-atlantique.fr/jcms/l-agenda/les-expositions/2019-georges-rousse/polygones-exposition-de-georges-rousse-fr-p2\\\_314968](https://grand-patrimoine.loire-atlantique.fr/jcms/l-agenda/les-expositions/2019-georges-rousse/polygones-exposition-de-georges-rousse-fr-p2/_314968)
 
 
       *Du 02/07/2019 au 03/09/2019*
@@ -1242,7 +1252,7 @@ articles:
       gaetan chevrier")
 
 
-      !\[]\(https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/article-galerie-gaïa-
+      !\[]\([https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/article-galerie-gaïa-](https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/article-galerie-ga%C3%AFa-)
       01.jpg)
   - title: Hors les murs Pornichet 18 &19 Septembre 2021
     date: 2021-09-04T09:19:43.000Z
