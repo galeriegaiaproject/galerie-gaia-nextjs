@@ -8,6 +8,12 @@ birth: '1946'
 expose: true
 work: content/works/garibbo-albertemd-amenagement-serein.md
 works:
+  - work: content/works/garibbo-albertemd-koan.md
+  - work: content/works/garibbo-albertemd-ken.md
+  - work: content/works/garibbo-albertemd-croix-bleue.md
+  - work: content/works/garibbo-albertemd-breche.md
+  - work: content/works/garibbo-albertemd-aor.md
+  - work: content/works/garibbo-albertemd-agni.md
   - work: content/works/garibbo-albertemd-amenagement-serein.md
   - work: content/works/garibbo-albertemd-pierre-de-lune-1.md
   - work: content/works/garibbo-albertemd-pierre-de-lune-2.md
