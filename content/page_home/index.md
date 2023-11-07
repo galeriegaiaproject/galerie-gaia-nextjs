@@ -8,7 +8,7 @@ seo:
     estampe, photographie, courtier en art, défiscalisation, location, prêt
     avant achat.
 carousel:
-  - work: content/works/engels-didiermd-little-compo-seven.md
+  - work: content/works/soemone-pierremd-11032023.md
   - work: content/works/engels-didiermd-the-cranman.md
   - work: content/works/engels-didiermd-another-one-in-the-wall.md
 ---
