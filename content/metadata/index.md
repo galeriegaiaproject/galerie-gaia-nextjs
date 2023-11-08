@@ -15,8 +15,11 @@ menu:
   - page: content/pages/references.md
 caption: Art Contemporain
 announcement: |
-  Didier Engels Exposition Photographie \
-  jusqu'au 4 Novembre
+  Exposition Art Concret
+
+  5 artistes 
+
+  14 Novembre - 2 Décembre
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
