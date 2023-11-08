@@ -12,7 +12,7 @@ fields:
 styles:
   - Abstrait
 expose: true
-work: content/works/jouet-michel-odm.md
+work: content/works/jouet-michelmd-fil-a-plomb-bille-rouge.md
 works:
   - work: content/works/jouet-michelmd-systematique-traits-rouge-sur-fond-noir.md
   - work: content/works/jouet-michelmd-systematique-blanc-zoll.md
