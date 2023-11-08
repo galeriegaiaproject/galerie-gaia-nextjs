@@ -19,6 +19,7 @@ works:
   - work: content/works/jouet-michelmd-fil-a-plomb-bille-rouge.md
   - work: content/works/jouet-michelmd-barres-blanches-3d-sur-carre-noir.md
   - work: content/works/jouet-michelmd-barres-blanches-2d-sur-carre-noir.md
+  - work: content/works/jouet-michelmd-meule-rondes.md
   - work: content/works/jouet-michelmd-5-cercles-degrades.md
   - work: content/works/jouet-michelmd-1-trait-pour-4-carres-en-vrac.md
   - work: content/works/jouet-michel-odm.md
