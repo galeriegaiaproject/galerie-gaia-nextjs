@@ -8,8 +8,8 @@ seo:
     estampe, photographie, courtier en art, défiscalisation, location, prêt
     avant achat.
 carousel:
+  - work: content/works/peron-yann-reflet-de-lerdre.md
   - work: content/works/1001md-vanite-renoncule.md
   - work: content/works/soemone-pierremd-11032023.md
-  - work: content/works/peron-yann-reflet-de-lerdre.md
 ---
 
