@@ -11,6 +11,7 @@ artists:
   - artist: content/artists/garibbo-alberte.md
   - artist: content/artists/popet-yves.md
   - artist: content/artists/pierre-muckensturm.md
+  - artist: content/artists/jouet-michel.md
   - artist: content/artists/dubreuil.md
   - artist: content/artists/byl-william.md
   - artist: content/artists/1001.md
@@ -38,7 +39,6 @@ artists:
   - artist: content/artists/isabelle-healy.md
   - artist: content/artists/marie-vandooren.md
   - artist: content/artists/tangui-robert.md
-  - artist: content/artists/jouet-michel.md
   - artist: content/artists/viallat-claude.md
   - artist: content/artists/georges-rousse.md
   - artist: content/artists/aline-isoard.md
