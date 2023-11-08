@@ -14,6 +14,9 @@ styles:
 expose: true
 work: content/works/jouet-michel-odm.md
 works:
+  - work: content/works/jouet-michelmd-systematique-traits-rouge-sur-fond-noir.md
+  - work: content/works/jouet-michelmd-systematique-blanc-zoll.md
+  - work: content/works/jouet-michelmd-fil-a-plomb-bille-rouge.md
   - work: content/works/jouet-michelmd-barres-blanches-3d-sur-carre-noir.md
   - work: content/works/jouet-michelmd-barres-blanches-2d-sur-carre-noir.md
   - work: content/works/jouet-michelmd-5-cercles-degrades.md
