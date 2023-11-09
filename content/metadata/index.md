@@ -15,9 +15,9 @@ menu:
   - page: content/pages/references.md
 caption: Art Contemporain
 announcement: |
-  Exposition Art Concret
+  Exposition Abstraction géométrique
 
-  5 artistes 
+  5 artistes
 
   14 Novembre - 2 Décembre
 opening: |-
