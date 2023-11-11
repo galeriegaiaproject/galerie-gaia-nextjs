@@ -37,7 +37,6 @@ works:
   - work: content/works/toma-l-stone-age-16.md
   - work: content/works/toma-l-bonne-pierre-bon-oeil-01.md
   - work: content/works/toma-l-projet-vas-y.md
-  - work: content/works/toma-l-bonne-pierre-bon-oeil-13-noir.md
   - work: content/works/toma-l-bonne-pierre-bon-oeil-14-bleu-and-noir.md
 exhibitions:
   - title: Rétro-Crade
