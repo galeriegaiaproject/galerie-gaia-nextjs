@@ -16,15 +16,12 @@ expose: true
 work: content/works/isoard-aline-reflets-2-2019.md
 works:
   - work: content/works/isoard-aline-fenetre-sur-route-3-2020.md
-  - work: content/works/isoard-aline-fenetre-sur-route-6_2021.md
   - work: content/works/isoard-aline-fenetre-sur-route-gf12_2015.md
-  - work: content/works/isoard-aline-fenetre-sur-route-gf7-2014.md
   - work: content/works/isoard-aline-habitants-sur-route-5-2021.md
   - work: content/works/isoard-aline-les-objets-10-2020.md
   - work: content/works/isoard-aline-livre-apparaitre-disparaitre-etre.md
   - work: content/works/isoard-aline-pages-du-livre-apparaitre-disparaitre-etre.md
   - work: content/works/isoard-aline-paysage-sur-route-argentine-7-2020.md
-  - work: content/works/isoard-aline-pont-gf2-2016.md
   - work: content/works/isoard-aline-reflets-2-2021.md
   - work: content/works/isoard-aline-station-12-2016.md
   - work: content/works/isoard-aline-station-3-2016.md
