@@ -17,7 +17,7 @@ works:
       content/works/toma-lmd-trio-cotton-size-black-and-colors-vert-noir-rouge-en-atelier.md
   - work: content/works/toma-l-5-little-grey-and-color-en-situation-atelier.md
   - work: content/works/toma-l-catalogue-de-la-collection.md
-  - work: content/works/toma-l-bonne-pierre-bon-oeil-14-noir.md
+  - work: content/works/toma-l-bonne-pierre-bon-oeil-14-bleu-and-noir.md
   - work: content/works/toma-l-diptyque-little-grey-and-color.md
   - work: content/works/toma-l-drawing-black.md
   - work: content/works/toma-l-fre-12.md
