@@ -26,6 +26,8 @@ works:
 
 Yves Popet est un artiste présent depuis 1994 à la Galerie Lahumière à Paris et depuis 2010 à la Galerie Oniris à Rennes.
 
+Yves Popet utilise un papier Arches de haut grammage (640 g /m2) dont la texture dite « grain torchon » est obtenue selon un procédé ancien et traditionnel de pressage et de répartition homogène des fibres (100% coton) qui offre des qualités exceptionnelles de structure par sa résistance et sa stabilité dans le temps mais aussi et surtout de « pré-composition ». Ainsi, ce papier propose un champ de creux et de bosses fibreux dont toute la surface non rigoureusement plane offre des accidents qui en font une sorte d’infra-mince réceptacle tridimensionnel.
+
 Extrait :
 (…) La mission qu’il s ‘est assignée sera de montrer que l’art est une conquête permanente et non pas un droit acquis ; il refuse les aléas de la chance au profit de l’expérimentation : en somme un anachorète qui nous raconte
 les tribulations d’un carré dans un carré. Le miracle de la transmutation s’opère dans un dialogue fond-forme. Il
@@ -34,8 +36,7 @@ préside à son élaboration s’efface. L’œuvre devient secrète, car elle n
 
 J.C. LAHUMIÈRE 1998
 
-Extrait :
-
+Extrait :\
 “L’espace vient à nous avec des couleurs vives et se rétracte avec les teintes foncées et les tons gris. Les couleurs, c’ est l’ ‘’air‘’ dans le ballon de l’espace, auquel le gris, çà et là, met des fuites. ” Malcom de Chazal, sens plastique.
 
 Y-a-t-il des mots pour la peinture ? Les mots sauraient-ils se faire regard ? De toute évidence, Yves Popet se méfie des commentaires de type narratif ou descriptif. Depuis des années, sereinement il poursuit son œuvre, sans soucis de l’exhibitionnisme. Aux grands éclats, il préfère une certaine réserve. Il s’adresse à nous sans vouloir séduire trop vite, avec douceur, un certain détachement. Une telle œuvre, par sa fragilité, on peut dire qu’elle cherche les métaphores nuancées plutôt qu’arrogantes. Si la peinture est, pour lui, une sorte de savoir, un tel savoir se joue d’abord, pratiquement, dans l’ordre du pictural. Cela signifie, je crois, que le visible ne s’y trouve pas réduit aux mots. L’artiste véritable, je veux dire celui qui ne confond pas la pensée artistique et les effets de mode, toujours en appelle à ce quelque chose qui se dérobe dans le visible. Yves Popet organise, mesure, compose, selon des verticales et des horizontales, selon des découpes géométriques précises. Il semble proposer les éléments d’une démonstration rigoureuse. Faut-il pour cela parler de la tradition poursuivie de ce que l’on appelle “art concret” ?
