@@ -13,7 +13,7 @@ styles:
   - Figuratif
   - Abstrait
 expose: true
-work: content/works/isoard-aline-reflets-2-2019.md
+work: content/works/isoard-aline-fenetre-sur-route-3-2020.md
 works:
   - work: content/works/isoard-aline-fenetre-sur-route-3-2020.md
   - work: content/works/isoard-aline-fenetre-sur-route-gf12_2015.md
