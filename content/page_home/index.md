@@ -11,7 +11,5 @@ carousel:
   - work: content/works/pierre-muckensturmmd-xxiii-27-257.md
   - work: content/works/jouet-michel-souris.md
   - work: content/works/popet-yvesmd-serigraphie-bleu-sur-fond-bleu.md
-  - work: content/works/garibbo-albertemd-croix-bleue.md
-  - work: content/works/dubreuilmd-qyes33.md
 ---
 
