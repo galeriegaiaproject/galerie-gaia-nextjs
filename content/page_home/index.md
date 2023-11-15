@@ -8,8 +8,10 @@ seo:
     estampe, photographie, courtier en art, défiscalisation, location, prêt
     avant achat.
 carousel:
-  - work: content/works/soemone-pierremd-11032023.md
-  - work: content/works/peron-yann-reflet-de-lerdre.md
-  - work: content/works/1001md-vanite-renoncule.md
+  - work: content/works/jouet-michel-souris.md
+  - work: content/works/popet-yvesmd-serigraphie-bleu-sur-fond-bleu.md
+  - work: content/works/garibbo-albertemd-croix-bleue.md
+  - work: content/works/dubreuilmd-qyes33.md
+  - work: content/works/pierre-muckensturmmd-xxiii-27-257.md
 ---
 
