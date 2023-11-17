@@ -1,5 +1,4 @@
 ---
-template: artist
 title: 'Muckensturm Pierre '
 location: ''
 fields:
@@ -7,14 +6,12 @@ fields:
   - Peinture
   - Dessin
   - Sculpture
-expose: true
-exhibitions: []
-redirect_from:
-  - /artistes/58-pierre-muckensturm/
 styles:
   - Abstrait
+expose: true
 work: content/works/muckensturm-pierre-xxii-101-343-vue-de-biais.md
 works:
+  - work: content/works/muckensturm-pierre-xxi-56-150.md
   - work: content/works/muckensturm-pierre-14p1832263.md
   - work: content/works/muckensturm-pierre-14p1834.md
   - work: content/works/muckensturm-pierre-14p2906.md
@@ -62,6 +59,7 @@ works:
   - work: content/works/muckensturm-pierre-xxii-101-348-en-situation.md
   - work: content/works/muckensturm-pierre-xxii-104-348.md
   - work: content/works/muckensturm-pierre-xxii-41-074.md
+exhibitions: []
 ---
 
 # Pierre Muckensturm
