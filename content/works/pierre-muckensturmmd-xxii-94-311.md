@@ -8,7 +8,7 @@ artist: content/artists/pierre-muckensturm.md
 price: 1200
 technique: encre et crayon sur papier dessin 250gr/m2
 fields:
-  - oeuvre sur papier
+  - dessin
 contextual: true
 dimensions:
   height: 42
