@@ -13,4 +13,4 @@ dimensions:
   width: 30
 ---
 
-espace proximal de développement de vingt-neuf angles avec entas basculée à +2,2° - 2021 
+espace proximal de développement de vingt-neuf angles avec entas - 2021
