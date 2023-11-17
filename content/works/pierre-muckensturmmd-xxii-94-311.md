@@ -15,4 +15,4 @@ dimensions:
   width: 59.4
 ---
 
-construction linéaire 3mm tous les 6mm au centre inscrite dans un rectangle
+construction linéaire 3mm tous les 6mm au centre inscrite dans un rectangle - 2022
