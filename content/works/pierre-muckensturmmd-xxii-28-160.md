@@ -1,6 +1,6 @@
 ---
-title: XXII 28 160
-reference: 'Muckensturm Pierre, XXII 28 160 '
+title: XXII 28 060
+reference: 'Muckensturm Pierre, XXII 28 060 '
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/muckensturm-pierre/galerie-gaia-muckensturm-XXII
   28 060.jpg
@@ -17,4 +17,4 @@ dimensions:
   width: 48
 ---
 
- \[ vue partielle d'un angle avec entas positionné à 0° ]
+\[ vue partielle d'un angle avec entas positionné à 0° ]
