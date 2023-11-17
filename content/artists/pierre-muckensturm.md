@@ -11,7 +11,6 @@ styles:
 expose: true
 work: content/works/muckensturm-pierre-xxii-101-343-vue-de-biais.md
 works:
-  - work: content/works/muckensturm-pierre-xxi-56-150.md
   - work: content/works/muckensturm-pierre-14p1832263.md
   - work: content/works/muckensturm-pierre-14p1834.md
   - work: content/works/muckensturm-pierre-14p2906.md
