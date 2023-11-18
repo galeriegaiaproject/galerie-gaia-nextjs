@@ -19,7 +19,7 @@ announcement: |
 
   5 artistes
 
-  14 Novembre - 2 Décembre
+  jusqu'au 2 Décembre
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
