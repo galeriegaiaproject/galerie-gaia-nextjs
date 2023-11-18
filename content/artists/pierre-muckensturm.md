@@ -57,7 +57,6 @@ works:
   - work: content/works/muckensturm-pierre-xxi-67-175.md
   - work: content/works/muckensturm-pierre-xxii-06-010.md
   - work: content/works/muckensturm-pierre-xxii-07-010.md
-  - work: content/works/muckensturm-pierre-xxii-101-343-vue-de-biais.md
   - work: content/works/muckensturm-pierre-xxii-101-343.md
   - work: content/works/muckensturm-pierre-xxii-101-348-en-situation.md
   - work: content/works/muckensturm-pierre-xxii-104-348.md
