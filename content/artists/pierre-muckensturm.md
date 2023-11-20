@@ -9,7 +9,7 @@ fields:
 styles:
   - Abstrait
 expose: true
-work: content/works/muckensturm-pierre-xxii-101-343-vue-de-biais.md
+work: content/works/muckensturm-pierre-xxi-65-175.md
 works:
   - work: content/works/pierre-muckensturmmd-xxii-28-160.md
   - work: content/works/pierre-muckensturmmd-xxii-96-315.md
