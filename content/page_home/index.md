@@ -9,7 +9,7 @@ seo:
     avant achat.
 carousel:
   - work: content/works/pierre-muckensturmmd-xxiii-27-257.md
-  - work: content/works/jouet-michel-souris.md
+  - work: content/works/jouet-michelmd-1-trait-pour-4-carres-en-vrac.md
   - work: content/works/popet-yvesmd-serigraphie-bleu-sur-fond-bleu.md
 ---
 
