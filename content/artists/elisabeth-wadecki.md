@@ -12,6 +12,9 @@ styles:
 expose: true
 work: content/works/wadecki-elisabeth-en-mon-jardin-ndegree1.md
 works:
+  - work: content/works/elisabeth-wadeckimd-archipels-ndegree3.md
+  - work: content/works/elisabeth-wadeckimd-archipels-ndegree52.md
+  - work: content/works/elisabeth-wadeckimd-archipels-ndegree53.md
   - work: content/works/wadecki-elisabeth-archipels-ndegree11.md
   - work: content/works/wadecki-elisabeth-archipels-ndegree13.md
   - work: content/works/wadecki-elisabeth-archipels-ndegree17.md
