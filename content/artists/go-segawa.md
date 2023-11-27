@@ -9,7 +9,6 @@ expose: true
 work: content/works/go-segawa-snake-i-blue-ed50.md
 works:
   - work: content/works/go-segawamd-beans-i.md
-  - work: content/works/go-segawamd-snake-iii-green.md
   - work: content/works/go-segawamd-square-blue.md
   - work: content/works/go-segawamd-traingle-green.md
   - work: content/works/go-segawamd-circle-red.md
