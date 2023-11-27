@@ -8,9 +8,9 @@ artist: content/artists/go-segawa.md
 technique: Impression jet d'encre
 contextual: false
 dimensions:
-  height: 9.4
-  width: 9.4
-  depth: 4.7
+  height: 6.5
+  width: 6.5
+  depth: 6.5
 ---
 
-Edition en 25 exemplaires 2023
+Edition en 50 exemplaires 2023
