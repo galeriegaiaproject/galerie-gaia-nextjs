@@ -6,7 +6,7 @@ fields:
 styles:
   - Abstrait
 expose: true
-work: content/works/go-segawa-snake-i-blue-ed50.md
+work: content/works/go-segawamd-beans-i.md
 works:
   - work: content/works/go-segawamd-beans-i.md
   - work: content/works/go-segawamd-square-blue.md
