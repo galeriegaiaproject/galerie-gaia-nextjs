@@ -8,6 +8,7 @@ styles:
 expose: true
 work: content/works/go-segawa-snake-i-blue-ed50.md
 works:
+  - work: content/works/go-segawamd-compressed-transparency-red.md
   - work: content/works/go-segawamd-compressed-cubes-i.md
   - work: content/works/go-segawamd-compressed-black-cube-in-blue.md
   - work: content/works/go-segawamd-transparency-iv-green.md
