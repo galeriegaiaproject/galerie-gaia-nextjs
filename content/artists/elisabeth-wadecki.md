@@ -10,7 +10,7 @@ fields:
 styles:
   - Abstrait
 expose: true
-work: content/works/wadecki-elisabeth-en-mon-jardin-ndegree1.md
+work: content/works/elisabeth-wadeckimd-archipels-ndegree3.md
 works:
   - work: content/works/elisabeth-wadeckimd-archipels-ndegree3.md
   - work: content/works/elisabeth-wadeckimd-archipels-ndegree52.md
