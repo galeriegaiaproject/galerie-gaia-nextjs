@@ -9,6 +9,7 @@ styles:
 expose: true
 work: content/works/toma-lmd-cotton-size-black-color-vert.md
 works:
+  - work: content/works/toma-lmd-mala-bestia-monographie.md
   - work: content/works/toma-lmd-cotton-size-black.md
   - work: content/works/toma-lmd-3-bonnes-pierres.md
   - work: content/works/toma-lmd-cotton-size-black-color-vert.md
