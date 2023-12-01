@@ -5,7 +5,7 @@ image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/carre-laure/galerie-gaia-carre-laure-green
   horse.jpg
 artist: content/artists/laure-carre.md
-price: 400
+price: 430
 technique: Technique mixte sur papier
 fields:
   - Oeuvre sur papier
@@ -17,4 +17,4 @@ dimensions:
   depth: 0
 ---
 
-2020 \_ Œuvre encadrée sous verre format 34X39 cm 
+2020 \_ Œuvre encadrée sous verre format 34X39 cm
