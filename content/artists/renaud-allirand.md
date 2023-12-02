@@ -6,7 +6,7 @@ fields:
 styles:
   - Abstrait
 expose: true
-work: content/works/allirand-renaud-3.md
+work: content/works/allirand-renaud-4.md
 works:
   - work: content/works/allirand-renaud-12-mai.md
   - work: content/works/allirand-renaud-2.md
