@@ -9,7 +9,6 @@ expose: true
 work: content/works/allirand-renaud-3.md
 works:
   - work: content/works/allirand-renaud-12-mai.md
-  - work: content/works/allirand-renaud-2-eme-jour.md
   - work: content/works/allirand-renaud-2.md
   - work: content/works/allirand-renaud-3-juillet.md
   - work: content/works/allirand-renaud-3.md
