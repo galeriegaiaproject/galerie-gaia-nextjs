@@ -15,7 +15,7 @@ menu:
   - page: content/pages/references.md
 caption: Art Contemporain
 announcement: |
-  Ouverture dimanches 
+  Ouverture dimanches
 
   10 & 17 Décembre
 opening: |-
