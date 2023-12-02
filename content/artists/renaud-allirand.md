@@ -12,10 +12,7 @@ works:
   - work: content/works/allirand-renaud-2.md
   - work: content/works/allirand-renaud-3.md
   - work: content/works/allirand-renaud-4.md
-  - work: content/works/allirand-renaud-5.md
-  - work: content/works/allirand-renaud-6.md
   - work: content/works/allirand-renaud-sans-titre.md
-  - work: content/works/allirand-renaud-xxvii.md
 exhibitions: []
 ---
 
