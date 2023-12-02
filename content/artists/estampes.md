@@ -13,7 +13,7 @@ styles:
   - Figuratif
   - Abstrait
 expose: true
-work: content/works/estampesmd-printemps-a-mille-coeur-de-jean-messagier.md
+work: content/works/estampesmd-la-mourre.md
 works:
   - work: content/works/estampesmd-la-mourre.md
   - work: content/works/estampesmd-burkhard-balthasar-maiko.md
