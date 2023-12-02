@@ -15,11 +15,9 @@ menu:
   - page: content/pages/references.md
 caption: Art Contemporain
 announcement: |
-  Exposition Abstraction géométrique
+  Ouverture dimanches 
 
-  5 artistes
-
-  jusqu'au 2 Décembre
+  10 & 17 Décembre
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
