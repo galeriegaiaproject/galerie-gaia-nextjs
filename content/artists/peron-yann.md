@@ -12,7 +12,7 @@ fields:
 styles:
   - Figuratif
 expose: true
-work: content/works/peron-yann-reflet-de-lerdre.md
+work: content/works/peron-yann-nenuphars-de-lerdre.md
 works:
   - work: content/works/peron-yannmd-le-havre-a-oudon.md
   - work: content/works/peron-yannmd-boire-dete.md
