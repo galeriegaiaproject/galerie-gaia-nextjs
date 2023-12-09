@@ -9,14 +9,6 @@ seo:
     contemporain à Nantes, galerie art contemporain nantes
   image: ''
 articles:
-  - title: 'Dédicace par Toma-l  1ère monographie '
-    date: 2023-12-08T23:00:00.000Z
-    categories:
-      - Exposition
-    image: >-
-      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/toma-l/galerie-gaia-Toma-L-Monographie
-      Skira.jpg
-    content: "Mala Bestia / Toma-L / Éditions SKIRA\n\nÀ l’aube des années 2000, Thomas Labarthe découvre Jean Dubuffet au Centre Pompidou. Cette rencontre posthume, à travers une rétrospective, constitue alors pour lui « un véritable électrochoc, mais aussi un révélateur ». Trois mois plus tard, le jeune homme peint\_Mala Bestia,\_sa première toile. « Cette toile vaut pour son premier élan de liberté, j’avais l’impression d’avoir trouvé quelque chose qui, finalement, m’appartenait. La peinture a alors pris le dessus sur tout le reste. C’était une évidence, je l’ai senti d’instinct. Peindre, je pouvais le faire. »\n\nDepuis, Toma-L peint à l’instinct, librement, en marge de tout concept, concentré sur ses tripes et son geste. Personnages dissipés, lignes et formes sous tension, le peintre a fait émerger un petit peuple agité, turbulent, charbonné sur papier ou sur toile. Installations en Tunisie, projets d’édition débridés menés à Marseille, lithographies charbonnées en autodidacte ou expositions pulsionnelles... Avec cette première monographie, l’artiste Toma-L et l’auteur Théophile Pillault reviennent ensemble sur deux décennies de création brute et débridée.\n\nPrix de vente 39€\n"
   - title: FRAGMENTS   PAYSAGES    Tangui Robert
     date: 2020-12-06T11:38:00.000Z
     categories:
@@ -1932,5 +1924,13 @@ articles:
       - Exposition
     image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/GAIÌ\x88A_MUCKENSTURM_AFF_B1(2)_page-0001.jpg"
     content: "Vernissage samedi 18 Novembre à partir de 11H en présence des artistes Pierre Muckensturm, Alberte Garibbo, Yves Popet, Miche Jouet, Jean-François Dubreuil.\n\n“L’art concret veut transformer le monde, il veut rendre l’existence plus supportable. Il veut sauver l’homme de la folie la plus dangereuse : la vanité\".\n\nIl veut simplifier la vie de l’homme.\nIl veut l’identifier avec la nature...\n\nL’art concret est un art élémentaire, naturel, sain, qui fait pousser dans la tête et le cœur les étoiles de la paix, de l’amour et de la poésie. Où entre l’art concret, sort la mélancolie, traînant ses valises grises remplies de soupirs\nnoirs.”  Jean Arp, 1944\n\nL’art concret, c’est avant tout un langage pictural strictement non-figuratif. Ce sont des lignes, des formes et des couleurs\_: un vocabulaire graphique accessible à tous.\n\nUne œuvre concrète résulte d’une construction simple et contrôlable, un protocole créatif, qui répond à un principe géométrique que s’impose l’artiste. Elle se libère de la représentation du monde qu’elle simplifie à l’extrême en lignes, courbes et angles droits. Une pratique qui s’éloigne du sensible, sans autre référence qu’elle-même. Et oui un carré reste un carré. Parfois, ce protocole est perturbé, la rigueur est détournée pour laisser place non sans humour à une utopie, subversive.\n\n«\_J’ai un goût prononcé pour la fantaisie, avec une tolérance de 2,2 degrés.\_» Pierre Muckenstrum\n\nLes artistes présentés à la Galerie Gaïa s’inscrivent dans la filiation de cette pratique chacun avec des systèmes de créations qui leur sont propres.\n\nPierre Muckenstrum utilise l’Entasis et ses variations souvent riches d’humour, Alberte Garibbo questionne le noir, ses enchantements et ses subtilités. Le carré devient la source d’inspiration et de référence des créations de Yves Poppet, il est utilisé pour sa simplicité et sa capacité de transformation, Michel Jouet s’intéresse à la ligne et au volume quant à Jean-Francois Dubreuil, ce sont les unes de presses qu’il essentialise et font système géométrique.\n"
+  - title: 'Dédicace par Toma-l  1ère monographie '
+    date: 2023-12-08T23:00:00.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/toma-l/galerie-gaia-Toma-L-Monographie
+      Skira.jpg
+    content: "Mala Bestia / Toma-L / Éditions SKIRA\n\nÀ l’aube des années 2000, Thomas Labarthe découvre Jean Dubuffet au Centre Pompidou. Cette rencontre posthume, à travers une rétrospective, constitue alors pour lui « un véritable électrochoc, mais aussi un révélateur ». Trois mois plus tard, le jeune homme peint\_Mala Bestia,\_sa première toile. « Cette toile vaut pour son premier élan de liberté, j’avais l’impression d’avoir trouvé quelque chose qui, finalement, m’appartenait. La peinture a alors pris le dessus sur tout le reste. C’était une évidence, je l’ai senti d’instinct. Peindre, je pouvais le faire. »\n\nDepuis, Toma-L peint à l’instinct, librement, en marge de tout concept, concentré sur ses tripes et son geste. Personnages dissipés, lignes et formes sous tension, le peintre a fait émerger un petit peuple agité, turbulent, charbonné sur papier ou sur toile. Installations en Tunisie, projets d’édition débridés menés à Marseille, lithographies charbonnées en autodidacte ou expositions pulsionnelles... Avec cette première monographie, l’artiste Toma-L et l’auteur Théophile Pillault reviennent ensemble sur deux décennies de création brute et débridée.\n\nPrix de vente 39€\n"
 ---
 
