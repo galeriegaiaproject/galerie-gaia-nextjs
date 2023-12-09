@@ -12,4 +12,4 @@ fields:
 contextual: false
 ---
 
-Première monographie de Toma-L aux Editions Skira
+Première monographie de Toma-L aux Editions Skira 2023
