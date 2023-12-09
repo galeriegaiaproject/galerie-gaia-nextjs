@@ -11,3 +11,4 @@ dimensions:
   width: 122
 ---
 
+Œuvre marouflée sur bois et encadrée dans une caisse américaine chêne 164 X 125 cm
