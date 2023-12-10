@@ -12,7 +12,6 @@ works:
   - work: content/works/toma-lmd-mala-bestia-monographie.md
   - work: content/works/toma-lmd-cotton-size-black.md
   - work: content/works/toma-lmd-3-bonnes-pierres.md
-  - work: content/works/toma-lmd-cotton-size-black-color-vert.md
   - work: content/works/toma-lmd-cotton-size-color-rouge.md
   - work: >-
       content/works/toma-lmd-trio-cotton-size-black-and-colors-vert-noir-rouge-en-atelier.md
@@ -20,7 +19,6 @@ works:
   - work: content/works/toma-l-catalogue-de-la-collection.md
   - work: content/works/toma-l-bonne-pierre-bon-oeil-14-bleu-and-noir.md
   - work: content/works/toma-l-diptyque-little-grey-and-color.md
-  - work: content/works/toma-l-drawing-black.md
   - work: content/works/toma-l-fre-12.md
   - work: content/works/toma-l-installation-wood-cartel-toma-l-nantes-2014.md
   - work: content/works/toma-l-le-type-retro-crade-aux-couleurs-flash.md
