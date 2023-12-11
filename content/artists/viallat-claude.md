@@ -1,25 +1,24 @@
 ---
+template: artist
+seo:
+  title: ''
+  heading: ''
+  type: article
+  description: ''
+  image: ''
+title: Viallat Claude
+location: ''
 fields:
   - Oeuvre sur papier
 styles:
   - Abstrait
-seo:
-  type: article
-  title: ''
-  heading: ''
-  description: ''
-  image: ''
-template: artist
-title: Viallat Claude
-location: ''
 expose: true
-exhibitions: []
 work: content/works/viallat-claude-sans-_-fond-rose.md
 works:
   - work: content/works/viallat-claude-sans-_-fond-rose.md
-  - work: content/works/viallat-claude-sans-titre-21.md
-  - work: content/works/viallat-claude-sans-titre-6.md
+exhibitions: []
 ---
+
 # Claude Viallat
 
 > Protagoniste clé du mouvement "Supports/Surfaces" - un questionnement quant aux éléments classiques
