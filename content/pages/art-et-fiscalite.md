@@ -1,5 +1,22 @@
 ---
 template: about
+redirect_from:
+  - /prestations/
+  - /defiscalisation-oeuvre-d-art/
+index: 5
+seo:
+  title: >-
+    Défiscaliser leasing courtier curator Galerie Gaïa, galerie d'art
+    contemporain
+  heading: Défiscalisation
+  type: website
+  description: >-
+    Défiscalisation art acquisition, location, leasing : Elisabeth Givre,
+    directrice de la Galerie Gaïa, conseille les entreprises et professions
+    libérales.
+  image: >-
+    https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-nantes-amenagement
+    bureau.jpg
 content:
   - column: >
       # Défiscaliser une œuvre d'art
@@ -55,8 +72,8 @@ content:
       * Déduction du résultat imposable et **réduction de l'IS (entreprises)**
       ou **IRPP (professions libérales)**
 
-      * Au terme du contrat un **transfert de propriété** vous est proposé une
-      valeur résiduelle de 5%
+      * Au terme du contrat un **transfert de propriété** vous est proposé pour
+      une valeur résiduelle de 5% à 8%
 
       * Cela concerne des **artistes vivants ou non**
 
@@ -71,33 +88,25 @@ content:
 
       Niche fiscale initiée par Jean-Jacques Aillagon alors Ministre de la
       Culture  pour **soutenir les artistes vivants**. Ainsi **entreprises et
-      professions libérales** peuvent s'engager sur cette solution **en se
+      professions libérales** peuvent soutenir la création contemporaine **en se
       constituant un patrimoine.**
 
 
       * L’œuvre doit être **exposée au public et aux salariés** durant 5 ans
 
-      * L’œuvre figure dans les immobilisations de l’entreprise
+      * L’œuvre figure dans un compte de réserve de l’entreprise
 
       * Pas de minimum de valeur d'acquisition
 
-      * Le montant de la déduction est inscrit à un compte de réserve spéciale
-      au passif du bilan de la société.
+      * La déduction sur le résultat fiscal est plafonnée à 20 000€ ou à 5‰ du
+      chiffre d’affaire lorsque ce dernier montant est plus élevé.
 
-        [Texte de référence du Ministère](https://www.service-public.fr/professionnels-entreprises/vosdroits/F32914 "Texte officiel") des finances
-
-      **Exemple de calcul pour une œuvre de 8000€ :**
-
-
-      * Une entreprise réalisant 700 000€ de chiffre d’affaire
-
-      * La déduction sur le résultat fiscal est plafonnée à 5‰ du chiffre
-      d’affaire soit 700 000 x 0,005 = 3500€ de plafond annuel déductible
-
-      * La déduction de 25% du 1/5ème de l’œuvre : 8000€ X 0,25 = 2000€
+      * [Texte de référence du
+      Ministère](https://www.service-public.fr/professionnels-entreprises/vosdroits/F32914
+      "Texte officiel") des finances
 
 
-      *données chiffrées Octobre 2023*
+      *données chiffrées Décembre 2023*
 
 
       ## Courtier en art
@@ -158,23 +167,5 @@ content:
     contact:
       placeholder: Un message à nous adresser ?
       display: false
-seo:
-  title: >-
-    Défiscaliser leasing courtier curator Galerie Gaïa, galerie d'art
-    contemporain
-  heading: Défiscalisation
-  type: website
-  description: >-
-    Défiscalisation art acquisition, location, leasing : Elisabeth Givre,
-    directrice de la Galerie Gaïa, conseille les entreprises et professions
-    libérales.
-  image: >-
-    https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-nantes-amenagement
-    bureau.jpg
-redirect_from:
-  - /prestations/
-  - /defiscalisation-oeuvre-d-art/
-index: 5
 ---
-
 
