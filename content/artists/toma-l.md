@@ -7,7 +7,7 @@ fields:
 styles:
   - Figuratif
 expose: true
-work: content/works/toma-lmd-cotton-size-black-color-vert.md
+work: content/works/toma-l-simple-brut.md
 works:
   - work: content/works/toma-lmd-mala-bestia-monographie.md
   - work: content/works/toma-lmd-cotton-size-black.md
