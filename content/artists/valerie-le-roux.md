@@ -6,17 +6,13 @@ fields:
   - Céramique
 styles: []
 expose: true
-work: content/works/le-roux-valerie-algue-curry.md
+work: content/works/le-roux-valerie-serigraphie-orange.md
 works:
-  - work: content/works/le-roux-valerie-algue-curry.md
   - work: content/works/le-roux-valerie-feuille-bleue-n.md
   - work: content/works/le-roux-valerie-poisson-russe.md
-  - work: content/works/le-roux-valerie-serigraphie-bleue.md
   - work: content/works/le-roux-valerie-serigraphie-orange.md
   - work: content/works/le-roux-valerie-tete-a-queue-orange.md
-  - work: content/works/le-roux-valerie-trio-poissons-rayes-rouge-orange.md
   - work: content/works/le-roux-valerie-vase-vert-clair.md
-  - work: content/works/le-roux-valerie-vegetal-bleu-ciel-et-fonce-format-allonge.md
 exhibitions:
   - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
     start: Eté 2018
