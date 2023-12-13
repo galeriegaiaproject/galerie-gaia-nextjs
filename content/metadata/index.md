@@ -17,7 +17,7 @@ caption: Art Contemporain
 announcement: |
   Ouverture dimanches
 
-  10 & 17 Décembre
+  17 Décembre
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
