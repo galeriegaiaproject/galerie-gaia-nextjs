@@ -17,7 +17,6 @@ styles:
 expose: true
 work: content/works/laure-carremd-regarder-leau.md
 works:
-  - work: content/works/laure-carremd-le-baiser.md
   - work: content/works/laure-carremd-duo-boxeurs.md
   - work: content/works/laure-carremd-boxeur-bleu.md
   - work: content/works/laure-carremd-regarder-leau.md
@@ -31,7 +30,6 @@ works:
   - work: content/works/carre-laure-bal-masque.md
   - work: content/works/carre-laure-blue-boxer.md
   - work: content/works/carre-laure-dog-woman.md
-  - work: content/works/carre-laure-jeune-fille.md
   - work: content/works/carre-laure-moutain-dance.md
   - work: content/works/carre-laure-reve-de-cheval.md
   - work: content/works/carre-laure-tete-et-main.md
