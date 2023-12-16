@@ -5,7 +5,7 @@ image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/carre-laure/galerie-gaia-carre-laure-green
   horse.jpg
 artist: content/artists/laure-carre.md
-price: 430
+price: 440
 technique: Technique mixte sur papier
 fields:
   - Oeuvre sur papier
