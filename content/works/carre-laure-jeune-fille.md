@@ -18,3 +18,4 @@ dimensions:
   depth: 0
 ---
 
+Encadrement chêne
