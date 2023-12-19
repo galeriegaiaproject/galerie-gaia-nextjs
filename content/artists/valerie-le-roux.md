@@ -6,7 +6,7 @@ fields:
   - Céramique
 styles: []
 expose: true
-work: content/works/le-roux-valerie-serigraphie-orange.md
+work: content/works/valerie-le-rouxmd-serigraphie-corail-kaki-et-bleus.md
 works:
   - work: content/works/valerie-le-rouxmd-trio-vegetal-orange-et-bleus.md
   - work: content/works/valerie-le-rouxmd-serigraphie-verte.md
