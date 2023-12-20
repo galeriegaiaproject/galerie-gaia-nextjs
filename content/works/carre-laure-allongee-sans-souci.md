@@ -5,7 +5,7 @@ image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/carre-laure/galerie
   gaia - laure carré -allongee sans souci p.jpeg
 artist: content/artists/laure-carre.md
-price: 380
+price: 410
 technique: 'Huile sur papier '
 fields:
   - Oeuvre sur papier
@@ -18,3 +18,4 @@ dimensions:
   depth: 0
 ---
 
+Oeuvre encadrée sous verre 
