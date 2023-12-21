@@ -15,7 +15,7 @@ fields:
 styles:
   - Figuratif
 expose: true
-work: content/works/laure-carremd-regarder-leau.md
+work: content/works/laure-carremd-mon-bel-arbre.md
 works:
   - work: content/works/laure-carremd-mon-bel-arbre.md
   - work: content/works/laure-carremd-la-nuit-demain.md
