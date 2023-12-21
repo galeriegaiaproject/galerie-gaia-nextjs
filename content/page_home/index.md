@@ -8,8 +8,8 @@ seo:
     estampe, photographie, courtier en art, défiscalisation, location, prêt
     avant achat.
 carousel:
-  - work: content/works/dubreuilmd-qye32.md
-  - work: content/works/pierre-muckensturmmd-xxiii-27-257.md
-  - work: content/works/popet-yvesmd-serigraphie-bleu-sur-fond-bleu.md
+  - work: content/works/byl-william-cheval-sable.md
+  - work: content/works/laure-carremd-mon-bel-arbre.md
+  - work: content/works/peron-yannmd-le-havre-a-oudon.md
 ---
 
