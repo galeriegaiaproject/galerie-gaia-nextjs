@@ -17,6 +17,7 @@ styles:
 expose: true
 work: content/works/laure-carremd-mon-bel-arbre.md
 works:
+  - work: content/works/laure-carremd-buste-femme.md
   - work: content/works/laure-carremd-mon-bel-arbre.md
   - work: content/works/laure-carremd-la-nuit-demain.md
   - work: content/works/laure-carremd-jamais-sans-nuage.md
