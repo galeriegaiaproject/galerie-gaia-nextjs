@@ -17,6 +17,9 @@ styles:
 expose: true
 work: content/works/laure-carremd-regarder-leau.md
 works:
+  - work: content/works/laure-carremd-mon-bel-arbre.md
+  - work: content/works/laure-carremd-la-nuit-demain.md
+  - work: content/works/laure-carremd-jamais-sans-nuage.md
   - work: content/works/laure-carremd-duo-boxeurs.md
   - work: content/works/laure-carremd-boxeur-bleu.md
   - work: content/works/laure-carremd-regarder-leau.md
