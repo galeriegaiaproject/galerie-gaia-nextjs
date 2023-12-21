@@ -19,7 +19,6 @@ works:
   - work: content/works/rousse-georges-marseille-1.md
   - work: content/works/rousse-georges-mumbai.md
   - work: content/works/rousse-georges-polygone.md
-  - work: content/works/rousse-georges-utopia.md
   - work: content/works/rousse-georges-vevey.md
 exhibitions: []
 ---
