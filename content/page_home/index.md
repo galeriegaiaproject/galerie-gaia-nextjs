@@ -9,7 +9,7 @@ seo:
     avant achat.
 carousel:
   - work: content/works/byl-william-cheval-sable.md
-  - work: content/works/laure-carremd-mon-bel-arbre.md
-  - work: content/works/peron-yannmd-le-havre-a-oudon.md
+  - work: content/works/laure-carremd-la-nuit-demain.md
+  - work: content/works/peron-yannmd-boire-dete.md
 ---
 
