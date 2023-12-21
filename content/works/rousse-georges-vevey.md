@@ -1,18 +1,18 @@
 ---
-artist: content/artists/georges-rousse.md
-reference: 'Rousse Georges, Vevey'
 title: Vevey
-image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/rousse-georges/vevey.jpg'
+reference: 'Rousse Georges, Vevey'
+image: >-
+  https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/rousse-georges/vevey.jpg
+artist: content/artists/georges-rousse.md
+price: 3700
 technique: Photographie épreuve pigmentaire
+fields: []
+styles: []
+sold: false
+contextual: true
 dimensions:
   height: 112
   width: 92
   depth: null
-description: Tirage en 30 exemplaires
-price: 3400
-sold: false
-contextual: true
-fields: []
-styles: []
 ---
 
