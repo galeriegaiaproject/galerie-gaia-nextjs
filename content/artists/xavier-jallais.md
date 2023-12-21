@@ -11,6 +11,7 @@ styles:
 expose: true
 work: content/works/xavier-jallaismd-jai-reve-dhorizon-plus-vaste.md
 works:
+  - work: content/works/xavier-jallaismd-pleine-lumiere.md
   - work: content/works/xavier-jallaismd-inventer-la-nuit.md
   - work: content/works/xavier-jallaismd-mes-mains-pleines-de-voyage.md
   - work: content/works/xavier-jallaismd-empilement.md
