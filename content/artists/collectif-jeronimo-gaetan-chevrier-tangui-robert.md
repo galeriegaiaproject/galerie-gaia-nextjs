@@ -1,13 +1,12 @@
 ---
 template: artist
+redirect_from:
+  - /artistes/62-collectif-jeronimo-gaetan-chevrier-tangui-robert/
 title: Versants
 location: ''
 fields:
   - Oeuvre sur papier
 expose: true
-exhibitions: []
-redirect_from:
-  - /artistes/62-collectif-jeronimo-gaetan-chevrier-tangui-robert/
 work: content/works/versants-strates-42.md
 works:
   - work: content/works/versants-echo-v.md
@@ -17,11 +16,11 @@ works:
   - work: content/works/versants-fresque-iii.md
   - work: content/works/versants-gaia.md
   - work: content/works/versants-strates-42.md
-  - work: content/works/versants-strates-52.md
   - work: content/works/versants-strates-58.md
   - work: content/works/versants-strates-60.md
   - work: content/works/versants-strates-61.md
   - work: content/works/versants-strates-79.md
+exhibitions: []
 ---
 
 # Tangui Robert Jeronimo Gaetan Chevrier pour Versants
