@@ -16,7 +16,6 @@ works:
   - work: content/works/valerie-le-rouxmd-grand-plat-bleu-et-noir.md
   - work: content/works/valerie-le-rouxmd-corail-orange-allonge.md
   - work: content/works/valerie-le-rouxmd-algue-orangee.md
-  - work: content/works/le-roux-valerie-feuille-bleue-n.md
   - work: content/works/le-roux-valerie-poisson-russe.md
   - work: content/works/le-roux-valerie-serigraphie-orange.md
   - work: content/works/le-roux-valerie-tete-a-queue-orange.md
