@@ -17,8 +17,6 @@ works:
   - work: content/works/versants-gaia.md
   - work: content/works/versants-strates-42.md
   - work: content/works/versants-strates-58.md
-  - work: content/works/versants-strates-60.md
-  - work: content/works/versants-strates-61.md
   - work: content/works/versants-strates-79.md
 exhibitions: []
 ---
