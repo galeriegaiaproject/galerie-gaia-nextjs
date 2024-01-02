@@ -15,7 +15,11 @@ menu:
   - page: content/pages/references.md
 caption: Art Contemporain
 announcement: |
-  Exposition de tous nos artistes 
+  Jacqueline Pécantet
+
+  Elisabeth Wadecki 
+
+  09 au 30 Janvier
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
