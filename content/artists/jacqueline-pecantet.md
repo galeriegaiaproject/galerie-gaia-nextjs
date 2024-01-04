@@ -1,26 +1,23 @@
 ---
 template: artist
+redirect_from:
+  - /artistes/36tistes/36-jacqueline-pecantet/
 title: 'Pécantet Jacqueline '
 location: ''
 fields:
   - Céramique
-expose: true
-exhibitions: []
-redirect_from:
-  - /artistes/36tistes/36-jacqueline-pecantet/
 styles:
   - Abstrait
-work: content/works/pecantet-jacqueline-gres-13.md
+expose: true
+work: content/works/pecantet-jacqueline-gres-12.md
 works:
-  - work: content/works/pecantet-jacqueline-gres-10.md
-  - work: content/works/pecantet-jacqueline-gres-11.md
   - work: content/works/pecantet-jacqueline-gres-12.md
-  - work: content/works/pecantet-jacqueline-gres-13.md
-  - work: content/works/pecantet-jacqueline-gres-8.md
-  - work: content/works/pecantet-jacqueline-gres-9.md
-  - work: content/works/pecantet-jacqueline-jean-michel-nicolau-livre-sil-reste-des-silences.md
+  - work: >-
+      content/works/pecantet-jacqueline-jean-michel-nicolau-livre-sil-reste-des-silences.md
   - work: content/works/pecantet-jacqueline-portrait-de-jacqueline-pecantet.md
+exhibitions: []
 ---
+
 ## Jacqueline Pecantet
 
 > De multiples techniques pour représenter la terre
