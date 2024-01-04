@@ -10,11 +10,13 @@ seo:
 artists:
   - artist: content/artists/elisabeth-wadecki.md
   - artist: content/artists/garibbo-alberte.md
+  - artist: content/artists/xavier-jallais.md
+  - artist: content/artists/byl-william.md
+  - artist: content/artists/jacqueline-pecantet.md
   - artist: content/artists/popet-yves.md
   - artist: content/artists/pierre-muckensturm.md
   - artist: content/artists/jouet-michel.md
   - artist: content/artists/dubreuil.md
-  - artist: content/artists/byl-william.md
   - artist: content/artists/1001.md
   - artist: content/artists/toma-l.md
   - artist: content/artists/wu-yuzi.md
@@ -28,7 +30,6 @@ artists:
   - artist: content/artists/d-harcourt-victoire.md
   - artist: content/artists/soemone-pierre.md
   - artist: content/artists/jean-francois-molliere.md
-  - artist: content/artists/xavier-jallais.md
   - artist: content/artists/pierre-tual.md
   - artist: content/artists/tilly-yves.md
   - artist: content/artists/edwin-wide.md
@@ -50,7 +51,6 @@ artists:
   - artist: content/artists/shirley-jaffe.md
   - artist: content/artists/jorj-morin-peintre.md
   - artist: content/artists/philippe-lecomte.md
-  - artist: content/artists/jacqueline-pecantet.md
   - artist: content/artists/morellet-francois.md
   - artist: content/artists/estampes.md
   - artist: content/artists/jorj-morin.md
