@@ -12,6 +12,7 @@ styles:
 expose: true
 work: content/works/elisabeth-wadeckimd-archipels-ndegree3.md
 works:
+  - work: content/works/wadecki-elisabeth-sans-titre-ndegree7.md
   - work: content/works/elisabeth-wadeckimd-archipels-ndegree3.md
   - work: content/works/elisabeth-wadeckimd-archipels-ndegree52.md
   - work: content/works/elisabeth-wadeckimd-archipels-ndegree53.md
@@ -20,7 +21,6 @@ works:
   - work: content/works/wadecki-elisabeth-archipels-ndegree17.md
   - work: content/works/wadecki-elisabeth-archipels-ndegree20.md
   - work: content/works/wadecki-elisabeth-archipels-ndegree34.md
-  - work: content/works/wadecki-elisabeth-sans-titre-ndegree7.md
   - work: content/works/wadecki-elisabeth-archipels-ndegree37.md
   - work: content/works/wadecki-elisabeth-le-soleil-se-leve-et-tout-devient-nuit.md
   - work: content/works/wadecki-elisabeth-en-mon-jardin-ndegree1.md
