@@ -13,7 +13,6 @@ work: content/works/jacqueline-pecantetmd-conversation.md
 works:
   - work: content/works/jacqueline-pecantetmd-tagua-3.md
   - work: content/works/jacqueline-pecantetmd-maribe-2.md
-  - work: content/works/jacqueline-pecantetmd-pli.md
   - work: content/works/jacqueline-pecantetmd-faille-2.md
   - work: content/works/jacqueline-pecantetmd-conversation.md
   - work: content/works/jacqueline-pecantetmd-bloc.md
