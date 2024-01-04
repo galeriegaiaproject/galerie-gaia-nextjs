@@ -9,56 +9,6 @@ seo:
     contemporain à Nantes, galerie art contemporain nantes
   image: ''
 articles:
-  - title: Exposition Jacqueline Pécantet & Elisabeth Wadecki
-    date: 2024-01-10T23:00:00.000Z
-    categories:
-      - Exposition
-    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/GAIÌ\x88A_A5_PEÌ\x81CANTET.jpg"
-    content: >+
-      En collaboration et en écho à l'exposition "...au détours des silences" au
-      Passage Sainte Croix, nous avons proposé à nos deux artistes Jacqueline
-      Pécantet et Elisabeth Wadecki de partager avec vous toute l'étendue de
-      leur création fragile et sensible.
-
-
-      Samedi 20 Janvier 11:00
-
-      initiez-vous à la gravure sur une plaque de zinc avec Jacqueline Pécantet
-      sur une presse du musée de l'imprimerie et repartez avec votre création.
-
-      (5 places - 2h00 - 20€/pers).
-
-
-      Samedi 27 Janvier 15:00
-
-      rencontrez Elisabeth Wadecki qui partagera avec vous son inspiration et sa
-      poésie. 
-
-  - title: Exposition Elisabeth Wadecki & Jacqueline Pécantet
-    date: 2024-01-10T23:00:00.000Z
-    categories:
-      - Exposition
-    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/GAIÌ\x88A_A5_WADECKI.jpg"
-    content: >+
-      En collaboration et en écho à l'exposition "...au détours des silences" au
-      Passage Sainte Croix, nous avons proposé à nos deux artistes Jacqueline
-      Pécantet et Elisabeth Wadecki de partager avec vous toute l'étendue de
-      leur création fragile et sensible.
-
-
-      Samedi 20 Janvier 11:00
-
-      initiez-vous à la gravure sur une plaque de zinc avec Jacqueline Pécantet
-      sur une presse du musée de l'imprimerie et repartez avec votre création.
-
-      (5 places - 2h00 - 20€/pers).
-
-
-      Samedi 27 Janvier 15:00
-
-      rencontrez Elisabeth Wadecki qui partagera avec vous son inspiration et sa
-      poésie. 
-
   - title: FRAGMENTS   PAYSAGES    Tangui Robert
     date: 2020-12-06T11:38:00.000Z
     categories:
@@ -1982,5 +1932,54 @@ articles:
       https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/toma-l/galerie-gaia-Toma-L-Monographie
       Skira.jpg
     content: "Mala Bestia / Toma-L / Éditions SKIRA\n\nÀ l’aube des années 2000, Thomas Labarthe découvre Jean Dubuffet au Centre Pompidou. Cette rencontre posthume, à travers une rétrospective, constitue alors pour lui « un véritable électrochoc, mais aussi un révélateur ». Trois mois plus tard, le jeune homme peint\_Mala Bestia,\_sa première toile. « Cette toile vaut pour son premier élan de liberté, j’avais l’impression d’avoir trouvé quelque chose qui, finalement, m’appartenait. La peinture a alors pris le dessus sur tout le reste. C’était une évidence, je l’ai senti d’instinct. Peindre, je pouvais le faire. »\n\nDepuis, Toma-L peint à l’instinct, librement, en marge de tout concept, concentré sur ses tripes et son geste. Personnages dissipés, lignes et formes sous tension, le peintre a fait émerger un petit peuple agité, turbulent, charbonné sur papier ou sur toile. Installations en Tunisie, projets d’édition débridés menés à Marseille, lithographies charbonnées en autodidacte ou expositions pulsionnelles... Avec cette première monographie, l’artiste Toma-L et l’auteur Théophile Pillault reviennent ensemble sur deux décennies de création brute et débridée.\n\nLivre disponible à la Galerie Prix de vente unique 39€\n"
+  - title: Exposition Elisabeth Wadecki & Jacqueline Pécantet
+    date: 2024-01-10T23:00:00.000Z
+    categories:
+      - Exposition
+    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/GAIÌ\x88A_A5_WADECKI.jpg"
+    content: >+
+      En collaboration et en écho à l'exposition "...au détours des silences" au
+      Passage Sainte Croix, nous avons proposé à nos deux artistes Jacqueline
+      Pécantet et Elisabeth Wadecki de partager avec vous toute l'étendue de
+      leur création fragile et sensible.
+
+
+      Samedi 20 Janvier 11:00
+
+      initiez-vous à la gravure sur une plaque de zinc avec Jacqueline Pécantet
+      sur une presse du musée de l'imprimerie et repartez avec votre création.
+
+      (5 places - 2h00 - 20€/pers).
+
+
+      Samedi 27 Janvier 15:00
+
+      rencontrez Elisabeth Wadecki qui partagera avec vous son inspiration et sa
+      poésie. 
+
+  - title: Exposition Jacqueline Pécantet & Elisabeth Wadecki
+    date: 2024-01-10T23:00:00.000Z
+    categories:
+      - Exposition
+    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/GAIÌ\x88A_A5_PEÌ\x81CANTET.jpg"
+    content: >+
+      En collaboration et en écho à l'exposition "...au détours des silences" au
+      Passage Sainte Croix, nous avons proposé à nos deux artistes Jacqueline
+      Pécantet et Elisabeth Wadecki de partager avec vous toute l'étendue de
+      leur création fragile et sensible.
+
+
+      Samedi 20 Janvier 11:00
+
+      initiez-vous à la gravure sur une plaque de zinc avec Jacqueline Pécantet
+      sur une presse du musée de l'imprimerie et repartez avec votre création.
+
+      (5 places - 2h00 - 20€/pers).
+
+
+      Samedi 27 Janvier 15:00
+
+      rencontrez Elisabeth Wadecki qui partagera avec vous son inspiration et sa
+      poésie.
 ---
 
