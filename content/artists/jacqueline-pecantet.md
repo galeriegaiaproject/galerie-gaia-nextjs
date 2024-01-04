@@ -9,8 +9,14 @@ fields:
 styles:
   - Abstrait
 expose: true
-work: content/works/pecantet-jacqueline-gres-12.md
+work: content/works/jacqueline-pecantetmd-conversation.md
 works:
+  - work: content/works/jacqueline-pecantetmd-tagua-3.md
+  - work: content/works/jacqueline-pecantetmd-maribe-2.md
+  - work: content/works/jacqueline-pecantetmd-pli.md
+  - work: content/works/jacqueline-pecantetmd-faille-2.md
+  - work: content/works/jacqueline-pecantetmd-conversation.md
+  - work: content/works/jacqueline-pecantetmd-bloc.md
   - work: content/works/pecantet-jacqueline-gres-12.md
   - work: >-
       content/works/pecantet-jacqueline-jean-michel-nicolau-livre-sil-reste-des-silences.md
