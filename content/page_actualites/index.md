@@ -34,7 +34,7 @@ articles:
       rencontrez Elisabeth Wadecki qui partagera avec vous son inspiration et sa
       poésie. 
 
-  - title: Exposition Eisabeth Wadecki & Jacqueline Pécantet
+  - title: Exposition Elisabeth Wadecki & Jacqueline Pécantet
     date: 2024-01-10T23:00:00.000Z
     categories:
       - Exposition
