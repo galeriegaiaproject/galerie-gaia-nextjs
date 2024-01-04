@@ -17,7 +17,6 @@ works:
   - work: content/works/elisabeth-wadeckimd-archipel-ndegree48.md
   - work: content/works/elisabeth-wadeckimd-archipel-ndegree47.md
   - work: content/works/elisabeth-wadeckimd-archipel-ndegree16.md
-  - work: content/works/elisabeth-wadeckimd-archipel-ndegree15.md
   - work: content/works/wadecki-elisabeth-sans-titre-ndegree7.md
   - work: content/works/elisabeth-wadeckimd-archipels-ndegree3.md
   - work: content/works/elisabeth-wadeckimd-archipels-ndegree52.md
