@@ -9,6 +9,31 @@ seo:
     contemporain à Nantes, galerie art contemporain nantes
   image: ''
 articles:
+  - title: Exposition Eisabeth Wadecki & Jacqueline Pécantet
+    date: 2024-01-10T23:00:00.000Z
+    categories:
+      - Exposition
+    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/GAIÌ\x88A_A5_WADECKI.jpg"
+    content: >+
+      En collaboration et en écho à l'exposition "...au détours des silences" au
+      Passage Sainte Croix, nous avons proposé à nos deux artistes Jacqueline
+      Pécantet et Elisabeth Wadecki de partager avec vous toute l'étendue de
+      leur création fragile et sensible.
+
+
+      Samedi 20 Janvier 11:00
+
+      initiez-vous à la gravure sur une plaque de zinc avec Jacqueline Pécantet
+      sur une presse du musée de l'imprimerie et repartez avec votre création.
+
+      (5 places - 2h00 - 20€/pers).
+
+
+      Samedi 27 Janvier 15:00
+
+      rencontrez Elisabeth Wadecki qui partagera avec vous son inspiration et sa
+      poésie. 
+
   - title: FRAGMENTS   PAYSAGES    Tangui Robert
     date: 2020-12-06T11:38:00.000Z
     categories:
