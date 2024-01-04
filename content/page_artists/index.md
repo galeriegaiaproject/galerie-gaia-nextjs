@@ -8,6 +8,7 @@ seo:
     de découvrir de nombreux artistes contemporains internationaux.
   image: ''
 artists:
+  - artist: content/artists/elisabeth-wadecki.md
   - artist: content/artists/garibbo-alberte.md
   - artist: content/artists/popet-yves.md
   - artist: content/artists/pierre-muckensturm.md
@@ -42,7 +43,6 @@ artists:
   - artist: content/artists/viallat-claude.md
   - artist: content/artists/georges-rousse.md
   - artist: content/artists/aline-isoard.md
-  - artist: content/artists/elisabeth-wadecki.md
   - artist: content/artists/franco-salas-borquez.md
   - artist: content/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert.md
   - artist: content/artists/bard-francois.md
