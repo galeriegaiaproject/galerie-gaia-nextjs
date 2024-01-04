@@ -8,8 +8,8 @@ seo:
     estampe, photographie, courtier en art, défiscalisation, location, prêt
     avant achat.
 carousel:
+  - work: content/works/jacqueline-pecantetmd-tagua-3.md
+  - work: content/works/elisabeth-wadeckimd-archipel-ndegree16.md
   - work: content/works/byl-william-cheval-sable.md
-  - work: content/works/laure-carremd-la-nuit-demain.md
-  - work: content/works/peron-yannmd-boire-dete.md
 ---
 
