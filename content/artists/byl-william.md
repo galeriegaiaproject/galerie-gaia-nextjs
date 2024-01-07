@@ -1,28 +1,27 @@
 ---
-fields:
-  - Céramique
-styles:
-  - Figuratif
+template: artist
 seo:
   title: ''
   heading: ''
   type: article
   description: ''
   image: ''
-template: artist
 title: Byl William
 location: France
+fields:
+  - Céramique
+styles:
+  - Figuratif
 expose: true
-exhibitions: []
-work: content/works/byl-williammd-brame-du-renne.md
+work: content/works/byl-williammd-cheval-roux.md
 works:
   - work: content/works/byl-williammd-brame-du-renne.md
   - work: content/works/byl-williammd-cheval-roux.md
   - work: content/works/byl-williammd-coq-noir.md
   - work: content/works/byl-williammd-lion-roux.md
   - work: content/works/byl-williammd-oiseau-noir.md
-  - work: content/works/byl-williammd-sanglier-noir.md
   - work: content/works/byl-william-portrait-de-william-byl.md
+exhibitions: []
 ---
 
 William Byl est passionné par le dessin depuis l'enfance, et se forme à l'école des Beaux- Arts de Cholet\
