@@ -1,6 +1,6 @@
 ---
-title: Maribe 2
-reference: 'Pécantet Jacqueline, Maribe 2'
+title: Marib 2
+reference: 'Pécantet Jacqueline, Marib 2'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/pecantet-jacqueline/galerie-gaia-pecantet-jacqueline-MARIBE
   1-32X10jpg.jpg
