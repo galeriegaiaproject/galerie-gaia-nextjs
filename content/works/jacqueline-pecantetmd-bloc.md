@@ -1,6 +1,6 @@
 ---
 title: Qenqo
-reference: 'Pécantet Jacqueline, Bloc'
+reference: 'Pécantet Jacqueline, Qenqo'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/pecantet-jacqueline/galerie-gaia-pecantet-jacqueline-BLOC-13X12jpg.jpg
 artist: content/artists/jacqueline-pecantet.md
