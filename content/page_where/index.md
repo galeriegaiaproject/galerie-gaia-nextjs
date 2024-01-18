@@ -1,8 +1,7 @@
 ---
-about: |
-  Vous souhaitez recevoir les actualités de la galerie,\
-  Envie d’être invité-e aux prochains vernissages ?
-  Do you want receive our newsletter?
+redirect_from:
+  - /galerie-d-art-nantes/
+  - /contact/
 seo:
   title: 'Le Lieu - Galerie Gaïa, galerie d''art contemporain à Nantes'
   heading: 'Galerie Gaïa, Galerie d''art à Nantes'
@@ -12,9 +11,10 @@ seo:
     sculptures, photos, dessins, street art, céramiques, estampes artistes
     internationaux, projets 1% artistique, 1 immeuble 1 oeuvre
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/photo facade-1.jpg'
-redirect_from:
-  - /galerie-d-art-nantes/
-  - /contact/
+about: |
+  Vous souhaitez recevoir les actualités de la galerie,\
+  Envie d’être invité-e aux prochains vernissages ?
+  Do you want receive our newsletter?
 ---
 
 ![](<https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/photo facade.jpg>)
@@ -30,7 +30,7 @@ La **Galerie Gaïa** poursuit l’aventure d’un lieu d’art crée en **1978**
 Aussi les ruptures et les grands écarts d’une exposition à l’autre sont une évidence fondamentale -7 expositions en solo-show par an-. Chaque artiste reste singulier-e, inspiré-e mais surtout pas rangé-e !
 
 **La particularité de la galerie Gaïa ?**
-**Ses réserves** **+900 œuvres de 50 artistes.**
+**Ses réserves** **+700 œuvres de 60 artistes.**
 
 Ces réserves sont disponibles dans l'onglet [CATALOGUE](https://galeriegaia.fr/catalogue/ "galerie gaillard")  et actualisées quotidiennement.
 
@@ -64,6 +64,6 @@ The heirs of Jorj Morin, a famous Nantes advertiser, painter and engraver, honou
 
 **In 2021, the Gaia Gallery continues its transformation** by fitting out the 2 two rooms of the contemporary art gallery to accommodate 6 to 8 exhibitions alternating between solo shows and group exhibitions. **The abstraction that is at the heart of the selection also gives way to more figurative works where architecture and line are frequently present or underlying.**
 
-This selection of more than **70 artists represents a background of +900 works** available in the CATALOG tab with a choice of paintings, sculptures, photographs, drawings, engravings, lithographs, serigraphs, ceramics, tapestries and unique designer objects all selected by my care.
+This selection of more than **60 artists represents a background of +700 works** available in the CATALOG tab with a choice of paintings, sculptures, photographs, drawings, engravings, lithographs, serigraphs, ceramics, tapestries and unique designer objects all selected by my care.
 
 **[Dossier de Presse](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Dossier+de+Presse+-+Galerie+Gai%CC%88a.pdf "Dossier de Presse")**
