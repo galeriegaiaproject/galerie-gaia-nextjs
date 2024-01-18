@@ -13,7 +13,7 @@ fields:
 styles:
   - Abstrait
 expose: true
-work: content/works/tilly-yvesmd-bouleau.md
+work: content/works/tilly-yvesmd-eucalyptus-001.md
 works:
   - work: content/works/tilly-yvesmd-eucalyptus-001.md
   - work: content/works/tilly-yvesmd-eucalyptus-002.md
