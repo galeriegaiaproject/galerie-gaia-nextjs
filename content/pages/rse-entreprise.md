@@ -1,15 +1,13 @@
 ---
 template: about
+index: 2
 seo:
-  title: >-
-    Galerie Gaia Studio, résidence d'artiste en entreprise conception de projets
-    artistiques
-  heading: ART & RSE
+  title: 'Galerie Gaia Studio, décorer des bureaux impersonnels'
+  heading: ENTREPRISE & RSE
   type: website
   description: >-
-    artiste en résidence en entreprise, politique RSE , recyclage, ressources
-    humaines, marque employeur, anniversaire entreprise, conception de projet
-    artistique Ruptur, évènementiel atypique, 
+    bien être au travail RSE marque employeur, anniversaire entreprise, oeuvre
+    d'art sur mesure évènementiel atypique 
   image: ''
 content:
   - column: >
@@ -115,6 +113,5 @@ content:
     contact:
       placeholder: Un message à nous adresser ?
       display: false
-index: 2
 ---
 
