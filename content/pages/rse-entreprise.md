@@ -92,8 +92,8 @@ content:
       naître des interactions riches en créativité avec tous les services de
       l'entreprise .
     contact:
-      placeholder: Un message à nous adresser ?
-      display: false
+      placeholder: Organiser un rendez-vous telephonique ?
+      display: true
   - column: >
       ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/whome-projet-galerie-gaia-studio.jpg)
 
