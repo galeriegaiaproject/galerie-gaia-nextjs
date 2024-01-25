@@ -11,6 +11,7 @@ styles:
 expose: true
 work: content/works/xavier-jallaismd-jai-reve-dhorizon-plus-vaste.md
 works:
+  - work: content/works/xavier-jallaismd-ce-quil-me-restait-de-ces-murs-fleuris.md
   - work: content/works/xavier-jallaismd-avec-ce-quil-reste.md
   - work: content/works/xavier-jallaismd-au-large-des-lieux.md
   - work: content/works/xavier-jallaismd-au-fil-des-continents.md
