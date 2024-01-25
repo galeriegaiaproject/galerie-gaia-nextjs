@@ -73,6 +73,5 @@ artists:
   - artist: content/artists/claude-francheteau.md
   - artist: content/artists/adolfo-arenas-alonso.md
   - artist: content/artists/wave-week-end-arts-visuels-nantes.md
-  - artist: content/artists/art-galeries-nantes.md
 ---
 
