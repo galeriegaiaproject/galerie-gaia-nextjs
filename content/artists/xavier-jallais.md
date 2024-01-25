@@ -11,7 +11,6 @@ styles:
 expose: true
 work: content/works/xavier-jallaismd-ce-quil-me-restait-de-ces-murs-fleuris.md
 works:
-  - {}
   - work: content/works/xavier-jallaismd-laube-peut-bien-attendre.md
   - work: content/works/xavier-jallaismd-jai-traverse-tant-de-frontieres.md
   - work: content/works/xavier-jallaismd-en-attendant-le-jour.md
