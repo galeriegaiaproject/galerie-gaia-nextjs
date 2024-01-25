@@ -15,6 +15,8 @@ styles:
 expose: true
 work: content/works/estampesmd-la-mourre.md
 works:
+  - work: content/works/adolfo-arenas-alonso-sinnoblitate-extrait-skull-and-bird.md
+  - work: content/works/adolfo-arenas-alonso-sine-noblitate-skull-and-bird.md
   - work: content/works/clement-alain-sans-titre-06ma2g.md
   - work: content/works/estampesmd-la-mourre.md
   - work: content/works/estampesmd-burkhard-balthasar-maiko.md
