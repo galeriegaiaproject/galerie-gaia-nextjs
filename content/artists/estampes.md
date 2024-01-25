@@ -15,6 +15,7 @@ styles:
 expose: true
 work: content/works/estampesmd-la-mourre.md
 works:
+  - work: content/works/clement-alain-sans-titre-06ma2g.md
   - work: content/works/estampesmd-la-mourre.md
   - work: content/works/estampesmd-burkhard-balthasar-maiko.md
   - work: content/works/estampesmd-signature-de-jean-messagier.md
@@ -27,7 +28,6 @@ works:
   - work: content/works/estampes-pierre-alechinsky-ziggourat-ii.md
   - work: content/works/estampes-soulie-tony-la-rue-de-la-soie.md
   - work: content/works/estampes-tapies-exposition-galerie-maeght-1975.md
-  - work: content/works/estampes-valerie-bonduelle.md
 exhibitions: []
 ---
 
