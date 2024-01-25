@@ -11,6 +11,7 @@ styles:
 expose: true
 work: content/works/xavier-jallaismd-jai-reve-dhorizon-plus-vaste.md
 works:
+  - work: content/works/xavier-jallaismd-jai-traverse-tant-de-frontieres.md
   - work: content/works/xavier-jallaismd-en-attendant-le-jour.md
   - work: content/works/xavier-jallaismd-dans-les-lueurs-bleutees.md
   - work: content/works/xavier-jallaismd-dans-la-nuit-transparente.md
