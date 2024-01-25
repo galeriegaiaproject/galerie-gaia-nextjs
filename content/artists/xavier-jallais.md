@@ -40,7 +40,8 @@ Ayant fait l'objet de nombreuses parutions dans la revue spécialisée Miroir de
 
 **Expositions :**
 
-* 2017 : Galerie Gaia
+* 2024 : Galerie Gaïa exposition personnelle 
+* 2017 : Galerie Gaia exposition personnelle
 * 2016 : Art et Connivences, le Rex, Le Pouliguen (44) Familles, Galerie Emmanuelle Rousse, Saint-Savin (86) Puls’art, Le Mans (72)
 * 2015 : Géométries, Galerie Emmanuelle Rousse, Saint-Savin (86) Art Atlantic, La Rochelle (17)
 * 2014 : Chasseur-cueilleur, Festival L'Auberge Grand'Route, La Villedieu du Clain (86)
