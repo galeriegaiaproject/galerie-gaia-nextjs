@@ -34,9 +34,13 @@ exhibitions: []
 
 # Xavier Jallais
 
-Né en 1971, Xavier Jallais vit et travaille à Chauvigny dans la Vienne.  Il est diplômé d’une licence de mathématiques, d’une Licence d’Histoire de l’Art et d’un Master Pro en Conservation-Restauration des Biens Culturel (spécialité peinture).
+ Retenir des fragments de vies, s’accrocher au vivant.
 
-Ayant fait l'objet de nombreuses parutions dans la revue spécialisée Miroir de l'art, Xavier Jallais est un artiste que l'on a pu retrouvé dans des foires d'art contemporain comme le Plus'art du Mans et dans de nombreuses galeries du grand ouest.
+Dans les plis et recoins de la matière, se loge une réalité crue et un questionnement sincère. Quels sont ces morceaux de vies qui font de moi qui je suis ? Quoi prendre si je devais tout quitter ? \
+Dans ses autoportraits Xavier Jallais impose une contemplation troublante. Un corps qui se perd et se cache sous des architectures si fragiles faites de quelques couvertures, cartes et autres cartons. Décontextualisé et méconnaissable, ces portraits deviennent des icônes au pied desquelles les offrandes votives deviennent
+possibles. Une forme de sacralité laïque qui questionne notre monde. Cette perte d’identité permet l’introspection, chaque spectateur se questionne sur ses fragments de vies à coincer au creux de ses bras.
+
+Né en 1971, Xavier Jallais vit et travaille dans la Vienne. Diplômé d´un master de Conservation Restauration des Biens Culturels à Paris1–Panthéon Sorbonne, il exerce la profession de Conservateur–restaurateur de peintures sur toile. Dans ce cadre, il est amené à rencontrer des œuvres anciennes, dont l´état, parfois de délabrement, sera la source de son inspiration en création d´art contemporain. 
 
 **Expositions :**
 
