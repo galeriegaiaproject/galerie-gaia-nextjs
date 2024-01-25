@@ -11,6 +11,10 @@ styles:
 expose: true
 work: content/works/xavier-jallaismd-jai-reve-dhorizon-plus-vaste.md
 works:
+  - work: content/works/xavier-jallaismd-dans-les-lueurs-bleutees.md
+  - work: content/works/xavier-jallaismd-dans-la-nuit-transparente.md
+  - work: >-
+      content/works/xavier-jallaismd-cette-lumiere-qui-me-faisait-penser-a-la-nuit.md
   - work: content/works/xavier-jallaismd-ce-quil-me-restait-de-ces-murs-fleuris.md
   - work: content/works/xavier-jallaismd-avec-ce-quil-reste.md
   - work: content/works/xavier-jallaismd-au-large-des-lieux.md
