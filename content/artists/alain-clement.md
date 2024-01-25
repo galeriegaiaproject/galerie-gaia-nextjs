@@ -1,18 +1,18 @@
 ---
 template: artist
+redirect_from:
+  - /artistes/89-alain-clement/
 title: 'Clément Alain '
 location: ''
 fields:
   - Oeuvre sur papier
-expose: true
-exhibitions: []
-redirect_from:
-  - /artistes/89-alain-clement/
 styles:
   - Abstrait
+expose: false
 work: content/works/clement-alain-sans-titre-06ma2g.md
 works:
   - work: content/works/clement-alain-sans-titre-06ma2g.md
+exhibitions: []
 ---
 
 # Alain Clément
