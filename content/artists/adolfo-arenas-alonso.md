@@ -1,19 +1,19 @@
 ---
 template: artist
+redirect_from:
+  - /artistes/42-adolfo-arenas-alonso/
 title: Adolfo Arenas Alonso
 location: Londres
 fields:
   - Oeuvre sur papier
-expose: true
-exhibitions: []
-redirect_from:
-  - /artistes/42-adolfo-arenas-alonso/
 styles:
   - Figuratif
+expose: false
 work: content/works/adolfo-arenas-alonso-sine-noblitate-skull-and-bird.md
 works:
   - work: content/works/adolfo-arenas-alonso-sine-noblitate-skull-and-bird.md
   - work: content/works/adolfo-arenas-alonso-sinnoblitate-extrait-skull-and-bird.md
+exhibitions: []
 ---
 
 # Adolfo Arenas Alonso
