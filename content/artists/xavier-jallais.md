@@ -15,10 +15,8 @@ works:
   - work: content/works/xavier-jallaismd-inventer-la-nuit.md
   - work: content/works/xavier-jallaismd-mes-mains-pleines-de-voyage.md
   - work: content/works/xavier-jallaismd-empilement.md
-  - work: content/works/xavier-jallaismd-lheure-du-depart.md
   - work: content/works/xavier-jallaismd-jai-reve-dhorizon-plus-vaste.md
   - work: content/works/xavier-jallaismd-et-ne-plus-se-retourner.md
-  - work: content/works/jallais-xavier-ailleurs-ou-nulle-part.md
   - work: content/works/jallais-xavier-cerf-1.md
 exhibitions: []
 ---
