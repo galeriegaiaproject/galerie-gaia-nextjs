@@ -11,7 +11,6 @@ styles:
 expose: false
 work: content/works/lecomte-philippe-2020spp8b.md
 works:
-  - work: content/works/lecomte-philippe-2017plp12.md
   - work: content/works/lecomte-philippe-2020spp3.md
   - work: content/works/lecomte-philippe-2020spp34.md
   - work: content/works/lecomte-philippe-2020spp35.md
