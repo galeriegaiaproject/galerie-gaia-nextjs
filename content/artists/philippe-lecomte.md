@@ -1,19 +1,14 @@
 ---
 template: artist
+redirect_from:
+  - /artistes/71-philippe-lecomte/
 title: 'Lecomte Philippe '
 location: ''
 fields:
   - Oeuvre sur papier
-expose: true
-exhibitions:
-  - title: 'Exposition dessins et peintures '
-    location: Galerie Gaïa
-    end: 23/11/2019
-    start: 7/11/2019
-redirect_from:
-  - /artistes/71-philippe-lecomte/
 styles:
   - Abstrait
+expose: false
 work: content/works/lecomte-philippe-2020spp8b.md
 works:
   - work: content/works/lecomte-philippe-2017plp12.md
@@ -31,7 +26,13 @@ works:
   - work: content/works/lecomte-philippe-2020spp8e.md
   - work: content/works/lecomte-philippe-2020spp8f.md
   - work: content/works/lecomte-philippe-exposition-dessin-et-peinture.md
+exhibitions:
+  - title: 'Exposition dessins et peintures '
+    location: Galerie Gaïa
+    start: 7/11/2019
+    end: 23/11/2019
 ---
+
 # Philippe Lecomte
 
 [Vidéo interview dans l'atelier de Philippe Lecomte]()
@@ -61,7 +62,7 @@ Philippe Lecomte est né en 1958 à La Rochelle. Il vit et travaille à Nantes. 
 * Galerie Les Bigotes - (56) Vannes
 * Galerie Gaïa - (44) Nantes
 
-[Vidéo interview dans l'atelier de Philippe Lecomte]( "Interview video in the workshop of Philippe Lecomte")
+\[Vidéo interview dans l'atelier de Philippe Lecomte]\( "Interview video in the workshop of Philippe Lecomte")
 
 Philippe Lecomte was born in 1958 in La Rochelle. He lives and works in Nantes. Philippe Lecomte's work focuses on the body and does not only seek to take into account its representation. He is as interested in the surface as in what it covers, because the visible does not seem to him to be the subject of painting. If this were the case, it would be enough to open one's eyes. Everyone knows that the describable reality is only a part of reality. Painting cannot be illustrative, it does not show: it discovers.
 
