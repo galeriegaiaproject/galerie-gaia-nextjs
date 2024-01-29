@@ -9,12 +9,6 @@ seo:
     contemporain à Nantes, galerie art contemporain nantes
   image: ''
 articles:
-  - title: 'Xavier Jallais '
-    date: 2024-01-29T23:00:00.000Z
-    categories:
-      - Exposition
-    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/jallais-xavier/GAIÌ\x88A_A5_XAVIER_JALLAIS.jpg"
-    content: "Retenir des fragments de vies, s’accrocher au vivant.\n\nDans les plis et recoins de la matière, se loge une réalité crue et un questionnement sincère.\_Quels sont ces morceaux de vies qui font de moi qui je suis ?\_Quoi prendre si je devais tout quitter ?\_\n\nDans ses autoportraits Xavier Jallais impose une contemplation troublante.\_Un corps qui se perd et se cache sous des architectures si fragiles faites de quelques couvertures, cartes et autres cartons. Décontextualisé et méconnaissable, ces portraits deviennent des icônes au pied desquelles les offrandes votives deviennent possibles.\_Une forme de sacralité laïque qui questionne notre monde.\_Cette perte d’identité permet l’introspection, chaque spectateur se questionne sur ses fragments de vies à coincer au creux de ses bras.\n\nDiplômé d´un master de Conservation Restauration des Biens Culturels à\_Paris1–Panthéon Sorbonne, il exerce la\nprofession de Conservateur–restaurateur\_de peintures sur toile.\n\n\n\n\n\n\n\n"
   - title: FRAGMENTS   PAYSAGES    Tangui Robert
     date: 2020-12-06T11:38:00.000Z
     categories:
@@ -1986,5 +1980,11 @@ articles:
 
       rencontrez Elisabeth Wadecki qui partagera avec vous son inspiration et sa
       poésie.
+  - title: 'Exposition Xavier Jallais '
+    date: 2024-01-29T23:00:00.000Z
+    categories:
+      - Exposition
+    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/jallais-xavier/GAIÌ\x88A_A5_XAVIER_JALLAIS.jpg"
+    content: "Retenir des fragments de vies, s’accrocher au vivant.\n\nDans les plis et recoins de la matière, se loge une réalité crue et un questionnement sincère.\_Quels sont ces morceaux de vies qui font de moi qui je suis ?\_Quoi prendre si je devais tout quitter ?\_\n\nDans ses autoportraits Xavier Jallais impose une contemplation troublante.\_Un corps qui se perd et se cache sous des architectures si fragiles faites de quelques couvertures, cartes et autres cartons. Décontextualisé et méconnaissable, ces portraits deviennent des icônes au pied desquelles les offrandes votives deviennent possibles.\_Une forme de sacralité laïque qui questionne notre monde.\_Cette perte d’identité permet l’introspection, chaque spectateur se questionne sur ses fragments de vies à coincer au creux de ses bras.\n\nDiplômé d´un master de Conservation Restauration des Biens Culturels à\_Paris1–Panthéon Sorbonne, il exerce la\nprofession de Conservateur–restaurateur\_de peintures sur toile.\n\n\n\n\n\n\n\n"
 ---
 
