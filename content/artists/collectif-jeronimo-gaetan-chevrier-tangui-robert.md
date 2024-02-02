@@ -13,7 +13,6 @@ works:
   - work: content/works/versants-failles-22.md
   - work: content/works/versants-fresque-1.md
   - work: content/works/versants-fresque-2.md
-  - work: content/works/versants-fresque-iii.md
   - work: content/works/versants-gaia.md
   - work: content/works/versants-strates-42.md
   - work: content/works/versants-strates-58.md
