@@ -15,11 +15,11 @@ menu:
   - page: content/pages/references.md
 caption: Art Contemporain
 announcement: |
-  Xavier Jallais 
+  Xavier Jallais
 
-  Exposition 
+  Exposition
 
-  30 Janvier - 17 Février
+  jusqu'au 17 Février
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
