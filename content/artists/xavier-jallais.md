@@ -27,7 +27,6 @@ works:
   - work: content/works/xavier-jallaismd-empilement.md
   - work: content/works/xavier-jallaismd-jai-reve-dhorizon-plus-vaste.md
   - work: content/works/xavier-jallaismd-et-ne-plus-se-retourner.md
-  - work: content/works/jallais-xavier-cerf-1.md
 exhibitions: []
 ---
 
