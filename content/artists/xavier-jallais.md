@@ -9,7 +9,7 @@ fields:
 styles:
   - Figuratif
 expose: true
-work: content/works/xavier-jallaismd-ce-quil-me-restait-de-ces-murs-fleuris.md
+work: content/works/xavier-jallaismd-jai-traverse-tant-de-frontieres.md
 works:
   - work: content/works/xavier-jallaismd-laube-peut-bien-attendre.md
   - work: content/works/xavier-jallaismd-jai-traverse-tant-de-frontieres.md
@@ -34,7 +34,7 @@ exhibitions: []
 
 # Xavier Jallais
 
- Retenir des fragments de vies, s’accrocher au vivant.
+Retenir des fragments de vies, s’accrocher au vivant.
 
 Dans les plis et recoins de la matière, se loge une réalité crue et un questionnement sincère. Quels sont ces morceaux de vies qui font de moi qui je suis ? Quoi prendre si je devais tout quitter ? \
 Dans ses autoportraits Xavier Jallais impose une contemplation troublante. Un corps qui se perd et se cache sous des architectures si fragiles faites de quelques couvertures, cartes et autres cartons. Décontextualisé et méconnaissable, ces portraits deviennent des icônes au pied desquelles les offrandes votives deviennent
@@ -44,7 +44,7 @@ Né en 1971, Xavier Jallais vit et travaille dans la Vienne. Diplômé d´un mas
 
 **Expositions :**
 
-* 2024 : Galerie Gaïa exposition personnelle 
+* 2024 : Galerie Gaïa exposition personnelle
 * 2017 : Galerie Gaia exposition personnelle
 * 2016 : Art et Connivences, le Rex, Le Pouliguen (44) Familles, Galerie Emmanuelle Rousse, Saint-Savin (86) Puls’art, Le Mans (72)
 * 2015 : Géométries, Galerie Emmanuelle Rousse, Saint-Savin (86) Art Atlantic, La Rochelle (17)
