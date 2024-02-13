@@ -14,18 +14,14 @@ work: content/works/marie-vandoorenmd-fumee-1.md
 works:
   - work: content/works/marie-vandoorenmd-fumee-1.md
   - work: content/works/vandooren-marie-1-baigneur.md
-  - work: content/works/vandooren-marie-3-nageurs.md
   - work: content/works/vandooren-marie-beton-et-vegetation.md
   - work: content/works/vandooren-marie-beton-volant.md
-  - work: content/works/vandooren-marie-colimacon.md
   - work: content/works/vandooren-marie-fete-foraine.md
-  - work: content/works/vandooren-marie-jardin-des-plantes.md
   - work: content/works/vandooren-marie-montagne.md
   - work: content/works/vandooren-marie-palindrome-3-couleurs.md
   - work: content/works/vandooren-marie-petit-cube-dans-vegetation.md
   - work: content/works/vandooren-marie-plongeoir-fumee.md
   - work: content/works/vandooren-marie-portrait-de-marie-vandooren.md
-  - work: content/works/vandooren-marie-vestige-2.md
   - work: content/works/vandooren-marie-ymca-rose.md
 exhibitions: []
 ---
