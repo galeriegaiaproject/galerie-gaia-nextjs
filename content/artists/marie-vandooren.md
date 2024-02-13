@@ -15,10 +15,8 @@ works:
   - work: content/works/marie-vandoorenmd-fumee-1.md
   - work: content/works/vandooren-marie-beton-volant.md
   - work: content/works/vandooren-marie-fete-foraine.md
-  - work: content/works/vandooren-marie-petit-cube-dans-vegetation.md
   - work: content/works/vandooren-marie-plongeoir-fumee.md
   - work: content/works/vandooren-marie-portrait-de-marie-vandooren.md
-  - work: content/works/vandooren-marie-ymca-rose.md
 exhibitions: []
 ---
 
