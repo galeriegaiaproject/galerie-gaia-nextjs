@@ -1,16 +1,15 @@
 ---
 template: artist
+redirect_from:
+  - /artistes/94-marie-vandooren/
 title: 'Vandooren Marie '
 location: ''
 fields:
   - Oeuvre sur papier
-expose: true
-exhibitions: []
-redirect_from:
-  - /artistes/94-marie-vandooren/
 styles:
   - Abstrait
   - Figuratif
+expose: true
 work: content/works/marie-vandoorenmd-fumee-3.md
 works:
   - work: content/works/marie-vandoorenmd-fumee-1.md
@@ -23,8 +22,6 @@ works:
   - work: content/works/vandooren-marie-colimacon.md
   - work: content/works/vandooren-marie-fete-foraine.md
   - work: content/works/vandooren-marie-jardin-des-plantes.md
-  - work: content/works/vandooren-marie-la-forme-du-ciel-1.md
-  - work: content/works/vandooren-marie-la-forme-du-ciel-3.md
   - work: content/works/vandooren-marie-montagne.md
   - work: content/works/vandooren-marie-palindrome-3-couleurs.md
   - work: content/works/vandooren-marie-petit-cube-dans-vegetation.md
@@ -33,6 +30,7 @@ works:
   - work: content/works/vandooren-marie-portrait-de-marie-vandooren.md
   - work: content/works/vandooren-marie-vestige-2.md
   - work: content/works/vandooren-marie-ymca-rose.md
+exhibitions: []
 ---
 
 # Marie Vandooren
