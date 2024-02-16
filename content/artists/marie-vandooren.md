@@ -10,7 +10,7 @@ styles:
   - Abstrait
   - Figuratif
 expose: true
-work: content/works/marie-vandoorenmd-fumee-1.md
+work: content/works/marie-vandoorenmd-lac-rose.md
 works:
   - work: content/works/marie-vandoorenmd-fumee-decalee.md
   - work: content/works/marie-vandoorenmd-fumee-iv.md
