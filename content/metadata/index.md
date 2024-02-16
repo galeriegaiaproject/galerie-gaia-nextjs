@@ -17,9 +17,9 @@ caption: Art Contemporain
 announcement: |
   Xavier Jallais
 
-  Exposition
+  Expo peinture
 
-  jusqu'au 17 Février
+  prolongation 24 Février
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
