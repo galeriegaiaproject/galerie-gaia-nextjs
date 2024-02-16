@@ -8,6 +8,9 @@ artist: content/artists/marie-vandooren.md
 price: 250
 technique: Sérigraphie 1/1
 contextual: true
+dimensions:
+  height: 70
+  width: 50
 ---
 
 Pièce unique
