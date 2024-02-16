@@ -8,7 +8,7 @@ price: 500
 technique: Sérigraphie 4/6
 contextual: true
 dimensions:
-  height: 100
-  width: 140
+  height: 70
+  width: 100
 ---
 
