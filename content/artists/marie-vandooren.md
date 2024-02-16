@@ -12,6 +12,8 @@ styles:
 expose: true
 work: content/works/marie-vandoorenmd-fumee-1.md
 works:
+  - work: content/works/marie-vandoorenmd-fumee-decalee.md
+  - work: content/works/marie-vandoorenmd-fumee-iv.md
   - work: content/works/marie-vandoorenmd-nouvelle-montagne.md
   - work: content/works/marie-vandoorenmd-lac-rose.md
   - work: content/works/marie-vandoorenmd-lac-diptyque.md
