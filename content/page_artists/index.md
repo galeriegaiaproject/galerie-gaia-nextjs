@@ -8,6 +8,7 @@ seo:
     de découvrir de nombreux artistes contemporains internationaux.
   image: ''
 artists:
+  - artist: content/artists/mauger-vincent.md
   - artist: content/artists/elisabeth-wadecki.md
   - artist: content/artists/garibbo-alberte.md
   - artist: content/artists/xavier-jallais.md
