@@ -13,4 +13,4 @@ dimensions:
   width: 103.5
 ---
 
-2006
+2006 - oeuvre non encadrée - visuelle à titre indicatif en bois clair
