@@ -8,11 +8,11 @@ styles:
 expose: true
 work: content/works/mauger-vincentmd-sans-titre-4.md
 works:
-  - work: content/works/mauger-vincentmd-portrait-vincent-mauger.md
   - work: content/works/mauger-vincentmd-sans-titre-4.md
   - work: content/works/mauger-vincentmd-sans-titre-3.md
   - work: content/works/mauger-vincentmd-sans-titre-2.md
   - work: content/works/mauger-vincentmd-sans-titre-1.md
+  - work: content/works/mauger-vincentmd-portrait-vincent-mauger.md
 ---
 
 La démarche de Vincent Mauger s’articule autour de la recherche de matérialisation, de concrétisation de ce que serait un espace mental. Essentiellement composée d’installations in-situ, de dessin et de sculptures, l'œuvre de l'artiste confronte souvent un espace réel avec une représentation de la perception mentale d’un autre espace.
