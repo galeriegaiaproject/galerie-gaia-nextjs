@@ -13,7 +13,7 @@ fields:
 styles: []
 birth: '1926'
 expose: true
-work: content/works/villegle-jacques-tremeac.md
+work: content/works/villeglemd-sans-titre-nantes-1994.md
 works:
   - work: content/works/villeglemd-sans-titre-nantes-1994.md
   - work: content/works/villegle-jacques-tremeac.md
