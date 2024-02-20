@@ -1,24 +1,25 @@
 ---
+template: artist
+seo:
+  title: ''
+  heading: ''
+  type: article
+  description: ''
+  image: ''
+title: Villeglé Jacques
+location: ''
 fields:
   - Oeuvre sur papier
 styles: []
-seo:
-  type: article
-  title: ''
-  heading: ''
-  description: ''
-  image: ''
-template: artist
-title: Villeglé Jacques
-location: ''
 birth: '1926'
 expose: true
-exhibitions: []
 work: content/works/villegle-jacques-tremeac.md
 works:
-  - work: content/works/villegle-jacques-sans-rose.md
+  - work: content/works/villeglemd-sans-titre-nantes-1994.md
   - work: content/works/villegle-jacques-tremeac.md
+exhibitions: []
 ---
+
 # [Jacques Villeglé](https://www.moma.org/artists/6163 "jacques villéglé villglé")
 
 > Unies ou diverses, des affiches qui divisent
