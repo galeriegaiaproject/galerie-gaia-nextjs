@@ -11,6 +11,9 @@ styles:
 expose: false
 work: content/works/francheteau-claude-ciel-004.md
 works:
+  - work: content/works/claude-francheteaumd-sky-028-belle-ile.md
+  - work: content/works/claude-francheteaumd-sky-027-ile-dyeu.md
+  - work: content/works/claude-francheteaumd-sky-001.md
   - work: content/works/francheteau-claude-ciel-004.md
   - work: content/works/francheteau-claude-portrait-de-claude-francheteau.md
 exhibitions:
