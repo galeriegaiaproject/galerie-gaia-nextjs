@@ -13,7 +13,7 @@ artists:
   - artist: content/artists/garibbo-alberte.md
   - artist: content/artists/xavier-jallais.md
   - artist: content/artists/byl-william.md
-  - artist: content/artists/jacqueline-pecantet.md
+  - artist: content/artists/claude-francheteau.md
   - artist: content/artists/popet-yves.md
   - artist: content/artists/pierre-muckensturm.md
   - artist: content/artists/jouet-michel.md
@@ -71,7 +71,7 @@ artists:
   - artist: content/artists/daha-daha.md
   - artist: content/artists/combas.md
   - artist: content/artists/renaud-allirand.md
-  - artist: content/artists/claude-francheteau.md
+  - artist: content/artists/jacqueline-pecantet.md
   - artist: content/artists/adolfo-arenas-alonso.md
   - artist: content/artists/wave-week-end-arts-visuels-nantes.md
 ---
