@@ -5,7 +5,7 @@ image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/abergel-marianne/galerie-gaia-marianne-abergel-se
   relever-chimere verte noire.jpg
 artist: content/artists/marianne-abergel.md
-price: 650
+price: 600
 technique: 'Grès émaillé vert et noir, cuisson oxydante 1260°'
 fields: []
 styles: []
