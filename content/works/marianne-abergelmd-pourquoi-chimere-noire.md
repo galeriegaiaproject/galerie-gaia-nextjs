@@ -5,7 +5,7 @@ image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/abergel-marianne/galerie-gaia-abergel-marianne-pourquoi
   chimere-noir.jpg
 artist: content/artists/marianne-abergel.md
-price: 700
+price: 600
 technique: Email noir
 fields: []
 styles: []
