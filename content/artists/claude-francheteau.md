@@ -1,10 +1,18 @@
 ---
 template: artist
+redirect_from:
+  - /artistes/12-claude-francheteau/
 title: 'Francheteau Claude '
 location: ''
 fields:
   - Peinture
+styles:
+  - Figuratif
 expose: false
+work: content/works/francheteau-claude-ciel-004.md
+works:
+  - work: content/works/francheteau-claude-ciel-004.md
+  - work: content/works/francheteau-claude-portrait-de-claude-francheteau.md
 exhibitions:
   - title: Exposition personnelle
     location: Galerie Rouge Grenade   Paris XX
@@ -14,22 +22,8 @@ exhibitions:
     location: St Mathurin sur Loire  49
     start: '2015'
     end: null
-redirect_from:
-  - /artistes/12-claude-francheteau/
-styles:
-  - Figuratif
-work: content/works/francheteau-claude-sky-004.md
-works:
-  - work: content/works/francheteau-claude-ciel-004.md
-  - work: content/works/francheteau-claude-ciel-116.md
-  - work: content/works/francheteau-claude-ciel-149.md
-  - work: content/works/francheteau-claude-ciel-2042.md
-  - work: content/works/francheteau-claude-ciel-2059.md
-  - work: content/works/francheteau-claude-ciel-2070.md
-  - work: content/works/francheteau-claude-portrait-de-claude-francheteau.md
-  - work: content/works/francheteau-claude-sky-004.md
-  - work: content/works/francheteau-claude-sky-005.md
 ---
+
 # Claude Francheteau
 
 > La simplicité mêlée à l'honnêteté
