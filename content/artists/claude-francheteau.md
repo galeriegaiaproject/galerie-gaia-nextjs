@@ -8,8 +8,8 @@ fields:
   - Peinture
 styles:
   - Figuratif
-expose: false
-work: content/works/francheteau-claude-ciel-004.md
+expose: true
+work: content/works/claude-francheteaumd-sky-027-ile-dyeu.md
 works:
   - work: content/works/claude-francheteaumd-sky-028-belle-ile.md
   - work: content/works/claude-francheteaumd-sky-027-ile-dyeu.md
