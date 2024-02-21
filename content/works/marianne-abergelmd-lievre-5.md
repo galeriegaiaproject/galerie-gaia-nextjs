@@ -4,7 +4,7 @@ reference: 'Abergel Marianne, Lièvre 5'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/abergel-marianne/galerie-gaia-marianne-abergel-Buste-lievre-un-cote-droit-Marianne-Abergel.jpg
 artist: content/artists/marianne-abergel.md
-price: 700
+price: 600
 technique: 'Grès émaillé, cuisson oxydante 1260°'
 fields: []
 styles: []
