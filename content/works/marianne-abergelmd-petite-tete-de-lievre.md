@@ -5,7 +5,7 @@ image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/abergel-marianne/galerie-gaia-abergel-mariane-petite
   tete celadon.jpg
 artist: content/artists/marianne-abergel.md
-price: 280
+price: 230
 technique: Grès émaillé céladon
 fields: []
 styles: []
