@@ -1,6 +1,6 @@
 ---
-title: Sky 001
-reference: 'Francheteau Claude, Sky 001'
+title: 'Sky 001 Nantes '
+reference: 'Francheteau Claude, Sky 001 Nantes'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/francheteau-claude/francheteau-claude-sky001-54x73.jpg
 artist: content/artists/claude-francheteau.md
@@ -12,4 +12,4 @@ dimensions:
   width: 73
 ---
 
-2021 - Nantes 
+2021 
