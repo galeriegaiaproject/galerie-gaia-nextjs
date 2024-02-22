@@ -1,6 +1,6 @@
 ---
-title: Ciel 004
-reference: 'Francheteau Claude, Ciel 004'
+title: Ciel 004 Nantes
+reference: 'Francheteau Claude, Ciel 004 Nantes '
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/francheteau-claude/galerie-gaia-claude-francheteau-ciel-004-50x50.jpg
 artist: content/artists/claude-francheteau.md
