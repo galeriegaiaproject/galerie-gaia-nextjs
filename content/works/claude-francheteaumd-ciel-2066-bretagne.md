@@ -11,3 +11,4 @@ dimensions:
   width: 30
 ---
 
+Oeuvre encadrée caisse américaine bois teinté
