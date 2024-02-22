@@ -11,6 +11,9 @@ styles:
 expose: true
 work: content/works/claude-francheteaumd-sky-027-ile-dyeu.md
 works:
+  - work: content/works/claude-francheteaumd-sky-025-auvers-sur-oise.md
+  - work: content/works/claude-francheteaumd-sky-007.md
+  - work: content/works/claude-francheteaumd-ciel-2066-bretagne.md
   - work: content/works/claude-francheteaumd-sky-028-belle-ile.md
   - work: content/works/claude-francheteaumd-sky-027-ile-dyeu.md
   - work: content/works/claude-francheteaumd-sky-001.md
