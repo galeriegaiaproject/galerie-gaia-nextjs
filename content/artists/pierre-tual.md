@@ -19,6 +19,7 @@ birth: '1941'
 expose: true
 work: content/works/tual-pierre-brou-de-noix-2.md
 works:
+  - work: content/works/tual-pierre-exposition-pierre-tual-octobre-2022.md
   - work: content/works/tual-pierre-brou-de-noix-1.md
   - work: content/works/tual-pierre-brou-de-noix-2.md
   - work: content/works/tual-pierre-brou-de-noix-3.md
@@ -31,7 +32,6 @@ works:
   - work: content/works/tual-pierre-eau-forte-sans-titre.md
   - work: content/works/tual-pierre-estacade-i.md
   - work: content/works/tual-pierre-estacade-ii.md
-  - work: content/works/tual-pierre-exposition-pierre-tual-octobre-2022.md
   - work: content/works/tual-pierre-kerinos-etude.md
   - work: content/works/tual-pierre-marine-i.md
   - work: content/works/tual-pierre-monotype-1.md
