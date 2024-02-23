@@ -1,4 +1,13 @@
 ---
+template: artist
+seo:
+  title: ''
+  heading: ''
+  type: ''
+  description: ''
+  image: ''
+title: 'Tual Pierre '
+location: ''
 fields:
   - Sculpture
   - Céramique
@@ -6,30 +15,16 @@ fields:
   - Dessin
 styles:
   - Abstrait
-template: artist
-title: 'Tual Pierre '
-location: ''
 birth: '1941'
 expose: true
-exhibitions: []
-seo:
-  title: ''
-  heading: ''
-  type: ''
-  description: ''
-  image: ''
 work: content/works/tual-pierre-brou-de-noix-2.md
 works:
-  - work: content/works/tual-pierre-algue-marine.md
   - work: content/works/tual-pierre-atelier-pierre-tual.md
-  - work: content/works/tual-pierre-blanche-entrecroisee.md
   - work: content/works/tual-pierre-brou-de-noix-1.md
   - work: content/works/tual-pierre-brou-de-noix-2.md
   - work: content/works/tual-pierre-brou-de-noix-3.md
   - work: content/works/tual-pierre-brou-de-noix-4.md
   - work: content/works/tual-pierre-brou-de-noix-5.md
-  - work: content/works/tual-pierre-ceramique-jaune.md
-  - work: content/works/tual-pierre-ceramique-verte.md
   - work: content/works/tual-pierre-dessin-le-jour-de-mars.md
   - work: content/works/tual-pierre-dessin-le-jour-de-venus.md
   - work: content/works/tual-pierre-dessin-le-jour-du-soleil.md
@@ -42,8 +37,7 @@ works:
   - work: content/works/tual-pierre-marine-i.md
   - work: content/works/tual-pierre-monotype-1.md
   - work: content/works/tual-pierre-monotype-2.md
-  - work: content/works/tual-pierre-relief-au-mur.md
-  - work: content/works/tual-pierre-verre-et-terre-cuite.md
+exhibitions: []
 ---
 
 # Pierre Tual
