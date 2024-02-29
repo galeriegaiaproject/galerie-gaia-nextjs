@@ -1,20 +1,19 @@
 ---
+template: artist
+seo:
+  title: ''
+  heading: ''
+  type: article
+  description: ''
+  image: ''
+title: Parrein Pascale
+location: ''
 fields:
   - Oeuvre sur papier
 styles:
   - Abstrait
   - Figuratif
-seo:
-  type: article
-  title: ''
-  heading: ''
-  description: ''
-  image: ''
-template: artist
-title: Parrein Pascale
-location: ''
 expose: true
-exhibitions: []
 work: content/works/parrein-pascale-impacts-vi.md
 works:
   - work: content/works/parrein-pascale-cellules-ix.md
@@ -22,8 +21,9 @@ works:
   - work: content/works/parrein-pascale-impacts-v.md
   - work: content/works/parrein-pascale-impacts-vi.md
   - work: content/works/parrein-pascale-impacts-viii.md
-  - work: content/works/parrein-pascale-paysage-b.md
+exhibitions: []
 ---
+
 # Pascale Parrein
 
 > Les gravures minimalistes et abstraites de Pascale Parrein
