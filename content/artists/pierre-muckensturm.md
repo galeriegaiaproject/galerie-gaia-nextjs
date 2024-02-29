@@ -11,6 +11,7 @@ styles:
 expose: true
 work: content/works/muckensturm-pierre-xxi-65-175.md
 works:
+  - work: content/works/pierre-muckensturmmd-20m1886.md
   - work: content/works/pierre-muckensturmmd-xxii-28-160.md
   - work: content/works/pierre-muckensturmmd-xxii-96-315.md
   - work: content/works/pierre-muckensturmmd-xxii-94-311.md
