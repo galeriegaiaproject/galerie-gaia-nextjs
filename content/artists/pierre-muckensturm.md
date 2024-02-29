@@ -41,7 +41,6 @@ works:
       content/works/muckensturm-pierre-203r0944-composition-a-6-angles-a-entas.md
   - work: >-
       content/works/muckensturm-pierre-203r0946-composition-a-6-angles-a-entas.md
-  - work: content/works/muckensturm-pierre-20m1882.md
   - work: content/works/muckensturm-pierre-diptyque-xxi-41-117.md
   - work: >-
       content/works/muckensturm-pierre-plus-ou-moins-deux-virgule-deux-degres-de-fantaisie-orthogonale.md
