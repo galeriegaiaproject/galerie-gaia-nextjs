@@ -17,7 +17,6 @@ works:
   - work: content/works/marie-vandoorenmd-nouvelle-montagne.md
   - work: content/works/marie-vandoorenmd-lac-rose.md
   - work: content/works/marie-vandoorenmd-lac-diptyque.md
-  - work: content/works/marie-vandoorenmd-fumee-unique.md
   - work: content/works/marie-vandoorenmd-feu-nuit-variante.md
   - work: content/works/marie-vandoorenmd-feu-dartifice-et-tennis.md
   - work: content/works/marie-vandoorenmd-fumee-1.md
