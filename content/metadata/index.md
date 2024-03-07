@@ -15,11 +15,9 @@ menu:
   - page: content/pages/references.md
 caption: Art Contemporain
 announcement: |
-  Xavier Jallais
+  DDESSIN PARIS
 
-  Expo peinture
-
-  prolongation 24 Février
+  21 - 24 Mars
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
