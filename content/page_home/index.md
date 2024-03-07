@@ -8,8 +8,8 @@ seo:
     estampe, photographie, courtier en art, défiscalisation, location, prêt
     avant achat.
 carousel:
-  - work: content/works/xavier-jallaismd-jai-traverse-tant-de-frontieres.md
-  - work: content/works/xavier-jallaismd-apres-tant-de-pas.md
-  - work: content/works/xavier-jallaismd-au-large-des-lieux.md
+  - work: content/works/1001md-vanite-tulipe.md
+  - work: content/works/1001md-vanite-renoncule.md
+  - work: content/works/1001md-vanite-chrysantheme-japonais.md
 ---
 
