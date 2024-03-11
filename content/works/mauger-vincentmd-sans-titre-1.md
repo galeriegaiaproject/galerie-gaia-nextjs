@@ -1,6 +1,6 @@
 ---
 title: Sans titre 1
-reference: 'mauger Vincent, Sans titre 1'
+reference: 'Mauger Vincent, Sans titre 1'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/mauger-vincent/galerie-gaia-mauger-vincent-75X103-topo.jpg
 artist: content/artists/mauger-vincent.md
