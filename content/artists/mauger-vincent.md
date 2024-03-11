@@ -8,6 +8,9 @@ styles:
 expose: true
 work: content/works/mauger-vincentmd-portrait-vincent-mauger.md
 works:
+  - work: content/works/mauger-vincentmd-sans-titre-1.md
+  - work: content/works/mauger-vincentmd-sans-titre-a.md
+  - work: content/works/mauger-vincentmd-sans-titre-2.md
   - work: content/works/mauger-vincentmd-portrait-vincent-mauger.md
 ---
 
