@@ -6,7 +6,7 @@ fields:
 styles:
   - Abstrait
 expose: true
-work: content/works/mauger-vincentmd-sans-titre-4.md
+work: content/works/mauger-vincentmd-portrait-vincent-mauger.md
 works:
   - work: content/works/mauger-vincentmd-portrait-vincent-mauger.md
 ---
