@@ -17,6 +17,13 @@ styles:
 expose: true
 work: content/works/laure-carremd-mon-bel-arbre.md
 works:
+  - work: content/works/laure-carremd-the-loner.md
+  - work: content/works/laure-carremd-pink-dance.md
+  - work: content/works/laure-carremd-petit-salon.md
+  - work: content/works/laure-carremd-moonlight.md
+  - work: content/works/laure-carremd-la-salle-de-danse.md
+  - work: content/works/laure-carremd-je-dors-les-yeux-ouverts.md
+  - work: content/works/laure-carremd-inside-3.md
   - work: content/works/laure-carremd-buste-femme.md
   - work: content/works/laure-carremd-mon-bel-arbre.md
   - work: content/works/laure-carremd-la-nuit-demain.md
