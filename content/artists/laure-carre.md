@@ -20,8 +20,6 @@ works:
   - work: content/works/laure-carremd-buste-femme.md
   - work: content/works/laure-carremd-mon-bel-arbre.md
   - work: content/works/laure-carremd-la-nuit-demain.md
-  - work: content/works/laure-carremd-duo-boxeurs.md
-  - work: content/works/laure-carremd-boxeur-bleu.md
   - work: content/works/laure-carremd-regarder-leau.md
   - work: content/works/laure-carremd-cheval-en-tete.md
   - work: content/works/laure-carremd-green-horse.md
