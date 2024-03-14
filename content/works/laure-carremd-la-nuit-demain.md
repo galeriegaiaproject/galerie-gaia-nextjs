@@ -1,6 +1,6 @@
 ---
 title: La nuit demain
-reference: 'Carre Laure, La nuit demain'
+reference: 'Carré Laure, La nuit demain'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/carre-laure/galerie-gaia-carre-laurela
   nuit demain 47X37.JPG
@@ -13,4 +13,4 @@ dimensions:
   width: 47
 ---
 
-Oeuvre encadrée sous verre 
+Oeuvre encadrée sous verre
