@@ -6,9 +6,8 @@ fields:
 styles:
   - Abstrait
 expose: true
-work: content/works/mauger-vincentmd-portrait-vincent-mauger.md
+work: content/works/mauger-vincentmd-sans-titre-b.md
 works:
-  - work: content/works/mauger-vincentmd-sans-titre-1.md
   - work: content/works/mauger-vincentmd-sans-titre-b.md
   - work: content/works/mauger-vincentmd-sans-titre-a.md
   - work: content/works/mauger-vincentmd-sans-titre-2.md
