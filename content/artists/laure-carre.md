@@ -15,7 +15,7 @@ fields:
 styles:
   - Figuratif
 expose: true
-work: content/works/laure-carremd-mon-bel-arbre.md
+work: content/works/laure-carremd-moonlight.md
 works:
   - work: content/works/laure-carremd-the-loner.md
   - work: content/works/laure-carremd-pink-dance.md
