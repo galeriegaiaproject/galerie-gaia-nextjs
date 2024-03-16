@@ -9,7 +9,7 @@ fields:
 styles:
   - Figuratif
 expose: true
-work: content/works/xavier-jallaismd-jai-traverse-tant-de-frontieres.md
+work: content/works/xavier-jallaismd-apres-tant-de-pas.md
 works:
   - work: content/works/xavier-jallaismd-apres-tant-de-pas.md
   - work: content/works/xavier-jallaismd-jai-traverse-tant-de-frontieres.md
