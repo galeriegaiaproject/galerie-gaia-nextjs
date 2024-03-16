@@ -17,6 +17,8 @@ caption: Art Contemporain
 announcement: |
   DDESSIN PARIS
 
+  Solo-Show 1011
+
   21 - 24 Mars
 opening: |-
   Mardi & Mercredi 15h à 19h -
