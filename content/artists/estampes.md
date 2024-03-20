@@ -20,7 +20,6 @@ works:
   - work: content/works/clement-alain-sans-titre-06ma2g.md
   - work: content/works/estampesmd-la-mourre.md
   - work: content/works/estampesmd-burkhard-balthasar-maiko.md
-  - work: content/works/estampesmd-printemps-a-mille-coeur-de-jean-messagier.md
   - work: content/works/estampesmd-colony-de-tony-cragg.md
   - work: content/works/estampes-frederic-poincelet-sans-titre-3.md
   - work: content/works/estampes-georges-autard-perte-de-sens.md
