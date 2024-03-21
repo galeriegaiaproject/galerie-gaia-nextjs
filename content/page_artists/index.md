@@ -13,12 +13,12 @@ artists:
   - artist: content/artists/garibbo-alberte.md
   - artist: content/artists/xavier-jallais.md
   - artist: content/artists/byl-william.md
+  - artist: content/artists/1001.md
   - artist: content/artists/claude-francheteau.md
   - artist: content/artists/popet-yves.md
   - artist: content/artists/pierre-muckensturm.md
   - artist: content/artists/jouet-michel.md
   - artist: content/artists/dubreuil.md
-  - artist: content/artists/1001.md
   - artist: content/artists/toma-l.md
   - artist: content/artists/wu-yuzi.md
   - artist: content/artists/remy-pierre-alexandre.md
