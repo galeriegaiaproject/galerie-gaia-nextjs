@@ -1,4 +1,11 @@
 ---
+seo:
+  title: 'Vincent Mauger artiste plasticien sculpteur Galerie Gaïa Nantes '
+  heading: 'Mauger Vincent artiste sculpteur plasticien Galerie Gaia Nantes '
+  type: website
+  description: >-
+    Vincent Mauger artiste plasticien sculpteur présentée par la Galerie Gaia à
+    Nantes depuis 2024
 title: Mauger Vincent
 fields:
   - Plasticien
