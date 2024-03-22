@@ -5,7 +5,7 @@ seo:
   type: website
   description: >-
     Vincent Mauger artiste plasticien sculpteur présentée par la Galerie Gaia à
-    Nantes depuis 2024
+    Nantes depuis 2024, 1% artistique, conception d'oeuvres d'art
 title: Mauger Vincent
 fields:
   - Plasticien
