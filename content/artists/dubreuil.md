@@ -1,4 +1,15 @@
 ---
+seo:
+  title: >-
+    Jean François Dubreuil, art concret, art abstrait art minimaliste, musée art
+    concret 
+  heading: >-
+    Jean-François Dubreuil, art concret, art abstrait art minimaliste, Galerie
+    Gaia musée art concret 
+  type: website
+  description: >-
+    Jean François Dubreuil, art concret, art abstrait art minimaliste, Galerie
+    Gaia musée art concret 
 title: Dubreuil Jean-François
 location: ''
 fields:
