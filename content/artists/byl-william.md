@@ -1,10 +1,10 @@
 ---
 template: artist
 seo:
-  title: ''
-  heading: ''
+  title: 'William BYL Galerie Gaia céramiste, animalier, figuratif, imaginaire '
+  heading: 'William BYL,Galerie Gaïa  céramiste, animalier, figuratif, imaginaire '
   type: article
-  description: ''
+  description: 'William BYL,Galerie Gaïa  céramiste, animalier, figuratif, imaginaire '
   image: ''
 title: Byl William
 location: France
@@ -24,7 +24,7 @@ works:
 exhibitions: []
 ---
 
-Si vous souhaitez commander une céramique contactez-nous. Délai de 2 mois 
+Si vous souhaitez commander une céramique contactez-nous. Délai de 2 mois
 
 William Byl est passionné par le dessin depuis l'enfance, et se forme à l'école des Beaux- Arts de Cholet\
 Il découvre la céramique des années 1950 et il est fasciné par les réalisations de Jean Derval, René Maurel, Roger Capron, François Raty, Jacques Blin, Luc Lanel et quelques autres...
