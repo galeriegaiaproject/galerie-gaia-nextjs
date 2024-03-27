@@ -9,54 +9,6 @@ seo:
     contemporain à Nantes, galerie art contemporain nantes
   image: ''
 articles:
-  - title: Jacques Le Brusq - Exposition peinture
-    date: 2024-04-01T22:00:00.000Z
-    categories:
-      - Exposition
-    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/le-brusq-jacques/GAIÌ\x88A_A5_JACQUES_LE_BRUSQ-1_page-0001.jpg"
-    content: >+
-      Vernissage Samedi 6 Avril 15H 
-
-
-      Plonger, le souffle coupé dans une contemplation commune. 
-
-
-      Les œuvres de Jacques Le Brusq possèdent une vibration, une puissance
-      éthérée qui ont le pouvoir d’une
-
-      rencontre amoureuse. Cet instant impalpable intangible et pourtant si
-      vrai. Elles troublent et font de l’espace pictural, un espace présent,
-      elles disent l’invisible, nous raccroche au monde, mais surtout elle donne
-      à voir la peinture. Elle devient autonome, incarnée et n’appartient plus à
-      Jacques. C’est une invitation magnétique essentielle. 
-
-
-      « La peinture est imprévisible. La peinture, il faut la faire, mais
-      surtout, il faut la laisser faire. Quand je
-
-      peins, je ne cherche pas à savoir ce que je peins. Je dirais que ça peint
-      plutôt que je peins. » Jacques Le Brusq
-
-
-      « La peinture nous donne à voir ce qui, sans elle, se dérobe, ce qui, sans
-      elle, ne saurait être vu. En précédant le langage, elle nous met
-      spontanément en présence du premier matin du monde, là où les mots ne sont
-      pas encore. » Jacques Le Brusq
-
-
-      Les œuvres présentées à la galerie montrent les variations du paysage dans
-      la peinture de Jacques le Brusq. C’est
-
-      aussi une exposition familiale, Jacques s’offre un accrochage avec sa
-      fille Typhaine Le Brusq et sa petite fille Lou-Maria Le Brusq dont les
-      pratiques seront à découvrir dans un deuxième temps du 15 au 20 avril.
-
-
-
-
-
-
-
   - title: FRAGMENTS   PAYSAGES    Tangui Robert
     date: 2020-12-06T11:38:00.000Z
     categories:
@@ -2042,5 +1994,46 @@ articles:
       https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/1011/Logo -
       DDESSINPARIS.jpg
     content: "Le dessin a une place importante dans la pratique des artistes.\nQue ce soit un schéma de pensée, une esquisse, une étude préparatoire, ou un dessin abouti cela commence par une ligne. Nos envies et curiosités nous y amènent d'avantage, ce qui motive notre première participation au salon\_DDESSIN.\n\nNous présentons le travail de l'artiste\_1011\_avec un solo-show.\nPrésenter\_1011\_au prix DDESSIN participe de la volonté́ de la galerie de défendre haut son travail, d’aborder ses luttes sur le réchauffement climatique, ses engagements par les qualités esthétiques \_et poétiques de ses dessins.\n\nNous aurons plaisir à vous recevoir au salon DDESSIN, Rue de la Tour Maubourg Paris 7ème - métro Invalides - Tour Maubourg\n\njeudi 21 Mars 18:00 Vernissage VIP\nvendredi 22 Mars 19:00 Remise du Prix DDESSIN\_en présence de la Présidente, Louma Salamé et l'ensemble des membres du jury.\n\nLes réalisations de\_1011\_ne se veulent pas scientifiques.\n\nLes naturalistes utilisent l’échelle un pour les représentations de la faune ou de la flore. L’artiste ici agrandit considérablement le sujet afin de\_donner à voir les détails que même le spectateur attentif de la nature regarde peu ou ne peut\_pas voir. Ses dessins sont alors comme des portraits où l’on peut scruter tous les infimes\_détails et faire connaissance avec le vivant ! Chaque dessin comporte un chiffre qui témoigne de l’état du végétal si la température augmente d’autant.\n\nLes œuvres de\_1011\_transcendent les sensibilités, et bousculent la ligne éditoriale de la galerie pour l’abstraction.\n1011\_vient rejoindre ces artistes éclectiques et inclassables qui pointent nos contradictions et réveillent nos consciences avec un talent précieux et subtil.\_\n\_\n"
+  - title: Jacques Le Brusq - Exposition peinture
+    date: 2024-04-01T22:00:00.000Z
+    categories:
+      - Exposition
+    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/le-brusq-jacques/GAIÌ\x88A_A5_JACQUES_LE_BRUSQ-1_page-0001.jpg"
+    content: >+
+      Vernissage Samedi 6 Avril 15H 
+
+
+      Plonger, le souffle coupé dans une contemplation commune. 
+
+
+      Les œuvres de Jacques Le Brusq possèdent une vibration, une puissance
+      éthérée qui ont le pouvoir d’une
+
+      rencontre amoureuse. Cet instant impalpable intangible et pourtant si
+      vrai. Elles troublent et font de l’espace pictural, un espace présent,
+      elles disent l’invisible, nous raccroche au monde, mais surtout elle donne
+      à voir la peinture. Elle devient autonome, incarnée et n’appartient plus à
+      Jacques. C’est une invitation magnétique essentielle. 
+
+
+      « La peinture est imprévisible. La peinture, il faut la faire, mais
+      surtout, il faut la laisser faire. Quand je
+
+      peins, je ne cherche pas à savoir ce que je peins. Je dirais que ça peint
+      plutôt que je peins. » Jacques Le Brusq
+
+
+      « La peinture nous donne à voir ce qui, sans elle, se dérobe, ce qui, sans
+      elle, ne saurait être vu. En précédant le langage, elle nous met
+      spontanément en présence du premier matin du monde, là où les mots ne sont
+      pas encore. » Jacques Le Brusq
+
+
+      Les œuvres présentées à la galerie montrent les variations du paysage dans
+      la peinture de Jacques le Brusq. C’est
+
+      aussi une exposition familiale, Jacques s’offre un accrochage avec sa
+      fille Typhaine Le Brusq et sa petite fille Lou-Maria Le Brusq dont les
+      pratiques seront à découvrir dans un deuxième temps du 15 au 20 avril.
 ---
 
