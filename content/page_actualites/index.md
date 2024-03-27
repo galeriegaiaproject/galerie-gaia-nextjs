@@ -11,8 +11,51 @@ seo:
 articles:
   - title: Jacques Le Brusq - Exposition peinture
     date: 2024-04-01T22:00:00.000Z
-    content: |
+    categories:
+      - Exposition
+    content: >+
       Vernissage Samedi 6 Avril 15H 
+
+
+      Plonger, le souffle coupé dans une contemplation commune. 
+
+
+      Les œuvres de Jacques Le Brusq possèdent une vibration, une puissance
+      éthérée qui ont le pouvoir d’une
+
+      rencontre amoureuse. Cet instant impalpable intangible et pourtant si
+      vrai. Elles troublent et font de l’espace pictural, un espace présent,
+      elles disent l’invisible, nous raccroche au monde, mais surtout elle donne
+      à voir la peinture. Elle devient autonome, incarnée et n’appartient plus à
+      Jacques. C’est une invitation magnétique essentielle. 
+
+
+      « La peinture est imprévisible. La peinture, il faut la faire, mais
+      surtout, il faut la laisser faire. Quand je
+
+      peins, je ne cherche pas à savoir ce que je peins. Je dirais que ça peint
+      plutôt que je peins. » Jacques Le Brusq
+
+
+      « La peinture nous donne à voir ce qui, sans elle, se dérobe, ce qui, sans
+      elle, ne saurait être vu. En précédant le langage, elle nous met
+      spontanément en présence du premier matin du monde, là où les mots ne sont
+      pas encore. » Jacques Le Brusq
+
+
+      Les œuvres présentées à la galerie montrent les variations du paysage dans
+      la peinture de Jacques le Brusq. C’est
+
+      aussi une exposition familiale, Jacques s’offre un accrochage avec sa
+      fille Typhaine Le Brusq et sa petite fille Lou-Maria Le Brusq dont les
+      pratiques seront à découvrir dans un deuxième temps du 15 au 20 avril.
+
+
+
+
+
+
+
   - title: FRAGMENTS   PAYSAGES    Tangui Robert
     date: 2020-12-06T11:38:00.000Z
     categories:
