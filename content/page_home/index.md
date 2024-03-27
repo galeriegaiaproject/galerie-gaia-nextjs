@@ -8,8 +8,8 @@ seo:
     estampe, photographie, courtier en art, défiscalisation, location, prêt
     avant achat.
 carousel:
-  - work: content/works/1001-vanite-tulipe.md
-  - work: content/works/1001-vanite-renoncule.md
-  - work: content/works/1001-vanite-chrysantheme-japonais.md
+  - work: content/works/1011-vanite-tulipe.md
+  - work: content/works/1011-vanite-renoncule.md
+  - work: content/works/1011-vanite-chrysantheme-japonais.md
 ---
 
