@@ -1,21 +1,22 @@
 ---
+template: artist
+seo:
+  title: ''
+  heading: ''
+  type: article
+  description: ''
+  image: ''
+title: D'Harcourt Victoire
+location: ''
 fields:
   - Sculpture
 styles:
   - Abstrait
-seo:
-  type: article
-  title: ''
-  heading: ''
-  description: ''
-  image: ''
-template: artist
-title: D'Harcourt Victoire
-location: ''
 expose: true
-exhibitions: []
 work: content/works/dharcourt-victoire-alliance-xii.md
 works:
+  - work: content/works/d-harcourt-victoiremd-alliance-xxi.md
+  - work: content/works/d-harcourt-victoiremd-alliance-xx.md
   - work: content/works/dharcourt-victoire-alliance-blanche-au-mur.md
   - work: content/works/dharcourt-victoire-alliance-blanche.md
   - work: content/works/dharcourt-victoire-alliance-iv.md
@@ -26,7 +27,9 @@ works:
   - work: content/works/dharcourt-victoire-equilibre-mini.md
   - work: content/works/dharcourt-victoire-petite-catena.md
   - work: content/works/dharcourt-victoire-portrait-de-victoire-dharcourt.md
+exhibitions: []
 ---
+
 # Victoire D'Harcourt
 
 > Toute puissance ne tient qu'à un fil
