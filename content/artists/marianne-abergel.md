@@ -1,27 +1,24 @@
 ---
 template: artist
+redirect_from:
+  - /artistes/59-marianne-abergel/
 title: 'Abergel Marianne '
 location: Paris
 fields:
   - Céramique
-expose: true
-exhibitions: []
-redirect_from:
-  - /artistes/59-marianne-abergel/
 styles:
   - Figuratif
+expose: true
 work: content/works/marianne-abergelmd-ou-es-tu.md
 works:
-  - work: content/works/marianne-abergelmd-tete-de-lievre.md
   - work: content/works/marianne-abergelmd-petite-tete-de-lievre.md
-  - work: content/works/marianne-abergelmd-est-ce-possible.md
   - work: content/works/marianne-abergelmd-lievre-5.md
-  - work: content/works/marianne-abergelmd-lievre-blanc-6.md
   - work: content/works/marianne-abergelmd-ou-es-tu.md
   - work: content/works/marianne-abergelmd-pourquoi-chimere-noire.md
   - work: content/works/marianne-abergelmd-se-relever.md
   - work: content/works/abergel-marianne-chimere-cachee-le-lievre.md
   - work: content/works/abergel-marianne-chimere-cachee-la-girafe.md
+exhibitions: []
 ---
 
 # Marianne Abergel
