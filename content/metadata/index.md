@@ -15,11 +15,11 @@ menu:
   - page: content/pages/references.md
 caption: Art Contemporain
 announcement: |
-  DDESSIN PARIS
+  Exposition Jacques Le Brusq
 
-  Solo-Show 1011
+  2 au 20 Avril 
 
-  21 - 24 Mars
+  vernissage 15H 6 Avril
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
