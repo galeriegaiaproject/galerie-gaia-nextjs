@@ -17,7 +17,6 @@ styles:
 expose: true
 work: content/works/laure-carremd-moonlight.md
 works:
-  - work: content/works/laure-carremd-the-loner.md
   - work: content/works/laure-carremd-pink-dance.md
   - work: content/works/laure-carremd-petit-salon.md
   - work: content/works/laure-carremd-moonlight.md
@@ -27,7 +26,6 @@ works:
   - work: content/works/laure-carremd-buste-femme.md
   - work: content/works/laure-carremd-mon-bel-arbre.md
   - work: content/works/laure-carremd-la-nuit-demain.md
-  - work: content/works/laure-carremd-regarder-leau.md
   - work: content/works/laure-carremd-cheval-en-tete.md
   - work: content/works/laure-carremd-green-horse.md
   - work: content/works/carre-laure-bal-masque.md
