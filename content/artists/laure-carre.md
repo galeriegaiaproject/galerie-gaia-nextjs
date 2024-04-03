@@ -17,7 +17,6 @@ styles:
 expose: true
 work: content/works/laure-carremd-moonlight.md
 works:
-  - work: content/works/laure-carremd-pink-dance.md
   - work: content/works/laure-carremd-petit-salon.md
   - work: content/works/laure-carremd-moonlight.md
   - work: content/works/laure-carremd-la-salle-de-danse.md
