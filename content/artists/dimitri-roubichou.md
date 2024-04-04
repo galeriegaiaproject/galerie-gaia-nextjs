@@ -1,23 +1,18 @@
 ---
 template: artist
+redirect_from:
+  - /artistes/82-dimitri-roubichou/
 title: 'Roubichou Dimitri '
 location: ''
 fields:
   - Photographie
-expose: true
-exhibitions: []
-redirect_from:
-  - /artistes/82-dimitri-roubichou/
 styles:
   - Figuratif
+expose: true
 work: content/works/roubichou-dimitri-echoes.md
 works:
   - work: content/works/roubichou-dimitri-acate.md
   - work: content/works/roubichou-dimitri-akemi.md
-  - work: content/works/roubichou-dimitri-anchorage.md
-  - work: content/works/roubichou-dimitri-anemone.md
-  - work: content/works/roubichou-dimitri-coquillage-recto-1.md
-  - work: content/works/roubichou-dimitri-coquillage-verso-1.md
   - work: content/works/roubichou-dimitri-echoes.md
   - work: content/works/roubichou-dimitri-iris.md
   - work: content/works/roubichou-dimitri-jade.md
@@ -25,13 +20,12 @@ works:
   - work: content/works/roubichou-dimitri-miki.md
   - work: content/works/roubichou-dimitri-moha.md
   - work: content/works/roubichou-dimitri-naoned.md
-  - work: content/works/roubichou-dimitri-paa.md
-  - work: content/works/roubichou-dimitri-paige.md
   - work: content/works/roubichou-dimitri-penelope.md
   - work: content/works/roubichou-dimitri-portrait.md
   - work: content/works/roubichou-dimitri-trophee.md
-  - work: content/works/roubichou-dimitri-vera.md
+exhibitions: []
 ---
+
 # Dimitri Roubichou
 
 Un photographe c’est un œil. Un œil qui regarde certes mais qui sait plonger au cœur de son sujet.
