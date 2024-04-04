@@ -15,11 +15,11 @@ menu:
   - page: content/pages/references.md
 caption: Art Contemporain
 announcement: |
-  Exposition Jacques Le Brusq
+  Jacques Le Brusq
 
-  2 au 20 Avril 
+  Peinture
 
-  vernissage 15H 6 Avril
+  2 au 20 Avril
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
