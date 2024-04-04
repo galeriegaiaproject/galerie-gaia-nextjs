@@ -8,6 +8,7 @@ seo:
     de découvrir de nombreux artistes contemporains internationaux.
   image: ''
 artists:
+  - artist: content/artists/jacques-le-brusq.md
   - artist: content/artists/mauger-vincent.md
   - artist: content/artists/elisabeth-wadecki.md
   - artist: content/artists/garibbo-alberte.md
@@ -34,7 +35,6 @@ artists:
   - artist: content/artists/pierre-tual.md
   - artist: content/artists/tilly-yves.md
   - artist: content/artists/edwin-wide.md
-  - artist: content/artists/jacques-le-brusq.md
   - artist: content/artists/francoise-paressant-1.md
   - artist: content/artists/annick-argant.md
   - artist: content/artists/olivier-fremont.md
