@@ -6,7 +6,7 @@ title: Versants
 location: ''
 fields:
   - Oeuvre sur papier
-expose: true
+expose: false
 work: content/works/versants-strates-42.md
 works:
   - work: content/works/versants-echo-v.md
