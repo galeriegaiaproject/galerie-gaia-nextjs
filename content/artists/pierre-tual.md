@@ -34,8 +34,6 @@ works:
   - work: content/works/tual-pierre-estacade-ii.md
   - work: content/works/tual-pierre-kerinos-etude.md
   - work: content/works/tual-pierre-marine-i.md
-  - work: content/works/tual-pierre-monotype-1.md
-  - work: content/works/tual-pierre-monotype-2.md
   - work: content/works/tual-pierre-atelier-pierre-tual.md
 exhibitions: []
 ---
