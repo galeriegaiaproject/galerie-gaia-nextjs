@@ -20,7 +20,7 @@ works:
 
 # Pierre Soemone
 
-Pierre Soemone peint depuis plus de 25ans, il rencontre le graffiti à 13ans et en
+Pierre Soemone peint depuis plus de 25ans, il rencontre le graffiti à 13 ans et en
 garde aujourd’hui, sa spontanéité, sa force et un goût pour l’accident. Sa peinture
 questionne l’érosion contemporaine. Ces traces que nous ne regardons plus,
 celles inscrites dans notre inconscient collectif et notre quotidien : des
