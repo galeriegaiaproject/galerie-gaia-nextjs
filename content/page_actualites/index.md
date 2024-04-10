@@ -2037,6 +2037,6 @@ articles:
 
       aussi une exposition familiale, Jacques s’offre un accrochage avec sa
       fille Typhaine Le Brusq et sa petite fille Lou-Maria Le Brusq dont les
-      pratiques seront à découvrir dans un deuxième temps du 15 au 20 avril.
+      pratiques seront à découvrir dans un deuxième temps du 20 au 30 Avril.
 ---
 
