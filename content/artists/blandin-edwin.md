@@ -4,6 +4,9 @@ seo:
   heading: 'Edwin Blandi artiste peintre dessin '
   type: article
   description: 'Blandin Edwin artiste dessin beaux arts nantes '
+  image: >-
+    https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/blandin
+    edwin/galerie-gaia-blandin-edwin-1.jpeg
 title: Blandin Edwin
 fields:
   - Dessin
