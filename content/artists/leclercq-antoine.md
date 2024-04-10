@@ -10,6 +10,7 @@ fields:
   - Sculpture
 styles:
   - Abstrait
+expose: true
 work: content/works/leclercq-antoinemd-le-baiser.md
 works:
   - work: content/works/leclercq-antoinemd-les-ballerines.md
