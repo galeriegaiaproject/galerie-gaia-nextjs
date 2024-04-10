@@ -8,7 +8,6 @@ seo:
     de découvrir de nombreux artistes contemporains internationaux.
   image: ''
 artists:
-  - artist: content/artists/bragoni-daniele.md
   - artist: content/artists/jacques-le-brusq.md
   - artist: content/artists/leclercq-antoine.md
   - artist: content/artists/mauger-vincent.md
@@ -18,6 +17,7 @@ artists:
   - artist: content/artists/byl-william.md
   - artist: content/artists/1011.md
   - artist: content/artists/popet-yves.md
+  - artist: content/artists/bragoni-daniele.md
   - artist: content/artists/pierre-muckensturm.md
   - artist: content/artists/dubreuil.md
   - artist: content/artists/toma-l.md
