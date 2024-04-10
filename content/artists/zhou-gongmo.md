@@ -17,6 +17,8 @@ works:
   - work: content/works/zhou-gongmomd-portrait.md
 ---
 
+# Gongmo Zhou
+
 Diplômé de l'École des Beaux Arts de Nantes en 2023\
 Sélection des 15 artistes du prix B Signature 2023.
 
