@@ -5,6 +5,7 @@ fields:
 styles:
   - Abstrait
 expose: true
+work: content/works/remy-pierre-alexandremd-une-ballade-du-rouge-gorge-3.md
 works:
   - work: content/works/remy-pierre-alexandremd-une-ballade-du-rouge-gorge-1.md
   - work: content/works/remy-pierre-alexandremd-lermite-celeste-2.md
@@ -17,8 +18,9 @@ works:
   - work: content/works/remy-pierre-alexandremd-echo-au-chaos-1.md
   - work: content/works/remy-pierre-alexandremd-une-ballade-du-rouge-gorge-3.md
   - work: content/works/remy-pierre-alexandremd-sous-les-pieds-le-ciel.md
-work: content/works/remy-pierre-alexandremd-une-ballade-du-rouge-gorge-3.md
 ---
+
+# Pierre-Alexandre Rémy
 
 Anatomie d’un contexte
 
