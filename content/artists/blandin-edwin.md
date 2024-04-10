@@ -1,4 +1,9 @@
 ---
+seo:
+  title: 'Blandin Edwin artiste dessin beaux arts nantes '
+  heading: 'Edwin Blandi artiste peintre dessin '
+  type: article
+  description: 'Blandin Edwin artiste dessin beaux arts nantes '
 title: Blandin Edwin
 fields:
   - Dessin
