@@ -1999,11 +1999,14 @@ articles:
     categories:
       - Exposition
     image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/le-brusq-jacques/GAIÌ\x88A_A5_JACQUES_LE_BRUSQ-1_page-0001.jpg"
-    content: >+
-      Vernissage Samedi 6 Avril 15H 
+    content: >
+      [https://telenantes.ouest-france.fr/nantes-matin/article/chronique-expo-jacques-le-brusq-la-galerie-gaia](https://telenantes.ouest-france.fr/nantes-matin/article/chronique-expo-jacques-le-brusq-la-galerie-gaia)
 
 
-      Plonger, le souffle coupé dans une contemplation commune. 
+      Vernissage Samedi 6 Avril 15H
+
+
+      Plonger, le souffle coupé dans une contemplation commune.
 
 
       Les œuvres de Jacques Le Brusq possèdent une vibration, une puissance
@@ -2013,7 +2016,7 @@ articles:
       vrai. Elles troublent et font de l’espace pictural, un espace présent,
       elles disent l’invisible, nous raccroche au monde, mais surtout elle donne
       à voir la peinture. Elle devient autonome, incarnée et n’appartient plus à
-      Jacques. C’est une invitation magnétique essentielle. 
+      Jacques. C’est une invitation magnétique essentielle.
 
 
       « La peinture est imprévisible. La peinture, il faut la faire, mais
