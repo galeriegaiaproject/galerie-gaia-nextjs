@@ -4,6 +4,8 @@ fields:
   - Sculpture
 styles:
   - Abstrait
+expose: true
+work: content/works/bragoni-danielemd-bragonium.md
 works:
   - work: content/works/bragoni-danielemd-bragonium.md
   - work: content/works/bragoni-danielemd-bragoni-daniele-portrait.md
