@@ -9,6 +9,7 @@ seo:
   image: ''
 artists:
   - artist: content/artists/jacques-le-brusq.md
+  - artist: content/artists/leclercq-antoine.md
   - artist: content/artists/mauger-vincent.md
   - artist: content/artists/elisabeth-wadecki.md
   - artist: content/artists/garibbo-alberte.md
