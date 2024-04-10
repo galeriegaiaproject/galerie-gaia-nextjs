@@ -13,4 +13,4 @@ dimensions:
   width: 29.7
 ---
 
-2023
+2023 Oeuvre encadrée
