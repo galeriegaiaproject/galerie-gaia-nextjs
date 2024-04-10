@@ -53,7 +53,7 @@ L'artiste est né en 1938 à Rennes. Entre 1970 et 1977, il crée et anime un ce
 
 Sa démarche est nourrie par la philosophie et la pensée poétique, et par une longue immersion au sein du règne végétal et du règne minéral.
 
-> *"Il est éminament figuratif et totalement abstrait."* **Jean-Pierre Delarge** in *Dictionnaire des arts plastiques modernes et contemporains*, éditions Gründ.
+> *"Il est éminemment figuratif et totalement abstrait."* **Jean-Pierre Delarge** in *Dictionnaire des arts plastiques modernes et contemporains*, éditions Gründ.
 
 Jacques Le Brusq commence sa formation aux Beaux-arts de Rennes et la termine à l'école nationale des Beaux-arts de Paris. Le jeune peintre pratique alors une peinture figurative et symbolique, dont l'inspiration de la terre bretonne, avec ses contes et légendes, apporte une dimension presque fantastique. Revenant sur cette période de sa vie, le peintre parlera d'une "fuite face au réel". Un chemin presque dangereux, et qui n'était surtout pas le sien. Au début des années 60, il retrouve le chemin de la Bretagne, et c'est au milieu des landes de Lanvaux, dans le Morbihan, qu'il décide de s'installer. Il y acquiert la Cour de Bovrel, une ancienne seigneurie datée du XVe siècle, qu'il entreprend de restaurer. Le chantier lui prend tout son temps. Une dizaine d'années sera nécessaire à la réhabilitation de la bâtisse en lieu de vie et de travail. L'édifice comprend alors un espace d'exposition que l'artiste animera de 1970 à 1977. Accaparé par son projet, il y a surtout appris la patience et la persévérance. Immergé dans la forêt, il y fera également la rencontre qui le ramènera à la peinture : *"J'ai repris la peinture quand un arbre de la cour m'a fait signe"* dira t-il.
 
@@ -70,6 +70,9 @@ Texte extrait du guide d'accompagnement de l'exposition *Sur le motif*, réalis�
 
 **Expositions personnelles :**
 
+****[https://telenantes.ouest-france.fr/nantes-matin/article/chronique-expo-jacques-le-brusq-la-galerie-gaia](https://telenantes.ouest-france.fr/nantes-matin/article/chronique-expo-jacques-le-brusq-la-galerie-gaia)
+
+* 2024 Avril Exposition personnelle Galerie Gaïa commissariat Elisabeth Givre & Inès Ben Brahim
 * 2021 Novembre "Le présent du monde", Galerie Gaïa commissariat Elisabeth Givre
 * 2021 Mai-Septembre, Fougères Musée de la Villéon " Paysages, Paysages " Commissariat Samuel Linard
 * 2020 Juin-Décembre Musée Robert Tatin "Du Morbihan à la Frénouse, aux abords du pays où la lumière ne fait point d'ombre" - commissariat Bruno Godivier - édition d'un catalogue
@@ -124,42 +127,3 @@ In 2010, Jacques Le Brusq returns to Brittany and the Rhuys peninsula in particu
 Text taken from the accompanying guide to the exhibition Sur le motif, held in 2013 at the Domaine de Kerguéhennec, courtesy of Olivier Delavalade and the Domaine de Kerguéhennec.
 
 > "Le Brusq is more than a landscape painter. he is a man in the landscape, a man in the world, a man in the light, in the color, in the green, "under the weather". His painting is the interior of his skin, of his thought, of his universe. The landscape he sees is not so much the one in front of his eyes as the one that crosses his body. "Christophe Cesbron, excerpt from Peindre sous le temps, Jacques Le Brusq, éditions Domaine de Kerguéhennec, October 2013
-
-**Personnal exhibitions:**
-
-* 2021 November "Le présent du monde", Galerie Gaïa curator Elisabeth Givre
-* 2021 May-September, Fougères Musée de la Villéon "Landscapes, Landscapes" Curator Samuel Linard
-* 2020 June-December Robert Tatin Museum "From the Morbihan to the Frénouse, on the outskirts of the country where the light does not cast a shadow" - curator Bruno Godivier - publication of a catalog
-* 2020 July November Vannes Museum of Fine Arts La Cohue "Land and Landes, Landscapes of Brittany" - (painters of the 19th, 20th, 21st centuries) - curator Françoise Berretrot, Marie Annie Avril
-* 2019 Le Mans Musée de Tessé " Paysages " (From the Italian primitives to contemporary painters) - curator Carole Hirardot
-* 2019 Cossé le Vivien Robert Tatin Museum "O Time of Tatin" curator Bruno Godivier
-* 2018 Vannes Musée des Beaux-Arts La Cohue " In the presence of trees " curator Françoise Berretrot & Marie-Annie Avril.
-* 2018 Nantes- Galerie RDV- " Ce presque rien "- Noémie Chauvet Jacques Le Brusq-
-* 2016 Paris- Jean Fournier Gallery "25 years of art in the chapels
-* 2015 Un chemin en peinture, Atelier Raspail, Paris (curator Charles Bimbenet)
-* 2013 Sur le motif, Domaine de Kerguehennec, Bignan (curator Olivier Delavalade)
-* 1998 Espace Sophie Barrouyer, Paris
-* 1997 FIAC - Espace du Quai Branly, Paris (Galerie Plessis)
-* 1996 Du paysage au dépaysement, Musée des Beaux-arts, Chartres (curator Maïthé Valles-Bled)
-* 1992 Akié Arrichi Gallery, Paris
-* 1991 Musée de Tessé - Collégiale Saint-Pierre-La-Cour, Le Mans (curator Serge Nikitine)
-* 1986 Le Grand Huit - Maison de la Culture, Rennes (curator Jean-Yves Louédec)
-* 1973 Musée de Tessé, Le Mans (curator Raymond Blanc)
-* 1971 La Cour de Bovrel, Saint Guyomard
-* 1965 Foyer des artistes - Montparnasse - Galerie Marc Vaux, Paris
-
-**Public collections:**
-
-* Museum of Arts of Nantes
-* Artothèque Nantes
-* Museum of Tessé Le Mans
-* Museum of the Baux Arts La Cohue Vannes
-* Robert Tatin Museum Cossé Le Vivien
-* Museum La Perrine Laval
-* Contemporary Art Fund City of Rennes
-* Contemporary Art Fund Nantes School of Fine Arts
-* Contemporary Art Fund City of Paris
-* Contemporary Art Fund Domaine de Kerguehennec Bignan
-* Contemporary Art Fund Albert Bourgeois Gallery Fougères
-* BNF Bibilothèque Nationale de France Paris
-* Artothèque Angers
