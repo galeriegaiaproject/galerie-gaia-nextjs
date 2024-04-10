@@ -8,7 +8,6 @@ seo:
     de découvrir de nombreux artistes contemporains internationaux.
   image: ''
 artists:
-  - artist: content/artists/blandin-edwin.md
   - artist: content/artists/jacques-le-brusq.md
   - artist: content/artists/mauger-vincent.md
   - artist: content/artists/elisabeth-wadecki.md
@@ -74,6 +73,7 @@ artists:
   - artist: content/artists/renaud-allirand.md
   - artist: content/artists/jacqueline-pecantet.md
   - artist: content/artists/adolfo-arenas-alonso.md
+  - artist: content/artists/blandin-edwin.md
   - artist: content/artists/wave-week-end-arts-visuels-nantes.md
 ---
 
