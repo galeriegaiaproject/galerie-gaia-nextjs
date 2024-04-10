@@ -24,6 +24,8 @@ works:
 exhibitions: []
 ---
 
+# William Byl
+
 Si vous souhaitez commander une céramique contactez-nous. Délai de 2 mois
 
 William Byl est passionné par le dessin depuis l'enfance, et se forme à l'école des Beaux- Arts de Cholet\
