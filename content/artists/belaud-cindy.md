@@ -1,25 +1,29 @@
 ---
+template: artist
+seo:
+  title: ''
+  heading: ''
+  type: article
+  description: ''
+  image: ''
+title: Belaud Cindy
+location: ''
 fields:
   - Oeuvre sur papier
 styles:
   - Abstrait
-seo:
-  type: article
-  title: ''
-  heading: ''
-  description: ''
-  image: ''
-template: artist
-title: Belaud Cindy
-location: ''
 expose: true
-exhibitions: []
 work: content/works/belaud-cindy-3x3x3.md
 works:
+  - work: content/works/belaud-cindymd-monotype-rouge-vert.md
+  - work: content/works/belaud-cindymd-monotype-bleu-orange.md
+  - work: content/works/belaud-cindymd-deux-passages.md
   - work: content/works/belaud-cindy-3x3x3.md
   - work: content/works/belaud-cindy-aplat.md
   - work: content/works/belaud-cindy-aplat-en-situation.md
+exhibitions: []
 ---
+
 # Cindy Belaud
 
 > L'expérimentation des formes et des couleurs
