@@ -13,7 +13,7 @@ fields:
 styles:
   - Abstrait
 expose: true
-work: content/works/belaud-cindy-3x3x3.md
+work: content/works/belaud-cindymd-monotype-bleu-orange.md
 works:
   - work: content/works/belaud-cindymd-monotype-rouge-vert.md
   - work: content/works/belaud-cindymd-monotype-bleu-orange.md
