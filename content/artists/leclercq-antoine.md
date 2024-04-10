@@ -21,6 +21,8 @@ works:
   - work: content/works/leclercq-antoinemd-alliances.md
 ---
 
+# Antoine Leclercq
+
 Antoine Leclercq s'attache à ce que ses œuvres s’intègrent dans le paysage, sans s'imposer.
 Des abstractions, des lignes épurées et simples, ses sculptures s’inscrivent dans une lignée moderniste de la sculpture  monumentale contemporaine en acier corten.
 
