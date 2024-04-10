@@ -20,7 +20,9 @@ works:
   - work: content/works/garibbo-albertemd-pierre-de-lune.md
 ---
 
- « Le noir est la base de ma réflexion et de ma recherche, cette non-couleur est, par la profusion de ses nuances chaudes, profondes, mates, brillantes, une couleur vibrante et vivante, une polychromie dans la monochromie. Le noir est un appel à la lumière, un champ velouté et ondulatoire qui ouvre une autre dimension, une dimension au-delà des frontières connues. Pliage des nuances, Tourbillon des tonalités Jeux optiques, modulations rythmiques à l'infini, font de cette couleur /non couleur, un transport des sens dans l'intemporel. »
+# Alberte Garibbo 
+
+« Le noir est la base de ma réflexion et de ma recherche, cette non-couleur est, par la profusion de ses nuances chaudes, profondes, mates, brillantes, une couleur vibrante et vivante, une polychromie dans la monochromie. Le noir est un appel à la lumière, un champ velouté et ondulatoire qui ouvre une autre dimension, une dimension au-delà des frontières connues. Pliage des nuances, Tourbillon des tonalités Jeux optiques, modulations rythmiques à l'infini, font de cette couleur /non couleur, un transport des sens dans l'intemporel. »
 
 Formations :
 
