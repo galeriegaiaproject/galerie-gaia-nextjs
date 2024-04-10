@@ -35,6 +35,8 @@ works:
   - work: content/works/dubreuilmd-portrait-datelier.md
 ---
 
+# Jean-François Dubreuil
+
 Né en 1946, Jean-François Dubreuil construit depuis les années 1970 ses tableaux à partir de supports d’informations imprimés, hebdomadaires et surtout quotidiens (régionaux, nationaux, étrangers). Chaque tableau est une traduction plastique, non pas du contenu de ces journaux, mais des surfaces occupées par les contenus.
 
 ##
