@@ -13,7 +13,7 @@ works:
   - work: content/works/wu-yuzimd-portrait-de-yuzi-wu.md
 ---
 
-Yuzi Wu
+# Yuzi Wu
 
 Yuzi WU est née en Chine, diplômée d'une licence de l'Ecole des Beaux Arts de Xi'An. Elle passe son DNA à l'école des Beaux Arts de Nantes St Nazaire en 2019 et diplômée d'un Master 1 en 2023.
 
