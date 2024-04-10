@@ -10,6 +10,11 @@ fields:
   - Sculpture
 styles:
   - Abstrait
+work: content/works/leclercq-antoinemd-le-baiser.md
+works:
+  - work: content/works/leclercq-antoinemd-les-ballerines.md
+  - work: content/works/leclercq-antoinemd-le-baiser.md
+  - work: content/works/leclercq-antoinemd-alliances.md
 ---
 
 Antoine Leclercq s'attache à ce que ses œuvres s’intègrent dans le paysage, sans s'imposer.
