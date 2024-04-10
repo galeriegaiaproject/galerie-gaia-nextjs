@@ -11,6 +11,8 @@ works:
   - work: content/works/bragoni-danielemd-bragoni-daniele-portrait.md
 ---
 
+# Daniele Bragoni
+
 Daniele BRAGONI a été formé à l’Académie des Beaux-arts de Carrara (Italie) où il a obtenu un Master en travaillant toutes les techniques sculpturales. Depuis plus de 30 ans, c’est principalement le marbre qu’il a privilégié et est arrivé à une maîtrise remarquable de la matière y compris dans les réalisations monumentales.
 L'expérience des concours lui a appris à réaliser des œuvres en réponse à une architecture et ses
 fonctionnalités.
