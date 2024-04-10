@@ -24,6 +24,8 @@ works:
   - work: content/works/popet-yvesmd-portrait-yves-popet.md
 ---
 
+# Yves Popet
+
 Yves Popet est un artiste présent depuis 1994 à la Galerie Lahumière à Paris et depuis 2010 à la Galerie Oniris à Rennes.
 
 Yves Popet utilise un papier Arches de haut grammage (640 g /m2) dont la texture dite « grain torchon » est obtenue selon un procédé ancien et traditionnel de pressage et de répartition homogène des fibres (100% coton) qui offre des qualités exceptionnelles de structure par sa résistance et sa stabilité dans le temps mais aussi et surtout de « pré-composition ». Ainsi, ce papier propose un champ de creux et de bosses fibreux dont toute la surface non rigoureusement plane offre des accidents qui en font une sorte d’infra-mince réceptacle tridimensionnel.
