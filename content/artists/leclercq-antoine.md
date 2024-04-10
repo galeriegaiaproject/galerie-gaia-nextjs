@@ -4,6 +4,9 @@ seo:
   heading: Lelcercq Antoine sculpteur acier corten monumentale
   type: article
   description: Antoine Leclercq sculpteur acien corten monumentale abstrait
+  image: >-
+    https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/leclercq-antoine/galerie-gaia-leclercq-antoine-le
+    baiser.jpg
 title: Leclercq Antoine
 location: Belgique
 fields:
