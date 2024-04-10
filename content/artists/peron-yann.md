@@ -22,6 +22,8 @@ works:
 exhibitions: []
 ---
 
+# Yann Peron
+
 "Dès la plus petite enfance j’ai aimé colorer, barbouiller, créer avec rapidité, rage et plaisir pour laisser mes traces sur toutes formes de papier, bois, carton, tôle ondulée, etc. Barioler cahiers d’écolier, agendas et autres supports de cours, m’a extrait de mon quotidien solitaire pour vivre des aventures oniriques. Mes vacances d’été, je les ai partagées à Pont- Aven entre le plaisir de m’enliser dans la vase, nager dans l’eau glacée de cette rivière d’eau saumâtre et observer les feuillages du bois d’amour où Paul Sérusier a peint « Le Talisman ».
 
 L'eau et l'essence térébenthine m'ont conduit à l'expression gestuelle figurative le souvent aquarellée de teintes diluées.
