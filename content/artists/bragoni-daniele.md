@@ -7,6 +7,7 @@ styles:
 expose: true
 work: content/works/bragoni-danielemd-bragonium.md
 works:
+  - work: content/works/bragoni-danielemd-bragonium-marbre-bardiglio.md
   - work: content/works/bragoni-danielemd-black-wave-horizontal.md
   - work: content/works/bragoni-danielemd-black-wave-verticale.md
   - work: content/works/bragoni-danielemd-onde-du-bonheur.md
