@@ -2,6 +2,14 @@
 template: artist
 redirect_from:
   - /artistes/94-marie-vandooren/
+seo:
+  title: 'Marie Vandooren artiste peintre sérigraphie '
+  heading: 'Marie Vandooren artiste peintre sérigraphie '
+  type: article
+  description: 'Marie Vandooren artiste peintre sérigraphie  serigraphe 1 immeuble 1 oeuvre '
+  image: >-
+    https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/vandooren-marie/galerie-gaia-vandooren-marie-fumee
+    unique-40X30.jpg
 title: 'Vandooren Marie '
 location: ''
 fields:
