@@ -1,12 +1,29 @@
 ---
+template: artist
+seo:
+  title: Marionneau Brigitte céramiste
+  heading: 'Brigitte Marionneau céramiste '
+  type: article
+  description: 'Brigitte Marionneau Céramiste '
+  image: >-
+    https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/marionneau-brigitte/galerie-gaia-
+    marionneau-brigitte-contenir le vent-8-XI-7-XI-2023-h25x15x7cm.jpg
+title: 'Marionneau Brigitte '
+location: ''
 fields:
   - Céramique
 styles:
   - Abstrait
-template: artist
-title: 'Marionneau Brigitte '
-location: ''
 expose: true
+work: content/works/brigitte-marionneaumd-contenir-le-vent-8-xi-7-xi.md
+works:
+  - work: content/works/brigitte-marionneaumd-contenir-le-vent-9xi.md
+  - work: content/works/brigitte-marionneaumd-contenir-le-vent-12-iii.md
+  - work: content/works/brigitte-marionneaumd-contenir-le-vent-12-xi.md
+  - work: content/works/brigitte-marionneaumd-contenir-le-vent-15-iii.md
+  - work: content/works/brigitte-marionneaumd-contenir-le-vent-8-xi-7-xi.md
+  - work: content/works/marionneau-brigitte-le-geste.md
+  - work: content/works/marionneau-brigitte-portrait-brigitte-marionneau.md
 exhibitions:
   - title: Amélie Maison d'art
     location: Paris
@@ -24,21 +41,6 @@ exhibitions:
     location: 'Nançay '
     start: ''
     end: ''
-seo:
-  title: ''
-  heading: ''
-  type: ''
-  description: ''
-  image: ''
-work: content/works/brigitte-marionneaumd-contenir-le-vent-8-xi-7-xi.md
-works:
-  - work: content/works/brigitte-marionneaumd-contenir-le-vent-9xi.md
-  - work: content/works/brigitte-marionneaumd-contenir-le-vent-12-iii.md
-  - work: content/works/brigitte-marionneaumd-contenir-le-vent-12-xi.md
-  - work: content/works/brigitte-marionneaumd-contenir-le-vent-15-iii.md
-  - work: content/works/brigitte-marionneaumd-contenir-le-vent-8-xi-7-xi.md
-  - work: content/works/marionneau-brigitte-le-geste.md
-  - work: content/works/marionneau-brigitte-portrait-brigitte-marionneau.md
 ---
 
 # Brigitte Marionneau
