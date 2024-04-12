@@ -1,4 +1,12 @@
 ---
+seo:
+  title: 'Bargoni Daniele sculpteur marbre '
+  heading: 'Bargoni Daniele sculpteur marbre '
+  type: article
+  description: 'Bargoni Daniele sculpteur marbre '
+  image: >-
+    https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/bragoni
+    daniel/galerie-gaia-bragoni-daniel-bragonium-bardiglio-36X23X12.jpg
 title: Bragoni Daniele
 fields:
   - Sculpture
