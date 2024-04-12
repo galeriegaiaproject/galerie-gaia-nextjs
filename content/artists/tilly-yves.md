@@ -1,10 +1,10 @@
 ---
 template: artist
 seo:
-  title: ''
-  heading: ''
+  title: 'Yves Tilly sculpteur bois bretagne '
+  heading: 'Yves Tilly sculpteur bois bretagne '
   type: article
-  description: ''
+  description: 'Yves Tilly sculpteur bois bretagne '
   image: ''
 title: Tilly Yves
 location: ''
