@@ -1,6 +1,6 @@
 ---
 seo:
-  title: 'Toma l Tom-L Toma-l Thomas Labarthe artiste peintre '
+  title: 'Toma l Toma-L Toma-l Thomas Labarthe artiste peintre '
   heading: 'Toma l Tom-L Toma-l Thomas Labarthe artiste peintre '
   type: website
   description: 'Toma l Tom-L Toma-l Thomas Labarthe artiste peintre '
