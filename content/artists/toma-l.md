@@ -1,4 +1,12 @@
 ---
+seo:
+  title: 'Toma l Tom-L Toma-l Thomas Labarthe artiste peintre '
+  heading: 'Toma l Tom-L Toma-l Thomas Labarthe artiste peintre '
+  type: website
+  description: 'Toma l Tom-L Toma-l Thomas Labarthe artiste peintre '
+  image: >-
+    https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/toma-l/galerie-gaia-Toma-L-Monographie
+    Skira.jpg
 title: Toma-L
 location: ''
 fields:
