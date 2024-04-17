@@ -16,6 +16,8 @@ styles:
 expose: true
 work: content/works/leclercq-antoinemd-le-baiser.md
 works:
+  - work: content/works/leclercq-antoinemd-la-valse.md
+  - work: content/works/leclercq-antoinemd-equilibrium.md
   - work: content/works/leclercq-antoinemd-embrace.md
   - work: content/works/leclercq-antoinemd-les-ballerines.md
   - work: content/works/leclercq-antoinemd-le-baiser.md
