@@ -36,4 +36,6 @@ Sculpteur autodidacte a exercé ces deux professions en parallèle durant douze 
 Depuis Antoine Lelcercq a créé des sculptures monumentales qui sont installées de manière permanente
 dans l’espace publique (Mont-Saint-Guibert et Nivelles Belgique), pour des jardins privés, ou des commandes sur-mesure.
 
-Antoine Leclercq sculpteur est exposé dans deux galeries belges en Wallonie et Flandres au Pays-Bas et Etats-Unis. Il rejoint la Galerie Gaïa en 2024
+Antoine Leclercq sculpteur est exposé dans deux galeries belges en Wallonie et Flandres au Pays-Bas et Etats-Unis. Il rejoint la Galerie Gaïa en 2024.
+
+Nous réalisons des intégrations des œuvres dans votre espace paysager sur demande contact\@galeriegaia.fr
