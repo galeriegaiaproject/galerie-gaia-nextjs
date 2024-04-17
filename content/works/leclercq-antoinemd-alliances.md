@@ -1,6 +1,6 @@
 ---
 title: Alliances
-reference: 'Lelcercq Antoine, Alliances '
+reference: 'Leclercq Antoine, Alliances '
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/leclercq-antoine/galerie-gaia-leclercq-antoine-alliance
   ES.jpg
@@ -16,8 +16,8 @@ dimensions:
 
 Formats disponibles, prix sur demande :
 
-165X150X165 : Epreuve d'artiste 
+165X150X165 : Epreuve d'artiste
 
 200X180X200 : Epreuve d'artiste
 
-300X285X300 : 2/3 
+300X285X300 : 2/3
