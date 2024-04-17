@@ -16,6 +16,9 @@ styles:
 expose: true
 work: content/works/leclercq-antoinemd-le-baiser.md
 works:
+  - work: content/works/leclercq-antoinemd-triumph.md
+  - work: content/works/leclercq-antoinemd-together.md
+  - work: content/works/leclercq-antoinemd-rising.md
   - work: content/works/leclercq-antoinemd-mon-premier-amour.md
   - work: content/works/leclercq-antoinemd-le-baiser-en-situation.md
   - work: content/works/leclercq-antoinemd-la-valse.md
