@@ -24,7 +24,6 @@ works:
   - work: content/works/leclercq-antoinemd-la-valse.md
   - work: content/works/leclercq-antoinemd-equilibrium.md
   - work: content/works/leclercq-antoinemd-embrace.md
-  - work: content/works/leclercq-antoinemd-les-ballerines.md
   - work: content/works/leclercq-antoinemd-le-baiser.md
   - work: content/works/leclercq-antoinemd-alliances.md
 ---
@@ -45,4 +44,4 @@ dans l’espace publique (Mont-Saint-Guibert et Nivelles Belgique), pour des jar
 
 Antoine Leclercq sculpteur est exposé dans deux galeries belges en Wallonie et Flandres au Pays-Bas et Etats-Unis. Il rejoint la Galerie Gaïa en 2024.
 
-Nous réalisons des intégrations des œuvres dans votre espace paysager sur demande contact\@galeriegaia.fr
+Nous réalisons des intégrations des œuvres dans votre espace paysager sur demande [contact@galeriegaia.fr](mailto:contact@galeriegaia.fr)
