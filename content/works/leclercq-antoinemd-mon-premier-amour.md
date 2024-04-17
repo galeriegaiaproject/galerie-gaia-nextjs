@@ -1,6 +1,6 @@
 ---
 title: Mon premier amour
-reference: 'Lelcercq Antoine, Mon premeier amour'
+reference: 'Leclercq Antoine, Mon premier amour'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/leclercq-antoine/galerie-gaia-leclercq-antoine-mon
   premier amour piscine.jpg
