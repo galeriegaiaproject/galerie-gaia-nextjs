@@ -16,6 +16,7 @@ styles:
 expose: true
 work: content/works/leclercq-antoinemd-le-baiser.md
 works:
+  - work: content/works/leclercq-antoinemd-mon-premier-amour.md
   - work: content/works/leclercq-antoinemd-le-baiser-en-situation.md
   - work: content/works/leclercq-antoinemd-la-valse.md
   - work: content/works/leclercq-antoinemd-equilibrium.md
