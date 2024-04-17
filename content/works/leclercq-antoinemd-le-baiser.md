@@ -10,6 +10,6 @@ technique: Acier corten
 contextual: false
 ---
 
-Format disponible :
+Petit format épuisé
 
-180X100X50: 2/3
+Moyen format réalisable sur commande 180X100X50 N° 2/3
