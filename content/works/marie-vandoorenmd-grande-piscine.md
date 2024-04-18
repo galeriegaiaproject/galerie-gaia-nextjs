@@ -10,5 +10,9 @@ technique: Sérigraphie en 10 exemplaires
 fields:
   - Oeuvre sur papier
 contextual: true
+dimensions:
+  height: 60
+  width: 80
 ---
 
+2023
