@@ -20,6 +20,7 @@ styles:
 expose: true
 work: content/works/marie-vandoorenmd-lac-rose.md
 works:
+  - work: content/works/marie-vandoorenmd-grande-piscine.md
   - work: content/works/marie-vandoorenmd-fumee-decalee.md
   - work: content/works/marie-vandoorenmd-fumee-iv.md
   - work: content/works/marie-vandoorenmd-nouvelle-montagne.md
