@@ -17,9 +17,9 @@ caption: Art Contemporain
 announcement: |
   Jacques Le Brusq
 
-  Peinture
+  Prolongation
 
-  2 au 20 Avril
+  au 30 Avril
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
