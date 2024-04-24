@@ -33,7 +33,6 @@ works:
   - work: content/works/le-brusq-jacques-en-beauce.md
   - work: content/works/le-brusq-jacques-louvert-opus-1.md
   - work: content/works/le-brusq-jacques-louvert-opus-2.md
-  - work: content/works/le-brusq-jacques-rhuys-opus-1-toile.md
   - work: content/works/le-brusq-jacques-ver-cla-flo-opus-3.md
   - work: content/works/le-brusq-jacques-ver-cla-flo-opus-6.md
   - work: content/works/le-brusq-jacques-vers-le-jardin.md
@@ -70,7 +69,7 @@ Texte extrait du guide d'accompagnement de l'exposition *Sur le motif*, réalis�
 
 **Expositions personnelles :**
 
-****[https://telenantes.ouest-france.fr/nantes-matin/article/chronique-expo-jacques-le-brusq-la-galerie-gaia](https://telenantes.ouest-france.fr/nantes-matin/article/chronique-expo-jacques-le-brusq-la-galerie-gaia)
+\*\*\*\*[https://telenantes.ouest-france.fr/nantes-matin/article/chronique-expo-jacques-le-brusq-la-galerie-gaia](https://telenantes.ouest-france.fr/nantes-matin/article/chronique-expo-jacques-le-brusq-la-galerie-gaia)
 
 * 2024 Avril Exposition personnelle Galerie Gaïa commissariat Elisabeth Givre & Inès Ben Brahim
 * 2021 Novembre "Le présent du monde", Galerie Gaïa commissariat Elisabeth Givre
