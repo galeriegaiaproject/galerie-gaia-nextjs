@@ -15,6 +15,9 @@ styles:
 expose: true
 work: content/works/estampes-georges-autard-perte-de-sens.md
 works:
+  - work: content/works/estampesmd-moninot-bernard-resonances-2.md
+  - work: content/works/estampesmd-moninot-bernard-antichambre.md
+  - work: content/works/estampes-cleon-peterson-flowers-of-evil-the-kiss-white.md
   - work: content/works/adolfo-arenas-alonso-sine-noblitate-skull-and-bird.md
   - work: content/works/adolfo-arenas-alonso-sinnoblitate-extrait-skull-and-bird.md
   - work: content/works/clement-alain-sans-titre-06ma2g.md
