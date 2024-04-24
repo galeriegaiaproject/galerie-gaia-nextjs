@@ -34,7 +34,6 @@ works:
   - work: content/works/le-brusq-jacques-louvert-opus-1.md
   - work: content/works/le-brusq-jacques-louvert-opus-2.md
   - work: content/works/le-brusq-jacques-ver-cla-flo-opus-3.md
-  - work: content/works/le-brusq-jacques-ver-cla-flo-opus-6.md
   - work: content/works/le-brusq-jacques-vers-le-jardin.md
   - work: content/works/le-brusq-jacques-vers-lentree-les-douglas.md
   - work: content/works/le-brusq-jacques-exposition-le-present-du-monde.md
