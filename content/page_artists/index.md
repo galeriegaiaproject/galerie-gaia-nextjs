@@ -9,6 +9,7 @@ seo:
   image: ''
 artists:
   - artist: content/artists/jacques-le-brusq.md
+  - artist: content/artists/estampes.md
   - artist: content/artists/leclercq-antoine.md
   - artist: content/artists/mauger-vincent.md
   - artist: content/artists/elisabeth-wadecki.md
@@ -54,7 +55,6 @@ artists:
   - artist: content/artists/jorj-morin-peintre.md
   - artist: content/artists/philippe-lecomte.md
   - artist: content/artists/morellet-francois.md
-  - artist: content/artists/estampes.md
   - artist: content/artists/jorj-morin.md
   - artist: content/artists/peron-yann.md
   - artist: content/artists/marianne-abergel.md
