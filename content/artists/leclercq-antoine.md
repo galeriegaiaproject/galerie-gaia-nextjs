@@ -26,6 +26,7 @@ works:
   - work: content/works/leclercq-antoinemd-equilibrium.md
   - work: content/works/leclercq-antoinemd-embrace.md
   - work: content/works/leclercq-antoinemd-le-baiser.md
+  - work: content/works/leclercq-antoinemd-portrait-antoine-leclercq.md
   - work: content/works/leclercq-antoinemd-alliances.md
 ---
 
