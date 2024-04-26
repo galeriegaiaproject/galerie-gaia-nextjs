@@ -26,7 +26,6 @@ works:
   - work: content/works/estampes-georges-autard-perte-de-sens.md
   - work: content/works/estampes-herve-di-rosa-le-pecheur.md
   - work: content/works/estampes-herve-di-rosa-le-promeneur.md
-  - work: content/works/estampes-pierre-alechinsky-ziggourat-ii.md
   - work: content/works/estampes-soulie-tony-la-rue-de-la-soie.md
   - work: content/works/estampes-tapies-exposition-galerie-maeght-1975.md
 exhibitions: []
