@@ -1,6 +1,6 @@
 ---
-title: 'Frederic Poincelet - Sans titre #3 '
-reference: 'Estampes, Frederic Poincelet - Sans titre #3'
+title: 'Poincelet Frederic - Sans titre  '
+reference: 'Estampes, Poincelet Frederic - Sans titre'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/estampes/frederic-poincelet-sans-titre-3-420.jpg
 artist: content/artists/estampes.md
