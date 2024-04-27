@@ -8,7 +8,7 @@ seo:
     estampe, photographie, courtier en art, défiscalisation, location, prêt
     avant achat.
 carousel:
-  - work: content/works/le-brusq-jacques-louvert-opus-1.md
+  - work: content/works/jacques-le-brusqmd-vetabrfa-opus-3.md
   - work: content/works/le-brusq-jacques-en-beauce-opus-1.md
   - work: content/works/1011-vanite-tulipe.md
 ---
