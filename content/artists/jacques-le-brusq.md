@@ -30,7 +30,6 @@ works:
   - work: content/works/le-brusq-jacques-en-beauce-opus-1.md
   - work: content/works/le-brusq-jacques-en-beauce-opus-2-en-situation.md
   - work: content/works/le-brusq-jacques-en-beauce-opus-2.md
-  - work: content/works/le-brusq-jacques-en-beauce.md
   - work: content/works/le-brusq-jacques-louvert-opus-1.md
   - work: content/works/le-brusq-jacques-louvert-opus-2.md
   - work: content/works/le-brusq-jacques-ver-cla-flo-opus-3.md
