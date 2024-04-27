@@ -15,6 +15,7 @@ styles:
 expose: true
 work: content/works/estampes-soulie-tony-la-rue-de-la-soie.md
 works:
+  - work: content/works/estampes-frederic-poincelet-sans-titre-3.md
   - work: content/works/estampesmd-poincelet-frederic-sans-titre-1.md
   - work: content/works/estampesmd-moninot-bernard-resonances-2.md
   - work: content/works/estampesmd-moninot-bernard-antichambre.md
@@ -23,7 +24,6 @@ works:
   - work: content/works/adolfo-arenas-alonso-sinnoblitate-extrait-skull-and-bird.md
   - work: content/works/clement-alain-sans-titre-06ma2g.md
   - work: content/works/estampesmd-la-mourre.md
-  - work: content/works/estampes-frederic-poincelet-sans-titre-3.md
   - work: content/works/estampes-georges-autard-perte-de-sens.md
   - work: content/works/estampes-herve-di-rosa-le-pecheur.md
   - work: content/works/estampes-herve-di-rosa-le-promeneur.md
