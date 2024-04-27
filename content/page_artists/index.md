@@ -11,6 +11,7 @@ artists:
   - artist: content/artists/jacques-le-brusq.md
   - artist: content/artists/estampes.md
   - artist: content/artists/leclercq-antoine.md
+  - artist: content/artists/caer-anthony.md
   - artist: content/artists/mauger-vincent.md
   - artist: content/artists/elisabeth-wadecki.md
   - artist: content/artists/garibbo-alberte.md
