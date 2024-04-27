@@ -15,6 +15,7 @@ styles:
 expose: true
 work: content/works/estampes-soulie-tony-la-rue-de-la-soie.md
 works:
+  - work: content/works/estampesmd-poincelet-frederic-sans-titre-1.md
   - work: content/works/estampesmd-moninot-bernard-resonances-2.md
   - work: content/works/estampesmd-moninot-bernard-antichambre.md
   - work: content/works/estampes-cleon-peterson-flowers-of-evil-the-kiss-white.md
