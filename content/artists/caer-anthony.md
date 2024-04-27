@@ -4,6 +4,7 @@ fields:
   - Photographie
 styles:
   - Figuratif
+expose: true
 work: content/works/caer-anthonymd-glaz-ix.md
 works:
   - work: content/works/caer-anthonymd-glaz-i.md
