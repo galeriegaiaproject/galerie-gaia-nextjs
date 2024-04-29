@@ -18,7 +18,6 @@ works:
   - work: content/works/estampesmd-poincelet-frederic-st-germain.md
   - work: content/works/estampesmd-poincelet-frederic-sans-titre-4.md
   - work: content/works/estampesmd-poincelet-frederic-sans-titre-2.md
-  - work: content/works/estampes-frederic-poincelet-sans-titre-3.md
   - work: content/works/estampesmd-poincelet-frederic-sans-titre-1.md
   - work: content/works/estampesmd-moninot-bernard-resonances-2.md
   - work: content/works/estampesmd-moninot-bernard-antichambre.md
