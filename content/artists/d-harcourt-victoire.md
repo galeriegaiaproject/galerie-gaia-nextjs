@@ -6,7 +6,7 @@ seo:
   type: article
   description: ''
   image: ''
-title: D'Harcourt Victoire
+title: d'Harcourt Victoire
 location: ''
 fields:
   - Sculpture
