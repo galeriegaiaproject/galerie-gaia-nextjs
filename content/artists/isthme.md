@@ -1,17 +1,17 @@
 ---
 template: artist
+redirect_from:
+  - /artistes/85tistes/85-isthme/
 title: Isthme
 location: ''
 fields:
   - Peinture
-expose: true
-exhibitions: []
-redirect_from:
-  - /artistes/85tistes/85-isthme/
 styles:
   - Abstrait
+expose: true
 work: content/works/isthmemd-lheure-bleue-2.md
 works:
+  - work: content/works/isthmemd-entre-bleus-11.md
   - work: content/works/isthmemd-deep-blue-17.md
   - work: content/works/isthmemd-lheure-bleue-2.md
   - work: content/works/isthmemd-lheure-bleue-1.md
@@ -24,6 +24,7 @@ works:
   - work: content/works/isthme-lino-v2.md
   - work: content/works/isthme-portrait-de-isthme.md
   - work: content/works/isthme-territoire-noirblanc.md
+exhibitions: []
 ---
 
 # Isthme - Isabelle Thomas
