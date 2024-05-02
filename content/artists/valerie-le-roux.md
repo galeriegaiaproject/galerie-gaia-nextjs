@@ -8,6 +8,8 @@ styles: []
 expose: true
 work: content/works/valerie-le-rouxmd-serigraphie-corail-kaki-et-bleus.md
 works:
+  - work: content/works/valerie-le-rouxmd-algue-rouge-et-bleu.md
+  - work: content/works/valerie-le-rouxmd-ceramiques.md
   - work: content/works/valerie-le-rouxmd-serigraphie-verte.md
   - work: content/works/valerie-le-rouxmd-grand-plat-bleu-et-noir.md
   - work: content/works/valerie-le-rouxmd-algue-orangee.md
