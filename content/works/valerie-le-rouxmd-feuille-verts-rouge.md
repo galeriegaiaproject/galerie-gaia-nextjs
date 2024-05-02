@@ -9,5 +9,9 @@ technique: Sérigraphie Edition en 50 exemplaires
 fields:
   - Oeuvre sur papier
 contextual: true
+dimensions:
+  height: 76
+  width: 57
 ---
 
+2024
