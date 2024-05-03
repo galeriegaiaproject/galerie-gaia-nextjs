@@ -1,27 +1,23 @@
 ---
-fields:
-  - Oeuvre sur papier
-  - Textile
-styles:
-  - Abstrait
 template: artist
-title: 'Paressant Françoise '
-location: ''
-birth: '1944'
-expose: true
-exhibitions:
-  - title: 'Galerie Chevalier '
-    location: 'Paris 25 rue de Bourgogne '
-    start: ''
-    end: ''
 seo:
   title: ''
   heading: ''
   type: ''
   description: ''
   image: ''
+title: 'Paressant Françoise '
+location: ''
+fields:
+  - Oeuvre sur papier
+  - Textile
+styles:
+  - Abstrait
+birth: '1944'
+expose: true
 work: content/works/francoise-paressant-1md-petit-tressage.md
 works:
+  - work: content/works/francoise-paressant-1md-toile-sans-titre-papier-japon.md
   - work: content/works/francoise-paressant-1md-grand-papier-japon.md
   - work: content/works/francoise-paressant-1md-petit-tressage.md
   - work: content/works/francoise-paressant-1md-papier-cousu-horizontal.md
@@ -46,11 +42,16 @@ works:
   - work: >-
       content/works/paressant-francoise-sans-titre-papier-fait-main-teinte-en-situation.md
   - work: content/works/paressant-francoise-sans-titre-papier-fait-main.md
-  - work: content/works/paressant-francoise-sonatine-en-situation.md
   - work: content/works/paressant-francoise-suite-pour-piano-jouet.md
   - work: content/works/paressant-francoise-sonatine.md
+  - work: content/works/paressant-francoise-sonatine-en-situation.md
   - work: content/works/paressant-francoise-info-presse-magazine-investir-09_2021.md
   - work: content/works/paressant-francoise-portrait-de-francoise-paressant.md
+exhibitions:
+  - title: 'Galerie Chevalier '
+    location: 'Paris 25 rue de Bourgogne '
+    start: ''
+    end: ''
 ---
 
 # Françoise Paressant
