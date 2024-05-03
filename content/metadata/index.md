@@ -15,11 +15,9 @@ menu:
   - page: content/pages/references.md
 caption: Art Contemporain
 announcement: |
-  Jacques Le Brusq
+  Mai 2024
 
-  Prolongation
-
-  au 30 Avril
+  Fête de l'Estampe
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
