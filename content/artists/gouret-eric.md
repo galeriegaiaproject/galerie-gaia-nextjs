@@ -5,6 +5,8 @@ fields:
   - Plasticien
 styles:
   - Abstrait
+expose: true
+work: content/works/gouret-ericmd-enroule-triangle-couleurs.md
 ---
 
 # Eric Gouret
