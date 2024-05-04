@@ -14,7 +14,27 @@ Sa pratique du dessin et de l’installation est intimement liée à l’unive
 
 «Ma recherche passe aujourd’hui de la table à dessin au paysage, le long des chemins et des lieux rencontrés, en n’ayant de cesse de réfléchir à ce qui peut faire une ligne, en concordance avec les espaces dans lesquels elle se déploie.»
 
+Collections publiques :	&#x9;
+
+2024 : Installation sur le parvis du Musée des Arts Nantes - Alignement des grandes distances 
+
+2021- Résidence les roseaux  Montoir de Bretagne 
+2020 - Centre Social SDSEI  Bayonne
+2019 - Une collection en mouvement LVAN Nantes
+2019 - Art délivery, ESBAN - Nantes
+2009 - Ville de Thouars, installation pérenne/Mairie de Thouars
+2003 - 1%Ville de Saint Nazaire, 2 installations au Lycée Aristide Briand
+Musée des Beaux Arts du Locle, Suisse
+Bibliothèque Nationale de France, Paris
+Le Ring, Artothèque Nantes
+
+
+
 &#x9;		&#x9;
+&#x9;	&#x9;
+&#x9;&#x9;
+&#x9;
+&#x9;	&#x9;
 &#x9;	&#x9;
 &#x9;&#x9;
 &#x9;
