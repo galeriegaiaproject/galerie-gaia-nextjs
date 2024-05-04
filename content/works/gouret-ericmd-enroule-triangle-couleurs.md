@@ -1,6 +1,6 @@
 ---
 title: 'Enroulé triangle couleurs '
-reference: 'Gouret Eric, Enroulé traingle couleurs '
+reference: 'Gouret Eric, Enroulé triangle couleurs '
 image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/gouret eric/galerie-gaia-gouret-eric-EnrouleÌ\x81 2020 Entre Multi.jpg"
 artist: content/artists/gouret-eric.md
 price: 1200
