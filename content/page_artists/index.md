@@ -8,6 +8,7 @@ seo:
     de découvrir de nombreux artistes contemporains internationaux.
   image: ''
 artists:
+  - artist: content/artists/gouret-eric.md
   - artist: content/artists/jacques-le-brusq.md
   - artist: content/artists/estampes.md
   - artist: content/artists/leclercq-antoine.md
