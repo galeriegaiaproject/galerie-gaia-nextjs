@@ -26,7 +26,6 @@ works:
   - work: content/works/francoise-paressant-1md-rubans-aquarelles-enroules.md
   - work: content/works/francoise-paressant-1md-rubans-papier.md
   - work: content/works/paressant-francoise-eclaircies-en-fin-de-journee.md
-  - work: content/works/paressant-francoise-feutre-croise.md
   - work: content/works/paressant-francoise-la-strada.md
   - work: content/works/paressant-francoise-papier-huile-1.md
   - work: content/works/paressant-francoise-papier-huile-2-en-situation-verticale.md
