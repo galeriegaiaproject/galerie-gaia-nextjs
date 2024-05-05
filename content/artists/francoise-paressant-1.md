@@ -22,7 +22,6 @@ works:
   - work: content/works/francoise-paressant-1md-petit-tressage.md
   - work: content/works/francoise-paressant-1md-papier-cousu-horizontal.md
   - work: content/works/francoise-paressant-1md-feutre-1.md
-  - work: content/works/francoise-paressant-1md-collage-crayon-sur-toile-2.md
   - work: content/works/francoise-paressant-1md-papier-japon.md
   - work: content/works/francoise-paressant-1md-collage-marqueur-1.md
   - work: content/works/francoise-paressant-1md-collage-marqueur-2.md
