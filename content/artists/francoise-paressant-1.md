@@ -23,8 +23,6 @@ works:
   - work: content/works/francoise-paressant-1md-papier-cousu-horizontal.md
   - work: content/works/francoise-paressant-1md-feutre-1.md
   - work: content/works/francoise-paressant-1md-papier-japon.md
-  - work: content/works/francoise-paressant-1md-collage-marqueur-2.md
-  - work: content/works/francoise-paressant-1md-collage-marqueur-3.md
   - work: content/works/francoise-paressant-1md-rubans-aquarelles-enroules.md
   - work: content/works/francoise-paressant-1md-rubans-papier.md
   - work: content/works/paressant-francoise-eclaircies-en-fin-de-journee.md
