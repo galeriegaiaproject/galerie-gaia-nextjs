@@ -11,7 +11,6 @@ styles:
 expose: true
 work: content/works/isthmemd-entre-bleus-4.md
 works:
-  - work: content/works/isthmemd-en-situation-entre-bleus-1.md
   - work: content/works/isthmemd-hoi-an.md
   - work: content/works/isthmemd-entre-bleus-1.md
   - work: content/works/isthmemd-deep-blue-26.md
@@ -28,6 +27,7 @@ works:
   - work: content/works/isthme-territoire-noirblanc.md
   - work: content/works/isthme-lino-v2.md
   - work: content/works/isthme-portrait-de-isthme.md
+  - work: content/works/isthmemd-en-situation-entre-bleus-1.md
 exhibitions: []
 ---
 
