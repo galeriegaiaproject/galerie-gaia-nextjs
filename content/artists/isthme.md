@@ -24,9 +24,9 @@ works:
   - work: content/works/isthme-entre-bleus-5.md
   - work: content/works/isthme-lenvol-ii.md
   - work: content/works/isthme-lino-b1.md
+  - work: content/works/isthme-territoire-noirblanc.md
   - work: content/works/isthme-lino-v2.md
   - work: content/works/isthme-portrait-de-isthme.md
-  - work: content/works/isthme-territoire-noirblanc.md
 exhibitions: []
 ---
 
