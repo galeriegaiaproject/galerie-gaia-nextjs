@@ -7,7 +7,7 @@ price: 1200
 technique: 'Rubans - Billes '
 fields:
   - Plasticien
-contextual: true
+contextual: false
 dimensions:
   height: 50
   width: 50
