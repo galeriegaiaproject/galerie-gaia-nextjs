@@ -6,14 +6,14 @@ fields:
 styles:
   - Figuratif
 expose: true
-work: content/works/zhou-gongmomd-dialogue.md
+work: content/works/zhou-gongmomd-ecran-silencieux-3.md
 works:
-  - work: content/works/zhou-gongmomd-dialogue.md
   - work: content/works/zhou-gongmomd-ecran-silencieux-7.md
   - work: content/works/zhou-gongmomd-ecran-silencieux-3.md
   - work: content/works/zhou-gongmomd-ecran-silencieux-2.md
   - work: content/works/zhou-gongmomd-ecran-silencieux-12.md
   - work: content/works/zhou-gongmomd-ecran-silencieux-1.md
+  - work: content/works/zhou-gongmomd-dialogue.md
   - work: content/works/zhou-gongmomd-portrait.md
 ---
 
