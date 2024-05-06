@@ -8,6 +8,7 @@ styles:
 expose: true
 work: content/works/gouret-ericmd-enroule-triangle-couleurs.md
 works:
+  - work: content/works/gouret-ericmd-portfolio-projet-eric-gouret.md
   - work: content/works/gouret-ericmd-enroule-triangle-couleurs.md
   - work: content/works/gouret-ericmd-enroule-losange-couleurs.md
   - work: content/works/gouret-ericmd-enroule-entre-bleus-et-verts.md
