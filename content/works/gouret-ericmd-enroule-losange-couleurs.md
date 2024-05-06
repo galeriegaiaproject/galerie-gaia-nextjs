@@ -5,7 +5,7 @@ image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/gouret eric
 artist: content/artists/gouret-eric.md
 price: 1200
 technique: Plasticien
-contextual: true
+contextual: false
 dimensions:
   height: 50
   width: 50
