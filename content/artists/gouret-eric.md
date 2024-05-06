@@ -7,6 +7,10 @@ styles:
   - Abstrait
 expose: true
 work: content/works/gouret-ericmd-enroule-triangle-couleurs.md
+works:
+  - work: content/works/gouret-ericmd-enroule-triangle-couleurs.md
+  - work: content/works/gouret-ericmd-enroule-losange-couleurs.md
+  - work: content/works/gouret-ericmd-enroule-entre-bleus-et-verts.md
 ---
 
 # Eric Gouret
@@ -18,9 +22,9 @@ Sa pratique du dessin et de l’installation est intimement liée à l’unive
 
 Collections publiques :	&#x9;
 
-2024 : Installation sur le parvis du Musée des Arts Nantes - Alignement des grandes distances 
+2024 : Installation sur le parvis du Musée des Arts Nantes - Alignement des grandes distances
 
-2021- Résidence les roseaux  Montoir de Bretagne 
+2021- Résidence les roseaux  Montoir de Bretagne
 2020 - Centre Social SDSEI  Bayonne
 2019 - Une collection en mouvement LVAN Nantes
 2019 - Art délivery, ESBAN - Nantes
@@ -29,8 +33,6 @@ Collections publiques :	&#x9;
 Musée des Beaux Arts du Locle, Suisse
 Bibliothèque Nationale de France, Paris
 Le Ring, Artothèque Nantes
-
-
 
 &#x9;		&#x9;
 &#x9;	&#x9;
