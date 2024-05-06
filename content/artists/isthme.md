@@ -11,6 +11,10 @@ styles:
 expose: true
 work: content/works/isthmemd-lheure-bleue-2.md
 works:
+  - work: content/works/isthmemd-hoi-an.md
+  - work: content/works/isthmemd-deep-blue-26.md
+  - work: content/works/isthmemd-entre-bleus-4.md
+  - work: content/works/isthmemd-entre-bleus-10.md
   - work: content/works/isthmemd-entre-bleus-11.md
   - work: content/works/isthmemd-deep-blue-17.md
   - work: content/works/isthmemd-lheure-bleue-2.md
