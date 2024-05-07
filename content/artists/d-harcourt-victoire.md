@@ -9,6 +9,7 @@ seo:
 title: d'Harcourt Victoire
 location: ''
 fields:
+  - Monumentale
   - Sculpture
 styles:
   - Abstrait
