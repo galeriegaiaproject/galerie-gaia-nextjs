@@ -16,6 +16,8 @@ styles:
 expose: true
 work: content/works/dharcourt-victoire-alliance-xii.md
 works:
+  - work: content/works/d-harcourt-victoiremd-portfolio-victoire-dharcourt.md
+  - work: content/works/d-harcourt-victoiremd-cv-victoire-dharcourt.md
   - work: content/works/d-harcourt-victoiremd-alliance-xxi.md
   - work: content/works/d-harcourt-victoiremd-alliance-xx.md
   - work: content/works/dharcourt-victoire-alliance-blanche-au-mur.md
