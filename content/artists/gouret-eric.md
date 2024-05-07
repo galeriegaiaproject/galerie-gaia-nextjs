@@ -1,6 +1,7 @@
 ---
 title: Gouret Eric
 fields:
+  - Monumentale
   - Dessin
   - Plasticien
 styles:
