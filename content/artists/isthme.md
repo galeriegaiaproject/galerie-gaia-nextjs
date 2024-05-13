@@ -11,6 +11,9 @@ styles:
 expose: true
 work: content/works/isthmemd-entre-bleus-4.md
 works:
+  - work: content/works/isthmemd-en-situation-bleu-majuscule-5.md
+  - work: content/works/isthmemd-en-situation-deep-blue-26.md
+  - work: content/works/isthmemd-en-situation-deep-blue-26.md
   - work: content/works/isthmemd-hoi-an.md
   - work: content/works/isthmemd-en-situation-entre-bleus-1.md
   - work: content/works/isthmemd-entre-bleus-1.md
