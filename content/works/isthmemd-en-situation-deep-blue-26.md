@@ -7,9 +7,10 @@ image: >-
 artist: content/artists/isthme.md
 price: 3900
 technique: 'Acrylique sur toile '
-contextual: true
+contextual: false
 dimensions:
   height: 146
   width: 114
 ---
 
+2024
