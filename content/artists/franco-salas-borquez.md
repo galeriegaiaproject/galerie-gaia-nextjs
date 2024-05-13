@@ -13,7 +13,6 @@ expose: true
 work: content/works/salas-borquez-franco-le-reflet-deau.md
 works:
   - work: content/works/franco-salas-borquezmd-elan-perpetuel.md
-  - work: content/works/franco-salas-borquezmd-ocean-abstrait.md
   - work: content/works/franco-salas-borquezmd-portrait-de-la-mer-ndegree3.md
   - work: >-
       content/works/salas-borquez-franco-exposition-la-marche-des-flots-mediatheque-pornichet.md
