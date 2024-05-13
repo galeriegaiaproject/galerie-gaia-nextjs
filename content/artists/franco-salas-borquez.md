@@ -1,10 +1,25 @@
 ---
 template: artist
+redirect_from:
+  - /artistes/64-franco-salas-borquez/
 title: 'Salas Borquez Franco '
 location: ''
 fields:
+  - Dessin
   - Peinture
+styles:
+  - Figuratif
 expose: true
+work: content/works/salas-borquez-franco-le-reflet-deau.md
+works:
+  - work: >-
+      content/works/salas-borquez-franco-exposition-la-marche-des-flots-mediatheque-pornichet.md
+  - work: content/works/salas-borquez-franco-exposition-le-sillage-st-malo-2019.md
+  - work: content/works/salas-borquez-franco-la-montee-des-flots.md
+  - work: content/works/salas-borquez-franco-le-duel.md
+  - work: content/works/salas-borquez-franco-le-reflet-deau.md
+  - work: content/works/salas-borquez-franco-lindomptable-en-situation.md
+  - work: content/works/salas-borquez-franco-nocturne.md
 exhibitions:
   - title: La marche des flots
     location: Mediathèque Camille Flammarion Pornichet (44)
@@ -14,20 +29,8 @@ exhibitions:
     location: Saint Malo Chapelle St Sauveur
     start: 16 -11- 2019
     end: 29-12- 2019
-redirect_from:
-  - /artistes/64-franco-salas-borquez/
-styles:
-  - Figuratif
-work: content/works/salas-borquez-franco-le-reflet-deau.md
-works:
-  - work: content/works/salas-borquez-franco-exposition-la-marche-des-flots-mediatheque-pornichet.md
-  - work: content/works/salas-borquez-franco-exposition-le-sillage-st-malo-2019.md
-  - work: content/works/salas-borquez-franco-la-montee-des-flots.md
-  - work: content/works/salas-borquez-franco-le-duel.md
-  - work: content/works/salas-borquez-franco-le-reflet-deau.md
-  - work: content/works/salas-borquez-franco-lindomptable-en-situation.md
-  - work: content/works/salas-borquez-franco-nocturne.md
 ---
+
 # Franco Salas Borquez
 
 > L'infinie possibilité d'interprétation d'un même élément : l'axe central du travail de Franco Salas Borquez
