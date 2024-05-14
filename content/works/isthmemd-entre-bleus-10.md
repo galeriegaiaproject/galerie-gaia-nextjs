@@ -9,7 +9,7 @@ price: 1800
 technique: 'Acrylique sur toile '
 contextual: true
 dimensions:
-  height: 100
-  width: 81
+  height: 92
+  width: 73
 ---
 
