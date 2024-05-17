@@ -5,6 +5,7 @@ fields:
 styles:
   - Abstrait
 expose: true
+work: content/works/lux-mirandamd-untitled-ii.md
 works:
   - work: content/works/lux-mirandamd-untitled-iv.md
   - work: content/works/lux-mirandamd-untitled-ii.md
