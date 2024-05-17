@@ -12,6 +12,7 @@ styles:
 expose: true
 work: content/works/elisabeth-wadeckimd-archipels-ndegree49.md
 works:
+  - work: content/works/elisabeth-wadeckimd-archipels-ndegree3.md
   - work: content/works/elisabeth-wadeckimd-archipels-ndegree49.md
   - work: content/works/wadecki-elisabeth-sans-titre-ndegree7.md
   - work: content/works/elisabeth-wadeckimd-archipels-ndegree53.md
