@@ -9,6 +9,12 @@ seo:
     contemporain à Nantes, galerie art contemporain nantes
   image: ''
 articles:
+  - title: Lux Miranda - Sigils Good Vibes Only
+    date: 2024-06-03T22:00:00.000Z
+    categories:
+      - Exposition
+    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/lux miranda/GAIÌ\x88A_A5_LUX_MIRANDA_VERSO-1.jpg"
+    content: "# Lux Miranda\n\nExposition \"Sigils\\* Good vibes only\" du 4 au 22 Juin 2024\n\nVernissage jeudi 6 Juin 18:00\n\nLes œuvres de Lux Miranda sont animées d’une force mystérieuse. Elles nous amènent sur le\nfil, nous absorbent, et nous invitent à nous perdre dans des formes incertaines mais pourtant familières.\n\nDans ses tapisseries, l’artiste convoque l’imaginaire primordial et c’est alors qu’on devine chimères, couleuvres et dragons, autant de créatures énigmatiques qui cohabitent dans nos mémoires collectives. Se référant aussi bien à l’art Médiéval qu’à celui du Néolithique, en passant par la pop culture néo-gothique, l’artiste s’intéresse à notre rapport au sacré. À travers sa pratique artistique, Lux Miranda cherche à donner un espace où pourra résider sa propre expérience du sacré et ainsi nous amener à nous questionner sur la nôtre. \n\nLes pièces de Lux Miranda s’imposent parfois en monumental, et c’est ainsi qu’à la manière de fresques rupestres elles envahissent l’espace, nous englobent dans leurs couleurs profondes. Les œuvres exposées sont comme des concentrés de cette pratique monumentale. La \_sélection se compose de pièces créées entre 2020 et 2024, les plus récentes sont montrées au public pour la première fois.\n\nExposition en partenariat avec la Galerie The Pill basée à Istanbul, qui soutient le travail de l’artiste sur la scène internationale.\n\nL'artiste est actuellement en résidence à la Cité Internationale des Artistes à Paris.\n\n* Sigils\_\_: matérialisation graphique d’une intention magique\n\n\n\n\n\n\n\n"
   - title: FRAGMENTS   PAYSAGES    Tangui Robert
     date: 2020-12-06T11:38:00.000Z
     categories:
