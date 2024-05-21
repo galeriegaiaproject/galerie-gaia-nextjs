@@ -17,6 +17,7 @@ birth: '1938'
 expose: true
 work: content/works/le-brusq-jacques-en-beauce-opus-2.md
 works:
+  - work: content/works/jacques-le-brusqmd-contre-jour-1.md
   - work: content/works/jacques-le-brusqmd-vetabrfa-opus-3.md
   - work: content/works/jacques-le-brusqmd-vetabr-opus-2.md
   - work: content/works/jacques-le-brusqmd-vetabr-opus-1.md
