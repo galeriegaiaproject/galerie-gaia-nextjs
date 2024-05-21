@@ -24,8 +24,6 @@ works:
   - work: content/works/jacques-le-brusqmd-rhur-opus-2.md
   - work: content/works/jacques-le-brusqmd-grand-format-3.md
   - work: content/works/jacques-le-brusqmd-grand-format-1.md
-  - work: content/works/jacques-le-brusqmd-2024-avril-exposition-jacques-le-brusq.md
-  - work: content/works/le-brusq-jacques-br-mo-no-opus-2-dans-latelier.md
   - work: content/works/le-brusq-jacques-en-beauce-opus-1-en-situation.md
   - work: content/works/le-brusq-jacques-en-beauce-opus-1.md
   - work: content/works/le-brusq-jacques-en-beauce-opus-2-en-situation.md
@@ -35,6 +33,7 @@ works:
   - work: content/works/le-brusq-jacques-ver-cla-flo-opus-3.md
   - work: content/works/le-brusq-jacques-vers-le-jardin.md
   - work: content/works/le-brusq-jacques-vers-lentree-les-douglas.md
+  - work: content/works/jacques-le-brusqmd-2024-avril-exposition-jacques-le-brusq.md
   - work: content/works/le-brusq-jacques-exposition-le-present-du-monde.md
   - work: content/works/le-brusq-jacques-portrait.md
 exhibitions:
