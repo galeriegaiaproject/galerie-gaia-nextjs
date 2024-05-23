@@ -15,6 +15,11 @@ styles:
 expose: true
 work: content/works/estampes-soulie-tony-la-rue-de-la-soie.md
 works:
+  - work: content/works/estampesmd-pincemin-jean-pierre-ndegree3.md
+  - work: content/works/estampesmd-pincemin-jean-pierre-ndegree125.md
+  - work: content/works/estampesmd-pincemin-jean-pierre-ndegree122.md
+  - work: content/works/estampesmd-pincemin-jean-pierre-ndegree-120.md
+  - work: content/works/estampesmd-ndegree106.md
   - work: content/works/estampesmd-poincelet-frederic-st-germain.md
   - work: content/works/estampesmd-poincelet-frederic-sans-titre-4.md
   - work: content/works/estampesmd-poincelet-frederic-sans-titre-2.md
