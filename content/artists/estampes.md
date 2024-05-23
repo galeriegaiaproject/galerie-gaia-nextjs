@@ -13,7 +13,7 @@ styles:
   - Figuratif
   - Abstrait
 expose: true
-work: content/works/estampes-soulie-tony-la-rue-de-la-soie.md
+work: content/works/estampesmd-pincemin-jean-pierre-ndegree-120.md
 works:
   - work: content/works/estampesmd-pincemin-jean-pierre-ndegree3.md
   - work: content/works/estampesmd-pincemin-jean-pierre-ndegree125.md
