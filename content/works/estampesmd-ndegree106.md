@@ -1,6 +1,6 @@
 ---
-title: N°106
-reference: 'Estampe Pincemin Jean Pierre, N°106'
+title: Pincemin Jean-Pierre N°106
+reference: 'Estampes, Pincemin Jean-Pierre N°106'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/estampes/galerie-gaia-pincemin-jean-pierre-106.jpg
 artist: content/artists/estampes.md
