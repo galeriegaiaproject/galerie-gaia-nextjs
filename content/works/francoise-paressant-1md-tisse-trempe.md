@@ -15,4 +15,6 @@ dimensions:
   width: 40
 ---
 
-2018 - encadrée sous verre ou accrochage libre avec velcro pour tapisserie murale 
+2018 - encadrée sous verre ou accrochage libre avec velcro pour tapisserie murale
+
+Prêt de la Galerie Chevalier Paris
