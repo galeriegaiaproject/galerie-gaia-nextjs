@@ -42,10 +42,10 @@ artists:
   - artist: content/artists/edwin-wide.md
   - artist: content/artists/annick-argant.md
   - artist: content/artists/olivier-fremont.md
-  - artist: content/artists/virginie-chardon.md
-  - artist: content/artists/isabelle-healy.md
   - artist: content/artists/marie-vandooren.md
+  - artist: content/artists/virginie-chardon.md
   - artist: content/artists/tangui-robert.md
+  - artist: content/artists/isabelle-healy.md
   - artist: content/artists/viallat-claude.md
   - artist: content/artists/georges-rousse.md
   - artist: content/artists/claude-francheteau.md
