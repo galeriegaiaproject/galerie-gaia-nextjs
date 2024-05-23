@@ -28,7 +28,6 @@ works:
   - work: content/works/paressant-francoise-eclaircies-en-fin-de-journee.md
   - work: content/works/paressant-francoise-la-strada.md
   - work: content/works/paressant-francoise-papier-huile-1.md
-  - work: content/works/paressant-francoise-papier-huile-2-en-situation-verticale.md
   - work: content/works/paressant-francoise-papier-huile-2.md
   - work: content/works/paressant-francoise-papier-huile-4.md
   - work: content/works/paressant-francoise-papier-main.md
