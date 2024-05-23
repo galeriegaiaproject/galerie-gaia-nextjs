@@ -39,7 +39,6 @@ works:
   - work: content/works/paressant-francoise-suite-pour-piano-jouet.md
   - work: content/works/paressant-francoise-sonatine.md
   - work: content/works/paressant-francoise-sonatine-en-situation.md
-  - work: content/works/paressant-francoise-info-presse-magazine-investir-09_2021.md
   - work: content/works/paressant-francoise-portrait-de-francoise-paressant.md
 exhibitions:
   - title: 'Galerie Chevalier '
