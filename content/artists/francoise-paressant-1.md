@@ -17,6 +17,11 @@ birth: '1944'
 expose: true
 work: content/works/francoise-paressant-1md-petit-tressage.md
 works:
+  - work: content/works/francoise-paressant-1md-papier-huile-en-situation.md
+  - work: content/works/francoise-paressant-1md-tisse-trempe.md
+  - work: content/works/francoise-paressant-1md-cfp-54.md
+  - work: content/works/francoise-paressant-1md-cfp-53.md
+  - work: content/works/francoise-paressant-1md-cfp-35.md
   - work: content/works/francoise-paressant-1md-toile-sans-titre-papier-japon.md
   - work: content/works/francoise-paressant-1md-grand-papier-japon.md
   - work: content/works/francoise-paressant-1md-petit-tressage.md
