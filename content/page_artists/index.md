@@ -10,25 +10,24 @@ seo:
 artists:
   - artist: content/artists/lux-miranda.md
   - artist: content/artists/jacques-le-brusq.md
-  - artist: content/artists/gouret-eric.md
   - artist: content/artists/estampes.md
+  - artist: content/artists/gouret-eric.md
   - artist: content/artists/leclercq-antoine.md
   - artist: content/artists/caer-anthony.md
   - artist: content/artists/mauger-vincent.md
   - artist: content/artists/francoise-paressant-1.md
   - artist: content/artists/elisabeth-wadecki.md
+  - artist: content/artists/popet-yves.md
   - artist: content/artists/garibbo-alberte.md
   - artist: content/artists/xavier-jallais.md
   - artist: content/artists/byl-william.md
   - artist: content/artists/1011.md
-  - artist: content/artists/popet-yves.md
   - artist: content/artists/bragoni-daniele.md
-  - artist: content/artists/pierre-muckensturm.md
   - artist: content/artists/dubreuil.md
+  - artist: content/artists/pierre-muckensturm.md
   - artist: content/artists/toma-l.md
   - artist: content/artists/wu-yuzi.md
   - artist: content/artists/remy-pierre-alexandre.md
-  - artist: content/artists/engels-didier.md
   - artist: content/artists/isthme.md
   - artist: content/artists/brigitte-marionneau.md
   - artist: content/artists/zhou-gongmo.md
@@ -56,9 +55,10 @@ artists:
   - artist: content/artists/go-segawa.md
   - artist: content/artists/shirley-jaffe.md
   - artist: content/artists/jorj-morin-peintre.md
-  - artist: content/artists/philippe-lecomte.md
-  - artist: content/artists/morellet-francois.md
   - artist: content/artists/jorj-morin.md
+  - artist: content/artists/philippe-lecomte.md
+  - artist: content/artists/engels-didier.md
+  - artist: content/artists/morellet-francois.md
   - artist: content/artists/peron-yann.md
   - artist: content/artists/marianne-abergel.md
   - artist: content/artists/the-blind.md
