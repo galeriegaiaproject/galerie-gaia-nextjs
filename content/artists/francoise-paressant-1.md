@@ -17,6 +17,7 @@ birth: '1944'
 expose: true
 work: content/works/francoise-paressant-1md-cfp-53.md
 works:
+  - work: content/works/francoise-paressant-1md-bref.md
   - work: content/works/francoise-paressant-1md-papier-huile-en-situation.md
   - work: content/works/francoise-paressant-1md-tisse-trempe.md
   - work: content/works/francoise-paressant-1md-cfp-54.md
