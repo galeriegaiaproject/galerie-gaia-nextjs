@@ -15,4 +15,4 @@ dimensions:
   width: 30
 ---
 
-2018 - Encadrée sous verre 
+2018 - Encadrée sous verre - Prêt de la Galerie Chevalier Paris
