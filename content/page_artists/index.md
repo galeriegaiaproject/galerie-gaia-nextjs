@@ -15,6 +15,7 @@ artists:
   - artist: content/artists/leclercq-antoine.md
   - artist: content/artists/caer-anthony.md
   - artist: content/artists/mauger-vincent.md
+  - artist: content/artists/francoise-paressant-1.md
   - artist: content/artists/elisabeth-wadecki.md
   - artist: content/artists/garibbo-alberte.md
   - artist: content/artists/xavier-jallais.md
@@ -39,7 +40,6 @@ artists:
   - artist: content/artists/pierre-tual.md
   - artist: content/artists/tilly-yves.md
   - artist: content/artists/edwin-wide.md
-  - artist: content/artists/francoise-paressant-1.md
   - artist: content/artists/annick-argant.md
   - artist: content/artists/olivier-fremont.md
   - artist: content/artists/virginie-chardon.md
