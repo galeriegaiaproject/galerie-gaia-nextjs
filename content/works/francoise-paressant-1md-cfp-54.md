@@ -15,4 +15,4 @@ dimensions:
   width: 40
 ---
 
-Prêt de la Galerie Chevalier - 2022
+2022 - Prêt de la Galerie Chevalier Paris 
