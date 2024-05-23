@@ -29,6 +29,7 @@ artists:
   - artist: content/artists/wu-yuzi.md
   - artist: content/artists/remy-pierre-alexandre.md
   - artist: content/artists/isthme.md
+  - artist: content/artists/peron-yann.md
   - artist: content/artists/brigitte-marionneau.md
   - artist: content/artists/zhou-gongmo.md
   - artist: content/artists/belaud-cindy.md
@@ -59,7 +60,6 @@ artists:
   - artist: content/artists/philippe-lecomte.md
   - artist: content/artists/engels-didier.md
   - artist: content/artists/morellet-francois.md
-  - artist: content/artists/peron-yann.md
   - artist: content/artists/marianne-abergel.md
   - artist: content/artists/the-blind.md
   - artist: content/artists/parrein-pascale.md
