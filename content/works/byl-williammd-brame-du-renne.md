@@ -6,7 +6,7 @@ image: >-
   gaia-byl-williambrame du renne roux 0923.JPG
 artist: content/artists/byl-william.md
 price: 2400
-technique: Grès roux
+technique: 'Grès couleur sable '
 contextual: false
 dimensions:
   height: 48
