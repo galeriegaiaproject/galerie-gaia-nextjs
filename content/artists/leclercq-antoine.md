@@ -16,6 +16,7 @@ styles:
 expose: true
 work: content/works/leclercq-antoinemd-les-ballerines-1.md
 works:
+  - work: content/works/leclercq-antoinemd-portfolio-projet-antoine-leclercq.md
   - work: content/works/leclercq-antoinemd-les-ballerines-1.md
   - work: content/works/leclercq-antoinemd-triumph.md
   - work: content/works/leclercq-antoinemd-together.md
