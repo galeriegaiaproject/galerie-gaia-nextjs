@@ -15,9 +15,11 @@ menu:
   - page: content/pages/references.md
 caption: Art Contemporain
 announcement: |
-  Mai 2024
+  Lux Miranda
 
-  Fête de l'Estampe
+  4 au 22 Juin
+
+  Tapisserie 
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
