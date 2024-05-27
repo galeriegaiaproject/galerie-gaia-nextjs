@@ -1,23 +1,24 @@
 ---
 template: artist
+redirect_from:
+  - /artistes/13-olivier-fremont/
 title: 'Fremont Olivier '
 location: ''
 fields:
   - Sculpture
-expose: true
-exhibitions: []
-redirect_from:
-  - /artistes/13-olivier-fremont/
 styles:
   - Abstrait
+expose: true
 work: content/works/olivier-fremontmd-sans-titre-tole-froissee-2023.md
 works:
+  - work: content/works/olivier-fremontmd-portfolio-projet-olivier-fremont.md
   - work: content/works/olivier-fremontmd-sans-titre-tole-froissee-2023.md
   - work: content/works/fremont-olivier-nuage.md
   - work: content/works/fremont-olivier-ailes.md
   - work: content/works/olivier-fremontmd-installation-11-toles-froissees.md
   - work: content/works/fremont-olivier-mur-11.md
   - work: content/works/fremont-olivier-nuage-detail.md
+exhibitions: []
 ---
 
 # Olivier Fremont
