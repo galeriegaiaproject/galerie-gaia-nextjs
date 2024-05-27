@@ -8,6 +8,6 @@ artist: content/artists/gouret-eric.md
 contextual: false
 ---
 
-# 1 Immeuble 1 oeuvre
+# 1 Immeuble 1 œuvre
 
-Eric Gouret vous intéresse dans le cadre d'un programme immobilier 1 immeuble 1 Oeuvre. Contactez-nous.
+Eric Gouret vous intéresse pour installer une œuvre dans le cadre du  programme immobilier 1 immeuble 1 Oeuvre ? Contactez-nous.
