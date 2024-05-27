@@ -1,15 +1,15 @@
 ---
 template: artist
+redirect_from:
+  - /artistes/66-daha-daha/
 title: Hamon Damien Daha
 location: ''
 fields:
   - Design
 expose: true
-exhibitions: []
-redirect_from:
-  - /artistes/66-daha-daha/
 work: content/works/hamon-damien-daha-cube-plie-or.md
 works:
+  - work: content/works/daha-dahamd-portfolio-projet-daha.md
   - work: content/works/hamon-damien-daha-cube-plie-brule.md
   - work: content/works/hamon-damien-daha-cube-plie-chene-brut.md
   - work: content/works/hamon-damien-daha-cube-plie-huile-or.md
@@ -18,6 +18,7 @@ works:
   - work: content/works/hamon-damien-daha-fauteuil-ellipse.md
   - work: content/works/hamon-damien-daha-valet.md
   - work: content/works/hamon-damien-daha-zoom-sur-cube-plie-brule.md
+exhibitions: []
 ---
 
 # Damien Hamon Daha
