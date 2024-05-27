@@ -19,6 +19,7 @@ birth: '1941'
 expose: true
 work: content/works/tual-pierre-brou-de-noix-2.md
 works:
+  - work: content/works/pierre-tualmd-portfolio-projet-pierre-tual.md
   - work: content/works/tual-pierre-brou-de-noix-1.md
   - work: content/works/tual-pierre-brou-de-noix-2.md
   - work: content/works/tual-pierre-brou-de-noix-3.md
