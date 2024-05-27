@@ -1,17 +1,17 @@
 ---
 template: artist
+redirect_from:
+  - /artistes/25-tangui-robert/
 title: 'Robert Tangui '
 location: ''
 fields:
   - Oeuvre sur papier
-expose: true
-exhibitions: []
-redirect_from:
-  - /artistes/25-tangui-robert/
 styles:
   - Figuratif
+expose: true
 work: content/works/tangui-robertmd-debordement-1.md
 works:
+  - work: content/works/tangui-robertmd-portfolio-projet-tangui-robert.md
   - work: content/works/tangui-robertmd-tokyo-1.md
   - work: content/works/tangui-robertmd-sans-titre-ea.md
   - work: content/works/tangui-robertmd-riviere-li.md
@@ -28,6 +28,7 @@ works:
   - work: content/works/robert-tangui-palais-nantes.md
   - work: content/works/robert-tangui-tourbiere.md
   - work: content/works/robert-tangui-trentemoult.md
+exhibitions: []
 ---
 
 # Tangui Robert
