@@ -17,6 +17,7 @@ styles:
 expose: true
 work: content/works/toma-l-simple-brut.md
 works:
+  - work: content/works/toma-lmd-portfolio-projet-toma-l.md
   - work: content/works/toma-lmd-mala-bestia-monographie.md
   - work: content/works/toma-lmd-cotton-size-black.md
   - work: content/works/toma-lmd-3-bonnes-pierres.md
