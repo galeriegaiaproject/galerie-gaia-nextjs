@@ -1,23 +1,21 @@
 ---
-artist: content/artists/combas.md
-reference: 'Combas Robert, Le Combo de Combas'
 title: 'Le Combo de Combas '
-image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/combas-robert/combo-1325.jpg'
+reference: 'Combas Robert, Le Combo de Combas'
+image: >-
+  https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/combas-robert/combo-1325.jpg
+artist: content/artists/combas.md
+price: 4500
 technique: Création lumineuse sérigraphiée
+fields: []
+styles: []
+sold: false
+contextual: true
 dimensions:
   height: 52
   width: 98
   depth: 7
-description: |-
-  Une oeuvre originale de **Robert Combas** sérigraphiée sur Plexiglas et montée sur un caisson lumineux de 7cm d'épaisseur.
-
-  Chaque exemplaire est rehaussé par l'artiste à la pointe métallique.Chaque oeuvre est donc différente et unique.
-
-  2015 : Edition numérotée 13/25
-price: 4500
-sold: false
-contextual: true
-fields: []
-styles: []
 ---
 
+Sérigrahie sur plexiglas. Edition limitée à 23 exemplaires. Certificat d'authenticité de l'éditeur l'Estampe N°13/25
+
+Chaque exemplaire a la même matrice de 3 personnages. Combas a réinterprété chacune en ajoutant des détails, des textes et un personnage. 
