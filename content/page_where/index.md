@@ -58,7 +58,7 @@ The story begins with **L’Affiche** and in 1985 Norbert Marsal acquired the ga
 
 **In 2015 Elisabeth Givre** continued the adventure and firmly established contemporary art in Nantes with the **Galerie Gaïa**, as the true imprint of this place located in the historic heart of the city of Nantes, the Decré district.
 
-All the selected works come from the workshops of my artists ensuring their authenticity. Each artist at the gallery is supported to showcase their work through a program of 7 annual exhibitions and fairs.
+All the selected works come from the workshops of my artists ensuring their authenticity. Each artist at the gallery is supported to showcase their work through a program of 4 annual exhibitions and fairs.
 
 The heirs of Jorj Morin, a famous Nantes advertiser, painter and engraver, honour us with their trust. Thus his engravings, paintings, stelae and tapestries are exhibited and available for sale exclusively at the gallery.
 
