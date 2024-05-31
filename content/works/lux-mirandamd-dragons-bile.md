@@ -5,7 +5,7 @@ image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/lux
   miranda/galerie-gaia-lux-miranda-dragon's bile.jpg
 artist: content/artists/lux-miranda.md
-price: 3200
+price: 0
 technique: Laine tuffetée
 fields:
   - Textile
@@ -15,3 +15,4 @@ dimensions:
   width: 62
 ---
 
+Prêt de la Galerie The Pill - Prix sur demande
