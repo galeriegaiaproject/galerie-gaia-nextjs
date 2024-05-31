@@ -5,7 +5,7 @@ image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/lux
   miranda/galerie-gaia-lux-miranda-Untitled IV.jpg
 artist: content/artists/lux-miranda.md
-price: 3400
+price: 0
 technique: Laine tuffetée
 fields:
   - Textile
@@ -16,3 +16,4 @@ dimensions:
   depth: 2
 ---
 
+Prêt de la Galerie The Pill - Prix sur demande
