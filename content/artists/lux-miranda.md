@@ -7,6 +7,8 @@ styles:
 expose: true
 work: content/works/lux-mirandamd-untitled-ii.md
 works:
+  - work: content/works/lux-mirandamd-transgenerational-gift.md
+  - work: content/works/lux-mirandamd-countless-cycles-rebirth.md
   - work: content/works/lux-mirandamd-exposition-sigils-good-vibes-only.md
   - work: content/works/lux-mirandamd-untitled-iv.md
   - work: content/works/lux-mirandamd-untitled-ii.md
