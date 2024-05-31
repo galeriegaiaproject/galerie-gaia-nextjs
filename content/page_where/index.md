@@ -27,7 +27,7 @@ La **Galerie Gaïa** poursuit l’aventure d’un lieu d’art crée en **1978**
 
 **L’abstraction** qui est au cœur de la sélection fait aussi la place à des œuvres plus **figuratives**. **La ligne, le trait, l’architecture** sont un des fils conducteurs de la sélection.
 
-Aussi les ruptures et les grands écarts d’une exposition à l’autre sont une évidence fondamentale -7 expositions en solo-show par an-. Chaque artiste reste singulier-e, inspiré-e mais surtout pas rangé-e !
+Aussi les ruptures et les grands écarts d’une exposition à l’autre sont une évidence fondamentale -6 expositions en solo-show par an-. Chaque artiste reste singulier-e, inspiré-e mais surtout pas rangé-e !
 
 **La particularité de la galerie Gaïa ?**
 **Ses réserves** **+700 œuvres de 60 artistes.**
