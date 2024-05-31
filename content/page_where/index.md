@@ -27,12 +27,12 @@ La **Galerie Gaïa** poursuit l’aventure d’un lieu d’art crée en **1978**
 
 **L’abstraction** qui est au cœur de la sélection fait aussi la place à des œuvres plus **figuratives**. **La ligne, le trait, l’architecture** sont un des fils conducteurs de la sélection.
 
-Aussi les ruptures et les grands écarts d’une exposition à l’autre sont une évidence fondamentale -6 expositions en solo-show par an-. Chaque artiste reste singulier-e, inspiré-e mais surtout pas rangé-e !
+Aussi les ruptures et les grands écarts d’une exposition à l’autre sont une évidence fondamentale avec chaque année 4 expositions en solo-show par an, une participation à la QPN Quinzaine Photographique Nantaise et une collective en fin d'année. Chaque artiste reste singulier-e, inspiré-e mais surtout pas rangé-e !
 
 **La particularité de la galerie Gaïa ?**
 **Ses réserves** **+700 œuvres de 60 artistes.**
 
-Ces réserves sont disponibles dans l'onglet [CATALOGUE](https://galeriegaia.fr/catalogue/ "galerie gaillard")  et actualisées quotidiennement.
+Ces réserves sont disponibles dans la galerie et visibles dans l'onglet [CATALOGUE](https://galeriegaia.fr/catalogue/ "galerie gaillard")  qui est actualisé quotidiennement .
 
 L’art doit nous secouer et nous aider à figurer les pensées les plus abstraites, mais aussi à extraire l’essentiel de la complexité de nos émotions. C’est pour cela que dans ce lieu vous trouverez un foisonnement de formes artistiques , des démarches conceptuelles, des réalisations expérimentales de plasticiens, qui naviguent du point en passant par la ligne pour finir en trait aussi large qu’un aplat monochrome !
 
@@ -44,7 +44,7 @@ L’art doit nous secouer et nous aider à figurer les pensées les plus abstrai
 
 Vous avez trouvé une œuvre dans le [catalogue](https://galeriegaia.fr/catalogue/ "catalogue de la collection de  galerie gaia") qui vous plait et vous hésitez ?
 
-**1.** **Essayez l’œuvre chez vous** pendant une semaine contre un chèque de caution de son montant. Ainsi tranquillement dans votre espace, avec votre lumière vous pourrez choisir en toute confiance.
+**1.** **Essayez l’œuvre chez vous**. Ainsi tranquillement dans votre espace, avec votre lumière vous pourrez choisir en toute confiance (48h à 72h - chèque de caution en garantie).
 
 **2.** **Paiement de  vos achats en ligne.** Pour les professionnels le financement peut se faire via la défiscalisation ou le leasing (rubrique prestation - [défiscalisation](https://galeriegaia.fr/about/art-et-fiscalite/ "defiscalisation"))
 
