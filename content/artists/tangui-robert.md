@@ -11,6 +11,10 @@ styles:
 expose: true
 work: content/works/tangui-robertmd-debordement-1.md
 works:
+  - work: content/works/tangui-robertmd-rittergasse-bale.md
+  - work: content/works/tangui-robertmd-jardin-serre-nantes.md
+  - work: content/works/tangui-robertmd-ischia.md
+  - work: content/works/tangui-robertmd-bruxelles.md
   - work: content/works/tangui-robertmd-portfolio-projet-tangui-robert.md
   - work: content/works/tangui-robertmd-loire-li.md
   - work: content/works/tangui-robertmd-debordement-1.md
