@@ -14,7 +14,7 @@ fields:
 styles:
   - Abstrait
 expose: true
-work: content/works/dharcourt-victoire-alliance-xii.md
+work: content/works/d-harcourt-victoiremd-alliance-xviii.md
 works:
   - work: content/works/d-harcourt-victoiremd-alliance-xviii.md
   - work: content/works/d-harcourt-victoiremd-portfolio-victoire-dharcourt.md
