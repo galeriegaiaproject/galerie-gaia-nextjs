@@ -1,6 +1,6 @@
 ---
-title: 'Alliance XVIII '
-reference: 'd''Harcourt Victoire, Alliance XVIII '
+title: Alliance XVII
+reference: 'd''Harcourt Victoire, Alliance XVII'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/dharcourt-victoire/galerie-gaia-d
   harcourt-victoire-alliance-ES2 XVIII-43X40X12.jpg
@@ -14,4 +14,4 @@ dimensions:
   depth: 12
 ---
 
-Fonderie d'art AVANGINI 
+Fonderie d'art AVANGINI
