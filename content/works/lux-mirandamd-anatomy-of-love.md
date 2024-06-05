@@ -1,6 +1,6 @@
 ---
 title: Anatomy of love
-reference: 'Lux Miranda, Anayomy of love'
+reference: 'Lux Miranda, Anatomy of love'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/lux
   miranda/galerie-gaia-lux-miranda-Anatomy of Love.jpg
