@@ -17,11 +17,9 @@ caption: Art Contemporain
 announcement: |
   Lux Miranda
 
-  JEUDI 6 JUIN
+  Tapisseries
 
-  VERNISSAGE 18:00
-
-  Tapisserie
+  jusqu'au 22 juin
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
