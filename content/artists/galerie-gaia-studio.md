@@ -6,11 +6,23 @@ fields:
 styles:
   - Figuratif
   - Abstrait
+work: content/works/d-harcourt-victoiremd-alliance-xviii.md
+works:
+  - work: content/works/daha-dahamd-damien-hamon-daha.md
+  - work: content/works/daha-dahamd-damien-hamon-daha.md
+  - work: content/works/olivier-fremontmd-olivier-fremont.md
+  - work: content/works/leclercq-antoinemd-leclercq-antoine.md
+  - work: content/works/gouret-ericmd-olivier-gouret.md
+  - work: content/works/galerie-gaia-studiomd-victoire-dharcourt-sculpture.md
+  - work: content/works/edwin-wide-donnart-edwin-wide.md
+  - work: content/works/remy-pierre-alexandremd-pierre-alexandre-remy.md
+  - work: content/works/pierre-tualmd-pierre-tual.md
+  - work: content/works/tangui-robertmd-tangui-robert.md
 ---
 
 Dites-le avec de l'art !
 
-Galerie Gaïa Studio accompagne les décorateurs d'intérieur, les agences d'architecture, les promoteurs immobiliers, les signataires de la charte du Ministère de la Culture1 immeuble 1 œuvre, les groupes 
+Galerie Gaïa Studio accompagne les décorateurs d'intérieur, les agences d'architecture, les promoteurs immobiliers, les signataires de la charte du Ministère de la Culture1 immeuble 1 œuvre, les groupes
 hôteliers, les chefs d'entreprises qui souhaitent valoriser leurs espaces et leurs usages.
 
 Installer des œuvres, un projet artistique qui dialogue avec une architecture, c'est penser son contexte, environnemental et historique. C'est un levier fort d'innovation, d'audace et de plaisir.
