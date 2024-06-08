@@ -9,7 +9,6 @@ styles:
 work: content/works/galerie-gaia-studiomd-galerie-gaia-studio.md
 works:
   - work: content/works/daha-dahamd-damien-hamon-daha.md
-  - work: content/works/daha-dahamd-damien-hamon-daha.md
   - work: content/works/olivier-fremontmd-olivier-fremont.md
   - work: content/works/leclercq-antoinemd-leclercq-antoine.md
   - work: content/works/gouret-ericmd-olivier-gouret.md
