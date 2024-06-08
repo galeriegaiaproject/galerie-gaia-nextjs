@@ -8,7 +8,7 @@ fields:
   - Sculpture
 styles:
   - Abstrait
-contextual: true
+contextual: false
 ---
 
 [voir plus d'oeuvres ](https://www.galeriegaia.fr/artists/d-harcourt-victoire "Victoire d'Harcourt")
