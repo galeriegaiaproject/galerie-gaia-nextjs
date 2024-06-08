@@ -6,7 +6,7 @@ fields:
 styles:
   - Figuratif
   - Abstrait
-work: content/works/d-harcourt-victoiremd-alliance-xviii.md
+work: content/works/galerie-gaia-studiomd-galerie-gaia-studio.md
 works:
   - work: content/works/daha-dahamd-damien-hamon-daha.md
   - work: content/works/daha-dahamd-damien-hamon-daha.md
