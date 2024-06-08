@@ -6,6 +6,7 @@ fields:
 styles:
   - Figuratif
   - Abstrait
+expose: true
 work: content/works/galerie-gaia-studiomd-galerie-gaia-studio.md
 works:
   - work: content/works/daha-dahamd-damien-hamon-daha.md
