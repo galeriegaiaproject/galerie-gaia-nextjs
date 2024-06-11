@@ -9,6 +9,7 @@ seo:
 title: Belaud Cindy
 location: ''
 fields:
+  - 'Conception sur mesure '
   - Oeuvre sur papier
 styles:
   - Abstrait
