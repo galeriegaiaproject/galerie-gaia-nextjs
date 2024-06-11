@@ -21,7 +21,6 @@ expose: true
 work: content/works/morin-jorj-estampe-tapisserie-sentiers-perdus.md
 works:
   - work: content/works/morin-jorj-estampe-tapisserie-arbre-pyramide.md
-  - work: content/works/morin-jorj-estampe-tapisserie-bouquet-compose.md
   - work: content/works/morin-jorj-estampe-tapisserie-cat-328.md
   - work: content/works/morin-jorj-estampe-tapisserie-colonne-sensible.md
   - work: content/works/morin-jorj-estampe-tapisserie-construction-ephemere.md
