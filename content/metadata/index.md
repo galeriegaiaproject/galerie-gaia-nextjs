@@ -5,6 +5,9 @@ description: >-
   galerie gaia galerie art nantes quartier Decré Hôtel de ville Nantes,
   exposition d’art contemporain abstrait figuratif, peinture sculpture estampe
   photo, courtier en art, défiscalisation et leasing
+
+  galerie gaïa studio dites-le avec de l'art ! aménagement des bureaux,
+  conception sur-mesure d’œuvres 1 immeuble 1 oeuvre 
 menu:
   - page: content/pages/galerie-gaia-studio.md
   - page: content/pages/immobilier-architecture.md
