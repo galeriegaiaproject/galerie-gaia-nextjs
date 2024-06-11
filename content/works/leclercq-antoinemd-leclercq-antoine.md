@@ -12,4 +12,6 @@ styles:
 contextual: false
 ---
 
+Antoine Leclercq vous intéresse pour installer une œuvre pour votre entreprise ou dans le cadre du  programme immobilier 1 immeuble 1 Oeuvre ? Contactez-nous.
+
 [voir plus d'oeuvres d'Antoine Leclercq](https://www.galeriegaia.fr/artists/leclercq-antoine "Antoine Leclercq")
