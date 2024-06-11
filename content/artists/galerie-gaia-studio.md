@@ -9,6 +9,7 @@ styles:
 expose: true
 work: content/works/galerie-gaia-studiomd-galerie-gaia-studio.md
 works:
+  - work: content/works/galerie-gaia-studiomd-galerie-gaia-studio.md
   - work: content/works/galerie-gaia-studiomd-zoer-fresque-street-art.md
   - work: content/works/mauger-vincentmd-vincent-mauger-plasticien.md
   - work: content/works/galerie-gaia-studiomd-rouge-fresque-street-art.md
