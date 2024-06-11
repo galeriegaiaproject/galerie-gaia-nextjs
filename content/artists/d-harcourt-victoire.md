@@ -9,7 +9,7 @@ seo:
 title: d'Harcourt Victoire
 location: ''
 fields:
-  - Monumentale
+  - 'Conception sur mesure '
   - Sculpture
 styles:
   - Abstrait
