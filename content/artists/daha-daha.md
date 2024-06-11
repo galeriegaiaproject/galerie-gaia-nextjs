@@ -5,6 +5,8 @@ redirect_from:
 title: Hamon Damien Daha
 location: ''
 fields:
+  - Sculpture
+  - 'Conception sur mesure '
   - Design
 expose: true
 work: content/works/hamon-damien-daha-cube-plie-or.md
