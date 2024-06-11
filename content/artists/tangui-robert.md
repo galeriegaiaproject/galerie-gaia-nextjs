@@ -5,6 +5,7 @@ redirect_from:
 title: 'Robert Tangui '
 location: ''
 fields:
+  - 'Conception sur mesure '
   - Oeuvre sur papier
 styles:
   - Figuratif
