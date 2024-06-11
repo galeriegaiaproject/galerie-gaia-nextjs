@@ -10,6 +10,7 @@ seo:
 title: Leclercq Antoine
 location: Belgique
 fields:
+  - 'Conception sur mesure '
   - Sculpture
 styles:
   - Abstrait
