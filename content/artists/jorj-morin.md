@@ -36,7 +36,6 @@ works:
   - work: content/works/morin-jorj-estampe-tapisserie-le-vent-qui-va.md
   - work: content/works/morin-jorj-estampe-tapisserie-lechelle-de-jacob.md
   - work: content/works/morin-jorj-estampe-tapisserie-massif-forestier.md
-  - work: content/works/morin-jorj-estampe-tapisserie-mouvement-mecanique.md
   - work: content/works/morin-jorj-estampe-tapisserie-oiseau-passant.md
   - work: content/works/morin-jorj-estampe-tapisserie-point-rouge.md
   - work: content/works/morin-jorj-estampe-tapisserie-quatre-paires-dyeux.md
