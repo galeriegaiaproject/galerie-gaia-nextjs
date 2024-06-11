@@ -9,6 +9,6 @@ fields:
 contextual: false
 ---
 
-Edwin Wide Donnart vous intéresse pour installer une oeuvre  pour votre entreprise ou dans le cadre du  programme immobilier 1 immeuble 1 Œuvre ? Contactez-nous.
+Edwin Wide Donnart vous intéresse pour installer une œuvre  pour votre entreprise ou dans le cadre du  programme immobilier 1 immeuble 1 Œuvre ? Contactez-nous.
 
 [voir plus d'oeuvres](https://www.galeriegaia.fr/artists/edwin-wide "Edwin Wide Donnart")
