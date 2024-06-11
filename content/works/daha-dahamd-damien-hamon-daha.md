@@ -1,6 +1,6 @@
 ---
-title: Damien Hamon DAHA
-reference: Galerie Gaïa Studio
+title: DAHA - design mobilier sculpture
+reference: 'Galerie Gaïa Studio, Daha - designe mobilier sculpture'
 image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/hamon-damien-daha/GAIÌ\x88A STUDIO FICHE DAHA_page-0001.jpg"
 artist: content/artists/daha-daha.md
 technique: Ebéniste
