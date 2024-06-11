@@ -6,6 +6,7 @@ seo:
 title: 'Wadecki Elisabeth '
 location: ''
 fields:
+  - 'Conception sur mesure '
   - Peinture
 styles:
   - Abstrait
