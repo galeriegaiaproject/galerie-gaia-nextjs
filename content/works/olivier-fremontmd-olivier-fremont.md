@@ -1,6 +1,6 @@
 ---
-title: Olivier Fremont
-reference: 'Galerie Gaïa Studio, Olivier Fremont'
+title: Olivier Fremont - sculpture
+reference: 'Galerie Gaïa Studio, Olivier Fremont - sculpture'
 image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/fremont-olivier/GAIÌ\x88A STUDIO FICHE FREMONT_page-0001.jpg"
 artist: content/artists/olivier-fremont.md
 technique: Sculpture métal
