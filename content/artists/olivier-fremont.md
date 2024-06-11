@@ -5,6 +5,7 @@ redirect_from:
 title: 'Fremont Olivier '
 location: ''
 fields:
+  - 'Conception sur mesure '
   - Sculpture
 styles:
   - Abstrait
