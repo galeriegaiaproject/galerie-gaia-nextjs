@@ -2,7 +2,7 @@
 title: Galerie Gaïa Studio
 location: Nantes
 fields:
-  - Conception sur mesure
+  - 'Conception sur mesure '
 styles:
   - Figuratif
   - Abstrait
