@@ -11,4 +11,6 @@ styles:
 contextual: false
 ---
 
+Victoire D'Harcourt vous intéresse pour installer une œuvre pour votre entreprise ou dans le cadre du  programme immobilier 1 immeuble 1 Œuvre ? Contactez-nous.
+
 [voir plus d'oeuvres ](https://www.galeriegaia.fr/artists/d-harcourt-victoire "Victoire d'Harcourt")
