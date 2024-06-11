@@ -45,7 +45,6 @@ works:
   - work: content/works/morin-jorj-estampe-tapisserie-tapisserie-papillon.md
   - work: content/works/morin-jorj-estampe-tapisserie-trois-petits-masques.md
   - work: content/works/morin-jorj-estampe-tapisserie-trois-signes-non-identifies.md
-  - work: content/works/morin-jorj-estampe-tapisserie-un-oeil-polyvalent.md
   - work: content/works/morin-jorj-estampe-tapisserie-une-branche-verte.md
   - work: content/works/morin-jorj-estampe-tapisserie-une-certaine-cohesion.md
   - work: content/works/morin-jorj-estampe-tapisserie-vents-tournants.md
