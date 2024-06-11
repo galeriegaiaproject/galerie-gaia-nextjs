@@ -1,24 +1,23 @@
 ---
 template: artist
-title: Morin Jorj Estampe Tapisserie
-location: Nantes
-fields:
-  - Oeuvre sur papier
-  - Textile
-birth: '1909'
-death: '1995'
-expose: true
-exhibitions: []
 redirect_from:
   - /artistes/103-jorj-morin/
-styles:
-  - Abstrait
 seo:
   title: ''
   heading: ''
   type: ''
   description: ''
   image: ''
+title: Morin Jorj Estampe Tapisserie
+location: Nantes
+fields:
+  - Oeuvre sur papier
+  - Textile
+styles:
+  - Abstrait
+birth: '1909'
+death: '1995'
+expose: true
 work: content/works/morin-jorj-estampe-tapisserie-sentiers-perdus.md
 works:
   - work: content/works/morin-jorj-estampe-tapisserie-arbre-pyramide.md
@@ -45,7 +44,6 @@ works:
   - work: content/works/morin-jorj-estampe-tapisserie-loeil-inquiet.md
   - work: content/works/morin-jorj-estampe-tapisserie-massif-forestier.md
   - work: content/works/morin-jorj-estampe-tapisserie-mouvement-mecanique.md
-  - work: content/works/morin-jorj-estampe-tapisserie-noeud-majuscule.md
   - work: content/works/morin-jorj-estampe-tapisserie-oiseau-passant.md
   - work: content/works/morin-jorj-estampe-tapisserie-petit-bois-habite.md
   - work: content/works/morin-jorj-estampe-tapisserie-pierre-gravee.md
@@ -64,6 +62,7 @@ works:
   - work: content/works/morin-jorj-estampe-tapisserie-une-branche-verte.md
   - work: content/works/morin-jorj-estampe-tapisserie-une-certaine-cohesion.md
   - work: content/works/morin-jorj-estampe-tapisserie-vents-tournants.md
+exhibitions: []
 ---
 
 # Jorj Morin (Georges)
