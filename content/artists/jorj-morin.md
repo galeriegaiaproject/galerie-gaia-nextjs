@@ -27,8 +27,6 @@ works:
   - work: content/works/morin-jorj-estampe-tapisserie-entrelacs-ii.md
   - work: content/works/morin-jorj-estampe-tapisserie-espace-agite.md
   - work: content/works/morin-jorj-estampe-tapisserie-exposition-polymorphie.md
-  - work: content/works/morin-jorj-estampe-tapisserie-isthme-noir.md
-  - work: content/works/morin-jorj-estampe-tapisserie-jeu-daiguilles.md
   - work: content/works/morin-jorj-estampe-tapisserie-la-tour-de-guet.md
   - work: content/works/morin-jorj-estampe-tapisserie-larbre-noue.md
   - work: content/works/morin-jorj-estampe-tapisserie-le-chateau-vertical.md
