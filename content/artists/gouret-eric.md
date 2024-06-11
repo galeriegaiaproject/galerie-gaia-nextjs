@@ -1,7 +1,7 @@
 ---
 title: Gouret Eric
 fields:
-  - Monumentale
+  - 'Conception sur mesure '
   - Dessin
   - Plasticien
 styles:
