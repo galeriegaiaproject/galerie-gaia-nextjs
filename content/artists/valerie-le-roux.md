@@ -2,6 +2,7 @@
 title: 'Le Roux Valérie '
 location: ''
 fields:
+  - 'Conception sur mesure '
   - Oeuvre sur papier
   - Céramique
 styles: []
