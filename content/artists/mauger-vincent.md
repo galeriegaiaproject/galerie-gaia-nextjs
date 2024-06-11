@@ -15,6 +15,7 @@ styles:
 expose: true
 work: content/works/mauger-vincentmd-sans-titre-b.md
 works:
+  - work: content/works/mauger-vincentmd-vincent-mauger-plasticien.md
   - work: content/works/mauger-vincentmd-colline.md
   - work: content/works/mauger-vincentmd-sans-titre-b.md
   - work: content/works/mauger-vincentmd-sans-titre-a.md
