@@ -6,6 +6,8 @@ artist: content/artists/galerie-gaia-studio.md
 contextual: false
 ---
 
-Retrouvez une sélection d'artistes expérimenté-es sur des commandes artistiques indoor et outdoor.
+Dites-le avec de l'art !
+
+Retrouvez notre sélection d'artistes expérimenté-es pour réaliser une œuvre sur mesure indoor ou outdoor.
 
 [Galerie Gaïa Studio](https://www.galeriegaia.fr/studio/galerie-gaia-studio "Galerie Gaïa Studio")
