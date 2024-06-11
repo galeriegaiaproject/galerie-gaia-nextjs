@@ -3,7 +3,7 @@ seo:
   title: 'Soemone Pierre '
 title: Soemone Pierre
 fields:
-  - Oeuvre sur papier
+  - 'Conception sur mesure '
   - Peinture
 styles:
   - Abstrait
