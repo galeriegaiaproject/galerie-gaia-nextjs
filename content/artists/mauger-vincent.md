@@ -8,6 +8,7 @@ seo:
     Nantes depuis 2024, 1% artistique, conception d'oeuvres d'art
 title: Mauger Vincent
 fields:
+  - 'Conception sur mesure '
   - Plasticien
   - Dessin
 styles:
