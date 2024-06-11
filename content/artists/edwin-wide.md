@@ -5,6 +5,7 @@ redirect_from:
 title: Edwin Wide Donnart
 location: ''
 fields:
+  - 'Conception sur mesure '
   - Street art
   - Peinture
 styles:
