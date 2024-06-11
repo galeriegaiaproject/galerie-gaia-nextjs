@@ -5,6 +5,7 @@ redirect_from:
 title: Isthme
 location: ''
 fields:
+  - 'Conception sur mesure '
   - Peinture
 styles:
   - Abstrait
