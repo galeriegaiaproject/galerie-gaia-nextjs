@@ -19,7 +19,7 @@ works:
   - work: content/works/leclercq-antoinemd-leclercq-antoine.md
   - work: content/works/gouret-ericmd-olivier-gouret.md
   - work: content/works/galerie-gaia-studiomd-victoire-dharcourt-sculpture.md
-  - work: content/works/edwin-wide-donnart-edwin-wide.md
+  - work: content/works/edwin-widemd-edwin-wide-donnart.md
   - work: content/works/remy-pierre-alexandremd-pierre-alexandre-remy.md
   - work: content/works/pierre-tualmd-pierre-tual.md
   - work: content/works/tangui-robertmd-tangui-robert.md
