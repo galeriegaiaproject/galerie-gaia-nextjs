@@ -11,4 +11,6 @@ styles:
 contextual: false
 ---
 
+Olivier Fremont vous intéresse pour installer une œuvre dans le cadre du  programme immobilier 1 immeuble 1 Oeuvre ? Contactez-nous.
+
 [voir plus d’œuvres d'Olivier Fremont](https://www.galeriegaia.fr/artists/olivier-fremont "Olivier Fremont")
