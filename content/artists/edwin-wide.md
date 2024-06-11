@@ -5,7 +5,6 @@ redirect_from:
 title: Edwin Wide Donnart
 location: ''
 fields:
-  - Monumentale
   - Street art
   - Peinture
 styles:
