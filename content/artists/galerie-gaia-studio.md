@@ -14,7 +14,6 @@ works:
   - work: content/works/mauger-vincentmd-vincent-mauger-plasticien.md
   - work: content/works/galerie-gaia-studiomd-rouge-fresque-street-art.md
   - work: content/works/galerie-gaia-studiomd-marion-flament-plasticien-verre.md
-  - work: content/works/galerie-gaia-studiomd-galerie-gaia-studio.md
   - work: content/works/daha-dahamd-damien-hamon-daha.md
   - work: content/works/olivier-fremontmd-olivier-fremont.md
   - work: content/works/leclercq-antoinemd-leclercq-antoine.md
