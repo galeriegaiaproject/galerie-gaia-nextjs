@@ -9,6 +9,7 @@ seo:
 title: 'Tual Pierre '
 location: ''
 fields:
+  - 'Conception sur mesure '
   - Sculpture
   - Céramique
   - Oeuvre sur papier
