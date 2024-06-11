@@ -1,6 +1,7 @@
 ---
 title: Rémy Pierre-Alexandre
 fields:
+  - 'Conception sur mesure '
   - Sculpture
 styles:
   - Abstrait
