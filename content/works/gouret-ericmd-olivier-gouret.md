@@ -1,12 +1,13 @@
 ---
-title: Eric Gouret
-reference: 'Galerie Gaïa Studio, Eric Gouret'
+title: Eric Gouret - plasticien
+reference: 'Galerie Gaïa Studio, Eric Gouret - plasticien'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/gouret
   eric/STUDIO GOURET_page-0001.jpg
 artist: content/artists/gouret-eric.md
 technique: Plasticien
 fields:
+  - Dessin
   - Plasticien
 styles:
   - Abstrait
