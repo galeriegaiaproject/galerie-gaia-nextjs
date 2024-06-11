@@ -9,6 +9,7 @@ seo:
     daniel/galerie-gaia-bragoni-daniel-bragonium-bardiglio-36X23X12.jpg
 title: Bragoni Daniele
 fields:
+  - 'Conception sur mesure '
   - Sculpture
 styles:
   - Abstrait
