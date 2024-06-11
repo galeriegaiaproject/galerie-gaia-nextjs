@@ -38,7 +38,6 @@ works:
   - work: content/works/morin-jorj-estampe-tapisserie-massif-forestier.md
   - work: content/works/morin-jorj-estampe-tapisserie-quatre-paires-dyeux.md
   - work: content/works/morin-jorj-estampe-tapisserie-regards-disperces.md
-  - work: content/works/morin-jorj-estampe-tapisserie-regards-inquiets.md
   - work: content/works/morin-jorj-estampe-tapisserie-sans-titre.md
   - work: content/works/morin-jorj-estampe-tapisserie-sentiers-perdus.md
   - work: content/works/morin-jorj-estampe-tapisserie-signaux-optiques.md
