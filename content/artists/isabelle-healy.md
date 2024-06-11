@@ -1,15 +1,15 @@
 ---
 template: artist
+redirect_from:
+  - /artistes/69-isabelle-healy/
 title: 'Healy Isabelle '
 location: ''
 fields:
+  - 'Conception sur mesure '
   - Sculpture
-expose: true
-exhibitions: []
-redirect_from:
-  - /artistes/69-isabelle-healy/
 styles:
   - Figuratif
+expose: true
 work: content/works/healy-isabelle-point-dequilibre.md
 works:
   - work: content/works/healy-isabelle-point-dequilibre.md
@@ -26,6 +26,7 @@ works:
   - work: content/works/healy-isabelle-une-ile.md
   - work: content/works/healy-isabelle-le-mythe-de-sisyphe.md
   - work: content/works/healy-isabelle-portrait.md
+exhibitions: []
 ---
 
 # Isabelle Healy
