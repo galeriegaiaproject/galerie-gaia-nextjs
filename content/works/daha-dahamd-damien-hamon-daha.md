@@ -9,6 +9,6 @@ fields:
 contextual: false
 ---
 
-Damien Hamon vous intéresse pour installer une œuvre pour votre entreprise ou dans le cadre du  programme immobilier 1 immeuble 1 Oeuvre ? Contactez-nous.
+Damien Hamon vous intéresse pour installer une œuvre pour votre entreprise ou dans le cadre du  programme immobilier 1 immeuble 1 Œuvre ? Contactez-nous.
 
 [voir plus d’œuvres de Damien Hamon](https://www.galeriegaia.fr/artists/daha-daha?work=daha-dahamd-portfolio-projet-daha "Damien Hamon DAHA")
