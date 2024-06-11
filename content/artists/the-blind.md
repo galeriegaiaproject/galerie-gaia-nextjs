@@ -1,19 +1,19 @@
 ---
-fields:
-  - Street art
-styles:
-  - Abstrait
+template: artist
 seo:
   title: ''
   heading: ''
   type: article
   description: ''
   image: ''
-template: artist
 title: The Blind
 location: ''
+fields:
+  - 'Conception sur mesure '
+  - Street art
+styles:
+  - Abstrait
 expose: false
-exhibitions: []
 work: content/works/the-blind-je-gueule.md
 works:
   - work: content/works/the-blind-extrait-de-la-serie-jeux-de-societes.md
@@ -23,6 +23,7 @@ works:
   - work: content/works/the-blind-toucher-avec-les-mains-propres.md
   - work: content/works/the-blind-toucher-l-horizon-du-bout-des-doigts.md
   - work: content/works/the-blind-touchez-pas-a-madame.md
+exhibitions: []
 ---
 
 # The Blind
