@@ -1,6 +1,6 @@
 ---
-title: Eric Gouret - plasticien
-reference: 'Galerie Gaïa Studio, Eric Gouret - plasticien'
+title: Eric Gouret - plasticien dessin
+reference: 'Galerie Gaïa Studio, Eric Gouret - plasticien dessin'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/gouret
   eric/STUDIO GOURET_page-0001.jpg
