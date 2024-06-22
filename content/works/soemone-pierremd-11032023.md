@@ -12,3 +12,4 @@ dimensions:
   width: 180
 ---
 
+Diptyque œuvre montée sur 2 châssis 130X90 cm
