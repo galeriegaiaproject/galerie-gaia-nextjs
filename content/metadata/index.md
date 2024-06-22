@@ -18,11 +18,11 @@ menu:
   - page: content/pages/references.md
 caption: Art Contemporain
 announcement: |
-  Lux Miranda
+  Jacques Le Brusq
 
-  Tapisseries
+  Expo estivale 
 
-  jusqu'au 22 juin
+  VAN 2024
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
