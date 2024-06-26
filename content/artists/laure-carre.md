@@ -24,7 +24,6 @@ works:
   - work: content/works/laure-carremd-je-dors-les-yeux-ouverts.md
   - work: content/works/laure-carremd-inside-3.md
   - work: content/works/laure-carremd-buste-femme.md
-  - work: content/works/laure-carremd-mon-bel-arbre.md
   - work: content/works/laure-carremd-la-nuit-demain.md
   - work: content/works/laure-carremd-cheval-en-tete.md
   - work: content/works/laure-carremd-green-horse.md
