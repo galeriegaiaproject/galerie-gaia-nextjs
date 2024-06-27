@@ -17,6 +17,7 @@ birth: '1938'
 expose: true
 work: content/works/le-brusq-jacques-en-beauce-opus-2.md
 works:
+  - work: content/works/jacques-le-brusqmd-2024-avril-exposition-jacques-le-brusq.md
   - work: content/works/jacques-le-brusqmd-2024-1.md
   - work: content/works/jacques-le-brusqmd-contre-jour-1.md
   - work: content/works/jacques-le-brusqmd-vetabrfa-opus-3.md
@@ -47,7 +48,7 @@ exhibitions:
 
 # Jacques Le Brusq
 
-Film "L'esprit des choses" par François Possémé Fabrikimages - interview par François Jeune 
+Film "L'esprit des choses" par François Possémé Fabrikimages - interview par François Jeune
 
 Regarder le film 5' [clic](https://www.youtube.com/watch?v=KjfYWw9bEro "Film Jacques Le Brusq l'esprit des choses ")
 
