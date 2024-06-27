@@ -47,6 +47,10 @@ exhibitions:
 
 # Jacques Le Brusq
 
+Film "L'esprit des choses" par François Possémé Fabrikimages - interview par François Jeune 
+
+Regarder le film 5' [clic](https://www.youtube.com/watch?v=KjfYWw9bEro "Film Jacques Le Brusq l'esprit des choses ")
+
 L'artiste est né en 1938 à Rennes. Entre 1970 et 1977, il crée et anime un centre d'art dans le Morbihan, La Cour de Bovrel, à Saint Guyomard. Il enseigne également à l'école des Beaux-arts de Rennes de 1973 à 2000. Il vit et travaille à Nantes depuis 1990.
 
 Sa démarche est nourrie par la philosophie et la pensée poétique, et par une longue immersion au sein du règne végétal et du règne minéral.
@@ -70,7 +74,8 @@ Texte extrait du guide d'accompagnement de l'exposition *Sur le motif*, réalis�
 
 \*\*\*\*[https://telenantes.ouest-france.fr/nantes-matin/article/chronique-expo-jacques-le-brusq-la-galerie-gaia](https://telenantes.ouest-france.fr/nantes-matin/article/chronique-expo-jacques-le-brusq-la-galerie-gaia)
 
-* 2024 Avril Exposition personnelle Galerie Gaïa commissariat Elisabeth Givre & Inès Ben Brahim
+* 2024 Été Programmation officielle du Voyage à Nantes à Galerie Gaïa "La présence de l'arbre"
+* 2024 Avril Exposition personnelle Galerie Gaïa commissariat Elisabeth Givre
 * 2021 Novembre "Le présent du monde", Galerie Gaïa commissariat Elisabeth Givre
 * 2021 Mai-Septembre, Fougères Musée de la Villéon " Paysages, Paysages " Commissariat Samuel Linard
 * 2020 Juin-Décembre Musée Robert Tatin "Du Morbihan à la Frénouse, aux abords du pays où la lumière ne fait point d'ombre" - commissariat Bruno Godivier - édition d'un catalogue
