@@ -6,3 +6,4 @@ artist: content/artists/jacques-le-brusq.md
 contextual: false
 ---
 
+film [clic ici](https://www.youtube.com/watch?v=KjfYWw9bEro "l 'esprit des choses Jacques Le Brusq") 
