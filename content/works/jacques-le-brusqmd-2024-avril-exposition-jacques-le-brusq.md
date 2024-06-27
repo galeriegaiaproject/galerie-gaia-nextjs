@@ -6,6 +6,6 @@ artist: content/artists/jacques-le-brusq.md
 contextual: false
 ---
 
-film [clic ici](https://www.youtube.com/watch?v=KjfYWw9bEro "l 'esprit des choses Jacques Le Brusq") 
+regarder le film [clic ici](https://www.youtube.com/watch?v=KjfYWw9bEro "l 'esprit des choses Jacques Le Brusq") 
 
 Exposition dans le cadre du Voyage à Nantes : programme [ICI](https://www.levoyageanantes.fr/evenements/la-presence-des-arbres/ "EXPO JACQUES LE BRUSQ VOYAGE A NANTES LE VAN 2024")
