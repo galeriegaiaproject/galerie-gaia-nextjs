@@ -40,8 +40,6 @@ works:
   - work: >-
       content/works/muckensturm-pierre-203r0943-composition-a-6-angles-a-entas.md
   - work: >-
-      content/works/muckensturm-pierre-203r0944-composition-a-6-angles-a-entas.md
-  - work: >-
       content/works/muckensturm-pierre-203r0946-composition-a-6-angles-a-entas.md
   - work: content/works/muckensturm-pierre-diptyque-xxi-41-117.md
   - work: >-
