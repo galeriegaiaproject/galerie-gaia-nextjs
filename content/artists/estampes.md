@@ -16,7 +16,6 @@ expose: true
 work: content/works/estampesmd-pincemin-jean-pierre-ndegree-120.md
 works:
   - work: content/works/estampesmd-pincemin-jean-pierre-ndegree3.md
-  - work: content/works/estampesmd-pincemin-jean-pierre-ndegree125.md
   - work: content/works/estampesmd-pincemin-jean-pierre-ndegree122.md
   - work: content/works/estampesmd-pincemin-jean-pierre-ndegree-120.md
   - work: content/works/estampesmd-ndegree106.md
