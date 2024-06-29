@@ -6,7 +6,7 @@ image: >-
   germain-80X60.jpg
 artist: content/artists/estampes.md
 price: 750
-technique: Sérigraphie
+technique: Lithographie
 contextual: true
 dimensions:
   height: 80
