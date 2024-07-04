@@ -25,7 +25,6 @@ works:
   - work: content/works/muckensturm-pierre-182c160413-installation.md
   - work: content/works/muckensturm-pierre-182c160413.md
   - work: content/works/muckensturm-pierre-184j210811-47.md
-  - work: content/works/muckensturm-pierre-184j210831-411.md
   - work: content/works/muckensturm-pierre-185r091011.md
   - work: content/works/muckensturm-pierre-186s19111-925.md
   - work: content/works/muckensturm-pierre-186s19112-925.md
