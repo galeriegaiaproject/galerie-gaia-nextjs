@@ -12,6 +12,8 @@ styles:
 expose: true
 work: content/works/isthmemd-entre-bleus-4.md
 works:
+  - work: content/works/isthmemd-allongee-dans-lherbe-xxiii.md
+  - work: content/works/isthmemd-allongee-dans-lherbe-xxii.md
   - work: content/works/isthmemd-en-situation-bleu-majuscule-5.md
   - work: content/works/isthmemd-en-situation-deep-blue-26.md
   - work: content/works/isthmemd-deep-blue-26.md
