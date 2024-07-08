@@ -8,10 +8,9 @@ seo:
     estampe, photographie, courtier en art, défiscalisation, location, prêt
     avant achat.
 carousel:
+  - work: content/works/isthmemd-allongee-dans-lherbe-xxii.md
   - work: content/works/le-brusq-jacques-en-beauce-opus-2.md
   - work: content/works/gouret-ericmd-enroule-losange-couleurs.md
   - work: content/works/caer-anthonymd-glaz-ix.md
-  - work: content/works/lux-mirandamd-untitled-ii.md
-  - work: content/works/lux-mirandamd-transgenerational-gift.md
 ---
 
