@@ -17,6 +17,7 @@ styles:
 expose: true
 work: content/works/laure-carremd-moonlight.md
 works:
+  - work: content/works/laure-carremd-blue-jay.md
   - work: content/works/laure-carremd-pas-de-deux.md
   - work: content/works/laure-carremd-petit-salon.md
   - work: content/works/laure-carremd-moonlight.md
