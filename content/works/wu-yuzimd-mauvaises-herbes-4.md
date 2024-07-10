@@ -5,7 +5,7 @@ image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/wu
   yuzi/galerie-gaia-wu-yuzi-mauvaises-herbes-4.jpg
 artist: content/artists/wu-yuzi.md
-price: 2500
+price: 3100
 technique: 'Huile sur toile '
 fields:
   - Figurtaif
