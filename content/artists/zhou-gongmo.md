@@ -5,7 +5,7 @@ fields:
   - Peinture
 styles:
   - Figuratif
-expose: true
+expose: false
 work: content/works/zhou-gongmomd-ecran-silencieux-3.md
 works:
   - work: content/works/zhou-gongmomd-ecran-silencieux-7.md
