@@ -7,6 +7,8 @@ styles:
 expose: true
 work: content/works/wu-yuzimd-mauvaises-herbes-4.md
 works:
+  - work: content/works/wu-yuzimd-herbes-folles.md
+  - work: content/works/wu-yuzimd-paysage-nocturne-4.md
   - work: content/works/wu-yuzimd-mauvaises-herbes-4.md
   - work: content/works/wu-yuzimd-paysage-nocturne-1.md
   - work: content/works/wu-yuzimd-mauvaises-herbes-3.md
