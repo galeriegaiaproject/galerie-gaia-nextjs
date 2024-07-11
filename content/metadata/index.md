@@ -20,7 +20,7 @@ caption: Art Contemporain
 announcement: |
   Jacques Le Brusq
 
-  Expo estivale 
+  Expo estivale
 
   VAN 2024
 opening: |-
