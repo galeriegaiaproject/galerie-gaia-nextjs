@@ -20,9 +20,11 @@ caption: Art Contemporain
 announcement: |
   Jacques Le Brusq
 
-  Expo estivale
+  Salle 1 VAN 2024
 
-  VAN 2024
+  Expo collective
+
+  Salle 2
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
