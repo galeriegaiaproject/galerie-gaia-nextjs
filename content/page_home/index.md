@@ -8,6 +8,7 @@ seo:
     estampe, photographie, courtier en art, défiscalisation, location, prêt
     avant achat.
 carousel:
+  - work: content/works/wu-yuzimd-mauvaises-herbes-4.md
   - work: content/works/isthmemd-allongee-dans-lherbe-xxii.md
   - work: content/works/le-brusq-jacques-en-beauce-opus-2.md
   - work: content/works/gouret-ericmd-enroule-losange-couleurs.md
