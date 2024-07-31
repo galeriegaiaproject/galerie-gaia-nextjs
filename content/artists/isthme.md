@@ -23,9 +23,7 @@ works:
   - work: content/works/isthmemd-entre-bleus-4.md
   - work: content/works/isthmemd-entre-bleus-10.md
   - work: content/works/isthmemd-entre-bleus-11.md
-  - work: content/works/isthmemd-deep-blue-17.md
   - work: content/works/isthmemd-lheure-bleue-2.md
-  - work: content/works/isthmemd-lheure-bleue-1.md
   - work: content/works/isthmemd-deep-blue-10.md
   - work: content/works/isthme-entre-bleus-5.md
   - work: content/works/isthme-lenvol-ii.md
