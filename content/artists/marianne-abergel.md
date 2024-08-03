@@ -12,7 +12,6 @@ expose: true
 work: content/works/marianne-abergelmd-ou-es-tu.md
 works:
   - work: content/works/marianne-abergelmd-grand-lievre-blanc.md
-  - work: content/works/marianne-abergelmd-petite-tete-de-lievre.md
   - work: content/works/marianne-abergelmd-lievre-5.md
   - work: content/works/marianne-abergelmd-ou-es-tu.md
   - work: content/works/marianne-abergelmd-pourquoi-chimere-noire.md
