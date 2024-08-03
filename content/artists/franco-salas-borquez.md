@@ -18,8 +18,6 @@ works:
   - work: >-
       content/works/salas-borquez-franco-exposition-la-marche-des-flots-mediatheque-pornichet.md
   - work: content/works/salas-borquez-franco-exposition-le-sillage-st-malo-2019.md
-  - work: content/works/salas-borquez-franco-la-montee-des-flots.md
-  - work: content/works/salas-borquez-franco-le-duel.md
   - work: content/works/salas-borquez-franco-le-reflet-deau.md
   - work: content/works/salas-borquez-franco-lindomptable-en-situation.md
   - work: content/works/salas-borquez-franco-nocturne.md
