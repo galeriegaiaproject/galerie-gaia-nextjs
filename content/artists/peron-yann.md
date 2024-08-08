@@ -14,6 +14,8 @@ styles:
 expose: true
 work: content/works/peron-yann-nenuphars-de-lerdre.md
 works:
+  - work: content/works/peron-yannmd-reflets-de-figuier.md
+  - work: content/works/peron-yannmd-champs-de-nenuphars.md
   - work: content/works/peron-yannmd-effets-de-reflets-ndegree4.md
   - work: content/works/peron-yannmd-le-havre-a-oudon.md
   - work: content/works/peron-yannmd-boire-dete.md
