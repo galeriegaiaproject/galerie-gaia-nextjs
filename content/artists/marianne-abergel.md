@@ -13,7 +13,6 @@ work: content/works/marianne-abergelmd-grand-lievre-blanc.md
 works:
   - work: content/works/marianne-abergelmd-grand-lievre-blanc.md
   - work: content/works/marianne-abergelmd-lievre-5.md
-  - work: content/works/marianne-abergelmd-ou-es-tu.md
   - work: content/works/marianne-abergelmd-pourquoi-chimere-noire.md
   - work: content/works/abergel-marianne-chimere-cachee-le-lievre.md
   - work: content/works/abergel-marianne-chimere-cachee-la-girafe.md
