@@ -1,7 +1,9 @@
 ---
 title: 'Galerie Gaïa Studio '
 reference: 'Galerie Gaïa Studio, Galerie Gaïa Studio'
-image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/galerie gaïa studio/GALERIE-GAIÌ\x88A-STUDIO-LOGO-TAMPON.jpg"
+image: >-
+  https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/galerie gaïa
+  studio/LOGO GG STUDIO.png
 artist: content/artists/galerie-gaia-studio.md
 contextual: false
 ---
