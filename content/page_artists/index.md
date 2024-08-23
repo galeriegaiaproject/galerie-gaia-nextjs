@@ -9,7 +9,9 @@ seo:
   image: ''
 artists:
   - artist: content/artists/galerie-gaia-studio.md
+  - artist: content/artists/tilly-yves.md
   - artist: content/artists/lux-miranda.md
+  - artist: content/artists/peron-yann.md
   - artist: content/artists/jacques-le-brusq.md
   - artist: content/artists/estampes.md
   - artist: content/artists/gouret-eric.md
@@ -30,7 +32,6 @@ artists:
   - artist: content/artists/wu-yuzi.md
   - artist: content/artists/remy-pierre-alexandre.md
   - artist: content/artists/isthme.md
-  - artist: content/artists/peron-yann.md
   - artist: content/artists/brigitte-marionneau.md
   - artist: content/artists/zhou-gongmo.md
   - artist: content/artists/belaud-cindy.md
@@ -39,7 +40,6 @@ artists:
   - artist: content/artists/soemone-pierre.md
   - artist: content/artists/jean-francois-molliere.md
   - artist: content/artists/pierre-tual.md
-  - artist: content/artists/tilly-yves.md
   - artist: content/artists/edwin-wide.md
   - artist: content/artists/annick-argant.md
   - artist: content/artists/olivier-fremont.md
