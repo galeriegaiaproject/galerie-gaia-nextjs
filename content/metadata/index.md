@@ -18,13 +18,10 @@ menu:
   - page: content/pages/references.md
 caption: Art Contemporain
 announcement: |
-  Jacques Le Brusq
-
-  Salle 1 VAN 2024
-
-  Expo collective
-
-  Salle 2
+  Expo Pornichet\
+  Médiathèque\
+  Peron - Tilly\
+  26 au 8 Septembre
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
