@@ -21,7 +21,7 @@ announcement: |
   Expo Pornichet\
   Médiathèque\
   Peron - Tilly\
-  26 au 8 Septembre
+  26/08 au 8/09
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
