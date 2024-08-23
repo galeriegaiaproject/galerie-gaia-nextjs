@@ -13,7 +13,7 @@ fields:
 styles:
   - Abstrait
 expose: true
-work: content/works/tilly-yvesmd-eucalyptus-001.md
+work: content/works/tilly-yvesmd-ndegree3-eucalyptus-noir.md
 works:
   - work: content/works/tilly-yvesmd-ndegree1-eucalyptus.md
   - work: content/works/tilly-yvesmd-ndegree2-eucalyptus-noir.md
