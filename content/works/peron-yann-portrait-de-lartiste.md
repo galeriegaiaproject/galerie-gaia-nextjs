@@ -1,19 +1,20 @@
 ---
-artist: content/artists/peron-yann.md
-reference: 'Peron Yann, Portrait de l''artiste'
 title: Portrait de l'artiste
-image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/peron-yann/galerie-gaia-emile21 avec yann-peron.jpeg'
+reference: 'Peron Yann, Portrait de l''artiste'
+image: >-
+  https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/peron-yann/galerie-gaia-emile21
+  avec yann-peron.jpeg
+artist: content/artists/peron-yann.md
+price: 0
 technique: ''
 fields: []
 styles: []
+sold: false
+contextual: false
+weight: 0
 dimensions:
   height: null
   width: null
   depth: null
-description: 'Huile sur toile Emile 21 '
-price: 7900
-sold: false
-contextual: true
-weight: 0
 ---
 
