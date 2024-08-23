@@ -14,6 +14,9 @@ styles:
 expose: true
 work: content/works/peron-yannmd-reflets-de-figuier.md
 works:
+  - work: content/works/peron-yannmd-petits-nenuphars.md
+  - work: content/works/peron-yannmd-joncs-et-nenuphars-diptyque-p23-38.md
+  - work: content/works/peron-yannmd-surface-joyeuse-pluie.md
   - work: content/works/peron-yannmd-profondeurs-p22-24.md
   - work: content/works/peron-yannmd-reflets-de-figuier.md
   - work: content/works/peron-yannmd-champs-de-nenuphars.md
