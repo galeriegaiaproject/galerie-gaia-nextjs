@@ -15,6 +15,9 @@ styles:
 expose: true
 work: content/works/tilly-yvesmd-eucalyptus-001.md
 works:
+  - work: content/works/tilly-yvesmd-ndegree1-eucalyptus.md
+  - work: content/works/tilly-yvesmd-ndegree2-eucalyptus-noir.md
+  - work: content/works/tilly-yvesmd-ndegree3-eucalyptus-noir.md
   - work: content/works/tilly-yvesmd-ndegree5-saule.md
   - work: content/works/tilly-yvesmd-ndegree4-eucalyptus.md
   - work: content/works/tilly-yvesmd-ndegree6-eucalyptus.md
