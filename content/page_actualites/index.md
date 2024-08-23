@@ -9,12 +9,6 @@ seo:
     contemporain à Nantes, galerie art contemporain nantes
   image: ''
 articles:
-  - title: Médiathèque de PORNICHET
-    date: 2024-08-26T22:00:00.000Z
-    categories:
-      - Exposition
-    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/Capture dâ\x80\x99eÌ\x81cran 2024-08-08 aÌ\x80 16.38.17.png"
-    content: "Depuis 2021, la Galerie Gaïa accepte l'invitation de la Mairie de Pornichet pour exposer ses artistes.\n\nLa proximité de l'eau et de la nature a provoqué l'envie d'associer le travail du bois avec les sculptures minimalistes de Yves TILLY et les aquarelles de Yann PERON qui innonde ses papiers de surfaces aquatiques et végétales.\n\nYves Tilly : l'artiste crée des rythmes entre le vide et le plein par ces entailles dans le bois encore vert. Avec le temps, le bois se déforme, des ondulations apparaissent. Je ne cherche pas à les guider, je les laisse se révéler.\n\nYann Péron : l'artiste capte les reflets de l'eau, de la rivière, les parfums et les sons qui coulent et respirent comme une onde. Ces instants en extérieur surgissent en atelier comme des souvenirs instantanés où le geste s'émancipe du sujet initial et crée une évocation onirique issue du réel. Aquarelle et bâton d'huile sur papier \n\nHoraires d'ouverture selon les horaires de la médiathèque de Pornichet [ici](https://www.ville-pornichet.fr/galerie-gaia-mediatheque-de-pornichet \"Horaires\")\n\n* mardi - mercredi- samedi : 10h - 12h30 et 15h30 - 18h (vendredi 19H)\n* jeudi de 10h à 14h\_\_ \_\n* \\+ dimanche matin 10H-13H \n"
   - title: FRAGMENTS   PAYSAGES    Tangui Robert
     date: 2020-12-06T11:38:00.000Z
     categories:
@@ -2056,5 +2050,11 @@ articles:
       - Exposition
     image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/le-brusq-jacques/GAIÌ\x88A_A5_J_LE_BRUSQ_RECTO.jpg"
     content: "# Jacques Le Brusq programmation dans Le voyage à Nantes 2024\n\nRencontre avec l’artiste samedi 6 Juillet 16H00\n\n[Programme VAN 2024](https://www.levoyageanantes.fr/evenements/la-presence-des-arbres/ \"voyage à nantes 2024\")\n\n\"La présence des arbres\"\n\n\"Longtemps j'ai vécu en présence des arbres, mais je n'ai pas choisi de peindre des arbres. Je n'ai pas décidé en me disant voilà un beau sujet, je vais faire leur portrait. Ce n'est pas ainsi que cela s'est passé...\".\n\nL’ œuvre de Jacques Le Brusq possède une vibration, une puissance éthérée qui a la force d’une rencontre\namoureuse. Cet instant impalpable intangible et pourtant si vrai. Ses œuvres troublent et font de l’espace pictural, un espace présent, elles disent l’invisible, nous raccrochent au monde, mais surtout elles donnent à voir la peinture. Sa peinture devient autonome, incarnée et n’appartient plus à l’artiste. C’est une invitation magnétique essentielle.\n\n«\_Il n’y a ni perspective, ni dimension, et pourtant les arbres, les plantes, les mousses, les lichens apparaissent plus vrais que nature. Il envisage sa peinture comme le moyen de dépasser les limites du fonctionnement de l’esprit, en se concentrant sur la présence sensible du paysage. Louis Raymond Journaliste\n\nLa sélection présentée à la galerie fait écho à la thématique de l’arbre du VAN 2024, avec entre autre l’installation\nde deux toiles majeures exposées pour la dernière fois au musée de Vannes en 2018.\n\n\_\n\n\_\n\n\_\n"
+  - title: Médiathèque de PORNICHET
+    date: 2024-08-26T22:00:00.000Z
+    categories:
+      - Exposition
+    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/Capture dâ\x80\x99eÌ\x81cran 2024-08-08 aÌ\x80 16.38.17.png"
+    content: "Depuis 2021, la Galerie Gaïa accepte l'invitation de la Mairie de Pornichet pour exposer ses artistes.\n\nLa proximité de l'eau et de la nature a provoqué l'envie d'associer le travail du bois avec les sculptures minimalistes de Yves TILLY et les aquarelles de Yann PERON qui innonde ses papiers de surfaces aquatiques et végétales.\n\nYves Tilly : l'artiste crée des rythmes entre le vide et le plein par ces entailles dans le bois encore vert. Avec le temps, le bois se déforme, des ondulations apparaissent. Je ne cherche pas à les guider, je les laisse se révéler.\n\nYann Péron : l'artiste capte les reflets de l'eau, de la rivière, les parfums et les sons qui coulent et respirent comme une onde. Ces instants en extérieur surgissent en atelier comme des souvenirs instantanés où le geste s'émancipe du sujet initial et crée une évocation onirique issue du réel. Aquarelle et bâton d'huile sur papier \n\nHoraires d'ouverture selon les horaires de la médiathèque de Pornichet [ici](https://www.ville-pornichet.fr/galerie-gaia-mediatheque-de-pornichet \"Horaires\")\n\n* mardi - mercredi- samedi : 10h - 12h30 et 15h30 - 18h (vendredi 19H)\n* jeudi de 10h à 14h\_\_ \_\n* \\+ dimanche matin 10H-13H \n"
 ---
 
