@@ -1,6 +1,6 @@
 ---
-title: Effets de reflets N°4
-reference: 'Peron Yann, Effets de reflets N°4'
+title: Effets de reflets N° 2 P23-37
+reference: 'Peron Yann, Effets de reflets N°2 P23-37'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/peron-yann/galerie-gaia-peron-yann-reflets
   1 P23-37.jpg
@@ -15,4 +15,4 @@ dimensions:
   width: 31
 ---
 
-2023 - encadrement avec réhausse en chêne massif et verre anti-reflet 
+2023 - encadrement avec réhausse en chêne massif et verre anti-reflet
