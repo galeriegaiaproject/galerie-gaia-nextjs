@@ -1,6 +1,6 @@
 ---
 title: N°3 Eucalyptus noir
-reference: 'Tilly Yves, N°3 Eucalyptus'
+reference: 'Tilly Yves, N°3 Eucalyptus noir'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/tilly-yves/galerie-gaia-tilly-yves-NÂ°3
   Euca Noir 53x53x37.jpg
