@@ -8,7 +8,7 @@ seo:
     estampe, photographie, courtier en art, défiscalisation, location, prêt
     avant achat.
 carousel:
-  - work: content/works/tilly-yvesmd-ndegree2-eucalyptus-noir.md
+  - work: content/works/tilly-yvesmd-ndegree1-eucalyptus.md
   - work: content/works/tilly-yvesmd-ndegree2-eucalyptus-noir.md
   - work: content/works/peron-yannmd-reflets-de-figuier.md
   - work: content/works/peron-yannmd-champs-de-nenuphars.md
