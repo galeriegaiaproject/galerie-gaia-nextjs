@@ -4,7 +4,7 @@ reference: 'Estampes, Poincelet Frédéric #4'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/estampes/galerie-gaia-poincelet-frederic-397.jpg
 artist: content/artists/estampes.md
-price: 190
+price: 0
 technique: Sérigraphie Edition en 20 exemplaires
 contextual: true
 dimensions:
@@ -12,4 +12,6 @@ dimensions:
   width: 25
 ---
 
-# Frédéric Poincelet
+# Frédéric POINCELET
+
+Réservée
