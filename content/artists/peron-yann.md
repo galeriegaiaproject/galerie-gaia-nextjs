@@ -23,7 +23,6 @@ works:
   - work: content/works/peron-yannmd-effets-de-reflets-ndegree4.md
   - work: content/works/peron-yannmd-le-havre-a-oudon.md
   - work: content/works/peron-yannmd-boire-dete.md
-  - work: content/works/peron-yann-nenuphars-de-lerdre.md
   - work: content/works/peron-yann-jardin-des-plantes-nantes.md
   - work: content/works/peron-yann-portrait-de-lartiste.md
 exhibitions: []
