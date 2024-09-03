@@ -20,6 +20,9 @@ styles:
 expose: true
 work: content/works/marie-vandoorenmd-neon-vert.md
 works:
+  - work: content/works/marie-vandoorenmd-serie-piscine-1.md
+  - work: content/works/marie-vandoorenmd-serie-piscine-2.md
+  - work: content/works/marie-vandoorenmd-serie-piscine-3.md
   - work: content/works/marie-vandoorenmd-vestige.md
   - work: content/works/marie-vandoorenmd-neon-vert.md
   - work: content/works/marie-vandoorenmd-serie-piscine-5.md
