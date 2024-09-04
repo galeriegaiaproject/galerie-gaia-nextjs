@@ -9,7 +9,9 @@ fields:
 styles:
   - Figuratif
 expose: false
-work: content/works/combas-robert-le-combo-de-combas.md
+work: content/works/combas-robert-dragon-ea-69.md
+works:
+  - work: content/works/combas-robert-dragon-ea-69.md
 exhibitions: []
 ---
 
