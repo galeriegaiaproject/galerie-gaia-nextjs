@@ -1,18 +1,16 @@
 ---
 template: artist
+redirect_from:
+  - /artistes/38-combas/
 title: Combas Robert
 location: ''
 fields:
   - Oeuvre sur papier
-expose: true
-exhibitions: []
-redirect_from:
-  - /artistes/38-combas/
 styles:
   - Figuratif
+expose: false
 work: content/works/combas-robert-le-combo-de-combas.md
-works:
-  - work: content/works/combas-robert-le-combo-de-combas.md
+exhibitions: []
 ---
 
 # Robert Combas
