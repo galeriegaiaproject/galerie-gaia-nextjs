@@ -14,4 +14,4 @@ dimensions:
   depth: 5
 ---
 
-Réservée
+Vendue
