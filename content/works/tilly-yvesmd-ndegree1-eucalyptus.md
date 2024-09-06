@@ -5,7 +5,7 @@ image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/tilly-yves/galerie-gaia-tilly-yves-NÂ°1
   Eucalyptus 35x16x9.JPG
 artist: content/artists/tilly-yves.md
-price: 800
+price: 0
 technique: Sculpture bois d'eucalyptus
 contextual: false
 dimensions:
@@ -14,3 +14,4 @@ dimensions:
   depth: 9
 ---
 
+Vendue
