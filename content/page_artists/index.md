@@ -9,8 +9,7 @@ seo:
   image: ''
 artists:
   - artist: content/artists/galerie-gaia-studio.md
-  - artist: content/artists/tilly-yves.md
-  - artist: content/artists/lux-miranda.md
+  - artist: content/artists/pierre-muckensturm.md
   - artist: content/artists/peron-yann.md
   - artist: content/artists/jacques-le-brusq.md
   - artist: content/artists/estampes.md
@@ -18,6 +17,7 @@ artists:
   - artist: content/artists/leclercq-antoine.md
   - artist: content/artists/caer-anthony.md
   - artist: content/artists/mauger-vincent.md
+  - artist: content/artists/tilly-yves.md
   - artist: content/artists/francoise-paressant-1.md
   - artist: content/artists/elisabeth-wadecki.md
   - artist: content/artists/popet-yves.md
@@ -27,7 +27,6 @@ artists:
   - artist: content/artists/1011.md
   - artist: content/artists/bragoni-daniele.md
   - artist: content/artists/dubreuil.md
-  - artist: content/artists/pierre-muckensturm.md
   - artist: content/artists/toma-l.md
   - artist: content/artists/wu-yuzi.md
   - artist: content/artists/remy-pierre-alexandre.md
@@ -81,5 +80,6 @@ artists:
   - artist: content/artists/adolfo-arenas-alonso.md
   - artist: content/artists/blandin-edwin.md
   - artist: content/artists/wave-week-end-arts-visuels-nantes.md
+  - artist: content/artists/lux-miranda.md
 ---
 
