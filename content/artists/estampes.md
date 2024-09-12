@@ -16,7 +16,6 @@ expose: true
 work: content/works/estampesmd-pincemin-jean-pierre-ndegree-120.md
 works:
   - work: content/works/estampesmd-tabuschi-yasse-ete-hilare.md
-  - work: content/works/estampesmd-tabuschi-yasse-au-loin-la-mer.md
   - work: content/works/estampesmd-pincemin-jean-pierre-ndegree3.md
   - work: content/works/estampesmd-pincemin-jean-pierre-ndegree122.md
   - work: content/works/estampesmd-pincemin-jean-pierre-ndegree-120.md
