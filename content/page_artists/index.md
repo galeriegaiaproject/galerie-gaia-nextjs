@@ -9,11 +9,11 @@ seo:
   image: ''
 artists:
   - artist: content/artists/galerie-gaia-studio.md
+  - artist: content/artists/gouret-eric.md
   - artist: content/artists/pierre-muckensturm.md
   - artist: content/artists/peron-yann.md
   - artist: content/artists/jacques-le-brusq.md
   - artist: content/artists/estampes.md
-  - artist: content/artists/gouret-eric.md
   - artist: content/artists/leclercq-antoine.md
   - artist: content/artists/caer-anthony.md
   - artist: content/artists/mauger-vincent.md
