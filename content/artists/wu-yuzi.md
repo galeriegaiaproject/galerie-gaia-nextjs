@@ -4,7 +4,7 @@ fields:
   - Peinture
 styles:
   - Figuratif
-expose: true
+expose: false
 work: content/works/wu-yuzimd-herbes-folles.md
 works:
   - work: content/works/wu-yuzimd-herbes-folles.md
