@@ -13,7 +13,7 @@ fields:
   - Street art
 styles:
   - Abstrait
-expose: false
+expose: true
 work: content/works/the-blind-je-gueule.md
 works:
   - work: content/works/the-blind-extrait-de-la-serie-jeux-de-societes.md
