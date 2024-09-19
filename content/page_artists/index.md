@@ -12,6 +12,7 @@ artists:
   - artist: content/artists/gouret-eric.md
   - artist: content/artists/pierre-muckensturm.md
   - artist: content/artists/peron-yann.md
+  - artist: content/artists/the-blind.md
   - artist: content/artists/jacques-le-brusq.md
   - artist: content/artists/estampes.md
   - artist: content/artists/leclercq-antoine.md
@@ -61,7 +62,6 @@ artists:
   - artist: content/artists/engels-didier.md
   - artist: content/artists/morellet-francois.md
   - artist: content/artists/marianne-abergel.md
-  - artist: content/artists/the-blind.md
   - artist: content/artists/parrein-pascale.md
   - artist: content/artists/villegle.md
   - artist: content/artists/kazy-usclef.md
