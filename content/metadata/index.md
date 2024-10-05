@@ -17,12 +17,7 @@ menu:
   - page: content/pages/art-et-fiscalite.md
   - page: content/pages/references.md
 caption: Art Contemporain
-announcement: |
-  Nouvel accrochage\
-  Eric Gouret\
-  Pierre Muckensturm
-
-  jusqu'au 28/09
+announcement: ''
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
