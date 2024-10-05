@@ -9,14 +9,6 @@ seo:
     contemporain à Nantes, galerie art contemporain nantes
   image: ''
 articles:
-  - title: Trait Très bien joué
-    date: 2024-10-04T22:00:00.000Z
-    categories:
-      - Exposition
-    image: >-
-      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/gouret
-      eric/galerie-gaia-gouret-eric-Angles3, 2014.jpg
-    content: "\\- TRAIT TRÈS BIEN JOUÉ -\n\nJeux olympiques, rentrée ...comme une une envie de prolonger cette idée du jeu autour du trait avec les esthétiques d'Eric Gouret & Pierre Muckensturm\_qui n'aiment rien d'autre que la fantaisie.\n\nEric Gouret\_expose en exclusivité\_des fragments de son installation du\_parvis du Musée des Arts de Nantes\_issue de la 3ème séquence intitulée\_\"Mauvaises nouvelles des étoiles\".\_\nLa lumière estivale de juillet et août est venue éclairer un abri en forme de tipi recouvert de peintures sur toile, dont les motifs dialoguaient avec les formes des constellations déjà présentes sur les parois vitrées.\n\nPierre MUCKENSTURM artiste historique de la galerie prend toutes les libertés dans ses dessins à l'encre ! Rien de plus joyeux que les désordres organisés selon une règle bien précise, le trait se pose puis part en vrille, mine de rien ...il ne faudrait pas se croire carré !\n"
   - title: FRAGMENTS   PAYSAGES    Tangui Robert
     date: 2020-12-06T11:38:00.000Z
     categories:
@@ -2064,5 +2056,13 @@ articles:
       - Exposition
     image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/Capture dâ\x80\x99eÌ\x81cran 2024-08-08 aÌ\x80 16.38.17.png"
     content: "Depuis 2021, la Galerie Gaïa accepte l'invitation de la Mairie de Pornichet pour exposer ses artistes.\n\nLa proximité de l'eau et de la nature a provoqué l'envie d'associer le travail du bois avec les sculptures minimalistes de Yves TILLY et les aquarelles de Yann PERON qui innonde ses papiers de surfaces aquatiques et végétales.\n\nYves Tilly : l'artiste crée des rythmes entre le vide et le plein par ces entailles dans le bois encore vert. Avec le temps, le bois se déforme, des ondulations apparaissent. Je ne cherche pas à les guider, je les laisse se révéler.\n\nYann Péron : l'artiste capte les reflets de l'eau, de la rivière, les parfums et les sons qui coulent et respirent comme une onde. Ces instants en extérieur surgissent en atelier comme des souvenirs instantanés où le geste s'émancipe du sujet initial et crée une évocation onirique issue du réel. Aquarelle et bâton d'huile sur papier\n\nHoraires d'ouverture selon les horaires de la médiathèque de Pornichet [ici](https://www.ville-pornichet.fr/galerie-gaia-mediatheque-de-pornichet \"Horaires\")\n\n* mardi - mercredi- samedi : 10h - 12h30 et 15h30 - 18h (vendredi 19H)\n* jeudi de 10h à 14h\_\_ \_\n* \\+ dimanche matin 10H-13H\n"
+  - title: Trait Très bien joué
+    date: 2024-10-04T22:00:00.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/gouret
+      eric/galerie-gaia-gouret-eric-Angles3, 2014.jpg
+    content: "\\- TRAIT TRÈS BIEN JOUÉ -\n\nJeux olympiques, rentrée ...comme une une envie de prolonger cette idée du jeu autour du trait avec les esthétiques d'Eric Gouret & Pierre Muckensturm\_qui n'aiment rien d'autre que la fantaisie.\n\nEric Gouret\_expose en exclusivité\_des fragments de son installation du\_parvis du Musée des Arts de Nantes\_issue de la 3ème séquence intitulée\_\"Mauvaises nouvelles des étoiles\".\_\nLa lumière estivale de juillet et août est venue éclairer un abri en forme de tipi recouvert de peintures sur toile, dont les motifs dialoguaient avec les formes des constellations déjà présentes sur les parois vitrées.\n\nPierre MUCKENSTURM artiste historique de la galerie prend toutes les libertés dans ses dessins à l'encre ! Rien de plus joyeux que les désordres organisés selon une règle bien précise, le trait se pose puis part en vrille, mine de rien ...il ne faudrait pas se croire carré !\n"
 ---
 
