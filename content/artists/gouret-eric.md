@@ -12,7 +12,6 @@ works:
   - work: content/works/gouret-ericmd-angles-1.md
   - work: content/works/gouret-ericmd-angles-2.md
   - work: content/works/gouret-ericmd-angles-3.md
-  - work: content/works/gouret-ericmd-les-absorbes-2022b.md
   - work: content/works/gouret-ericmd-les-absorbes-2022a.md
   - work: content/works/gouret-ericmd-les-absorbes-2021a.md
   - work: content/works/gouret-ericmd-les-absorbes-2018a.md
