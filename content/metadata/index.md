@@ -17,7 +17,10 @@ menu:
   - page: content/pages/art-et-fiscalite.md
   - page: content/pages/references.md
 caption: Art Contemporain
-announcement: ''
+announcement: |
+  EXPO PHOTO\
+  Anthony CAER\
+  17 au 31 Octobre
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
