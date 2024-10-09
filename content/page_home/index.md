@@ -8,9 +8,9 @@ seo:
     estampe, photographie, courtier en art, défiscalisation, location, prêt
     avant achat.
 carousel:
+  - work: content/works/tilly-yvesmd-ndegree7-chene.md
   - work: content/works/gouret-ericmd-angles-3.md
   - work: content/works/muckensturm-pierre-2026p3571.md
-  - work: content/works/tilly-yvesmd-ndegree7-chene.md
   - work: content/works/peron-yannmd-champs-de-nenuphars.md
 ---
 
