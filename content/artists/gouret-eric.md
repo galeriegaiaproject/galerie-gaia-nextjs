@@ -7,7 +7,7 @@ fields:
 styles:
   - Abstrait
 expose: true
-work: content/works/gouret-ericmd-enroule-triangle-couleurs.md
+work: content/works/gouret-ericmd-angles-3.md
 works:
   - work: content/works/gouret-ericmd-angles-1.md
   - work: content/works/gouret-ericmd-angles-2.md
