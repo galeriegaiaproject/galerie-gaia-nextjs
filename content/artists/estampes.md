@@ -32,8 +32,6 @@ works:
   - work: content/works/clement-alain-sans-titre-06ma2g.md
   - work: content/works/estampesmd-la-mourre.md
   - work: content/works/estampes-georges-autard-perte-de-sens.md
-  - work: content/works/estampes-herve-di-rosa-le-pecheur.md
-  - work: content/works/estampes-herve-di-rosa-le-promeneur.md
   - work: content/works/estampes-soulie-tony-la-rue-de-la-soie.md
   - work: content/works/estampes-tapies-exposition-galerie-maeght-1975.md
 exhibitions: []
