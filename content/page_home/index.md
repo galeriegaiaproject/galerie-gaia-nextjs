@@ -10,7 +10,6 @@ seo:
 carousel:
   - work: content/works/gouret-ericmd-angles-3.md
   - work: content/works/muckensturm-pierre-2026p3571.md
-  - work: content/works/gouret-ericmd-les-absorbes-2022b.md
   - work: content/works/tilly-yvesmd-ndegree7-chene.md
   - work: content/works/peron-yannmd-champs-de-nenuphars.md
 ---
