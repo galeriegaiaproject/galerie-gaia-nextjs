@@ -9,12 +9,6 @@ seo:
     contemporain à Nantes, galerie art contemporain nantes
   image: ''
 articles:
-  - title: Anthony CAER - GLAZ -
-    date: 2024-10-16T22:00:00.000Z
-    image: >-
-      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/caer-anthony/galerie-gaia-caer-anthonyGLAZ
-      IX - 84x84.jpg
-    content: "La série Glaz d’Anthony CAER nous plonge dans les piscines d’eau de mer de Bretagne, que certains nomment «\_piscines naturelles\_»\_!\n\nL'artiste photographe Anthony CAER joue de cette illusion en dévoilant plus ou moins explicitement ces architectures de béton souvent anguleuses qui disparaissent à chaque marée. Jusqu’à l’absurde avec un plongeoir qui n’est plus qu’une illusion au milieu de l’océan.\n\nGlaz c'est une série de photos épurées presque picturales comme la Galerie Gaïa aime les sectionner pour la Quinzaine Photographique Nantaise.\n\n**Vernissage vendredi 18/10 18:00 Exposition du 17 au 31 Octobre**\n\nLe thème de la 28ème Edition de la QPN est ILLUSION : Voilà presque deux siècles que la photographie nous accompagne en nous permettant d’enregistrer des images fidèles à la réalité. Une fidélité qu’il faut cependant relativiser car des pionniers de la photographie jusqu’aux pratiques les plus contemporaines permises par les technologies du numérique, les photographes jouent souvent les faussaires. L’illusion est dans l’image, jouant de notre confiance, parfois de notre crédulité. Sous différents atours, la tromperie s’immisce dans le document, un monde d’artifices à la fois séduisant et inquiétant.\n"
   - title: FRAGMENTS   PAYSAGES    Tangui Robert
     date: 2020-12-06T11:38:00.000Z
     categories:
@@ -2070,5 +2064,11 @@ articles:
       https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/gouret
       eric/galerie-gaia-gouret-eric-Angles3, 2014.jpg
     content: "\\- TRAIT TRÈS BIEN JOUÉ -\n\nJeux olympiques, rentrée ...comme une une envie de prolonger cette idée du jeu autour du trait avec les esthétiques d'Eric Gouret & Pierre Muckensturm\_qui n'aiment rien d'autre que la fantaisie.\n\nEric Gouret\_expose en exclusivité\_des fragments de son installation du\_parvis du Musée des Arts de Nantes\_issue de la 3ème séquence intitulée\_\"Mauvaises nouvelles des étoiles\".\_\nLa lumière estivale de juillet et août est venue éclairer un abri en forme de tipi recouvert de peintures sur toile, dont les motifs dialoguaient avec les formes des constellations déjà présentes sur les parois vitrées.\n\nPierre MUCKENSTURM artiste historique de la galerie prend toutes les libertés dans ses dessins à l'encre ! Rien de plus joyeux que les désordres organisés selon une règle bien précise, le trait se pose puis part en vrille, mine de rien ...il ne faudrait pas se croire carré !\n"
+  - title: Anthony CAER - GLAZ -
+    date: 2024-10-16T22:00:00.000Z
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/caer-anthony/galerie-gaia-caer-anthonyGLAZ
+      IX - 84x84.jpg
+    content: "La série Glaz d’Anthony CAER nous plonge dans les piscines d’eau de mer de Bretagne, que certains nomment «\_piscines naturelles\_»\_!\n\nL'artiste photographe Anthony CAER joue de cette illusion en dévoilant plus ou moins explicitement ces architectures de béton souvent anguleuses qui disparaissent à chaque marée. Jusqu’à l’absurde avec un plongeoir qui n’est plus qu’une illusion au milieu de l’océan.\n\nGlaz c'est une série de photos épurées presque picturales comme la Galerie Gaïa aime les sectionner pour la Quinzaine Photographique Nantaise.\n\n**Vernissage vendredi 18/10 18:00 Exposition du 17 au 31 Octobre**\n\nLe thème de la 28ème Edition de la QPN est ILLUSION : Voilà presque deux siècles que la photographie nous accompagne en nous permettant d’enregistrer des images fidèles à la réalité. Une fidélité qu’il faut cependant relativiser car des pionniers de la photographie jusqu’aux pratiques les plus contemporaines permises par les technologies du numérique, les photographes jouent souvent les faussaires. L’illusion est dans l’image, jouant de notre confiance, parfois de notre crédulité. Sous différents atours, la tromperie s’immisce dans le document, un monde d’artifices à la fois séduisant et inquiétant.\n"
 ---
 
