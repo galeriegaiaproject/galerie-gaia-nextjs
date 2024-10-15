@@ -9,6 +9,12 @@ seo:
     contemporain à Nantes, galerie art contemporain nantes
   image: ''
 articles:
+  - title: Anthony CAER - GLAZ -
+    date: 2024-10-16T22:00:00.000Z
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/caer-anthony/galerie-gaia-caer-anthonyGLAZ
+      IX - 84x84.jpg
+    content: "La série Glaz d’Anthony CAER nous plonge dans les piscines d’eau de mer de Bretagne, que certains nomment «\_piscines naturelles\_»\_! \n\nL'artiste photographe Anthony CAER joue de cette illusion en dévoilant plus ou moins explicitement ces architectures de béton souvent anguleuses qui disparaissent à chaque marée. Jusqu’à l’absurde avec un plongeoir qui n’est plus qu’une illusion au milieu de l’océan.\n\nGlaz c'est une série de photos épurées presque picturales comme la Galerie Gaïa aime les sectionner pour la Quinzaine Photographique Nantaise.\n\nVernissage vendredi 18/10 18:00 Exposition du 17 au 31 Octobre\n\nLe thème de la 28ème Edition de la QPN est ILLUSION \n\n\n\n\n\n\n\n"
   - title: FRAGMENTS   PAYSAGES    Tangui Robert
     date: 2020-12-06T11:38:00.000Z
     categories:
