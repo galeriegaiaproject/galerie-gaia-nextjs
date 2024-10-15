@@ -7,6 +7,7 @@ styles:
 expose: true
 work: content/works/caer-anthonymd-glaz-ix.md
 works:
+  - work: content/works/caer-anthonymd-glaz-xxiv.md
   - work: content/works/caer-anthonymd-glaz-i.md
   - work: content/works/caer-anthonymd-glaz-ix.md
   - work: content/works/caer-anthonymd-glaz-iv.md
