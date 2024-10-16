@@ -11,4 +11,4 @@ dimensions:
   width: 125
 ---
 
-Cadre caisse américaine en chêne
+Vendu
