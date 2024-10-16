@@ -20,7 +20,7 @@ caption: Art Contemporain
 announcement: |
   EXPO PHOTO\
   Anthony CAER\
-  17 au 31 Octobre
+  vernissage 18-10 18:00
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
