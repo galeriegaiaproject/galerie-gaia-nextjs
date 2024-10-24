@@ -17,6 +17,8 @@ styles:
 expose: true
 work: content/works/laure-carremd-moonlight.md
 works:
+  - work: content/works/laure-carremd-la-fumeuse.md
+  - work: content/works/laure-carremd-sky-inside.md
   - work: content/works/laure-carremd-white-horse.md
   - work: content/works/laure-carremd-blue-jay.md
   - work: content/works/laure-carremd-pas-de-deux.md
