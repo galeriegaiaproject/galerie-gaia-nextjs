@@ -4,7 +4,7 @@ reference: 'Carré Laure, Moonlight'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/carre-laure/galerie-gaia-carre-laure-moonlight-80X65cm-2024.jpg
 artist: content/artists/laure-carre.md
-price: 2200
+price: 2500
 technique: 'Huile sur toile '
 contextual: true
 dimensions:
@@ -12,4 +12,4 @@ dimensions:
   width: 65
 ---
 
-2024
+2024 Caisse américaine blanche
