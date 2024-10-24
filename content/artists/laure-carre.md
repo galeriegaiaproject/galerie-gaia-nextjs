@@ -17,6 +17,7 @@ styles:
 expose: true
 work: content/works/laure-carremd-moonlight.md
 works:
+  - work: content/works/laure-carremd-pink-buste.md
   - work: content/works/laure-carremd-buste-bistre.md
   - work: content/works/laure-carremd-buste-decoupe.md
   - work: content/works/laure-carremd-kitchen-scene.md
