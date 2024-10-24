@@ -5,7 +5,7 @@ image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/carre-laure/galerie-gaia-carre-laure-la
   salle de danse-2023-100X100cm.jpg
 artist: content/artists/laure-carre.md
-price: 2400
+price: 2800
 technique: Huile sur toile
 contextual: true
 dimensions:
