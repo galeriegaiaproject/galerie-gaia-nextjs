@@ -18,9 +18,11 @@ menu:
   - page: content/pages/references.md
 caption: Art Contemporain
 announcement: |
-  EXPO PHOTO\
-  Anthony CAER\
-  vernissage 18-10 18:00
+  PUNCH LINES
+
+  14 Novembre 10 Janvier
+
+  17 artistes exposées
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
