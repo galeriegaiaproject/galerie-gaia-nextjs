@@ -9,60 +9,6 @@ seo:
     contemporain à Nantes, galerie art contemporain nantes
   image: ''
 articles:
-  - title: PUNCH LINES
-    date: 2024-11-13T23:00:00.000Z
-    categories:
-      - Exposition
-    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/GAIÌ\x88A_A5_PUNCHLINES_Recto.jpg"
-    content: >
-      PunchLines - c’est le nouveau rendez-vous que la Galerie Gaïa vous propose
-      pour fêter la fin de l’année.
-
-
-      PunchLines - c’est un foisonnement de nouvelles oeuvres créées
-      spécialement par des artistes de la galerie.
-
-
-      PunchLines - c’est aussi le moment pour découvrir de nouveaux artistes qui
-      font leur entrée dans le catalogue.
-
-
-      PunchLines - c’est toujours la possibilité de retrouver les artistes
-      exposé.e.s dans l’année et dont nous conservons
-
-
-      des pièces dans notre réserve.
-
-
-      Le jeudi 14 novembre sera une soirée à ne pas manquer, l’occasion parfaite
-      pour se retrouver en bonne compagnie
-
-
-      et échanger avec les 17 artistes présents dans votre galerie d’art.
-
-
-      Les habitué.e.s :
-
-
-      1011 - CINDY BELAUD – WILLIAM BYL
-
-
-      LAURE CARRÉ – CLAUDE FRANCHETEAU
-
-
-      ALINE ISOARD – ANTOINE LECLERCQ
-
-
-      BRIGITTE MARIONNEAU – FRANÇOISE PARESSANT
-
-
-      DIMITRI ROUBICHOU – TOMA-L – KAZY USCLEF
-
-
-      MARIE VANDOOREN – EDWIN WIDE
-
-
-      Nouvelles collaborations : KYRIAKOS KAZIRAS & MANON PELLAN
   - title: FRAGMENTS   PAYSAGES    Tangui Robert
     date: 2020-12-06T11:38:00.000Z
     categories:
@@ -2126,5 +2072,59 @@ articles:
       https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/caer-anthony/galerie-gaia-caer-anthonyGLAZ
       IX - 84x84.jpg
     content: "La série Glaz d’Anthony CAER nous plonge dans les piscines d’eau de mer de Bretagne, que certains nomment «\_piscines naturelles\_»\_!\n\nL'artiste photographe Anthony CAER joue de cette illusion en dévoilant plus ou moins explicitement ces architectures de béton souvent anguleuses qui disparaissent à chaque marée. Jusqu’à l’absurde avec un plongeoir qui n’est plus qu’une illusion au milieu de l’océan.\n\nGlaz c'est une série de photos épurées presque picturales comme la Galerie Gaïa aime les sélectionner pour la Quinzaine Photographique Nantaise.\n\n**Vernissage vendredi 18/10 18:00 Exposition du 17 au 31 Octobre**\n\nLe thème de la 28ème Edition de la QPN est ILLUSION : Voilà presque deux siècles que la photographie nous accompagne en nous permettant d’enregistrer des images fidèles à la réalité. Une fidélité qu’il faut cependant relativiser car des pionniers de la photographie jusqu’aux pratiques les plus contemporaines permises par les technologies du numérique, les photographes jouent souvent les faussaires. L’illusion est dans l’image, jouant de notre confiance, parfois de notre crédulité. Sous différents atours, la tromperie s’immisce dans le document, un monde d’artifices à la fois séduisant et inquiétant.\n"
+  - title: PUNCH LINES
+    date: 2024-11-13T23:00:00.000Z
+    categories:
+      - Exposition
+    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/GAIÌ\x88A_A5_PUNCHLINES_Recto.jpg"
+    content: >
+      PunchLines - c’est le nouveau rendez-vous que la Galerie Gaïa vous propose
+      pour fêter la fin de l’année.
+
+
+      PunchLines - c’est un foisonnement de nouvelles oeuvres créées
+      spécialement par des artistes de la galerie.
+
+
+      PunchLines - c’est aussi le moment pour découvrir de nouveaux artistes qui
+      font leur entrée dans le catalogue.
+
+
+      PunchLines - c’est toujours la possibilité de retrouver les artistes
+      exposé.e.s dans l’année et dont nous conservons
+
+
+      des pièces dans notre réserve.
+
+
+      Le jeudi 14 novembre sera une soirée à ne pas manquer, l’occasion parfaite
+      pour se retrouver en bonne compagnie
+
+
+      et échanger avec les 17 artistes présents dans votre galerie d’art.
+
+
+      Les habitué.e.s :
+
+
+      1011 - CINDY BELAUD – WILLIAM BYL
+
+
+      LAURE CARRÉ – CLAUDE FRANCHETEAU
+
+
+      ALINE ISOARD – ANTOINE LECLERCQ
+
+
+      BRIGITTE MARIONNEAU – FRANÇOISE PARESSANT
+
+
+      DIMITRI ROUBICHOU – TOMA-L – KAZY USCLEF
+
+
+      MARIE VANDOOREN – EDWIN WIDE
+
+
+      Nouvelles collaborations : KYRIAKOS KAZIRAS & MANON PELLAN
 ---
 
