@@ -9,6 +9,60 @@ seo:
     contemporain à Nantes, galerie art contemporain nantes
   image: ''
 articles:
+  - title: PUNCH LINES
+    date: 2024-11-13T23:00:00.000Z
+    categories:
+      - Exposition
+    image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/GAIÌ\x88A_A5_PUNCHLINES_Recto.jpg"
+    content: >
+      PunchLines - c’est le nouveau rendez-vous que la Galerie Gaïa vous propose
+      pour fêter la fin de l’année.
+
+
+      PunchLines - c’est un foisonnement de nouvelles oeuvres créées
+      spécialement par des artistes de la galerie.
+
+
+      PunchLines - c’est aussi le moment pour découvrir de nouveaux artistes qui
+      font leur entrée dans le catalogue.
+
+
+      PunchLines - c’est toujours la possibilité de retrouver les artistes
+      exposé.e.s dans l’année et dont nous conservons
+
+
+      des pièces dans notre réserve.
+
+
+      Le jeudi 14 novembre sera une soirée à ne pas manquer, l’occasion parfaite
+      pour se retrouver en bonne compagnie
+
+
+      et échanger avec les 17 artistes présents dans votre galerie d’art.
+
+
+      Les habitué.e.s :
+
+
+      1011 - CINDY BELAUD – WILLIAM BYL
+
+
+      LAURE CARRÉ – CLAUDE FRANCHETEAU
+
+
+      ALINE ISOARD – ANTOINE LECLERCQ
+
+
+      BRIGITTE MARIONNEAU – FRANÇOISE PARESSANT
+
+
+      DIMITRI ROUBICHOU – TOMA-L – KAZY USCLEF
+
+
+      MARIE VANDOOREN – EDWIN WIDE
+
+
+      Nouvelles collaborations : KYRIAKOS KAZIRAS & MANON PELLAN
   - title: FRAGMENTS   PAYSAGES    Tangui Robert
     date: 2020-12-06T11:38:00.000Z
     categories:
