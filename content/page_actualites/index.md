@@ -2065,7 +2065,7 @@ articles:
       eric/galerie-gaia-gouret-eric-Angles3, 2014.jpg
     content: "\\- TRAIT TRÈS BIEN JOUÉ -\n\nJeux olympiques, rentrée ...comme une une envie de prolonger cette idée du jeu autour du trait avec les esthétiques d'Eric Gouret & Pierre Muckensturm\_qui n'aiment rien d'autre que la fantaisie.\n\nEric Gouret\_expose en exclusivité\_des fragments de son installation du\_parvis du Musée des Arts de Nantes\_issue de la 3ème séquence intitulée\_\"Mauvaises nouvelles des étoiles\".\_\nLa lumière estivale de juillet et août est venue éclairer un abri en forme de tipi recouvert de peintures sur toile, dont les motifs dialoguaient avec les formes des constellations déjà présentes sur les parois vitrées.\n\nPierre MUCKENSTURM artiste historique de la galerie prend toutes les libertés dans ses dessins à l'encre ! Rien de plus joyeux que les désordres organisés selon une règle bien précise, le trait se pose puis part en vrille, mine de rien ...il ne faudrait pas se croire carré !\n"
   - title: Anthony CAER - GLAZ -
-    date: 2024-10-16T22:00:00.000Z
+    date: 2024-11-05T23:00:00.000Z
     categories:
       - Exposition
     image: >-
