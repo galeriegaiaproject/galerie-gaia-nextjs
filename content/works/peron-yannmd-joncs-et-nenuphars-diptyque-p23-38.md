@@ -15,4 +15,4 @@ dimensions:
   width: 180
 ---
 
-Diptyque Deux supports de format 116 H X90 L
+Vendu
