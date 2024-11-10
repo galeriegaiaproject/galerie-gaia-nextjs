@@ -25,8 +25,6 @@ works:
   - work: content/works/tilly-yvesmd-ndegree8-eucalyptus.md
   - work: content/works/tilly-yvesmd-ndegree9-frene.md
   - work: content/works/tilly-yvesmd-eucalyptus-001.md
-  - work: content/works/tilly-yvesmd-petit-eucalyptus.md
-  - work: content/works/tilly-yvesmd-pommier.md
 exhibitions:
   - title: 'Galerie Cécile Loiret '
     location: Vannes
