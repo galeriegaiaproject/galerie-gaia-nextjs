@@ -15,7 +15,7 @@ fields:
 styles:
   - Figuratif
 expose: true
-work: content/works/toma-lmd-type-flash-2022031501.md
+work: content/works/toma-lmd-wood-press.md
 works:
   - work: content/works/toma-lmd-wood-press.md
   - work: content/works/toma-lmd-encre-noir-et-blanc-05.md
