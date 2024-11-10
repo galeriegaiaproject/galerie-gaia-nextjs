@@ -8,6 +8,7 @@ seo:
     de découvrir de nombreux artistes contemporains internationaux.
   image: ''
 artists:
+  - artist: content/artists/alain-clement.md
   - artist: content/artists/galerie-gaia-studio.md
   - artist: content/artists/gouret-eric.md
   - artist: content/artists/pierre-muckensturm.md
