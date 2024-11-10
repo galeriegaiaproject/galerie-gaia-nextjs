@@ -22,7 +22,6 @@ works:
   - work: content/works/tilly-yvesmd-ndegree4-eucalyptus.md
   - work: content/works/tilly-yvesmd-ndegree6-eucalyptus.md
   - work: content/works/tilly-yvesmd-ndegree7-chene.md
-  - work: content/works/tilly-yvesmd-ndegree8-eucalyptus.md
   - work: content/works/tilly-yvesmd-ndegree9-frene.md
   - work: content/works/tilly-yvesmd-eucalyptus-001.md
 exhibitions:
