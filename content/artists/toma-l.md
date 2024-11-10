@@ -17,6 +17,10 @@ styles:
 expose: true
 work: content/works/toma-lmd-type-flash-2022031501.md
 works:
+  - work: content/works/toma-lmd-wood-press.md
+  - work: content/works/toma-lmd-encre-noir-et-blanc-05.md
+  - work: content/works/toma-lmd-type-flash-20211113012.md
+  - work: content/works/toma-lmd-type-flash-2021111301.md
   - work: content/works/toma-lmd-type-flash-2022031501.md
   - work: content/works/toma-lmd-type-flash-202112002.md
   - work: content/works/toma-lmd-portfolio-projet-toma-l.md
