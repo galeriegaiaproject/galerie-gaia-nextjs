@@ -15,6 +15,7 @@ styles:
 expose: true
 work: content/works/isoard-aline-station-12-2016.md
 works:
+  - work: content/works/aline-isoardmd-fenetre-sur-route-18-2019.md
   - work: content/works/aline-isoardmd-station-8-2022.md
   - work: content/works/aline-isoardmd-pont-1-2024.md
   - work: content/works/aline-isoardmd-fenetre-sur-route-10-20222.md
