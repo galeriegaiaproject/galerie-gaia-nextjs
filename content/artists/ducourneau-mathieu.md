@@ -7,6 +7,8 @@ styles:
 birth: '1965'
 ---
 
+# Kyriakos Kaziras
+
 Kyriakos Kaziras est un photographe professionnel, franco-grec, vivant en France.
 
 Né en Grèce, il est très tôt passionné de photographie et de peinture, grâce à l'influence de ses deux grands-pères, l'un peintre et l'autre passionné de photographie.
