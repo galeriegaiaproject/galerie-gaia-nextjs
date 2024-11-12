@@ -15,6 +15,7 @@ styles:
 expose: true
 work: content/works/isoard-aline-station-12-2016.md
 works:
+  - work: content/works/aline-isoardmd-station-3.md
   - work: content/works/isoard-aline-fenetre-sur-route-3-2020.md
   - work: content/works/isoard-aline-habitants-sur-route-5-2021.md
   - work: content/works/isoard-aline-les-objets-10-2020.md
