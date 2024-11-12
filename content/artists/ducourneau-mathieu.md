@@ -1,22 +1,26 @@
 ---
-title: Ducourneau Mathieu
+title: 'Kaziras Kyriakos '
 fields:
-  - Textile
-  - Peinture
+  - Photographie
 styles:
   - Figuratif
 birth: '1965'
 ---
 
+Kyriakos Kaziras est un photographe professionnel, franco-grec, vivant en France.
 
-"Mathieu Ducournau joue avec le figuratif et l’abstraction. Artiste atypique, il choisit le fil comme medium privilégié de son expression artistique. Que ce fil soit malmené par sa machine à coudre ou qu’il virevolte librement jusqu’à la toile, comme une broderie, le fil est conducteur, le révélateur d’une ligne, d’un regard, d’un sourire...
+Né en Grèce, il est très tôt passionné de photographie et de peinture, grâce à l'influence de ses deux grands-pères, l'un peintre et l'autre passionné de photographie.
 
-D’une part, il y a les topographies, qui sont comme des reliefs abstraits où chacun peut apercevoir ce qu’il souhaite y voir... et d’autre part, les portraits. La thématique du portrait s’inscrit dans une tradition picturale mais petit à petit, le motif va migrer, se détacher, tel un Suaire contemporain ! Avec la série des Anonymes, l’artiste transfigure chaque détail, jusqu’à faire ressortir la personnalité du modèle. Puis l’artiste poursuit l’exploration de la représentation du portrait à travers les époques, avec quelques grandes figures de la mémoire collective. De Velázquez, à Vinci, de Rembrandt au Greco, en passant par l’icône contemporaine par excellence : l’émoticône.
+A 16 ans, il part vivre avec ses parents à Genève où il apprend la langue française. Il s’installe ensuite en France où il étudie la littérature française à la Sorbonne. Lors de son premier voyage en Afrique Australe, il tombe amoureux des étendues sauvages, des lumières et des animaux. Il n’aura de cesse, depuis lors, de sillonner les coins les plus reculés de la planète, des plaines africaines aux terres polaires. Pourtant, il ne se considère ni comme un aventurier ni comme un explorateur. Tout son travail est préparé minutieusement en amont comme un story-board.
 
-Les références et les hommages défilent. Tels des mirages, ces portraits nous transportent par leur présence si particulière, presque fantomatique. Portraits du souvenir, ce n’est plus nous qui regardons la Joconde ou la Ménine, mais elles qui nous regardent. Les fils utilisés comme une peinture sèche, en se mêlant, en se superposant, font apparaître ces visages comme s’ils étaient en trois dimensions. D’apparence plus floue, ils n’en deviennent que plus réels, plus vivants !
+Chacune de ses photographies est un tableau jouant sur les ombres et les lumières. Il reconnaît volontiers avoir été enthousiasmé par le film Heimat d’Edgar Reitz, dont chaque plan a été composé comme une photographie. 
 
-Mathieu Ducournau est né au Maroc, il vit et travaille à Paris. Artiste intuitif et hors norme, il explore seul les possibilités de la peinture avant de rencontrer le fils et le potentiel de la machine à coudre. Il expose régulièrement depuis 1996, et collabore également avec des Maisons de Luxe françaises telles que Taillardat ou Hermès." 
+Kyriakos Kaziras is a professional photographer, Greek and French, now living in France.
 
-Amélie Margot Chevalier, Directrice artistique de la Galerie Chevalier
+Born in Greece, his passion for photography and painting began at an early age, thanks to the influence of his two
+grandfathers, one an artist and the other a keen amateur photographer. His family moved to Geneva when he was 16, where he learned French. He then move to France, where he studied French literature at the Sorbonne.
+
+During his first trip to southern Africa, he fell in love with the immensity of the veldt, the light and the animals. Since then he has never stopped travelling to most remote corners of the planet, from African plains to polar regions. Yet he does not consider himself an adventurer or an explorer. All his work is carefully prepared upstream as a storyboard. Each of his photographs is a painting playing on shadows and lights. He gladly acknowledges being enthusiastic about the film Heimat by Edgar Reitz, whose every shot was composed as a photograph. 
+
 
 
