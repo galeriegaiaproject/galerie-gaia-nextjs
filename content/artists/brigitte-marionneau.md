@@ -19,10 +19,6 @@ work: content/works/brigitte-marionneaumd-contenir-le-vent-10-iv.md
 works:
   - work: content/works/brigitte-marionneaumd-contenir-le-vent-10-iv.md
   - work: content/works/brigitte-marionneaumd-contenir-le-vent-serie-6-vii.md
-  - work: content/works/brigitte-marionneaumd-contenir-le-vent-9xi.md
-  - work: content/works/brigitte-marionneaumd-contenir-le-vent-12-iii.md
-  - work: content/works/brigitte-marionneaumd-contenir-le-vent-12-xi.md
-  - work: content/works/brigitte-marionneaumd-contenir-le-vent-15-iii.md
   - work: content/works/brigitte-marionneaumd-contenir-le-vent-8-xi-7-xi.md
   - work: content/works/marionneau-brigitte-le-geste.md
   - work: content/works/marionneau-brigitte-portrait-brigitte-marionneau.md
