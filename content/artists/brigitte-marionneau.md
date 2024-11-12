@@ -23,10 +23,6 @@ works:
   - work: content/works/marionneau-brigitte-le-geste.md
   - work: content/works/marionneau-brigitte-portrait-brigitte-marionneau.md
 exhibitions:
-  - title: Amélie Maison d'art
-    location: Paris
-    start: Artiste permanent
-    end: ''
   - title: Modern Shapes Gallery
     location: Anvers
     start: 'Artiste permanent '
