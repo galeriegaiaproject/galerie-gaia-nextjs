@@ -9,7 +9,7 @@ fields:
 styles:
   - Figuratif
 expose: true
-work: content/works/claude-francheteaumd-sky-027-ile-dyeu.md
+work: content/works/claude-francheteaumd-sky-007.md
 works:
   - work: content/works/claude-francheteaumd-sky-025-auvers-sur-oise.md
   - work: content/works/claude-francheteaumd-sky-007.md
