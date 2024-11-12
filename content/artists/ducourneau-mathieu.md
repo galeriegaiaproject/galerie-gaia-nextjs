@@ -1,4 +1,12 @@
 ---
+seo:
+  title: Kyriakos KAZIRAS
+  heading: Photographe artistique animalier Kyriakos KAZIRAS
+  type: article
+  description: >-
+    Kyriakos Kaziras Kyriakos Kaziras est un photographe professionnel,
+    franco-grec, vivant en France et réputé pour ses somptueuses images
+    artistiques animalières
 title: 'Kaziras Kyriakos '
 fields:
   - Photographie
