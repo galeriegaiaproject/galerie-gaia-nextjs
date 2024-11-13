@@ -7,8 +7,11 @@ image: >-
 artist: content/artists/wu-yuzi.md
 technique: Photographie tirage numérique contrecollé sur dibon
 contextual: true
+dimensions:
+  height: 60
+  width: 90
 ---
 
 Edition 16 exemplaires signés numérotés
 
-4 Formats disponibles - Prix sur demande 
+4 Formats disponibles - Prix sur demande
