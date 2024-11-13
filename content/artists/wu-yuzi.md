@@ -4,7 +4,7 @@ fields:
   - Photographie
 styles:
   - Figuratif
-expose: false
+expose: true
 work: content/works/wu-yuzimd-you-dont-know.md
 works:
   - work: content/works/wu-yuzimd-soul-of-artic.md
