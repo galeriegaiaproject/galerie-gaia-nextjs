@@ -1,5 +1,5 @@
 ---
-title: Kaziras Kyriakos
+title: 'Kaziras Kyriakos '
 fields:
   - Photographie
 styles:
