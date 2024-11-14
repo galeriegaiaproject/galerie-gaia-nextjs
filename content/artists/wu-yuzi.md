@@ -13,8 +13,6 @@ works:
   - work: content/works/wu-yuzimd-remember-you.md
   - work: content/works/wu-yuzimd-lost-in-ice.md
   - work: content/works/wu-yuzimd-le-dormeur-du-nord.md
-exhibitions:
-  - {}
 ---
 
 # Kyriakos Kaziras
