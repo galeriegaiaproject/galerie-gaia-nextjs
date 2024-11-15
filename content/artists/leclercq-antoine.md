@@ -15,7 +15,7 @@ fields:
 styles:
   - Abstrait
 expose: true
-work: content/works/leclercq-antoinemd-anchor.md
+work: content/works/leclercq-antoinemd-shelter.md
 works:
   - work: content/works/leclercq-antoinemd-shelter.md
   - work: content/works/leclercq-antoinemd-portfolio-projet-antoine-leclercq.md
