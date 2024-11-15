@@ -11,6 +11,9 @@ styles:
 expose: true
 work: content/works/claude-francheteaumd-sky-007.md
 works:
+  - work: content/works/claude-francheteaumd-jardin-001.md
+  - work: content/works/claude-francheteaumd-jardin-002.md
+  - work: content/works/claude-francheteaumd-jardin-003.md
   - work: content/works/claude-francheteaumd-sky-025-auvers-sur-oise.md
   - work: content/works/claude-francheteaumd-sky-007.md
   - work: content/works/claude-francheteaumd-ciel-2066-bretagne.md
