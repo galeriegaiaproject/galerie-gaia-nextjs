@@ -15,7 +15,7 @@ fields:
 styles:
   - Figuratif
 expose: true
-work: content/works/laure-carremd-moonlight.md
+work: content/works/laure-carremd-la-fumeuse.md
 works:
   - work: content/works/laure-carremd-sans-les-mains.md
   - work: content/works/laure-carremd-cow-boy.md
@@ -30,7 +30,6 @@ works:
   - work: content/works/laure-carremd-blue-jay.md
   - work: content/works/laure-carremd-pas-de-deux.md
   - work: content/works/laure-carremd-petit-salon.md
-  - work: content/works/laure-carremd-moonlight.md
   - work: content/works/laure-carremd-la-salle-de-danse.md
   - work: content/works/laure-carremd-cheval-en-tete.md
   - work: content/works/carre-laure-blue-boxer.md
