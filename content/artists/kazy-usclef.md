@@ -10,12 +10,10 @@ fields:
 styles:
   - Figuratif
 expose: true
-work: content/works/kazy-usclef-le-masque.md
+work: content/works/kazy-usclefmd-sans-titre-femme.md
 works:
   - work: content/works/kazy-usclefmd-sans-titre-femme.md
   - work: content/works/kazy-usclefmd-sans-titre-chien.md
-  - work: content/works/kazy-usclef-la-danse-des-couteaux.md
-  - work: content/works/kazy-usclef-la-sieste.md
   - work: content/works/kazy-usclef-le-masque.md
 exhibitions:
   - title: 'http://asieriderz.com/?p=940'
