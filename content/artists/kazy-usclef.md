@@ -1,11 +1,22 @@
 ---
 template: artist
+redirect_from:
+  - /artistes/48-kazy-usclef/
 title: Kazy Usclef
 location: ''
 fields:
   - Peinture
   - Street art
+styles:
+  - Figuratif
 expose: true
+work: content/works/kazy-usclef-le-masque.md
+works:
+  - work: content/works/kazy-usclefmd-sans-titre-femme.md
+  - work: content/works/kazy-usclefmd-sans-titre-chien.md
+  - work: content/works/kazy-usclef-la-danse-des-couteaux.md
+  - work: content/works/kazy-usclef-la-sieste.md
+  - work: content/works/kazy-usclef-le-masque.md
 exhibitions:
   - title: 'http://asieriderz.com/?p=940'
     location: ASIE RIDERZ Voyage à Nantes 2015
@@ -15,15 +26,6 @@ exhibitions:
     location: Le Voyage à Nantes 2014
     start: '0'
     end: null
-redirect_from:
-  - /artistes/48-kazy-usclef/
-styles:
-  - Figuratif
-work: content/works/kazy-usclef-le-masque.md
-works:
-  - work: content/works/kazy-usclef-la-danse-des-couteaux.md
-  - work: content/works/kazy-usclef-la-sieste.md
-  - work: content/works/kazy-usclef-le-masque.md
 ---
 
 # Kazy Usclef
