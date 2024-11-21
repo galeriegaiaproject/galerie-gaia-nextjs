@@ -12,7 +12,7 @@ styles:
   - Figuratif
   - Abstrait
 expose: true
-work: content/works/edwin-widemd-081024-13h40.md
+work: content/works/edwin-wide-donnart-bal-angers-3.md
 works:
   - work: content/works/edwin-widemd-081024-13h40.md
   - work: content/works/edwin-widemd-bal-dangers-3.md
