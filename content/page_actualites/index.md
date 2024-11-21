@@ -2078,12 +2078,19 @@ articles:
       - Exposition
     image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/GAIÌ\x88A_A5_PUNCHLINES_Recto.jpg"
     content: >
+      Exposition jusqu'au 10 Janvier 
+
+
+      Galerie Gaïa ouverte tous les dimanches après-midi de décembre à partir de
+      15H
+
+
       PunchLines - c’est le nouveau rendez-vous que la Galerie Gaïa vous propose
       pour fêter la fin de l’année.
 
 
-      PunchLines - c’est un foisonnement de nouvelles oeuvres créées
-      spécialement par des artistes de la galerie.
+      PunchLines - c’est un foisonnement de nouvelles œuvres créées spécialement
+      par des artistes de la galerie.
 
 
       PunchLines - c’est aussi le moment pour découvrir de nouveaux artistes qui
