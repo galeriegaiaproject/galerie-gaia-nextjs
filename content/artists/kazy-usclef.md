@@ -14,7 +14,6 @@ work: content/works/kazy-usclefmd-sans-titre-chien.md
 works:
   - work: content/works/kazy-usclefmd-femme-papier.md
   - work: content/works/kazy-usclefmd-femme-toile.md
-  - work: content/works/kazy-usclefmd-sans-titre-femme.md
   - work: content/works/kazy-usclefmd-sans-titre-chien.md
   - work: content/works/kazy-usclef-le-masque.md
 exhibitions:
