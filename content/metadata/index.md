@@ -20,9 +20,9 @@ caption: Art Contemporain
 announcement: |
   PUNCH LINES
 
-  14 Novembre 10 Janvier
+  jusqu'au 10 Janvier
 
-  17 artistes exposées
+  Collective
 opening: |-
   Mardi & Mercredi 15h à 19h -
   Jeudi au Samedi 11h à 19h
