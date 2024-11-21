@@ -1,6 +1,6 @@
 ---
-title: Bal d'Angers N°3
-reference: 'Wide Donnart Edwin, Bal d''Angers N°3'
+title: Bal d'Angers N°4
+reference: 'Wide Donnart Edwin, Bal d''Angers N°4'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/edwin-wide-donnart/galerie-gaia-wide-edwin-BalAngers3-146x114.jpg
 artist: content/artists/edwin-wide.md
