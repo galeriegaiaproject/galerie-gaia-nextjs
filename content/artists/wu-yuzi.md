@@ -17,7 +17,9 @@ works:
 
 # Kyriakos Kaziras
 
-Kyriakos Kaziras est un photographe professionnel, franco-grec, vivant en France.
+2024 Triple médaillé par reFocus Awards : médaille d'or série Wildlife et médaille de bronze série Black & White Photo Contest pour "Half Brothers". Médaille d'argent pour "Arctic reflections". Médaille de bronze pour "The moment I saw you".
+
+Kyriakos Kaziras est un photographe professionnel, franco-grec, installé à  (Nantes)
 Né en Grèce, il est très tôt passionné de photographie et de peinture, grâce à l'influence de ses deux grands-pères, l'un peintre et l'autre passionné de photographie.
 
 À 16 ans, il part vivre avec ses parents à Genève où il apprend la langue française. Il s’installe ensuite en France où il étudie la littérature française à la Sorbonne.
@@ -26,7 +28,9 @@ Lors de son premier voyage en Afrique Australe, il tombe amoureux des étendues 
 
 Chacune de ses photographies est un tableau jouant sur les ombres et les lumières. Il reconnaît volontiers avoir été enthousiasmé par le film Heimat d’Edgar Reitz, dont chaque plan a été composé comme une photographie.
 
-Kyriakos Kaziras is a professional photographer, Greek and French, now living in France.
+Kyriakos Kaziras is a professional photographer, Greek and French, now living in France à Nantes.
+
+2024 Three Awards by reFocus Awards : Gold Award catégory Wildlife &  bronze award category Black & White Photo Contest to "Half Brothers". Silver award to"Arctic reflections".  Bronze award to  "The moment I saw you".
 
 Born in Greece, his passion for photography and painting began at an early age, thanks to the influence of his two
 grandfathers, one an artist and the other a keen amateur photographer. His family moved to Geneva when he was 16, where he learned French. He then move to France, where he studied French literature at the Sorbonne. During his first trip to southern Africa, he fell in love with the immensity of the veldt, the light and the animals. Since then he has never stopped travelling to most remote corners of the planet, from African plains to polar regions. Yet he does not consider himself an adventurer or an explorer. All his work is carefully prepared upstream as a storyboard.
