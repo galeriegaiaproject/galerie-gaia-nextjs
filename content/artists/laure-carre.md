@@ -17,6 +17,7 @@ styles:
 expose: true
 work: content/works/laure-carremd-la-fumeuse.md
 works:
+  - work: content/works/laure-carremd-composition-sur-cheminee.md
   - work: content/works/laure-carremd-sans-les-mains.md
   - work: content/works/laure-carremd-cow-boy.md
   - work: content/works/laure-carremd-pink-day.md
