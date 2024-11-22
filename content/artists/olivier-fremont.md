@@ -10,7 +10,7 @@ fields:
 styles:
   - Abstrait
 expose: true
-work: content/works/olivier-fremontmd-sans-titre-tole-froissee-2023.md
+work: content/works/fremont-olivier-nuage.md
 works:
   - work: content/works/olivier-fremontmd-portfolio-projet-olivier-fremont.md
   - work: content/works/olivier-fremontmd-sans-titre-tole-froissee-2023.md
