@@ -17,23 +17,7 @@ content:
     contact:
       placeholder: Poser une question sur l'appel à candidature Fond Dotation Karma
       display: true
-  - column: >
-      ![](<https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/galerie
-      gaia - hotel montalembert-entree-003.jpg> "hotel montalembert")
-
-
-      ![](<https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/galerie
-      gaia - hotel montalembert-Montalembert.jpeg> "hotel montalembert")
-
-
-      ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/capture-decran-2023-03-10-a-154611.jpg)
-
-
-      Œuvre de Manuel Merida installée dans le hall de l'Hôtel Montalembert
-      Paris
-
-
-      [https://bsignaturehotels.com/fr/#](https://bsignaturehotels.com/fr/#)
+  - column: "![](<https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/Capture dâ\x80\x99eÌ\x81cran 2024-11-22 aÌ\x80 15.45.01.png>)![](<https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/actualites/Capture dâ\x80\x99eÌ\x81cran 2024-11-22 aÌ\x80 15.45.25.png>)\n"
     contact:
       placeholder: Un message à nous adresser ?
 ---
