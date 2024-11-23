@@ -21,8 +21,6 @@ about: |
 
 ## Galerie Gaïa une galerie d'art contemporain à Nantes
 
-![](<https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/Capture dâeÌcran 2023-04-11 aÌ 18.08.53.png>)
-
 La **Galerie Gaïa** poursuit l’aventure d’un lieu d’art crée en **1978** à proximité de l’ ex École des Beaux-Arts située en plein **cœur de la ville de Nantes** dans le quartier Hôtel de Ville - Decré.
 
 **La Galerie Gaïa fondée en** **2015** par **Elisabeth Givre** est un lieu qui questionne et redéfinit la création contemporaine en perpétuelle évolution. On y fait des choix exigeants, éclectiques et ambitieux. La galerie décloisonne et expérimente, elle oblige à concevoir l’art contemporain et ses acteurs d’une manière nouvelle et multiple. **En 2022 Inès Ben Brahim** rejoint la galerie avec son expertise, diplômée d'un double master en "Critique et Esthétique des arts" et en "recherche et Histoire de l'art".
