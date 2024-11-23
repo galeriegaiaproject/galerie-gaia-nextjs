@@ -19,7 +19,7 @@ works:
 exhibitions: []
 ---
 
-## Jacqueline Pecantet
+## Jacqueline Pécantet
 
 > De multiples techniques pour représenter la terre
 
