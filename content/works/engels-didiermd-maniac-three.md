@@ -13,4 +13,4 @@ dimensions:
   width: 120
 ---
 
-Format possible 140X140 6500€
+Prix sur demande
