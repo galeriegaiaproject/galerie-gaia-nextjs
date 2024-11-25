@@ -5,7 +5,7 @@ image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/engels-didier/galerie-gaia-didier-engels-another
   one in the wall.jpeg
 artist: content/artists/engels-didier.md
-price: 5200
+price: 0
 technique: Photographie
 contextual: true
 dimensions:
@@ -13,4 +13,4 @@ dimensions:
   width: 120
 ---
 
-Tirage sur aluminium dibond et couches d'epoxy - 8 exemplaires 
+Tirage sur aluminium dibond et couches d'epoxy - 8 exemplaires
