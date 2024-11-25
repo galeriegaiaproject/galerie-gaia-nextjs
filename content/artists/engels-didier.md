@@ -38,6 +38,9 @@ exhibitions: []
 
 # Engels Didier
 
+Les tirages sont limités à 8 exemplaires et 4 EA et dans 2 ou 3 formats possibles. quelque soit le format. \
+Les formats et prix sont disponibles sur demande. Ce sont des tirages papiers sous epoxy encadrés dans une caisse américaine en bois.
+
 [Visionner le Film](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ "didier engels")
 
 La passion de Didier Engels pour les ports et les docks à travers l'Europe l'a amené à donner une expression photographique à ce monde, tout en conservant son œil pour la matière, héritage de sa formation textile.
