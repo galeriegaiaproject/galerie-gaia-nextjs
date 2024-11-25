@@ -5,7 +5,7 @@ image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/engels-didier/galerie-gaia-didier-engels-little
   compo five.jpeg
 artist: content/artists/engels-didier.md
-price: 1750
+price: 0
 technique: Photographie
 contextual: true
 dimensions:
