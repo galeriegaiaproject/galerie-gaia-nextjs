@@ -4,7 +4,7 @@ reference: 'Engels Didier, The cranman'
 image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/engels-didier/galerie-gaia-engels-didier-the-creaneman.jpg
 artist: content/artists/engels-didier.md
-price: 4750
+price: 0
 technique: 'Photographie tirage papier fine art mat '
 contextual: true
 dimensions:
@@ -12,4 +12,4 @@ dimensions:
   width: 80
 ---
 
-Encadrement caisse américaine 
+Encadrement caisse américaine
