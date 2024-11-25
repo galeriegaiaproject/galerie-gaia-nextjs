@@ -5,7 +5,7 @@ image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/engels-didier/galerie-gaia-didier-engels-the
   green one.jpeg
 artist: content/artists/engels-didier.md
-price: 5600
+price: 0
 technique: Photographie
 contextual: true
 dimensions:
