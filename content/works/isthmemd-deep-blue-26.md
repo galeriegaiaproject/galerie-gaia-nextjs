@@ -5,7 +5,7 @@ image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/isthme/galerie-gaia- 
   20 Deepblue-146X114cm-acrilique sur toile-2024.jpg
 artist: content/artists/isthme.md
-price: 3900
+price: 0
 technique: 'Acrylique sur toile '
 contextual: true
 dimensions:
@@ -13,4 +13,4 @@ dimensions:
   width: 114
 ---
 
-2024
+Réservé
