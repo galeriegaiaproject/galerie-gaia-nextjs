@@ -9,11 +9,6 @@ seo:
     contemporain à Nantes, galerie art contemporain nantes
   image: ''
 articles:
-  - title: Exposition Kyriakos Kazyras
-    date: 2024-11-27T23:00:00.000Z
-    categories:
-      - Exposition
-    content: "KYRIAKOS KAZYRAS \\\nPHOTOGRAPHIE ARTISTIQUE ANIMALIÈRE\n==================================\n\nExposition exceptionnelle sur 4 Jours\nJeudi 28 Novembre au Dimanche 1er Décembre\n\nVERNISSAGE Jeudi\_28\_Novembre 18:00\n\nExposition exceptionnelle du photographe franco-grec et nantais Kyriakos Kaziras.\nTriple lauréat de reFocus Awards 2024.\n\n\"La beauté, la douceur, la fragilité du monde sont mes sources éternelles d’inspiration. J’aime le travail sur la lumière et la matière. Le blanc des ours sur le blanc de la neige, le pelage d’une panthère noir dans la nuit… Le noir et blanc permet de se recentrer sur l’essentiel et favorise le jeu des matières.\"\n\n+2 Séances de dédicaces\_en exclusivité de \"A\\_\\_ by Kaziras\"\_ tome II dédié au guépard, léopard et panthère noire.\nSamedi\_30\_Novembre 15:00 & Dimanche\_1er\_Décembre 15:00\n\n\n"
   - title: FRAGMENTS   PAYSAGES    Tangui Robert
     date: 2020-12-06T11:38:00.000Z
     categories:
@@ -2138,5 +2133,10 @@ articles:
 
 
       Nouvelles collaborations : KYRIAKOS KAZIRAS & MANON PELLAN
+  - title: Exposition Kyriakos Kazyras
+    date: 2024-11-27T23:00:00.000Z
+    categories:
+      - Exposition
+    content: "KYRIAKOS KAZYRAS \\\nPHOTOGRAPHIE ARTISTIQUE ANIMALIÈRE\n==================================\n\nExposition exceptionnelle sur 4 Jours\nJeudi 28 Novembre au Dimanche 1er Décembre\n\nVERNISSAGE Jeudi\_28\_Novembre 18:00\n\nExposition exceptionnelle du photographe franco-grec et nantais Kyriakos Kaziras.\nTriple lauréat de reFocus Awards 2024.\n\n\"La beauté, la douceur, la fragilité du monde sont mes sources éternelles d’inspiration. J’aime le travail sur la lumière et la matière. Le blanc des ours sur le blanc de la neige, le pelage d’une panthère noir dans la nuit… Le noir et blanc permet de se recentrer sur l’essentiel et favorise le jeu des matières.\"\n\n+2 Séances de dédicaces\_en exclusivité de \"A\\_\\_ by Kaziras\"\_ tome II dédié au guépard, léopard et panthère noire.\nSamedi\_30\_Novembre 15:00 & Dimanche\_1er\_Décembre 15:00\n"
 ---
 
