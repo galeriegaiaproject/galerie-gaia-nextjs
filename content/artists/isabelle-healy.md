@@ -10,12 +10,10 @@ fields:
 styles:
   - Figuratif
 expose: true
-work: content/works/healy-isabelle-point-dequilibre.md
+work: content/works/healy-isabelle-notre-heritage.md
 works:
-  - work: content/works/healy-isabelle-point-dequilibre.md
   - work: content/works/healy-isabelle-la-sphere-des-possibles.md
   - work: content/works/healy-isabelle-anouck.md
-  - work: content/works/healy-isabelle-detail-de-point-dequilibre.md
   - work: content/works/healy-isabelle-fondation.md
   - work: content/works/healy-isabelle-les-albatros.md
   - work: content/works/healy-isabelle-notre-heritage-en-situation.md
