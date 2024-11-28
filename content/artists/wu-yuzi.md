@@ -7,6 +7,7 @@ styles:
 expose: true
 work: content/works/wu-yuzimd-you-dont-know.md
 works:
+  - work: content/works/wu-yuzimd-le-slow.md
   - work: content/works/wu-yuzimd-silence.md
   - work: content/works/wu-yuzimd-prince-of-artic.md
   - work: content/works/wu-yuzimd-soul-of-artic.md
