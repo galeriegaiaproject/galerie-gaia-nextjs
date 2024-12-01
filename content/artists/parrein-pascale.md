@@ -14,9 +14,8 @@ styles:
   - Abstrait
   - Figuratif
 expose: true
-work: content/works/parrein-pascale-impacts-vi.md
+work: content/works/parrein-pascale-cellules-xi.md
 works:
-  - work: content/works/parrein-pascale-cellules-ix.md
   - work: content/works/parrein-pascale-cellules-xi.md
   - work: content/works/parrein-pascale-impacts-v.md
   - work: content/works/parrein-pascale-impacts-vi.md
