@@ -2072,6 +2072,14 @@ articles:
       https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/caer-anthony/galerie-gaia-caer-anthonyGLAZ
       IX - 84x84.jpg
     content: "La série Glaz d’Anthony CAER nous plonge dans les piscines d’eau de mer de Bretagne, que certains nomment «\_piscines naturelles\_»\_!\n\nL'artiste photographe Anthony CAER joue de cette illusion en dévoilant plus ou moins explicitement ces architectures de béton souvent anguleuses qui disparaissent à chaque marée. Jusqu’à l’absurde avec un plongeoir qui n’est plus qu’une illusion au milieu de l’océan.\n\nGlaz c'est une série de photos épurées presque picturales comme la Galerie Gaïa aime les sélectionner pour la Quinzaine Photographique Nantaise.\n\n**Vernissage vendredi 18/10 18:00 Exposition du 17 au 31 Octobre**\n\nLe thème de la 28ème Edition de la QPN est ILLUSION : Voilà presque deux siècles que la photographie nous accompagne en nous permettant d’enregistrer des images fidèles à la réalité. Une fidélité qu’il faut cependant relativiser car des pionniers de la photographie jusqu’aux pratiques les plus contemporaines permises par les technologies du numérique, les photographes jouent souvent les faussaires. L’illusion est dans l’image, jouant de notre confiance, parfois de notre crédulité. Sous différents atours, la tromperie s’immisce dans le document, un monde d’artifices à la fois séduisant et inquiétant.\n"
+  - title: Exposition Kyriakos Kazyras
+    date: 2024-11-27T23:00:00.000Z
+    categories:
+      - Exposition
+    image: >-
+      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/wu
+      yuzi/galerie-gaia-kaziras-kyriakos-YOU DON'T KNOW C64R6390.jpg
+    content: "KYRIAKOS KAZYRAS \\\nPHOTOGRAPHIE ARTISTIQUE ANIMALIÈRE\n==================================\n\nExposition exceptionnelle sur 4 Jours\nJeudi 28 Novembre au Dimanche 1er Décembre\n\nVERNISSAGE Jeudi\_28\_Novembre 18:00\n\nExposition exceptionnelle du photographe franco-grec et nantais Kyriakos Kaziras.\nTriple lauréat de reFocus Awards 2024.\n\n\"La beauté, la douceur, la fragilité du monde sont mes sources éternelles d’inspiration. J’aime le travail sur la lumière et la matière. Le blanc des ours sur le blanc de la neige, le pelage d’une panthère noir dans la nuit… Le noir et blanc permet de se recentrer sur l’essentiel et favorise le jeu des matières.\"\n\n+2 Séances de dédicaces\_en exclusivité de \"A\\_\\_ by Kaziras\"\_ tome II dédié au guépard, léopard et panthère noire.\nSamedi\_30\_Novembre 15:00 & Dimanche\_1er\_Décembre 15:00\n"
   - title: PUNCH LINES
     date: 2024-11-13T23:00:00.000Z
     categories:
@@ -2133,13 +2141,5 @@ articles:
 
 
       Nouvelles collaborations : KYRIAKOS KAZIRAS & MANON PELLAN
-  - title: Exposition Kyriakos Kazyras
-    date: 2024-11-27T23:00:00.000Z
-    categories:
-      - Exposition
-    image: >-
-      https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/wu
-      yuzi/galerie-gaia-kaziras-kyriakos-YOU DON'T KNOW C64R6390.jpg
-    content: "KYRIAKOS KAZYRAS \\\nPHOTOGRAPHIE ARTISTIQUE ANIMALIÈRE\n==================================\n\nExposition exceptionnelle sur 4 Jours\nJeudi 28 Novembre au Dimanche 1er Décembre\n\nVERNISSAGE Jeudi\_28\_Novembre 18:00\n\nExposition exceptionnelle du photographe franco-grec et nantais Kyriakos Kaziras.\nTriple lauréat de reFocus Awards 2024.\n\n\"La beauté, la douceur, la fragilité du monde sont mes sources éternelles d’inspiration. J’aime le travail sur la lumière et la matière. Le blanc des ours sur le blanc de la neige, le pelage d’une panthère noir dans la nuit… Le noir et blanc permet de se recentrer sur l’essentiel et favorise le jeu des matières.\"\n\n+2 Séances de dédicaces\_en exclusivité de \"A\\_\\_ by Kaziras\"\_ tome II dédié au guépard, léopard et panthère noire.\nSamedi\_30\_Novembre 15:00 & Dimanche\_1er\_Décembre 15:00\n"
 ---
 
