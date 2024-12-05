@@ -12,6 +12,7 @@ styles:
 expose: true
 work: content/works/kazy-usclefmd-sans-titre-chien.md
 works:
+  - work: content/works/kazy-usclefmd-femme-toile-en-situation-sur-mur-bleu.md
   - work: content/works/kazy-usclefmd-femme-papier.md
   - work: content/works/kazy-usclefmd-femme-toile.md
   - work: content/works/kazy-usclefmd-sans-titre-chien.md
