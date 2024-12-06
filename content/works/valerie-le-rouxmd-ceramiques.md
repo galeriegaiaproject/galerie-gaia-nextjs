@@ -8,6 +8,6 @@ technique: 'Céramiques '
 contextual: false
 ---
 
-# Valérie Le Roux 
+# Valérie Le Roux
 
-Mai 2024 Nouvelle sélection de céramiques à partir de 110€ . Visuel disponible sur demande 
+Décembre 2024 Nouvelle sélection de céramiques à partir de 110€ . Bouteilles, vases, plats. Visuels disponibles sur demande 
