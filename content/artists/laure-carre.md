@@ -32,7 +32,6 @@ works:
   - work: content/works/laure-carremd-pas-de-deux.md
   - work: content/works/laure-carremd-petit-salon.md
   - work: content/works/laure-carremd-la-salle-de-danse.md
-  - work: content/works/laure-carremd-cheval-en-tete.md
   - work: content/works/carre-laure-blue-boxer.md
   - work: content/works/carre-laure-dog-woman.md
   - work: content/works/carre-laure-reve-de-cheval.md
