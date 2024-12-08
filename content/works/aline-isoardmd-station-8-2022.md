@@ -5,7 +5,7 @@ image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/isoard-aline/station
   8-2022   60x60galerie-gaia-isoard-aline-.jpg
 artist: content/artists/aline-isoard.md
-price: 1200
+price: 800
 technique: Photographie dépigmentée Pièce unique
 contextual: true
 dimensions:
