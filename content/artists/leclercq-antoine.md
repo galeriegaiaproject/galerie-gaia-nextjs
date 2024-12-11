@@ -17,6 +17,8 @@ styles:
 expose: true
 work: content/works/leclercq-antoinemd-shelter.md
 works:
+  - work: content/works/leclercq-antoinemd-totem.md
+  - work: content/works/leclercq-antoinemd-ecailles-de-perroquet.md
   - work: content/works/leclercq-antoinemd-shelter.md
   - work: content/works/leclercq-antoinemd-portfolio-projet-antoine-leclercq.md
   - work: content/works/leclercq-antoinemd-yoga-en-situation.md
