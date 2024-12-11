@@ -11,6 +11,10 @@ styles:
 expose: true
 work: content/works/roubichou-dimitri-iris.md
 works:
+  - work: content/works/dimitri-roubichoumd-ila.md
+  - work: content/works/dimitri-roubichoumd-kosai-bleu.md
+  - work: content/works/dimitri-roubichoumd-kosai-mauve.md
+  - work: content/works/dimitri-roubichoumd-pur.md
   - work: content/works/roubichou-dimitri-iris.md
   - work: content/works/roubichou-dimitri-acate.md
   - work: content/works/roubichou-dimitri-akemi.md
