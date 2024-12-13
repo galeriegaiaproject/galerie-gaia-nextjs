@@ -1,5 +1,14 @@
 ---
 template: about
+index: 0
+seo:
+  title: >-
+    Galerie Gaïa Studio   les engagements de l'équipe conception de projet
+    artistique
+  heading: Le Studio
+  type: website
+  description: ' événementiel accompagnement conception de projet artistique, 1 immeuble 1 œuvre , oeuvre promotion immobilière, RSE, marque employeur Ruptur'
+  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC_3559-2.jpg'
 content:
   - column: >
       # Elisabeth Givre
@@ -112,46 +121,5 @@ content:
       médiation pertinente, simple et adaptée fait partie de chaque projet.
     contact:
       placeholder: Un message à nous adresser ?
-  - column: >
-      # Inès Ben Brahim
-
-
-      Adjointe
-
-
-      Diplômée en histoire de l'art, j’ai mené des missions de médiation, de
-      coordination et de développement de projets artistiques durant 15 ans.
-
-
-      J’ai donc travaillé pour des structures différentes comme la biennale
-      d’art contemporain Estuaire Nantes Saint-Nazaire, Tripode, le Centre
-      Pompidou et le Louvre.
-
-
-      Ma mission pour Galerie Gaïa Studio est de continuer à accompagner les
-      artistes, les institutions et les entreprises à penser et produire un
-      projet artistique, suivi de chantier inclus.
-
-
-      ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/ines-ben-brahim-galerie-gaia-studio-nb.jpg)
-
-
-      crédit photo [Dimitri
-      Roubichou](https://galeriegaia.fr/artists/dimitri-roubichou/ "dimitri
-      roubichou ")
-    contact:
-      placeholder: Prendre contact avec notre équipe
-seo:
-  title: >-
-    Galerie Gaïa Studio   les engagements de l'équipe conception de projet
-    artistique
-  heading: Le Studio
-  type: website
-  description: ' événementiel accompagnement conception de projet artistique, 1 immeuble 1 œuvre , oeuvre promotion immobilière, RSE, marque employeur Ruptur'
-  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC_3559-2.jpg'
-index: 0
 ---
-
-
-
 
