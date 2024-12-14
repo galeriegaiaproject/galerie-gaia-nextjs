@@ -13,4 +13,4 @@ dimensions:
   depth: 10
 ---
 
-Cette sculpture est destinée pour l'intérieur. Elle est disponible en plus grand format en acier Corten pour l'extérieur. 
+Cette sculpture est vendue. Elle est disponible sur commande sur ce format ou en plus grand format en acier Corten pour l'extérieur.
