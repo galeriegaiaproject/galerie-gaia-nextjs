@@ -15,9 +15,10 @@ fields:
 styles:
   - Abstrait
 expose: true
-work: content/works/brigitte-marionneaumd-contenir-le-vent-10-iv.md
+work: content/works/brigitte-marionneaumd-camera-obscura-9.md
 works:
-  - work: content/works/brigitte-marionneaumd-contenir-le-vent-10-iv.md
+  - work: content/works/brigitte-marionneaumd-camera-obscura-9.md
+  - work: content/works/brigitte-marionneaumd-contenir-le-vent-12-xv.md
   - work: content/works/brigitte-marionneaumd-contenir-le-vent-serie-6-vii.md
   - work: content/works/brigitte-marionneaumd-contenir-le-vent-8-xi-7-xi.md
   - work: content/works/marionneau-brigitte-le-geste.md
