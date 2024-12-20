@@ -7,7 +7,7 @@ image: >-
 artist: content/artists/brigitte-marionneau.md
 price: 4400
 technique: Céramique terre enfumée
-contextual: true
+contextual: false
 dimensions:
   height: 40
   width: 38
