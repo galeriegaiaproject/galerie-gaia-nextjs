@@ -5,7 +5,7 @@ image: >-
   https://galerie-gaia.s3.eu-west-3.amazonaws.com/tina/uploads/caer-anthony/galerie-gaia-caer-anthonyGLAZ
   IX - 84x84.jpg
 artist: content/artists/caer-anthony.md
-price: 1300
+price: 1400
 technique: Photographie tirage papier Edition en 10 exemplaires
 contextual: true
 dimensions:
@@ -13,3 +13,4 @@ dimensions:
   width: 84
 ---
 
+Tirage disponible N°7/10
