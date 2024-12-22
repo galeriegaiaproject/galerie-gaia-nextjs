@@ -41,9 +41,7 @@ works:
   - work: content/works/toma-l-bonne-pierre-bon-oeil-02-noir.md
   - work: content/works/toma-l-stone-age-03.md
   - work: content/works/toma-l-stone-age-16.md
-  - work: content/works/toma-l-bonne-pierre-bon-oeil-01.md
   - work: content/works/toma-l-projet-vas-y.md
-  - work: content/works/toma-l-bonne-pierre-bon-oeil-14-bleu-and-noir.md
 exhibitions:
   - title: Rétro-Crade
     location: Nantes Galerie Gaïa
