@@ -13,6 +13,8 @@ const SEO = ({ title, description, type, url, image, metadata }) => (
     <NextSeo
       title={title}
       description={description}
+      noindex={true}
+      nofollow={true}
       openGraph={{
         title,
         description,
